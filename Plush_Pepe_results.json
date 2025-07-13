@@ -23,26 +23,6 @@
   ],
   "Stripes": [
     {
-      "gift_num": 1129,
-      "customEmojiId": "5424892691005595203",
-      "gift_id": 7092184,
-      "name": "Plush Pepe",
-      "model": "Stripes (2%)",
-      "asset": "TON",
-      "symbol": "Wreath (0.4%)",
-      "backdrop": "English Violet (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 897860,
-      "price": 7900,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-22T21:28:54.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 965,
       "customEmojiId": "5424892691005595203",
       "gift_id": 7133006,
@@ -54,12 +34,160 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 897836,
-      "price": 8000,
+      "message_in_channel": 900838,
+      "price": 7100,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T15:10:32.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 1129,
+      "customEmojiId": "5424892691005595203",
+      "gift_id": 7092184,
+      "name": "Plush Pepe",
+      "model": "Stripes (2%)",
+      "asset": "TON",
+      "symbol": "Wreath (0.4%)",
+      "backdrop": "English Violet (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 898923,
+      "price": 7830,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-22T21:28:54.000Z",
+      "premarketData": {}
+    }
+  ],
+  "Sketchy": [
+    {
+      "gift_num": 213,
+      "customEmojiId": "5422563216708365247",
+      "gift_id": 7095574,
+      "name": "Plush Pepe",
+      "model": "Sketchy (2%)",
+      "asset": "TON",
+      "symbol": "Shell (0.3%)",
+      "backdrop": "Hunter Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 891014,
+      "price": 3999,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "7RAQ6LCP",
+      "auction": {
+        "_id": "68705f2334f36633468efb2e",
+        "gift_id": 7095574,
+        "seller": 0,
+        "auction_id": "7RAQ6LCP",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68705f5a34f36633468f3dc2",
+            "timestamp": "2025-07-11T00:48:26.754Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6870606834f366334690ce36",
+            "timestamp": "2025-07-11T00:52:56.152Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "6870609b34f3663346911558",
+            "timestamp": "2025-07-11T00:53:47.088Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "687061c834f366334692805d",
+            "timestamp": "2025-07-11T00:58:48.873Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.5,
+            "asset": "TON",
+            "_id": "687063ec34f366334694ea10",
+            "timestamp": "2025-07-11T01:07:56.819Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 1000,
+            "asset": "TON",
+            "_id": "68706f9934f366334698b002",
+            "timestamp": "2025-07-11T01:57:45.219Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 1050,
+            "asset": "TON",
+            "_id": "6870aff334f36633461311d0",
+            "timestamp": "2025-07-11T06:32:19.932Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3410,
+            "asset": "TON",
+            "_id": "687195898938e518f14c88c1",
+            "timestamp": "2025-07-11T22:51:53.869Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3999,
+            "asset": "TON",
+            "_id": "6871a8db8938e518f1a2ab31",
+            "timestamp": "2025-07-12T00:14:19.204Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-12T00:47:29.422Z",
+        "status": "finished",
+        "gift_name": "Plush Pepe",
+        "gift_num": 213,
+        "model": "Sketchy (2%)",
+        "backdrop": "Hunter Green (1.5%)",
+        "symbol": "Shell (0.3%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-11T00:47:31.921Z",
+        "__v": 0,
+        "winningBid": 3999,
+        "winningBidder": 421579111
+      },
+      "export_at": "2025-07-23T02:40:46.000Z",
+      "premarketData": {}
+    }
+  ],
+  "Christmas": [
+    {
+      "gift_num": 2660,
+      "customEmojiId": "5422343627915422286",
+      "gift_id": 7165325,
+      "name": "Plush Pepe",
+      "model": "Christmas (2%)",
+      "asset": "TON",
+      "symbol": "Spanner (0.5%)",
+      "backdrop": "Amber (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 897939,
+      "price": 7200,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-25T21:22:18.000Z",
       "premarketData": {}
     }
   ],
@@ -120,8 +248,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 892240,
-      "price": 9000,
+      "message_in_channel": 901047,
+      "price": 6500,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -173,6 +301,28 @@
       "premarketData": {}
     }
   ],
+  "Barcelona": [
+    {
+      "gift_num": 1485,
+      "customEmojiId": "5422334926311681026",
+      "gift_id": 7192655,
+      "name": "Plush Pepe",
+      "model": "Barcelona (2%)",
+      "asset": "TON",
+      "symbol": "Paw (0.2%)",
+      "backdrop": "Aquamarine (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 901401,
+      "price": 4133,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T11:27:03.000Z",
+      "premarketData": {}
+    }
+  ],
   "Poison Dart": [
     {
       "gift_num": 1201,
@@ -215,25 +365,25 @@
       "premarketData": {}
     }
   ],
-  "Pink Latex": [
+  "Pink Galaxy": [
     {
-      "gift_num": 100,
-      "customEmojiId": "5424842693291300942",
-      "gift_id": 6772686,
+      "gift_num": 1522,
+      "customEmojiId": "5424760337293402339",
+      "gift_id": 7190709,
       "name": "Plush Pepe",
-      "model": "Pink Latex (2%)",
+      "model": "Pink Galaxy (2%)",
       "asset": "TON",
-      "symbol": "Cherry (0.3%)",
-      "backdrop": "Electric Purple (2%)",
+      "symbol": "Avocado (0.3%)",
+      "backdrop": "Navy Blue (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 893320,
-      "price": 15000,
+      "message_in_channel": 901168,
+      "price": 8200,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-10T10:30:34.000Z",
+      "export_at": "2025-07-27T09:32:52.000Z",
       "premarketData": {}
     }
   ],
