@@ -2498,6 +2498,26 @@
   ],
   "Cortado": [
     {
+      "gift_num": 12758,
+      "customEmojiId": "5287606256117246036",
+      "gift_id": 7201963,
+      "name": "Loot Bag",
+      "model": "Cortado (2%)",
+      "asset": "TON",
+      "symbol": "Ghost (0.4%)",
+      "backdrop": "Carrot Juice (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 125,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T19:48:06.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5191,
       "customEmojiId": "5287606256117246036",
       "gift_id": 6539438,
@@ -3765,6 +3785,26 @@
     }
   ],
   "Burgun Bag": [
+    {
+      "gift_num": 838,
+      "customEmojiId": "5285004339159525537",
+      "gift_id": 7204279,
+      "name": "Loot Bag",
+      "model": "Burgun Bag (2%)",
+      "asset": "TON",
+      "symbol": "Porrige (0.5%)",
+      "backdrop": "Electric Indigo (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 105,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T21:55:58.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2644,
       "customEmojiId": "5285004339159525537",
@@ -5358,6 +5398,26 @@
   ],
   "Aero Swift": [
     {
+      "gift_num": 14103,
+      "customEmojiId": "5292069556066478287",
+      "gift_id": 7204109,
+      "name": "Loot Bag",
+      "model": "Aero Swift (1.5%)",
+      "asset": "TON",
+      "symbol": "Doghouse (0.5%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 902930,
+      "price": 190,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T21:42:58.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 9899,
       "customEmojiId": "5292069556066478287",
       "gift_id": 7192607,
@@ -5820,6 +5880,138 @@
       "premarketData": {}
     },
     {
+      "gift_num": 14120,
+      "customEmojiId": "5287651434878230617",
+      "gift_id": 6667914,
+      "name": "Loot Bag",
+      "model": "Sunset Stripes (1.5%)",
+      "asset": "TON",
+      "symbol": "Twin Peaks (0.4%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 846382,
+      "price": 153,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "XIEABG8B",
+      "auction": {
+        "_id": "68740f908938e518f1170320",
+        "gift_id": 6667914,
+        "seller": 0,
+        "auction_id": "XIEABG8B",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6874100e8938e518f11732b8",
+            "timestamp": "2025-07-13T19:59:10.174Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4,
+            "asset": "TON",
+            "_id": "687410e98938e518f11792d3",
+            "timestamp": "2025-07-13T20:02:49.425Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7,
+            "asset": "TON",
+            "_id": "687412a18938e518f1191026",
+            "timestamp": "2025-07-13T20:10:09.917Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.35,
+            "asset": "TON",
+            "_id": "6874130b8938e518f1194ea0",
+            "timestamp": "2025-07-13T20:11:55.041Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.77,
+            "asset": "TON",
+            "_id": "687413f58938e518f11a2fa5",
+            "timestamp": "2025-07-13T20:15:49.622Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.16,
+            "asset": "TON",
+            "_id": "6874140d8938e518f11a4189",
+            "timestamp": "2025-07-13T20:16:13.550Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.57,
+            "asset": "TON",
+            "_id": "687414738938e518f11a7d9d",
+            "timestamp": "2025-07-13T20:17:55.328Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9,
+            "asset": "TON",
+            "_id": "687414808938e518f11a86d1",
+            "timestamp": "2025-07-13T20:18:08.297Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 111.69,
+            "asset": "TON",
+            "_id": "687414e38938e518f11b1162",
+            "timestamp": "2025-07-13T20:19:47.269Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 120,
+            "asset": "TON",
+            "_id": "68741b888938e518f123eb8d",
+            "timestamp": "2025-07-13T20:48:08.014Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 126,
+            "asset": "TON",
+            "_id": "68741bbb8938e518f12440c6",
+            "timestamp": "2025-07-13T20:48:59.724Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 132.3,
+            "asset": "TON",
+            "_id": "68741bce8938e518f1245e98",
+            "timestamp": "2025-07-13T20:49:18.647Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 153,
+            "asset": "TON",
+            "_id": "68741d5b8938e518f127645b",
+            "timestamp": "2025-07-13T20:55:55.920Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-13T21:07:02.419Z",
+        "status": "finished",
+        "gift_name": "Loot Bag",
+        "gift_num": 14120,
+        "model": "Sunset Stripes (1.5%)",
+        "backdrop": "Onyx Black (1.5%)",
+        "symbol": "Twin Peaks (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-13T19:57:04.052Z",
+        "__v": 0,
+        "winningBid": 153,
+        "winningBidder": 7080957786
+      },
+      "export_at": "2025-07-05T21:15:22.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2704,
       "customEmojiId": "5287651434878230617",
       "gift_id": 4659780,
@@ -6201,6 +6393,24 @@
     }
   ],
   "Night City": [
+    {
+      "gift_num": 9378,
+      "customEmojiId": "5291752501580688380",
+      "gift_id": 587528400700,
+      "name": "Loot Bag",
+      "model": "Night City (1%)",
+      "asset": "TON",
+      "symbol": "Spanner (0.4%)",
+      "backdrop": "Copper (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 6968,
       "customEmojiId": "5291752501580688380",
@@ -6994,7 +7204,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 118.5,
+      "price": 116.8,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -7341,6 +7551,24 @@
     }
   ],
   "Matte Mint": [
+    {
+      "gift_num": 2448,
+      "customEmojiId": "5284982632394812967",
+      "gift_id": 587049654439,
+      "name": "Loot Bag",
+      "model": "Matte Mint (2%)",
+      "asset": "TON",
+      "symbol": "Lovely Kiss (0.4%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 523.26,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 930,
       "customEmojiId": "5284982632394812967",
@@ -11067,6 +11295,26 @@
     }
   ],
   "Secret Toys": [
+    {
+      "gift_num": 1986,
+      "customEmojiId": "5289940394748961588",
+      "gift_id": 7200280,
+      "name": "Loot Bag",
+      "model": "Secret Toys (0.5%)",
+      "asset": "TON",
+      "symbol": "Anubis (0.5%)",
+      "backdrop": "Carrot Juice (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 902960,
+      "price": 320,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T18:27:24.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 1922,
       "customEmojiId": "5289940394748961588",
@@ -17128,6 +17376,26 @@
     }
   ],
   "Zip Pocket": [
+    {
+      "gift_num": 12777,
+      "customEmojiId": "5287477072090915861",
+      "gift_id": 7201962,
+      "name": "Loot Bag",
+      "model": "Zip Pocket (2%)",
+      "asset": "TON",
+      "symbol": "Unicorn (0.5%)",
+      "backdrop": "Satin Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 130,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T19:48:01.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 10010,
       "customEmojiId": "5287477072090915861",
