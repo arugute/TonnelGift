@@ -716,7 +716,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 103,
+      "price": 100,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -2687,26 +2687,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 2462,
-      "customEmojiId": "5422572364988700508",
-      "gift_id": 7092503,
-      "name": "Ion Gem",
-      "model": "Gold Gram (2%)",
-      "asset": "TON",
-      "symbol": "Mannaz Rune (0.5%)",
-      "backdrop": "Copper (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 145,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-22T21:45:47.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2320,
       "customEmojiId": "5422572364988700508",
       "gift_id": 6839678,
@@ -3452,6 +3432,24 @@
     }
   ],
   "Obsidian": [
+    {
+      "gift_num": 125,
+      "customEmojiId": "5395618967010174223",
+      "gift_id": 584166856499,
+      "name": "Ion Gem",
+      "model": "Obsidian (2%)",
+      "asset": "TON",
+      "symbol": "Polar Bear (0.4%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 152.572,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 3888,
       "customEmojiId": "5395618967010174223",
@@ -4821,6 +4819,26 @@
   ],
   "Live Wire": [
     {
+      "gift_num": 2017,
+      "customEmojiId": "5226463608497532507",
+      "gift_id": 7196040,
+      "name": "Ion Gem",
+      "model": "Live Wire (2%)",
+      "asset": "TON",
+      "symbol": "Fish (0.5%)",
+      "backdrop": "Amber (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 901776,
+      "price": 700,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T14:24:36.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1759,
       "customEmojiId": "5226463608497532507",
       "gift_id": 7078540,
@@ -4918,6 +4936,26 @@
     }
   ],
   "Honey Gold": [
+    {
+      "gift_num": 1196,
+      "customEmojiId": "5395768736814751033",
+      "gift_id": 7085476,
+      "name": "Ion Gem",
+      "model": "Honey Gold (3%)",
+      "asset": "TON",
+      "symbol": "Trophy (0.5%)",
+      "backdrop": "Pure Gold (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 901897,
+      "price": 175,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-22T16:23:27.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 328,
       "customEmojiId": "5395768736814751033",
@@ -5827,6 +5865,172 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-12T23:20:48.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 4263,
+      "customEmojiId": "5400066800782172167",
+      "gift_id": 7194357,
+      "name": "Ion Gem",
+      "model": "Sugilite (2%)",
+      "asset": "TON",
+      "symbol": "Clover (0.4%)",
+      "backdrop": "Emerald (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 81.3,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "LJXDCVUJ",
+      "auction": {
+        "_id": "6873afe28938e518f1e1a092",
+        "gift_id": 7194357,
+        "seller": 0,
+        "auction_id": "LJXDCVUJ",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6873b18f8938e518f1e2763d",
+            "timestamp": "2025-07-13T13:15:59.440Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6873b46b8938e518f1e3b074",
+            "timestamp": "2025-07-13T13:28:11.444Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3,
+            "asset": "TON",
+            "_id": "6873b47d8938e518f1e3b889",
+            "timestamp": "2025-07-13T13:28:29.060Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.15,
+            "asset": "TON",
+            "_id": "6873b4a58938e518f1e3be55",
+            "timestamp": "2025-07-13T13:29:09.906Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4,
+            "asset": "TON",
+            "_id": "6873b4d48938e518f1e3c9fb",
+            "timestamp": "2025-07-13T13:29:56.253Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.2,
+            "asset": "TON",
+            "_id": "6873b58f8938e518f1e418c4",
+            "timestamp": "2025-07-13T13:33:03.444Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.41,
+            "asset": "TON",
+            "_id": "6873b59c8938e518f1e41edf",
+            "timestamp": "2025-07-13T13:33:16.794Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.63,
+            "asset": "TON",
+            "_id": "6873b60a8938e518f1e452a1",
+            "timestamp": "2025-07-13T13:35:06.045Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.86,
+            "asset": "TON",
+            "_id": "6873b61f8938e518f1e460e5",
+            "timestamp": "2025-07-13T13:35:27.144Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.1,
+            "asset": "TON",
+            "_id": "6873b7458938e518f1e4f834",
+            "timestamp": "2025-07-13T13:40:21.378Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.36,
+            "asset": "TON",
+            "_id": "6873b7598938e518f1e4ff7c",
+            "timestamp": "2025-07-13T13:40:41.415Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.63,
+            "asset": "TON",
+            "_id": "6873b7878938e518f1e5258a",
+            "timestamp": "2025-07-13T13:41:27.012Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.91,
+            "asset": "TON",
+            "_id": "6873b7958938e518f1e52ebd",
+            "timestamp": "2025-07-13T13:41:41.538Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.21,
+            "asset": "TON",
+            "_id": "6873b7aa8938e518f1e53f76",
+            "timestamp": "2025-07-13T13:42:02.438Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.52,
+            "asset": "TON",
+            "_id": "6873b7b98938e518f1e54645",
+            "timestamp": "2025-07-13T13:42:17.012Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.85,
+            "asset": "TON",
+            "_id": "6873b7d88938e518f1e553a0",
+            "timestamp": "2025-07-13T13:42:48.961Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 75,
+            "asset": "TON",
+            "_id": "6873b7e58938e518f1e55b82",
+            "timestamp": "2025-07-13T13:43:01.709Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 81.3,
+            "asset": "TON",
+            "_id": "6873b8718938e518f1e5a566",
+            "timestamp": "2025-07-13T13:45:21.044Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-13T14:08:50.221Z",
+        "status": "finished",
+        "gift_name": "Ion Gem",
+        "gift_num": 4263,
+        "model": "Sugilite (2%)",
+        "backdrop": "Emerald (1.5%)",
+        "symbol": "Clover (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-13T13:08:50.920Z",
+        "__v": 0,
+        "winningBid": 81.3,
+        "winningBidder": 6916986054
+      },
+      "export_at": "2025-07-27T13:05:16.000Z",
       "premarketData": {}
     }
   ],
