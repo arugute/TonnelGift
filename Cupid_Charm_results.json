@@ -1133,6 +1133,26 @@
   ],
   "Sorceress": [
     {
+      "gift_num": 2997,
+      "customEmojiId": "5352652719771382311",
+      "gift_id": 297901664789,
+      "name": "Cupid Charm",
+      "model": "Sorceress (1%)",
+      "asset": "TON",
+      "symbol": "Boat (0.7%)",
+      "backdrop": "Moonstone (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 25,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 2018,
       "customEmojiId": "5352652719771382311",
       "gift_id": 378306218933,
@@ -1145,26 +1165,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 28.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2997,
-      "customEmojiId": "5352652719771382311",
-      "gift_id": 297901664789,
-      "name": "Cupid Charm",
-      "model": "Sorceress (1%)",
-      "asset": "TON",
-      "symbol": "Boat (0.7%)",
-      "backdrop": "Moonstone (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 33,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -2039,26 +2039,6 @@
   ],
   "Snow Queen": [
     {
-      "gift_num": 15962,
-      "customEmojiId": "5344041336112705410",
-      "gift_id": 87109981651,
-      "name": "Cupid Charm",
-      "model": "Snow Queen (2.5%)",
-      "asset": "TON",
-      "symbol": "Pixel Heart (0.7%)",
-      "backdrop": "Electric Indigo (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 19,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
       "gift_num": 17059,
       "customEmojiId": "5344041336112705410",
       "gift_id": 305620512039,
@@ -2830,32 +2810,6 @@
     }
   ],
   "Pink Glass": [
-    {
-      "gift_num": 15133,
-      "customEmojiId": "5343852915897429540",
-      "gift_id": 632495282398,
-      "name": "Cupid Charm",
-      "model": "Pink Glass (3%)",
-      "asset": "TON",
-      "symbol": "Sakura (0.5%)",
-      "backdrop": "Mystic Pearl (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 18.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 2.8000000000000003,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 14.84,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T18:17:57.534Z"
-      }
-    },
     {
       "gift_num": 5579,
       "customEmojiId": "5343852915897429540",
@@ -4234,6 +4188,26 @@
     }
   ],
   "Cursed Room": [
+    {
+      "gift_num": 13706,
+      "customEmojiId": "5345844058440887649",
+      "gift_id": 382312453296,
+      "name": "Cupid Charm",
+      "model": "Cursed Room (1.5%)",
+      "asset": "TON",
+      "symbol": "Broken Heart (0.7%)",
+      "backdrop": "Feldgrau (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 22.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
     {
       "gift_num": 9811,
       "customEmojiId": "5345844058440887649",
@@ -5795,6 +5769,32 @@
   ],
   "Dryad Heart": [
     {
+      "gift_num": 4655,
+      "customEmojiId": "5344049659759325753",
+      "gift_id": 879795546466,
+      "name": "Cupid Charm",
+      "model": "Dryad Heart (0.5%)",
+      "asset": "TON",
+      "symbol": "Iris (0.5%)",
+      "backdrop": "Ranger Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 72.55,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 7.998000000000001,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 42.3894,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-03T13:14:03.070Z"
+      }
+    },
+    {
       "gift_num": 5788,
       "customEmojiId": "5344049659759325753",
       "gift_id": 591241181749,
@@ -6204,6 +6204,26 @@
     }
   ],
   "Ruby Red": [
+    {
+      "gift_num": 13690,
+      "customEmojiId": "5345778654678906543",
+      "gift_id": 366694147547,
+      "name": "Cupid Charm",
+      "model": "Ruby Red (2.5%)",
+      "asset": "TON",
+      "symbol": "Cash (0.7%)",
+      "backdrop": "Purple (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 12.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
     {
       "gift_num": 212,
       "customEmojiId": "5345778654678906543",
@@ -6747,26 +6767,6 @@
   ],
   "Ice Glass": [
     {
-      "gift_num": 22580,
-      "customEmojiId": "5345964094186878280",
-      "gift_id": 322638217592,
-      "name": "Cupid Charm",
-      "model": "Ice Glass (0.5%)",
-      "asset": "TON",
-      "symbol": "Gold (0.7%)",
-      "backdrop": "Jade Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
       "gift_num": 2694,
       "customEmojiId": "5345964094186878280",
       "gift_id": 427665096898,
@@ -6808,26 +6808,6 @@
     }
   ],
   "Golden Grasp": [
-    {
-      "gift_num": 6956,
-      "customEmojiId": "5341320517280364702",
-      "gift_id": 841595991855,
-      "name": "Cupid Charm",
-      "model": "Golden Grasp (3%)",
-      "asset": "TON",
-      "symbol": "Propeller Cap (0.4%)",
-      "backdrop": "Seal Brown (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 9.99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
     {
       "gift_num": 23031,
       "customEmojiId": "5341320517280364702",
@@ -7665,26 +7645,6 @@
   ],
   "Cupid Pay": [
     {
-      "gift_num": 361,
-      "customEmojiId": "5424669533094833569",
-      "gift_id": 978799425487,
-      "name": "Cupid Charm",
-      "model": "Cupid Pay (2%)",
-      "asset": "TON",
-      "symbol": "Toy Bucket (0.7%)",
-      "backdrop": "Coral Red (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
       "gift_num": 22063,
       "customEmojiId": "5424669533094833569",
       "gift_id": 515844535251,
@@ -7912,6 +7872,26 @@
     }
   ],
   "Blood Gem": [
+    {
+      "gift_num": 3080,
+      "customEmojiId": "5343959654424673392",
+      "gift_id": 398652385950,
+      "name": "Cupid Charm",
+      "model": "Blood Gem (3%)",
+      "asset": "TON",
+      "symbol": "Jester Hat (0.4%)",
+      "backdrop": "Rosewood (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
     {
       "gift_num": 13057,
       "customEmojiId": "5343959654424673392",
@@ -8435,6 +8415,26 @@
   ],
   "Golden Lace": [
     {
+      "gift_num": 12193,
+      "customEmojiId": "5344062428697096635",
+      "gift_id": 53684553710,
+      "name": "Cupid Charm",
+      "model": "Golden Lace (1%)",
+      "asset": "TON",
+      "symbol": "Neko Mask (0.7%)",
+      "backdrop": "Navy Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 23,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 6131,
       "customEmojiId": "5344062428697096635",
       "gift_id": 402283439310,
@@ -8485,26 +8485,6 @@
         "premarketLastSaleAsset": "TON",
         "premarketExecutionDeadline": "2025-07-26T06:03:47.220Z"
       }
-    },
-    {
-      "gift_num": 12193,
-      "customEmojiId": "5344062428697096635",
-      "gift_id": 53684553710,
-      "name": "Cupid Charm",
-      "model": "Golden Lace (1%)",
-      "asset": "TON",
-      "symbol": "Neko Mask (0.7%)",
-      "backdrop": "Navy Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 25.99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
     },
     {
       "gift_num": 11500,
@@ -10713,6 +10693,26 @@
   ],
   "Web Locket": [
     {
+      "gift_num": 793,
+      "customEmojiId": "5418313973634197401",
+      "gift_id": 634797932427,
+      "name": "Cupid Charm",
+      "model": "Web Locket (2%)",
+      "asset": "TON",
+      "symbol": "Cone (0.7%)",
+      "backdrop": "Carrot Juice (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 13.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 2002,
       "customEmojiId": "5418313973634197401",
       "gift_id": 213831666999,
@@ -11000,6 +11000,26 @@
     }
   ],
   "Azure Gem": [
+    {
+      "gift_num": 11799,
+      "customEmojiId": "5345962801401724852",
+      "gift_id": 40133605984,
+      "name": "Cupid Charm",
+      "model": "Azure Gem (2.5%)",
+      "asset": "TON",
+      "symbol": "Fuchsia (0.7%)",
+      "backdrop": "Purple (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 13.55,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
     {
       "gift_num": 10237,
       "customEmojiId": "5345962801401724852",
@@ -11816,26 +11836,6 @@
     }
   ],
   "Antique": [
-    {
-      "gift_num": 9151,
-      "customEmojiId": "5350569553258640171",
-      "gift_id": 86537405494,
-      "name": "Cupid Charm",
-      "model": "Antique (0.5%)",
-      "asset": "TON",
-      "symbol": "Star (0.7%)",
-      "backdrop": "Shamrock Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 59,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
     {
       "gift_num": 18262,
       "customEmojiId": "5350569553258640171",
@@ -12892,26 +12892,6 @@
     }
   ],
   "Mistress": [
-    {
-      "gift_num": 4831,
-      "customEmojiId": "5348586004217364789",
-      "gift_id": 537043656051,
-      "name": "Cupid Charm",
-      "model": "Mistress (1.5%)",
-      "asset": "TON",
-      "symbol": "Pirate Scull (0.7%)",
-      "backdrop": "Ranger Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
     {
       "gift_num": 780,
       "customEmojiId": "5348586004217364789",
