@@ -564,6 +564,67 @@
       "auction": null,
       "export_at": "2025-07-07T23:45:19.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 2663,
+      "customEmojiId": "5404683156185967720",
+      "gift_id": 7178594,
+      "name": "Nail Bracelet",
+      "model": "Resistance (1.5%)",
+      "asset": "TON",
+      "symbol": "Rhino Warrior (0.2%)",
+      "backdrop": "Orange (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 220.5,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "NW2Q30I1",
+      "auction": {
+        "_id": "68727d438938e518f1fcfa5e",
+        "gift_id": 7178594,
+        "seller": 0,
+        "auction_id": "NW2Q30I1",
+        "startingBid": 200,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 200,
+            "asset": "TON",
+            "_id": "6873dda78938e518f19f04c2",
+            "timestamp": "2025-07-13T16:24:07.131Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 210,
+            "asset": "TON",
+            "_id": "6873e0788938e518f1ad95a2",
+            "timestamp": "2025-07-13T16:36:08.758Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 220.5,
+            "asset": "TON",
+            "_id": "6873e0d58938e518f1b5d785",
+            "timestamp": "2025-07-13T16:37:41.055Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-13T16:51:12.905Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 2663,
+        "model": "Resistance (1.5%)",
+        "backdrop": "Orange (1%)",
+        "symbol": "Rhino Warrior (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-13T15:51:14.006Z",
+        "__v": 0,
+        "winningBid": 220.5,
+        "winningBidder": 1216923257
+      },
+      "export_at": "2025-07-26T15:20:21.000Z",
+      "premarketData": {}
     }
   ],
   "Scorpio": [
@@ -2036,26 +2097,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-27T22:55:11.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4346,
-      "customEmojiId": "5418192902801092002",
-      "gift_id": 6716813,
-      "name": "Nail Bracelet",
-      "model": "Needle (2.5%)",
-      "asset": "TON",
-      "symbol": "Lion King (0.4%)",
-      "backdrop": "Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 897173,
-      "price": 850,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-07T21:02:04.000Z",
       "premarketData": {}
     },
     {
@@ -3821,6 +3862,26 @@
   ],
   "Jade Serpent": [
     {
+      "gift_num": 4505,
+      "customEmojiId": "5307682642655734361",
+      "gift_id": 7195038,
+      "name": "Nail Bracelet",
+      "model": "Jade Serpent (3%)",
+      "asset": "TON",
+      "symbol": "Bandage (0.4%)",
+      "backdrop": "Coral Red (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 135.99,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T13:38:21.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4126,
       "customEmojiId": "5307682642655734361",
       "gift_id": 7124652,
@@ -4450,6 +4511,26 @@
     }
   ],
   "Mario Pipe": [
+    {
+      "gift_num": 4327,
+      "customEmojiId": "5422657014499143620",
+      "gift_id": 7197581,
+      "name": "Nail Bracelet",
+      "model": "Mario Pipe (1.5%)",
+      "asset": "TON",
+      "symbol": "Police Badge (0.5%)",
+      "backdrop": "Copper (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 902040,
+      "price": 175,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T15:57:25.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3904,
       "customEmojiId": "5422657014499143620",
@@ -5384,6 +5465,27 @@
   ],
   "Monster Eye": [
     {
+      "gift_num": 4357,
+      "customEmojiId": "5422626095029580789",
+      "gift_id": 7186401,
+      "name": "Nail Bracelet",
+      "model": "Monster Eye (2%)",
+      "asset": "TON",
+      "symbol": "Oculus (0.4%)",
+      "backdrop": "Carmine (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 136,
+      "promoted": true,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T22:58:27.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 913,
       "customEmojiId": "5422626095029580789",
       "gift_id": 7195349,
@@ -5444,27 +5546,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 4357,
-      "customEmojiId": "5422626095029580789",
-      "gift_id": 7186401,
-      "name": "Nail Bracelet",
-      "model": "Monster Eye (2%)",
-      "asset": "TON",
-      "symbol": "Oculus (0.4%)",
-      "backdrop": "Carmine (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 900453,
-      "price": 150,
-      "promoted": true,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T22:58:27.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 3378,
       "customEmojiId": "5422626095029580789",
       "gift_id": 6362538,
@@ -5482,26 +5563,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-27T18:37:58.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4086,
-      "customEmojiId": "5422626095029580789",
-      "gift_id": 7140677,
-      "name": "Nail Bracelet",
-      "model": "Monster Eye (2%)",
-      "asset": "TON",
-      "symbol": "Elf Hat (0.5%)",
-      "backdrop": "Tactical Pine (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 140,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T19:45:26.000Z",
       "premarketData": {}
     },
     {
