@@ -16647,6 +16647,102 @@
       "auction": null,
       "export_at": "2025-03-26T01:59:22.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 12102,
+      "customEmojiId": "5400110858556693819",
+      "gift_id": 7194470,
+      "name": "Kissed Frog",
+      "model": "Duskhopper (2.5%)",
+      "asset": "TON",
+      "symbol": "Blossom (0.2%)",
+      "backdrop": "Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 37.08,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "N788DTPM",
+      "auction": {
+        "_id": "6873b0508938e518f1e1c119",
+        "gift_id": 7194470,
+        "seller": 0,
+        "auction_id": "N788DTPM",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6873b06e8938e518f1e1c9d8",
+            "timestamp": "2025-07-13T13:11:10.330Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11,
+            "asset": "TON",
+            "_id": "6873b27e8938e518f1e2e902",
+            "timestamp": "2025-07-13T13:19:58.899Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 25,
+            "asset": "TON",
+            "_id": "6873b5e88938e518f1e43891",
+            "timestamp": "2025-07-13T13:34:32.466Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 30.5,
+            "asset": "TON",
+            "_id": "6873b67b8938e518f1e4a90e",
+            "timestamp": "2025-07-13T13:36:59.540Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 32.03,
+            "asset": "TON",
+            "_id": "6873bb4e8938e518f1ee5581",
+            "timestamp": "2025-07-13T13:57:34.752Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 33.63,
+            "asset": "TON",
+            "_id": "6873bcae8938e518f1055c6d",
+            "timestamp": "2025-07-13T14:03:26.004Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 35.31,
+            "asset": "TON",
+            "_id": "6873c07e8938e518f12836dd",
+            "timestamp": "2025-07-13T14:19:42.624Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 37.08,
+            "asset": "TON",
+            "_id": "6873c0ab8938e518f1287a7b",
+            "timestamp": "2025-07-13T14:20:27.460Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-13T14:30:37.216Z",
+        "status": "finished",
+        "gift_name": "Kissed Frog",
+        "gift_num": 12102,
+        "model": "Duskhopper (2.5%)",
+        "backdrop": "Purple (2%)",
+        "symbol": "Blossom (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-13T13:10:40.360Z",
+        "__v": 0,
+        "winningBid": 37.08,
+        "winningBidder": 5913338420
+      },
+      "export_at": "2025-07-27T13:10:25.000Z",
+      "premarketData": {}
     }
   ],
   "Trixie": [
@@ -16668,27 +16764,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T14:20:34.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6818,
-      "customEmojiId": "5429466221290481288",
-      "gift_id": 5842610,
-      "name": "Kissed Frog",
-      "model": "Trixie (1%)",
-      "asset": "TON",
-      "symbol": "Blood Drop (0.8%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 820848,
-      "price": 1400,
-      "promoted": true,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-22T00:14:31.000Z",
       "premarketData": {}
     },
     {
@@ -17540,6 +17615,26 @@
     }
   ],
   "Prince Ribbit": [
+    {
+      "gift_num": 10263,
+      "customEmojiId": "5413344430184754556",
+      "gift_id": 7196678,
+      "name": "Kissed Frog",
+      "model": "Prince Ribbit (1.5%)",
+      "asset": "TON",
+      "symbol": "Love Lock (0.4%)",
+      "backdrop": "Carrot Juice (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 60,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T14:59:31.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 7898,
       "customEmojiId": "5413344430184754556",
