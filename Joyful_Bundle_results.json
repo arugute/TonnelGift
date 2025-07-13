@@ -827,6 +827,26 @@
   ],
   "Honey Bear": [
     {
+      "gift_num": 2078,
+      "customEmojiId": "5206440672827045148",
+      "gift_id": 893234007398,
+      "name": "Joyful Bundle",
+      "model": "Honey Bear (3%)",
+      "asset": "TON",
+      "symbol": "Lovely Key (0.7%)",
+      "backdrop": "Coral Red (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 8759,
       "customEmojiId": "5206440672827045148",
       "gift_id": 97619531851,
@@ -1460,13 +1480,19 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 12,
+      "price": 50,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "premarket": true,
       "premarketStage": 2,
-      "premarketData": {}
+      "premarketData": {
+        "premarketCollateralAmount": 2.4000000000000004,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 12.72,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-03T21:46:05.495Z"
+      }
     }
   ],
   "Axolotl Sven": [
@@ -2529,6 +2555,26 @@
   ],
   "Bronze": [
     {
+      "gift_num": 18358,
+      "customEmojiId": "5309817430380412321",
+      "gift_id": 700813390520,
+      "name": "Joyful Bundle",
+      "model": "Bronze (2.5%)",
+      "asset": "TON",
+      "symbol": "Octopus (0.4%)",
+      "backdrop": "Mint Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 8023,
       "customEmojiId": "5309817430380412321",
       "gift_id": 507323677715,
@@ -3204,26 +3250,6 @@
     }
   ],
   "Lovesick": [
-    {
-      "gift_num": 22524,
-      "customEmojiId": "5346181041574932137",
-      "gift_id": 202643095453,
-      "name": "Joyful Bundle",
-      "model": "Lovesick (3%)",
-      "asset": "TON",
-      "symbol": "Fenrir (0.2%)",
-      "backdrop": "Orange (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
     {
       "gift_num": 7100,
       "customEmojiId": "5346181041574932137",
@@ -4206,26 +4232,6 @@
     }
   ],
   "Sailor Moon": [
-    {
-      "gift_num": 1033,
-      "customEmojiId": "5341512738541697855",
-      "gift_id": 311283994623,
-      "name": "Joyful Bundle",
-      "model": "Sailor Moon (1.5%)",
-      "asset": "TON",
-      "symbol": "Loveberry (0.7%)",
-      "backdrop": "Shamrock Green (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
     {
       "gift_num": 1609,
       "customEmojiId": "5341512738541697855",
