@@ -857,6 +857,54 @@
   ],
   "Dark Secret": [
     {
+      "gift_num": 408,
+      "customEmojiId": "5397996523466284889",
+      "gift_id": 7193031,
+      "name": "Magic Potion",
+      "model": "Dark Secret (2.5%)",
+      "asset": "TON",
+      "symbol": "Human Scull (2.4%)",
+      "backdrop": "French Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 59,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "EUUKC3V5",
+      "auction": {
+        "_id": "68739df38938e518f19a2da5",
+        "gift_id": 7193031,
+        "seller": 0,
+        "auction_id": "EUUKC3V5",
+        "startingBid": 50,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 59,
+            "asset": "TON",
+            "_id": "6873a3ec8938e518f1db6250",
+            "timestamp": "2025-07-13T12:17:48.321Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-13T12:52:17.639Z",
+        "status": "finished",
+        "gift_name": "Magic Potion",
+        "gift_num": 408,
+        "model": "Dark Secret (2.5%)",
+        "backdrop": "French Blue (2%)",
+        "symbol": "Human Scull (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-13T11:52:19.020Z",
+        "__v": 0,
+        "winningBid": 59,
+        "winningBidder": 5639908664
+      },
+      "export_at": "2025-07-27T11:47:26.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 598,
       "customEmojiId": "5397996523466284889",
       "gift_id": 7069406,
