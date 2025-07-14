@@ -3567,6 +3567,24 @@
   ],
   "Pearl Puff": [
     {
+      "gift_num": 9911,
+      "customEmojiId": "5429526363717526130",
+      "gift_id": 576704812102,
+      "name": "Vintage Cigar",
+      "model": "Pearl Puff (2%)",
+      "asset": "TON",
+      "symbol": "Baphomet (1%)",
+      "backdrop": "Steel Grey (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 58.385,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 23378,
       "customEmojiId": "5429526363717526130",
       "gift_id": 7203331,
@@ -4125,24 +4143,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 489.595,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5199,
-      "customEmojiId": "5429526363717526130",
-      "gift_id": 603308571825,
-      "name": "Vintage Cigar",
-      "model": "Pearl Puff (2%)",
-      "asset": "TON",
-      "symbol": "Royal Crown (1%)",
-      "backdrop": "Persimmon (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 137.7,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -9782,6 +9782,26 @@
   ],
   "Aquaviolet": [
     {
+      "gift_num": 16445,
+      "customEmojiId": "5427079263150956097",
+      "gift_id": 7197830,
+      "name": "Vintage Cigar",
+      "model": "Aquaviolet (3%)",
+      "asset": "TON",
+      "symbol": "Ouroboros (0.8%)",
+      "backdrop": "Roman Silver (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 36,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T16:14:32.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 23354,
       "customEmojiId": "5427079263150956097",
       "gift_id": 596303422183,
@@ -9797,26 +9817,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16445,
-      "customEmojiId": "5427079263150956097",
-      "gift_id": 7197830,
-      "name": "Vintage Cigar",
-      "model": "Aquaviolet (3%)",
-      "asset": "TON",
-      "symbol": "Ouroboros (0.8%)",
-      "backdrop": "Roman Silver (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 37,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T16:14:32.000Z",
       "premarketData": {}
     },
     {
@@ -10390,6 +10390,24 @@
     {
       "gift_num": 23125,
       "customEmojiId": "5426867027342025513",
+      "gift_id": 594503656510,
+      "name": "Vintage Cigar",
+      "model": "Ashtray (1%)",
+      "asset": "TON",
+      "symbol": "Lion Head (1%)",
+      "backdrop": "Aquamarine (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 74.358,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 23125,
+      "customEmojiId": "5426867027342025513",
       "gift_id": 7197169,
       "name": "Vintage Cigar",
       "model": "Ashtray (1%)",
@@ -10868,6 +10886,24 @@
   ],
   "Dark Clouds": [
     {
+      "gift_num": 22810,
+      "customEmojiId": "5427220606229701464",
+      "gift_id": 592700617643,
+      "name": "Vintage Cigar",
+      "model": "Dark Clouds (1%)",
+      "asset": "TON",
+      "symbol": "Venetian Mask (0.8%)",
+      "backdrop": "Pacific Cyan (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 82.62,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 2363,
       "customEmojiId": "5427220606229701464",
       "gift_id": 7201540,
@@ -11327,6 +11363,193 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-01T06:24:12.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 15163,
+      "customEmojiId": "5427220606229701464",
+      "gift_id": 7186040,
+      "name": "Vintage Cigar",
+      "model": "Dark Clouds (1%)",
+      "asset": "TON",
+      "symbol": "Piggy Bank (0.8%)",
+      "backdrop": "Caramel (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 47.23,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "H6VQ72I3",
+      "auction": {
+        "_id": "6872e19f8938e518f1fefd29",
+        "gift_id": 7186040,
+        "seller": 0,
+        "auction_id": "H6VQ72I3",
+        "startingBid": 5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "6872e3e58938e518f1004f45",
+            "timestamp": "2025-07-12T22:38:29.107Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "6872eef28938e518f1166fbf",
+            "timestamp": "2025-07-12T23:25:38.063Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.51,
+            "asset": "TON",
+            "_id": "6872f67e8938e518f12219a9",
+            "timestamp": "2025-07-12T23:57:50.563Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.79,
+            "asset": "TON",
+            "_id": "6872f91b8938e518f12436d0",
+            "timestamp": "2025-07-13T00:08:59.300Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.08,
+            "asset": "TON",
+            "_id": "6872fd108938e518f12609de",
+            "timestamp": "2025-07-13T00:25:52.993Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.38,
+            "asset": "TON",
+            "_id": "6872fddc8938e518f1261b77",
+            "timestamp": "2025-07-13T00:29:16.601Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7,
+            "asset": "TON",
+            "_id": "68736f218938e518f1fc01bc",
+            "timestamp": "2025-07-13T08:32:33.787Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.35,
+            "asset": "TON",
+            "_id": "687398638938e518f16e3bf8",
+            "timestamp": "2025-07-13T11:28:35.357Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8,
+            "asset": "TON",
+            "_id": "6873a2878938e518f1d93ae9",
+            "timestamp": "2025-07-13T12:11:51.240Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 25,
+            "asset": "TON",
+            "_id": "6873fcda8938e518f10de795",
+            "timestamp": "2025-07-13T18:37:14.357Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 29,
+            "asset": "TON",
+            "_id": "6873fd868938e518f10e05d8",
+            "timestamp": "2025-07-13T18:40:06.416Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 30.45,
+            "asset": "TON",
+            "_id": "6874090d8938e518f111c3ec",
+            "timestamp": "2025-07-13T19:29:17.352Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 31.97,
+            "asset": "TON",
+            "_id": "6874092c8938e518f111d92b",
+            "timestamp": "2025-07-13T19:29:48.753Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 33.57,
+            "asset": "TON",
+            "_id": "68742d0b8938e518f178d5f4",
+            "timestamp": "2025-07-13T22:02:51.018Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 35.25,
+            "asset": "TON",
+            "_id": "687430658938e518f1845421",
+            "timestamp": "2025-07-13T22:17:09.247Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 37.01,
+            "asset": "TON",
+            "_id": "6874321a8938e518f185e4be",
+            "timestamp": "2025-07-13T22:24:26.566Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 38.86,
+            "asset": "TON",
+            "_id": "687432e68938e518f1866f37",
+            "timestamp": "2025-07-13T22:27:50.198Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 40.8,
+            "asset": "TON",
+            "_id": "6874333d8938e518f18695c7",
+            "timestamp": "2025-07-13T22:29:17.665Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 42.84,
+            "asset": "TON",
+            "_id": "687435538938e518f187fc0f",
+            "timestamp": "2025-07-13T22:38:11.397Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 44.98,
+            "asset": "TON",
+            "_id": "687435768938e518f1881d1b",
+            "timestamp": "2025-07-13T22:38:46.036Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 47.23,
+            "asset": "TON",
+            "_id": "687437778938e518f1890045",
+            "timestamp": "2025-07-13T22:47:19.965Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-13T22:58:46.123Z",
+        "status": "finished",
+        "gift_name": "Vintage Cigar",
+        "gift_num": 15163,
+        "model": "Dark Clouds (1%)",
+        "backdrop": "Caramel (2%)",
+        "symbol": "Piggy Bank (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-12T22:28:47.651Z",
+        "__v": 0,
+        "winningBid": 47.23,
+        "winningBidder": 2096834776
+      },
+      "export_at": "2025-07-26T22:28:01.000Z",
       "premarketData": {}
     }
   ],
@@ -11912,6 +12135,26 @@
   ],
   "Pink Ghost": [
     {
+      "gift_num": 15219,
+      "customEmojiId": "5429289706724551163",
+      "gift_id": 6898545,
+      "name": "Vintage Cigar",
+      "model": "Pink Ghost (3%)",
+      "asset": "TON",
+      "symbol": "Dessert (0.2%)",
+      "backdrop": "Electric Indigo (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 56,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-15T09:51:40.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12698,
       "customEmojiId": "5429289706724551163",
       "gift_id": 7112527,
@@ -12069,26 +12312,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T18:59:07.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15219,
-      "customEmojiId": "5429289706724551163",
-      "gift_id": 6898545,
-      "name": "Vintage Cigar",
-      "model": "Pink Ghost (3%)",
-      "asset": "TON",
-      "symbol": "Dessert (0.2%)",
-      "backdrop": "Electric Indigo (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 65,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-15T09:51:40.000Z",
       "premarketData": {}
     },
     {
@@ -13661,6 +13884,24 @@
   ],
   "Silver Bullet": [
     {
+      "gift_num": 19407,
+      "customEmojiId": "5426868564940320318",
+      "gift_id": 594524113440,
+      "name": "Vintage Cigar",
+      "model": "Silver Bullet (2%)",
+      "asset": "TON",
+      "symbol": "Coin (0.8%)",
+      "backdrop": "Moonstone (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 289.308,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 23340,
       "customEmojiId": "5426868564940320318",
       "gift_id": 596087320904,
@@ -14211,24 +14452,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 183.598,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 18869,
-      "customEmojiId": "5426868564940320318",
-      "gift_id": 591588369290,
-      "name": "Vintage Cigar",
-      "model": "Silver Bullet (2%)",
-      "asset": "TON",
-      "symbol": "Sakura (0.8%)",
-      "backdrop": "Pacific Cyan (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 104.652,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -15397,6 +15620,24 @@
   ],
   "Foundry": [
     {
+      "gift_num": 23129,
+      "customEmojiId": "5427007713290775577",
+      "gift_id": 594284494637,
+      "name": "Vintage Cigar",
+      "model": "Foundry (2%)",
+      "asset": "TON",
+      "symbol": "Cicada (1%)",
+      "backdrop": "Pure Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 489.595,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 13440,
       "customEmojiId": "5427007713290775577",
       "gift_id": 7191964,
@@ -15955,49 +16196,9 @@
       "auction": null,
       "export_at": "2025-04-06T05:43:24.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 8678,
-      "customEmojiId": "5427007713290775577",
-      "gift_id": 5038128,
-      "name": "Vintage Cigar",
-      "model": "Foundry (2%)",
-      "asset": "TON",
-      "symbol": "Cash (0.8%)",
-      "backdrop": "Ivory White (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 771627,
-      "price": 200,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-01T05:45:39.000Z",
-      "premarketData": {}
     }
   ],
   "Stained Glass": [
-    {
-      "gift_num": 16128,
-      "customEmojiId": "5429615784936627979",
-      "gift_id": 7204788,
-      "name": "Vintage Cigar",
-      "model": "Stained Glass (3%)",
-      "asset": "TON",
-      "symbol": "Tree of Life (0.8%)",
-      "backdrop": "Neon Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 27,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T22:29:02.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 21961,
       "customEmojiId": "5429615784936627979",
@@ -16558,6 +16759,26 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 12014,
+      "customEmojiId": "5429615784936627979",
+      "gift_id": 6023911,
+      "name": "Vintage Cigar",
+      "model": "Stained Glass (3%)",
+      "asset": "TON",
+      "symbol": "Cocktail (1%)",
+      "backdrop": "Carrot Juice (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 59.22,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-23T18:02:10.000Z",
       "premarketData": {}
     }
   ],
@@ -20776,6 +20997,26 @@
   ],
   "Long Draw": [
     {
+      "gift_num": 16323,
+      "customEmojiId": "5429528223438367408",
+      "gift_id": 7205284,
+      "name": "Vintage Cigar",
+      "model": "Long Draw (2%)",
+      "asset": "TON",
+      "symbol": "Pyramid (0.8%)",
+      "backdrop": "Lemongrass (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 38.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T23:19:50.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 7257,
       "customEmojiId": "5429528223438367408",
       "gift_id": 5910721,
@@ -21343,26 +21584,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-14T12:07:34.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 22781,
-      "customEmojiId": "5429528223438367408",
-      "gift_id": 7000051,
-      "name": "Vintage Cigar",
-      "model": "Long Draw (2%)",
-      "asset": "TON",
-      "symbol": "Mafdet (0.8%)",
-      "backdrop": "Steel Grey (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 878520,
-      "price": 990,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-19T07:42:54.000Z",
       "premarketData": {}
     }
   ],
@@ -22317,26 +22538,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 7245,
-      "customEmojiId": "5426935794063401878",
-      "gift_id": 7180404,
-      "name": "Vintage Cigar",
-      "model": "Secret Santa (2%)",
-      "asset": "TON",
-      "symbol": "Kitsune (0.8%)",
-      "backdrop": "Emerald (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 50,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T17:03:03.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 23315,
       "customEmojiId": "5426935794063401878",
       "gift_id": 595845133281,
@@ -22752,6 +22953,26 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 21890,
+      "customEmojiId": "5426935794063401878",
+      "gift_id": 6239341,
+      "name": "Vintage Cigar",
+      "model": "Secret Santa (2%)",
+      "asset": "TON",
+      "symbol": "Fleur-de-lis (0.5%)",
+      "backdrop": "Malachite (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 60,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-25T15:49:50.000Z",
       "premarketData": {}
     }
   ],
@@ -24459,6 +24680,26 @@
   ],
   "Gray Matter": [
     {
+      "gift_num": 14429,
+      "customEmojiId": "5429599622974694135",
+      "gift_id": 7205156,
+      "name": "Vintage Cigar",
+      "model": "Gray Matter (1%)",
+      "asset": "TON",
+      "symbol": "Trophy (1%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 903032,
+      "price": 944,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T23:04:25.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4040,
       "customEmojiId": "5429599622974694135",
       "gift_id": 7203910,
@@ -25009,26 +25250,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 19209,
-      "customEmojiId": "5429634188871492860",
-      "gift_id": 7201031,
-      "name": "Vintage Cigar",
-      "model": "Subtle Purple (3%)",
-      "asset": "TON",
-      "symbol": "Melon (0.2%)",
-      "backdrop": "Onyx Black (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 65,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T19:07:56.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 10238,
       "customEmojiId": "5429634188871492860",
       "gift_id": 7200414,
@@ -25561,9 +25782,47 @@
       "auction": null,
       "export_at": "2025-07-10T21:43:27.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 22520,
+      "customEmojiId": "5429634188871492860",
+      "gift_id": 590918027115,
+      "name": "Vintage Cigar",
+      "model": "Subtle Purple (3%)",
+      "asset": "TON",
+      "symbol": "Sumerian Bird (0.8%)",
+      "backdrop": "Pistachio (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 79.205,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
     }
   ],
   "Red Devil": [
+    {
+      "gift_num": 1274,
+      "customEmojiId": "5429554723386585967",
+      "gift_id": 5027870,
+      "name": "Vintage Cigar",
+      "model": "Red Devil (4%)",
+      "asset": "TON",
+      "symbol": "Scarab (1%)",
+      "backdrop": "Platinum (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 65,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-05-31T22:01:33.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 591,
       "customEmojiId": "5429554723386585967",
@@ -25812,26 +26071,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-25T14:53:47.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1274,
-      "customEmojiId": "5429554723386585967",
-      "gift_id": 5027870,
-      "name": "Vintage Cigar",
-      "model": "Red Devil (4%)",
-      "asset": "TON",
-      "symbol": "Scarab (1%)",
-      "backdrop": "Platinum (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 50,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-31T22:01:33.000Z",
       "premarketData": {}
     },
     {
