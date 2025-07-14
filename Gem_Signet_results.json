@@ -1649,26 +1649,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 5005,
-      "customEmojiId": "5375518829302541405",
-      "gift_id": 7141798,
-      "name": "Gem Signet",
-      "model": "Malibu Pink (4%)",
-      "asset": "TON",
-      "symbol": "Moon Cross (0.5%)",
-      "backdrop": "Marine Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 902501,
-      "price": 150,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T20:25:58.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 5280,
       "customEmojiId": "5375518829302541405",
       "gift_id": 7166960,
@@ -2177,6 +2157,26 @@
   ],
   "Arabica": [
     {
+      "gift_num": 4118,
+      "customEmojiId": "5375127351623447460",
+      "gift_id": 7217876,
+      "name": "Gem Signet",
+      "model": "Arabica (0.5%)",
+      "asset": "TON",
+      "symbol": "Pilot Hat (0.5%)",
+      "backdrop": "Strawberry (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 904753,
+      "price": 499,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-28T17:27:37.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2682,
       "customEmojiId": "5375127351623447460",
       "gift_id": 7130636,
@@ -2271,10 +2271,101 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 904605,
-      "price": 220,
-      "status": "forsale",
+      "price": 180,
+      "status": "auction",
       "limited": false,
-      "auction": null,
+      "auction_id": "5LKCQMW8",
+      "auction": {
+        "_id": "68752057aace4cd2f6b8a9c0",
+        "gift_id": 7211612,
+        "seller": 0,
+        "auction_id": "5LKCQMW8",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68753404aace4cd2f6dc198c",
+            "timestamp": "2025-07-14T16:44:52.182Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6875346faace4cd2f6dd06a0",
+            "timestamp": "2025-07-14T16:46:39.108Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "68753481aace4cd2f6dd1bdf",
+            "timestamp": "2025-07-14T16:46:57.376Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "68753497aace4cd2f6dd5022",
+            "timestamp": "2025-07-14T16:47:19.224Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.5,
+            "asset": "TON",
+            "_id": "6875362baace4cd2f6dfb460",
+            "timestamp": "2025-07-14T16:54:03.645Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 115.235,
+            "asset": "TON",
+            "_id": "68753646aace4cd2f6dff9f5",
+            "timestamp": "2025-07-14T16:54:30.016Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 121,
+            "asset": "TON",
+            "_id": "68753b75aace4cd2f6edb9ec",
+            "timestamp": "2025-07-14T17:16:37.254Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 150,
+            "asset": "TON",
+            "_id": "68753e55aace4cd2f6f1d5f9",
+            "timestamp": "2025-07-14T17:28:53.661Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 163,
+            "asset": "TON",
+            "_id": "6875408eaace4cd2f6f7b298",
+            "timestamp": "2025-07-14T17:38:22.763Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 180,
+            "asset": "TON",
+            "_id": "687540aaaace4cd2f6f7fa96",
+            "timestamp": "2025-07-14T17:38:50.345Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-14T17:51:13.664Z",
+        "status": "finished",
+        "gift_name": "Gem Signet",
+        "gift_num": 5289,
+        "model": "Eternal Life (0.2%)",
+        "backdrop": "Orange (1.2%)",
+        "symbol": "Mannaz Rune (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-14T16:41:15.061Z",
+        "__v": 0,
+        "winningBid": 180,
+        "winningBidder": 6635876404
+      },
       "export_at": "2025-07-28T11:50:20.000Z",
       "premarketData": {}
     }
@@ -2524,6 +2615,27 @@
   ],
   "Sapphire": [
     {
+      "gift_num": 4963,
+      "customEmojiId": "5377716753046464406",
+      "gift_id": 6874747,
+      "name": "Gem Signet",
+      "model": "Sapphire (4%)",
+      "asset": "TON",
+      "symbol": "Thor Hammer (0.4%)",
+      "backdrop": "Navy Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 135,
+      "promoted": true,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-14T17:26:36.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2595,
       "customEmojiId": "5377716753046464406",
       "gift_id": 7079407,
@@ -2541,27 +2653,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-22T13:15:07.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4963,
-      "customEmojiId": "5377716753046464406",
-      "gift_id": 6874747,
-      "name": "Gem Signet",
-      "model": "Sapphire (4%)",
-      "asset": "TON",
-      "symbol": "Thor Hammer (0.4%)",
-      "backdrop": "Navy Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 117,
-      "promoted": true,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-14T17:26:36.000Z",
       "premarketData": {}
     },
     {
@@ -3288,6 +3379,26 @@
   ],
   "Brass Zircon": [
     {
+      "gift_num": 3970,
+      "customEmojiId": "5375444603677731602",
+      "gift_id": 7210225,
+      "name": "Gem Signet",
+      "model": "Brass Zircon (3.5%)",
+      "asset": "TON",
+      "symbol": "Clubs (0.5%)",
+      "backdrop": "English Violet (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 80,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-28T10:22:43.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 824,
       "customEmojiId": "5375444603677731602",
       "gift_id": 6084400,
@@ -3305,26 +3416,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T05:30:09.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3970,
-      "customEmojiId": "5375444603677731602",
-      "gift_id": 7210225,
-      "name": "Gem Signet",
-      "model": "Brass Zircon (3.5%)",
-      "asset": "TON",
-      "symbol": "Clubs (0.5%)",
-      "backdrop": "English Violet (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 90,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T10:22:43.000Z",
       "premarketData": {}
     },
     {
@@ -4957,6 +5048,26 @@
   ],
   "Green Beryl": [
     {
+      "gift_num": 4947,
+      "customEmojiId": "5375296496025499507",
+      "gift_id": 7118460,
+      "name": "Gem Signet",
+      "model": "Green Beryl (4.2%)",
+      "asset": "TON",
+      "symbol": "Crystal (0.5%)",
+      "backdrop": "Pacific Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 904738,
+      "price": 300,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-24T01:33:26.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3625,
       "customEmojiId": "5375296496025499507",
       "gift_id": 6831247,
@@ -4994,26 +5105,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T15:38:21.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4947,
-      "customEmojiId": "5375296496025499507",
-      "gift_id": 7118460,
-      "name": "Gem Signet",
-      "model": "Green Beryl (4.2%)",
-      "asset": "TON",
-      "symbol": "Crystal (0.5%)",
-      "backdrop": "Pacific Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 894539,
-      "price": 377,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T01:33:26.000Z",
       "premarketData": {}
     },
     {
