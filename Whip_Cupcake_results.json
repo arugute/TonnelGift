@@ -355,26 +355,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 19483,
-      "customEmojiId": "5283145266860420865",
-      "gift_id": 518189908580,
-      "name": "Whip Cupcake",
-      "model": "Ogre Snack (1%)",
-      "asset": "TON",
-      "symbol": "Balloon (0.5%)",
-      "backdrop": "Steel Grey (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 2.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
       "gift_num": 28289,
       "customEmojiId": "5283145266860420865",
       "gift_id": 22917305877,
@@ -1873,6 +1853,32 @@
   ],
   "Cloud Nine": [
     {
+      "gift_num": 25022,
+      "customEmojiId": "5327985558654317324",
+      "gift_id": 390897553578,
+      "name": "Whip Cupcake",
+      "model": "Cloud Nine (3%)",
+      "asset": "TON",
+      "symbol": "Little Cupid (0.5%)",
+      "backdrop": "Gunmetal (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 0.4,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 2.12,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-03T21:10:47.991Z"
+      }
+    },
+    {
       "gift_num": 26508,
       "customEmojiId": "5327985558654317324",
       "gift_id": 409234191979,
@@ -1891,32 +1897,6 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
-    {
-      "gift_num": 25022,
-      "customEmojiId": "5327985558654317324",
-      "gift_id": 390897553578,
-      "name": "Whip Cupcake",
-      "model": "Cloud Nine (3%)",
-      "asset": "TON",
-      "symbol": "Little Cupid (0.5%)",
-      "backdrop": "Gunmetal (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 2.3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 0.4,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 2.12,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-08-03T21:10:47.991Z"
-      }
     },
     {
       "gift_num": 33363,
@@ -23585,32 +23565,6 @@
   ],
   "Resistance": [
     {
-      "gift_num": 26320,
-      "customEmojiId": "5235838104765494649",
-      "gift_id": 928534920109,
-      "name": "Whip Cupcake",
-      "model": "Resistance (0.5%)",
-      "asset": "TON",
-      "symbol": "Doghouse (0.5%)",
-      "backdrop": "Desert Sand (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 150,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 7,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 37.1,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-27T00:21:10.763Z"
-      }
-    },
-    {
       "gift_num": 5039,
       "customEmojiId": "5235838104765494649",
       "gift_id": 743783645646,
@@ -24423,32 +24377,6 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
-    {
-      "gift_num": 26204,
-      "customEmojiId": "5282738623651805135",
-      "gift_id": 185211995949,
-      "name": "Whip Cupcake",
-      "model": "Jolly Roger (2.5%)",
-      "asset": "TON",
-      "symbol": "Magic Wand (0.7%)",
-      "backdrop": "Hunter Green (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 3.3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 0.4,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 2.6500000000000004,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-08-02T10:38:06.596Z"
-      }
     },
     {
       "gift_num": 62234,
