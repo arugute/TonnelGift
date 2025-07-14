@@ -13604,6 +13604,158 @@
       "auction": null,
       "export_at": "2025-03-28T15:38:07.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 46853,
+      "customEmojiId": "5314696199696049719",
+      "gift_id": 7154721,
+      "name": "Winter Wreath",
+      "model": "Seashell (0.3%)",
+      "asset": "TON",
+      "symbol": "Rudolph (2.4%)",
+      "backdrop": "Mint Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4.2,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "2SL59IVQ",
+      "auction": {
+        "_id": "6870fea28938e518f1e6798b",
+        "gift_id": 7154721,
+        "seller": 0,
+        "auction_id": "2SL59IVQ",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68739d718938e518f18aafab",
+            "timestamp": "2025-07-13T11:50:09.173Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6874157e8938e518f11c07da",
+            "timestamp": "2025-07-13T20:22:22.207Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "68744bf58938e518f19348e6",
+            "timestamp": "2025-07-14T00:14:45.449Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "687454198938e518f19be758",
+            "timestamp": "2025-07-14T00:49:29.967Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "687455958938e518f19e314d",
+            "timestamp": "2025-07-14T00:55:49.152Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.56,
+            "asset": "TON",
+            "_id": "687455f18938e518f19e7978",
+            "timestamp": "2025-07-14T00:57:21.307Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.69,
+            "asset": "TON",
+            "_id": "687458108938e518f1a1cd32",
+            "timestamp": "2025-07-14T01:06:24.791Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.83,
+            "asset": "TON",
+            "_id": "687458cf8938e518f1a30a8c",
+            "timestamp": "2025-07-14T01:09:35.384Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.97,
+            "asset": "TON",
+            "_id": "68745c938938e518f1a95c3c",
+            "timestamp": "2025-07-14T01:25:39.032Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.12,
+            "asset": "TON",
+            "_id": "68745d018938e518f1a9f07b",
+            "timestamp": "2025-07-14T01:27:29.856Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.29,
+            "asset": "TON",
+            "_id": "68745dab8938e518f1aaa7d2",
+            "timestamp": "2025-07-14T01:30:19.994Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.46,
+            "asset": "TON",
+            "_id": "68745e118938e518f1ab55d4",
+            "timestamp": "2025-07-14T01:32:01.080Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.63,
+            "asset": "TON",
+            "_id": "68745e6a8938e518f1abe79f",
+            "timestamp": "2025-07-14T01:33:30.962Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.81,
+            "asset": "TON",
+            "_id": "68745eda8938e518f1ac96e1",
+            "timestamp": "2025-07-14T01:35:22.395Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4,
+            "asset": "TON",
+            "_id": "68745f2c8938e518f1ad27a7",
+            "timestamp": "2025-07-14T01:36:44.305Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.2,
+            "asset": "TON",
+            "_id": "68745f738938e518f1ad7dd6",
+            "timestamp": "2025-07-14T01:37:55.858Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-14T01:50:37.258Z",
+        "status": "finished",
+        "gift_name": "Winter Wreath",
+        "gift_num": 46853,
+        "model": "Seashell (0.3%)",
+        "backdrop": "Mint Green (1.5%)",
+        "symbol": "Rudolph (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-13T01:50:42.326Z",
+        "__v": 0,
+        "winningBid": 4.2,
+        "winningBidder": 5211491737
+      },
+      "export_at": "2025-07-25T12:06:01.000Z",
+      "premarketData": {}
     }
   ],
   "Old Movie": [
@@ -36511,6 +36663,26 @@
     }
   ],
   "Festive Pepe": [
+    {
+      "gift_num": 46805,
+      "customEmojiId": "5314492725620402573",
+      "gift_id": 7206313,
+      "name": "Winter Wreath",
+      "model": "Festive Pepe (0.5%)",
+      "asset": "TON",
+      "symbol": "Fireworks (1.6%)",
+      "backdrop": "Sapphire (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 30,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-28T02:12:25.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 29135,
       "customEmojiId": "5314492725620402573",
