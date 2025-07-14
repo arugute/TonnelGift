@@ -321,6 +321,32 @@
   ],
   "Gemstones": [
     {
+      "gift_num": 2448,
+      "customEmojiId": "5299038819109068909",
+      "gift_id": 434706955238,
+      "name": "Cupid Charm",
+      "model": "Gemstones (3%)",
+      "asset": "TON",
+      "symbol": "Violet (0.7%)",
+      "backdrop": "Cyberpunk (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 2.6,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 13.780000000000001,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-26T07:59:17.211Z"
+      }
+    },
+    {
       "gift_num": 18172,
       "customEmojiId": "5299038819109068909",
       "gift_id": 103082621275,
@@ -775,32 +801,6 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
-    {
-      "gift_num": 2448,
-      "customEmojiId": "5299038819109068909",
-      "gift_id": 434706955238,
-      "name": "Cupid Charm",
-      "model": "Gemstones (3%)",
-      "asset": "TON",
-      "symbol": "Violet (0.7%)",
-      "backdrop": "Cyberpunk (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 2.6,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 13.780000000000001,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T07:59:17.211Z"
-      }
     }
   ],
   "Soft Touch": [
@@ -1147,6 +1147,58 @@
   ],
   "Sorceress": [
     {
+      "gift_num": 7306,
+      "customEmojiId": "5352652719771382311",
+      "gift_id": 755182253745,
+      "name": "Cupid Charm",
+      "model": "Sorceress (1%)",
+      "asset": "TON",
+      "symbol": "Unicorn Head (0.7%)",
+      "backdrop": "Sapphire (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 30,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 2,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 10.600000000000001,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-26T09:56:46.847Z"
+      }
+    },
+    {
+      "gift_num": 987,
+      "customEmojiId": "5352652719771382311",
+      "gift_id": 880484159630,
+      "name": "Cupid Charm",
+      "model": "Sorceress (1%)",
+      "asset": "TON",
+      "symbol": "Wine Toast (0.7%)",
+      "backdrop": "Indigo Dye (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 30,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 3.2,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 16.96,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-26T08:28:21.348Z"
+      }
+    },
+    {
       "gift_num": 2997,
       "customEmojiId": "5352652719771382311",
       "gift_id": 297901664789,
@@ -1250,58 +1302,6 @@
         "premarketLastSaleAmountPlusFee": 14.84,
         "premarketLastSaleAsset": "TON",
         "premarketExecutionDeadline": "2025-07-26T12:24:49.914Z"
-      }
-    },
-    {
-      "gift_num": 7306,
-      "customEmojiId": "5352652719771382311",
-      "gift_id": 755182253745,
-      "name": "Cupid Charm",
-      "model": "Sorceress (1%)",
-      "asset": "TON",
-      "symbol": "Unicorn Head (0.7%)",
-      "backdrop": "Sapphire (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 2,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 10.600000000000001,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T09:56:46.847Z"
-      }
-    },
-    {
-      "gift_num": 987,
-      "customEmojiId": "5352652719771382311",
-      "gift_id": 880484159630,
-      "name": "Cupid Charm",
-      "model": "Sorceress (1%)",
-      "asset": "TON",
-      "symbol": "Wine Toast (0.7%)",
-      "backdrop": "Indigo Dye (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 50,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 3.2,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 16.96,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T08:28:21.348Z"
       }
     }
   ],
@@ -1713,6 +1713,32 @@
   ],
   "Gift Wrap": [
     {
+      "gift_num": 17422,
+      "customEmojiId": "5346238125985264049",
+      "gift_id": 170785159031,
+      "name": "Cupid Charm",
+      "model": "Gift Wrap (2.5%)",
+      "asset": "TON",
+      "symbol": "Shiny Heart (0.7%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 2.4000000000000004,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 12.72,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-26T17:51:31.576Z"
+      }
+    },
+    {
       "gift_num": 17855,
       "customEmojiId": "5346238125985264049",
       "gift_id": 340749956680,
@@ -1983,35 +2009,61 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
+    }
+  ],
+  "Snow Queen": [
     {
-      "gift_num": 17422,
-      "customEmojiId": "5346238125985264049",
-      "gift_id": 170785159031,
+      "gift_num": 1478,
+      "customEmojiId": "5344041336112705410",
+      "gift_id": 158487560794,
       "name": "Cupid Charm",
-      "model": "Gift Wrap (2.5%)",
+      "model": "Snow Queen (2.5%)",
       "asset": "TON",
-      "symbol": "Shiny Heart (0.7%)",
-      "backdrop": "Lemongrass (1.5%)",
+      "symbol": "Fleur-de-lis (0.4%)",
+      "backdrop": "Pistachio (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 40,
+      "price": 20,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {
-        "premarketCollateralAmount": 2.4000000000000004,
+        "premarketCollateralAmount": 2.2,
         "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 12.72,
+        "premarketLastSaleAmountPlusFee": 11.66,
         "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T17:51:31.576Z"
+        "premarketExecutionDeadline": "2025-07-26T07:23:58.468Z"
       }
-    }
-  ],
-  "Snow Queen": [
+    },
+    {
+      "gift_num": 159,
+      "customEmojiId": "5344041336112705410",
+      "gift_id": 296315073558,
+      "name": "Cupid Charm",
+      "model": "Snow Queen (2.5%)",
+      "asset": "TON",
+      "symbol": "Gingerbread (0.7%)",
+      "backdrop": "Grape (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 25,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 2,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 10.600000000000001,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-26T07:24:38.356Z"
+      }
+    },
     {
       "gift_num": 11140,
       "customEmojiId": "5344041336112705410",
@@ -2371,58 +2423,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 159,
-      "customEmojiId": "5344041336112705410",
-      "gift_id": 296315073558,
-      "name": "Cupid Charm",
-      "model": "Snow Queen (2.5%)",
-      "asset": "TON",
-      "symbol": "Gingerbread (0.7%)",
-      "backdrop": "Grape (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 2,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 10.600000000000001,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T07:24:38.356Z"
-      }
-    },
-    {
-      "gift_num": 1478,
-      "customEmojiId": "5344041336112705410",
-      "gift_id": 158487560794,
-      "name": "Cupid Charm",
-      "model": "Snow Queen (2.5%)",
-      "asset": "TON",
-      "symbol": "Fleur-de-lis (0.4%)",
-      "backdrop": "Pistachio (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 2.2,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 11.66,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T07:23:58.468Z"
-      }
-    },
-    {
       "gift_num": 215,
       "customEmojiId": "5344041336112705410",
       "gift_id": 829726790057,
@@ -2730,26 +2730,6 @@
     }
   ],
   "Gothic Core": [
-    {
-      "gift_num": 14102,
-      "customEmojiId": "5346151178667323877",
-      "gift_id": 465215933565,
-      "name": "Cupid Charm",
-      "model": "Gothic Core (1%)",
-      "asset": "TON",
-      "symbol": "Light Bulb (0.7%)",
-      "backdrop": "Indigo Dye (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 35,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
     {
       "gift_num": 9235,
       "customEmojiId": "5346151178667323877",
@@ -3395,6 +3375,32 @@
   ],
   "Lorien": [
     {
+      "gift_num": 1499,
+      "customEmojiId": "5314340602173744144",
+      "gift_id": 166685694631,
+      "name": "Cupid Charm",
+      "model": "Lorien (2.5%)",
+      "asset": "TON",
+      "symbol": "Eggplant (0.7%)",
+      "backdrop": "Cobalt Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 2.4000000000000004,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 12.72,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-26T07:07:49.181Z"
+      }
+    },
+    {
       "gift_num": 190,
       "customEmojiId": "5314340602173744144",
       "gift_id": 469128845466,
@@ -3751,32 +3757,6 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
-    {
-      "gift_num": 1499,
-      "customEmojiId": "5314340602173744144",
-      "gift_id": 166685694631,
-      "name": "Cupid Charm",
-      "model": "Lorien (2.5%)",
-      "asset": "TON",
-      "symbol": "Eggplant (0.7%)",
-      "backdrop": "Cobalt Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 2.4000000000000004,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 12.72,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T07:07:49.181Z"
-      }
     },
     {
       "gift_num": 247,
@@ -5461,6 +5441,26 @@
   ],
   "Moulin Rouge": [
     {
+      "gift_num": 10044,
+      "customEmojiId": "5404402024806641977",
+      "gift_id": 77853716001,
+      "name": "Cupid Charm",
+      "model": "Moulin Rouge (2%)",
+      "asset": "TON",
+      "symbol": "Doberman (0.7%)",
+      "backdrop": "Burnt Sienna (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 1605,
       "customEmojiId": "5404402024806641977",
       "gift_id": 6559403548,
@@ -5971,6 +5971,26 @@
   ],
   "Lindon": [
     {
+      "gift_num": 15113,
+      "customEmojiId": "5343697906232747600",
+      "gift_id": 141866013209,
+      "name": "Cupid Charm",
+      "model": "Lindon (2.5%)",
+      "asset": "TON",
+      "symbol": "Toy Bucket (0.7%)",
+      "backdrop": "Malachite (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 21,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 1525,
       "customEmojiId": "5343697906232747600",
       "gift_id": 335535687558,
@@ -6163,26 +6183,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 16.9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15113,
-      "customEmojiId": "5343697906232747600",
-      "gift_id": 141866013209,
-      "name": "Cupid Charm",
-      "model": "Lindon (2.5%)",
-      "asset": "TON",
-      "symbol": "Toy Bucket (0.7%)",
-      "backdrop": "Malachite (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 30,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -6889,6 +6889,58 @@
   ],
   "Golden Grasp": [
     {
+      "gift_num": 1126,
+      "customEmojiId": "5341320517280364702",
+      "gift_id": 581730343880,
+      "name": "Cupid Charm",
+      "model": "Golden Grasp (3%)",
+      "asset": "TON",
+      "symbol": "Tongue (0.7%)",
+      "backdrop": "Old Gold (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 40,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 3,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 15.9,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-26T07:53:30.490Z"
+      }
+    },
+    {
+      "gift_num": 763,
+      "customEmojiId": "5341320517280364702",
+      "gift_id": 312426596470,
+      "name": "Cupid Charm",
+      "model": "Golden Grasp (3%)",
+      "asset": "TON",
+      "symbol": "Spirit Impala (0.2%)",
+      "backdrop": "Steel Grey (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 2.2,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 11.66,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-26T07:13:53.372Z"
+      }
+    },
+    {
       "gift_num": 23031,
       "customEmojiId": "5341320517280364702",
       "gift_id": 402391662038,
@@ -7093,58 +7145,6 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
-    {
-      "gift_num": 1126,
-      "customEmojiId": "5341320517280364702",
-      "gift_id": 581730343880,
-      "name": "Cupid Charm",
-      "model": "Golden Grasp (3%)",
-      "asset": "TON",
-      "symbol": "Tongue (0.7%)",
-      "backdrop": "Old Gold (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 60,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 3,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 15.9,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T07:53:30.490Z"
-      }
-    },
-    {
-      "gift_num": 763,
-      "customEmojiId": "5341320517280364702",
-      "gift_id": 312426596470,
-      "name": "Cupid Charm",
-      "model": "Golden Grasp (3%)",
-      "asset": "TON",
-      "symbol": "Spirit Impala (0.2%)",
-      "backdrop": "Steel Grey (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 2.2,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 11.66,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T07:13:53.372Z"
-      }
     }
   ],
   "Purple Glow": [
@@ -7290,6 +7290,32 @@
     }
   ],
   "Pink Zebra": [
+    {
+      "gift_num": 5566,
+      "customEmojiId": "5343701660034167520",
+      "gift_id": 488049582141,
+      "name": "Cupid Charm",
+      "model": "Pink Zebra (3%)",
+      "asset": "TON",
+      "symbol": "Book (0.4%)",
+      "backdrop": "Ivory White (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 2,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 10.600000000000001,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-26T10:04:40.427Z"
+      }
+    },
     {
       "gift_num": 3223,
       "customEmojiId": "5343701660034167520",
@@ -7727,32 +7753,6 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
-    {
-      "gift_num": 5566,
-      "customEmojiId": "5343701660034167520",
-      "gift_id": 488049582141,
-      "name": "Cupid Charm",
-      "model": "Pink Zebra (3%)",
-      "asset": "TON",
-      "symbol": "Book (0.4%)",
-      "backdrop": "Ivory White (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 2,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 10.600000000000001,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T10:04:40.427Z"
-      }
     }
   ],
   "Cupid Pay": [
@@ -8004,6 +8004,58 @@
     }
   ],
   "Blood Gem": [
+    {
+      "gift_num": 2847,
+      "customEmojiId": "5343959654424673392",
+      "gift_id": 162451797527,
+      "name": "Cupid Charm",
+      "model": "Blood Gem (3%)",
+      "asset": "TON",
+      "symbol": "Alkonost (0.2%)",
+      "backdrop": "Desert Sand (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 1.9600000000000002,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 10.388000000000002,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-26T08:18:58.496Z"
+      }
+    },
+    {
+      "gift_num": 774,
+      "customEmojiId": "5343959654424673392",
+      "gift_id": 1212958138,
+      "name": "Cupid Charm",
+      "model": "Blood Gem (3%)",
+      "asset": "TON",
+      "symbol": "Teddy Bear (0.7%)",
+      "backdrop": "Pistachio (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 2.4000000000000004,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 12.72,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-26T07:07:20.616Z"
+      }
+    },
     {
       "gift_num": 17190,
       "customEmojiId": "5343959654424673392",
@@ -8261,61 +8313,29 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
-    {
-      "gift_num": 2847,
-      "customEmojiId": "5343959654424673392",
-      "gift_id": 162451797527,
-      "name": "Cupid Charm",
-      "model": "Blood Gem (3%)",
-      "asset": "TON",
-      "symbol": "Alkonost (0.2%)",
-      "backdrop": "Desert Sand (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 1.9600000000000002,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 10.388000000000002,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T08:18:58.496Z"
-      }
-    },
-    {
-      "gift_num": 774,
-      "customEmojiId": "5343959654424673392",
-      "gift_id": 1212958138,
-      "name": "Cupid Charm",
-      "model": "Blood Gem (3%)",
-      "asset": "TON",
-      "symbol": "Teddy Bear (0.7%)",
-      "backdrop": "Pistachio (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 2.4000000000000004,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 12.72,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T07:07:20.616Z"
-      }
     }
   ],
   "Puzzle": [
+    {
+      "gift_num": 5608,
+      "customEmojiId": "5427110122490981673",
+      "gift_id": 971128911432,
+      "name": "Cupid Charm",
+      "model": "Puzzle (1.5%)",
+      "asset": "TON",
+      "symbol": "Egg (0.7%)",
+      "backdrop": "Chocolate (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
     {
       "gift_num": 7670,
       "customEmojiId": "5427110122490981673",
@@ -9855,6 +9875,58 @@
   ],
   "Padlock": [
     {
+      "gift_num": 7683,
+      "customEmojiId": "5348261871625467094",
+      "gift_id": 724155041537,
+      "name": "Cupid Charm",
+      "model": "Padlock (2.5%)",
+      "asset": "TON",
+      "symbol": "Car (0.7%)",
+      "backdrop": "Electric Purple (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 1.6,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 8.48,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-26T10:01:07.717Z"
+      }
+    },
+    {
+      "gift_num": 1498,
+      "customEmojiId": "5348261871625467094",
+      "gift_id": 799020559518,
+      "name": "Cupid Charm",
+      "model": "Padlock (2.5%)",
+      "asset": "TON",
+      "symbol": "Cash (0.7%)",
+      "backdrop": "Burnt Sienna (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 25,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 2.2,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 11.66,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-26T07:26:58.536Z"
+      }
+    },
+    {
       "gift_num": 284,
       "customEmojiId": "5348261871625467094",
       "gift_id": 155386786809,
@@ -10123,58 +10195,6 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
-    {
-      "gift_num": 7683,
-      "customEmojiId": "5348261871625467094",
-      "gift_id": 724155041537,
-      "name": "Cupid Charm",
-      "model": "Padlock (2.5%)",
-      "asset": "TON",
-      "symbol": "Car (0.7%)",
-      "backdrop": "Electric Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 1.6,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 8.48,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T10:01:07.717Z"
-      }
-    },
-    {
-      "gift_num": 1498,
-      "customEmojiId": "5348261871625467094",
-      "gift_id": 799020559518,
-      "name": "Cupid Charm",
-      "model": "Padlock (2.5%)",
-      "asset": "TON",
-      "symbol": "Cash (0.7%)",
-      "backdrop": "Burnt Sienna (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 2.2,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 11.66,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T07:26:58.536Z"
-      }
     }
   ],
   "Ruby Whisper": [
@@ -10519,6 +10539,26 @@
   ],
   "Emerald": [
     {
+      "gift_num": 4447,
+      "customEmojiId": "5345834759836692213",
+      "gift_id": 244221862834,
+      "name": "Cupid Charm",
+      "model": "Emerald (2.5%)",
+      "asset": "TON",
+      "symbol": "Pickaxe (0.7%)",
+      "backdrop": "French Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 10,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 16460,
       "customEmojiId": "5345834759836692213",
       "gift_id": 233554271268,
@@ -10591,26 +10631,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 17,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4447,
-      "customEmojiId": "5345834759836692213",
-      "gift_id": 244221862834,
-      "name": "Cupid Charm",
-      "model": "Emerald (2.5%)",
-      "asset": "TON",
-      "symbol": "Pickaxe (0.7%)",
-      "backdrop": "French Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 13,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -12477,6 +12497,32 @@
   ],
   "White Claws": [
     {
+      "gift_num": 5544,
+      "customEmojiId": "5363892782328997199",
+      "gift_id": 100897308181,
+      "name": "Cupid Charm",
+      "model": "White Claws (3%)",
+      "asset": "TON",
+      "symbol": "Sakura (0.5%)",
+      "backdrop": "Neon Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 1.7600000000000002,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 9.328000000000001,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-26T10:04:32.780Z"
+      }
+    },
+    {
       "gift_num": 14126,
       "customEmojiId": "5363892782328997199",
       "gift_id": 785768689769,
@@ -12813,32 +12859,6 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
-    {
-      "gift_num": 5544,
-      "customEmojiId": "5363892782328997199",
-      "gift_id": 100897308181,
-      "name": "Cupid Charm",
-      "model": "White Claws (3%)",
-      "asset": "TON",
-      "symbol": "Sakura (0.5%)",
-      "backdrop": "Neon Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 1.7600000000000002,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 9.328000000000001,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T10:04:32.780Z"
-      }
     }
   ],
   "Blossom": [
