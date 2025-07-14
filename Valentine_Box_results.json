@@ -1336,7 +1336,7 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 25,
+      "price": 50,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -2289,6 +2289,32 @@
   ],
   "Molten Core": [
     {
+      "gift_num": 16859,
+      "customEmojiId": "5429373802184208757",
+      "gift_id": 525200663854,
+      "name": "Valentine Box",
+      "model": "Molten Core (1%)",
+      "asset": "TON",
+      "symbol": "Heraldic Lily (0.7%)",
+      "backdrop": "English Violet (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 200,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 1.2400000000000002,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 6.572000000000001,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-02T12:40:09.000Z"
+      }
+    },
+    {
       "gift_num": 2981,
       "customEmojiId": "5429373802184208757",
       "gift_id": 640208828721,
@@ -2307,32 +2333,6 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
-    {
-      "gift_num": 16859,
-      "customEmojiId": "5429373802184208757",
-      "gift_id": 525200663854,
-      "name": "Valentine Box",
-      "model": "Molten Core (1%)",
-      "asset": "TON",
-      "symbol": "Heraldic Lily (0.7%)",
-      "backdrop": "English Violet (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 127,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 1.2400000000000002,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 6.572000000000001,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-08-02T12:40:09.000Z"
-      }
     },
     {
       "gift_num": 11922,
@@ -7105,26 +7105,6 @@
   ],
   "Hollywood": [
     {
-      "gift_num": 6012,
-      "customEmojiId": "5411559218438237384",
-      "gift_id": 610285269060,
-      "name": "Valentine Box",
-      "model": "Hollywood (2%)",
-      "asset": "TON",
-      "symbol": "La Corona (0.5%)",
-      "backdrop": "Light Olive (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
       "gift_num": 8274,
       "customEmojiId": "5411559218438237384",
       "gift_id": 117196604543,
@@ -8968,6 +8948,26 @@
     }
   ],
   "Tartan": [
+    {
+      "gift_num": 16368,
+      "customEmojiId": "5368448767672476798",
+      "gift_id": 484133840853,
+      "name": "Valentine Box",
+      "model": "Tartan (2.5%)",
+      "asset": "TON",
+      "symbol": "Bottlenose (0.4%)",
+      "backdrop": "Raspberry (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 5.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
     {
       "gift_num": 3845,
       "customEmojiId": "5368448767672476798",
@@ -11558,7 +11558,7 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 16,
+      "price": 23,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -12404,26 +12404,6 @@
     }
   ],
   "Outline": [
-    {
-      "gift_num": 8525,
-      "customEmojiId": "5316566005118428729",
-      "gift_id": 610849370935,
-      "name": "Valentine Box",
-      "model": "Outline (3%)",
-      "asset": "TON",
-      "symbol": "Handcuffs (0.4%)",
-      "backdrop": "Desert Sand (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 5.9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
     {
       "gift_num": 10086,
       "customEmojiId": "5316566005118428729",
