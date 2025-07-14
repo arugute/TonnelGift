@@ -20998,6 +20998,24 @@
   ],
   "Maleficar": [
     {
+      "gift_num": 41130,
+      "customEmojiId": "5237803292821581477",
+      "gift_id": 582363488637,
+      "name": "Witch Hat",
+      "model": "Maleficar (1.5%)",
+      "asset": "TON",
+      "symbol": "Spooky Cat (2.4%)",
+      "backdrop": "Light Olive (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4.131,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 73264,
       "customEmojiId": "5237803292821581477",
       "gift_id": 7176481,
@@ -21552,27 +21570,27 @@
       "auction": null,
       "export_at": "2025-07-14T06:14:59.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Ectoplasm": [
     {
-      "gift_num": 23135,
-      "customEmojiId": "5237803292821581477",
-      "gift_id": 582365155514,
+      "gift_num": 28410,
+      "customEmojiId": "5237746676562681871",
+      "gift_id": 582092293235,
       "name": "Witch Hat",
-      "model": "Maleficar (1.5%)",
+      "model": "Ectoplasm (1.5%)",
       "asset": "TON",
-      "symbol": "Chili (0.2%)",
-      "backdrop": "Dark Lilac (1.5%)",
+      "symbol": "Jaws (2%)",
+      "backdrop": "Aquamarine (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 35.802,
+      "price": 6.885,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "premarketData": {}
-    }
-  ],
-  "Ectoplasm": [
+    },
     {
       "gift_num": 23728,
       "customEmojiId": "5237746676562681871",
@@ -22123,24 +22141,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-11T07:40:22.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 26806,
-      "customEmojiId": "5237746676562681871",
-      "gift_id": 582093620380,
-      "name": "Witch Hat",
-      "model": "Ectoplasm (1.5%)",
-      "asset": "TON",
-      "symbol": "Eyeball (2.4%)",
-      "backdrop": "Rosewood (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 6.61,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
