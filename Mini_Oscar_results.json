@@ -681,6 +681,26 @@
   ],
   "Pumpkin": [
     {
+      "gift_num": 4151,
+      "customEmojiId": "5233587958514214933",
+      "gift_id": 7169704,
+      "name": "Mini Oscar",
+      "model": "Pumpkin (1%)",
+      "asset": "TON",
+      "symbol": "Coin Purse (0.5%)",
+      "backdrop": "Pure Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 100,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T05:47:08.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 658,
       "customEmojiId": "5233587958514214933",
       "gift_id": 5959033,
@@ -962,6 +982,24 @@
     }
   ],
   "Silver Zebra": [
+    {
+      "gift_num": 4190,
+      "customEmojiId": "5233350202009608588",
+      "gift_id": 594518080729,
+      "name": "Mini Oscar",
+      "model": "Silver Zebra (0.5%)",
+      "asset": "TON",
+      "symbol": "Sparks (0.5%)",
+      "backdrop": "Satin Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 440.64,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 4190,
       "customEmojiId": "5233350202009608588",
@@ -5379,26 +5417,6 @@
   ],
   "Astronaut": [
     {
-      "gift_num": 1658,
-      "customEmojiId": "5233744020445882453",
-      "gift_id": 7220831,
-      "name": "Mini Oscar",
-      "model": "Astronaut (1.5%)",
-      "asset": "TON",
-      "symbol": "Pawn (0.5%)",
-      "backdrop": "Turquoise (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 90,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T20:18:57.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2638,
       "customEmojiId": "5233744020445882453",
       "gift_id": 5990014,
@@ -6083,7 +6101,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 88,
+      "price": 81,
       "status": "forsale",
       "limited": false,
       "auction": null,
