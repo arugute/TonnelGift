@@ -1504,6 +1504,26 @@
   ],
   "Meowdas": [
     {
+      "gift_num": 16889,
+      "customEmojiId": "5400347214901960579",
+      "gift_id": 5574307,
+      "name": "Scared Cat",
+      "model": "Meowdas (2.5%)",
+      "asset": "TON",
+      "symbol": "Potion (1.6%)",
+      "backdrop": "Cobalt Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 49,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-16T15:44:47.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 18744,
       "customEmojiId": "5400347214901960579",
       "gift_id": 6500338,
@@ -1521,26 +1541,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T17:07:00.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16889,
-      "customEmojiId": "5400347214901960579",
-      "gift_id": 5574307,
-      "name": "Scared Cat",
-      "model": "Meowdas (2.5%)",
-      "asset": "TON",
-      "symbol": "Potion (1.6%)",
-      "backdrop": "Cobalt Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 55,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-16T15:44:47.000Z",
       "premarketData": {}
     },
     {
@@ -5164,7 +5164,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 40,
+      "price": 49.9,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -6069,7 +6069,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 65,
+      "price": 60,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -7784,26 +7784,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 2524,
-      "customEmojiId": "5429525032277663390",
-      "gift_id": 7194852,
-      "name": "Scared Cat",
-      "model": "El Tigre (1.5%)",
-      "asset": "TON",
-      "symbol": "Nice Ghost (1.6%)",
-      "backdrop": "French Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 63,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T13:28:29.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 14307,
       "customEmojiId": "5429525032277663390",
       "gift_id": 7201150,
@@ -9208,6 +9188,96 @@
       "premarketData": {}
     },
     {
+      "gift_num": 3067,
+      "customEmojiId": "5429597703124312813",
+      "gift_id": 6930328,
+      "name": "Scared Cat",
+      "model": "Nyan Cat (3.5%)",
+      "asset": "TON",
+      "symbol": "Autumn Leaves (2.4%)",
+      "backdrop": "Hunter Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 42.53,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "4DKSGI3P",
+      "auction": {
+        "_id": "686619d4bd0eb62ec934f06a",
+        "gift_id": 6930328,
+        "seller": 0,
+        "auction_id": "4DKSGI3P",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68761e74aace4cd2f6e30f89",
+            "timestamp": "2025-07-15T09:25:08.996Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "68762438aace4cd2f6f59df4",
+            "timestamp": "2025-07-15T09:49:44.992Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "6876249caace4cd2f6f5d58d",
+            "timestamp": "2025-07-15T09:51:24.931Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "687624a7aace4cd2f6f5d631",
+            "timestamp": "2025-07-15T09:51:35.851Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "687624b8aace4cd2f6f5d721",
+            "timestamp": "2025-07-15T09:51:52.349Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 40.5,
+            "asset": "TON",
+            "_id": "68762930aace4cd2f6f87bf5",
+            "timestamp": "2025-07-15T10:10:56.011Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 42.53,
+            "asset": "TON",
+            "_id": "687638a0aace4cd2f6181e70",
+            "timestamp": "2025-07-15T11:16:48.669Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-15T12:14:14.048Z",
+        "status": "finished",
+        "gift_name": "Scared Cat",
+        "gift_num": 3067,
+        "model": "Nyan Cat (3.5%)",
+        "backdrop": "Hunter Green (1.5%)",
+        "symbol": "Autumn Leaves (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-15T09:14:16.389Z",
+        "__v": 0,
+        "winningBid": 42.53,
+        "winningBidder": 6778926149
+      },
+      "export_at": "2025-07-16T10:09:38.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12976,
       "customEmojiId": "5429597703124312813",
       "gift_id": 7122737,
@@ -10276,6 +10346,26 @@
     }
   ],
   "Chili Whisk": [
+    {
+      "gift_num": 12722,
+      "customEmojiId": "5393413698872174017",
+      "gift_id": 7229443,
+      "name": "Scared Cat",
+      "model": "Chili Whisk (1%)",
+      "asset": "TON",
+      "symbol": "Black Widow (2.4%)",
+      "backdrop": "Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 906318,
+      "price": 300,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T11:40:49.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 1947,
       "customEmojiId": "5393413698872174017",
