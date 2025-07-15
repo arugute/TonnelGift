@@ -1742,6 +1742,26 @@
   ],
   "Succubus": [
     {
+      "gift_num": 2824,
+      "customEmojiId": "5409036264454253231",
+      "gift_id": 7238782,
+      "name": "Nail Bracelet",
+      "model": "Succubus (1.5%)",
+      "asset": "TON",
+      "symbol": "Legionary (0.4%)",
+      "backdrop": "Cappuccino (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 907264,
+      "price": 220,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T20:04:34.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1424,
       "customEmojiId": "5409036264454253231",
       "gift_id": 7214767,
@@ -3166,6 +3186,60 @@
       "auction": null,
       "export_at": "2025-06-29T07:40:28.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 348,
+      "customEmojiId": "5425135880643833920",
+      "gift_id": 7220896,
+      "name": "Nail Bracelet",
+      "model": "Aqua Ring (1.5%)",
+      "asset": "TON",
+      "symbol": "Full Moon (0.5%)",
+      "backdrop": "Fire Engine (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 162.75,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "G6UVLSN2",
+      "auction": {
+        "_id": "68756778aace4cd2f690c268",
+        "gift_id": 7220896,
+        "seller": 0,
+        "auction_id": "G6UVLSN2",
+        "startingBid": 155,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 155,
+            "asset": "TON",
+            "_id": "6876a32caace4cd2f68cc7a8",
+            "timestamp": "2025-07-15T18:51:24.537Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 162.75,
+            "asset": "TON",
+            "_id": "6876a5c2aace4cd2f68ff105",
+            "timestamp": "2025-07-15T19:02:26.947Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-15T19:13:03.620Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 348,
+        "model": "Aqua Ring (1.5%)",
+        "backdrop": "Fire Engine (1.2%)",
+        "symbol": "Full Moon (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-15T17:13:04.863Z",
+        "__v": 0,
+        "winningBid": 162.75,
+        "winningBidder": 5690755290
+      },
+      "export_at": "2025-07-28T20:23:06.000Z",
+      "premarketData": {}
     }
   ],
   "Firebronze": [
@@ -3493,6 +3567,26 @@
     }
   ],
   "Rainbow Pills": [
+    {
+      "gift_num": 3807,
+      "customEmojiId": "5418264980942254839",
+      "gift_id": 7152125,
+      "name": "Nail Bracelet",
+      "model": "Rainbow Pills (2%)",
+      "asset": "TON",
+      "symbol": "Chili Pepper (0.4%)",
+      "backdrop": "Sapphire (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 907216,
+      "price": 250,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-25T09:52:34.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2102,
       "customEmojiId": "5418264980942254839",
@@ -3970,26 +4064,6 @@
   ],
   "Jade Serpent": [
     {
-      "gift_num": 3388,
-      "customEmojiId": "5307682642655734361",
-      "gift_id": 7120841,
-      "name": "Nail Bracelet",
-      "model": "Jade Serpent (3%)",
-      "asset": "TON",
-      "symbol": "Nemean Lion (0.5%)",
-      "backdrop": "Gunmetal (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 905909,
-      "price": 250,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T06:28:36.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 4505,
       "customEmojiId": "5307682642655734361",
       "gift_id": 7195038,
@@ -4308,26 +4382,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-21T10:08:45.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3875,
-      "customEmojiId": "5301001292745828913",
-      "gift_id": 7120835,
-      "name": "Nail Bracelet",
-      "model": "Red Fang (3.5%)",
-      "asset": "TON",
-      "symbol": "Brain (0.5%)",
-      "backdrop": "Satin Gold (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 905911,
-      "price": 180,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T06:28:21.000Z",
       "premarketData": {}
     },
     {
@@ -4796,26 +4850,6 @@
     }
   ],
   "Argent": [
-    {
-      "gift_num": 3422,
-      "customEmojiId": "5307495111498687124",
-      "gift_id": 7120830,
-      "name": "Nail Bracelet",
-      "model": "Argent (3.5%)",
-      "asset": "TON",
-      "symbol": "Trophy (0.5%)",
-      "backdrop": "Sapphire (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 905910,
-      "price": 180,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T06:28:12.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 1870,
       "customEmojiId": "5307495111498687124",
@@ -5627,6 +5661,27 @@
     }
   ],
   "Monster Eye": [
+    {
+      "gift_num": 4357,
+      "customEmojiId": "5422626095029580789",
+      "gift_id": 7186401,
+      "name": "Nail Bracelet",
+      "model": "Monster Eye (2%)",
+      "asset": "TON",
+      "symbol": "Oculus (0.4%)",
+      "backdrop": "Carmine (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 128.9,
+      "promoted": true,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T22:58:27.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 913,
       "customEmojiId": "5422626095029580789",
@@ -6760,8 +6815,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 906437,
-      "price": 200,
+      "message_in_channel": 907177,
+      "price": 170,
       "status": "forsale",
       "limited": false,
       "auction": null,
