@@ -9603,23 +9603,23 @@
       "premarketData": {}
     },
     {
-      "gift_num": 12817,
+      "gift_num": 5158,
       "customEmojiId": "5411438126130291567",
-      "gift_id": 5347005,
+      "gift_id": 5037329,
       "name": "Skull Flower",
       "model": "Pink Caprice (3%)",
       "asset": "TON",
-      "symbol": "Happy Smile (1.2%)",
-      "backdrop": "Dark Lilac (1%)",
+      "symbol": "Champagne (0.6%)",
+      "backdrop": "Copper (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 88,
+      "price": 40,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-06-09T14:59:11.000Z",
+      "export_at": "2025-06-01T04:50:57.000Z",
       "premarketData": {}
     }
   ],
@@ -15639,26 +15639,6 @@
   ],
   "Sunburst": [
     {
-      "gift_num": 20395,
-      "customEmojiId": "5411354511706974413",
-      "gift_id": 7219883,
-      "name": "Skull Flower",
-      "model": "Sunburst (3%)",
-      "asset": "TON",
-      "symbol": "Eyeball (1.2%)",
-      "backdrop": "Neon Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T19:25:46.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 17883,
       "customEmojiId": "5411354511706974413",
       "gift_id": 7219764,
@@ -16299,6 +16279,67 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-25T06:05:03.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 20256,
+      "customEmojiId": "5411354511706974413",
+      "gift_id": 7089233,
+      "name": "Skull Flower",
+      "model": "Sunburst (3%)",
+      "asset": "TON",
+      "symbol": "Skull (1.2%)",
+      "backdrop": "Azure Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 9.92,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "4OGQ2J8E",
+      "auction": {
+        "_id": "686d6fff022724755747fa78",
+        "gift_id": 7089233,
+        "seller": 0,
+        "auction_id": "4OGQ2J8E",
+        "startingBid": 6,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 9,
+            "asset": "TON",
+            "_id": "686e80900227247557910678",
+            "timestamp": "2025-07-09T14:45:36.417Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.45,
+            "asset": "TON",
+            "_id": "686e98990227247557e98a5a",
+            "timestamp": "2025-07-09T16:28:09.082Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.92,
+            "asset": "TON",
+            "_id": "686e9be60227247557ffc8f0",
+            "timestamp": "2025-07-09T16:42:14.878Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-09T16:52:28.441Z",
+        "status": "finished",
+        "gift_name": "Skull Flower",
+        "gift_num": 20256,
+        "model": "Sunburst (3%)",
+        "backdrop": "Azure Blue (2%)",
+        "symbol": "Skull (1.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-09T14:42:34.054Z",
+        "__v": 0,
+        "winningBid": 9.92,
+        "winningBidder": 456496120
+      },
+      "export_at": "2025-07-22T19:22:04.000Z",
       "premarketData": {}
     }
   ],
