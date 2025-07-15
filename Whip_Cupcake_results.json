@@ -2851,32 +2851,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 8469,
-      "customEmojiId": "5287559307829737300",
-      "gift_id": 53577213063,
-      "name": "Whip Cupcake",
-      "model": "Biohazard (2%)",
-      "asset": "TON",
-      "symbol": "Tiki Mask (0.5%)",
-      "backdrop": "Seal Brown (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 5.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 0.6200000000000001,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 3.2860000000000005,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-27T16:20:14.331Z"
-      }
-    },
-    {
       "gift_num": 67931,
       "customEmojiId": "5287559307829737300",
       "gift_id": 92862612126,
@@ -23860,6 +23834,26 @@
     }
   ],
   "Bitcoin": [
+    {
+      "gift_num": 47471,
+      "customEmojiId": "5307833262863839207",
+      "gift_id": 112819045750,
+      "name": "Whip Cupcake",
+      "model": "Bitcoin (0.5%)",
+      "asset": "TON",
+      "symbol": "Nigiri (0.7%)",
+      "backdrop": "Platinum (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 32.85,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
     {
       "gift_num": 14304,
       "customEmojiId": "5307833262863839207",
