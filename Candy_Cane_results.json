@@ -7588,26 +7588,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 99748,
-      "customEmojiId": "5339047259810064655",
-      "gift_id": 7205399,
-      "name": "Candy Cane",
-      "model": "Grinch (1%)",
-      "asset": "TON",
-      "symbol": "New Year's Eve (2.4%)",
-      "backdrop": "Azure Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7.99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T23:32:33.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 115305,
       "customEmojiId": "5339047259810064655",
       "gift_id": 7208331,
@@ -8025,6 +8005,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T13:12:39.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3134,
+      "customEmojiId": "5339047259810064655",
+      "gift_id": 7034281,
+      "name": "Candy Cane",
+      "model": "Grinch (1%)",
+      "asset": "TON",
+      "symbol": "Rudolph (2.4%)",
+      "backdrop": "Tomato (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-20T16:58:19.000Z",
       "premarketData": {}
     }
   ],
@@ -8631,6 +8631,26 @@
     }
   ],
   "Minty Mirth": [
+    {
+      "gift_num": 68419,
+      "customEmojiId": "5339485217625240503",
+      "gift_id": 7225092,
+      "name": "Candy Cane",
+      "model": "Minty Mirth (2.6%)",
+      "asset": "TON",
+      "symbol": "Hot Drink (2.4%)",
+      "backdrop": "Pacific Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T04:59:02.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 75538,
       "customEmojiId": "5339485217625240503",
@@ -9279,54 +9299,6 @@
         "winningBidder": 1121659994
       },
       "export_at": "2025-07-22T09:32:51.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 32492,
-      "customEmojiId": "5339485217625240503",
-      "gift_id": 7105300,
-      "name": "Candy Cane",
-      "model": "Minty Mirth (2.6%)",
-      "asset": "TON",
-      "symbol": "Stocking (2%)",
-      "backdrop": "Gunmetal (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.05,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "AIEE8015",
-      "auction": {
-        "_id": "6873b8978938e518f1e5ca62",
-        "gift_id": 7105300,
-        "seller": 0,
-        "auction_id": "AIEE8015",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.05,
-            "asset": "TON",
-            "_id": "6873c6018938e518f12f1c14",
-            "timestamp": "2025-07-13T14:43:13.305Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T14:55:58.422Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 32492,
-        "model": "Minty Mirth (2.6%)",
-        "backdrop": "Gunmetal (1.5%)",
-        "symbol": "Stocking (2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T13:45:59.475Z",
-        "__v": 0,
-        "winningBid": 3.05,
-        "winningBidder": 978709470
-      },
-      "export_at": "2025-07-23T14:30:36.000Z",
       "premarketData": {}
     }
   ],
@@ -24711,6 +24683,26 @@
   ],
   "Colorfunk": [
     {
+      "gift_num": 37379,
+      "customEmojiId": "5339468995533762749",
+      "gift_id": 7175663,
+      "name": "Candy Cane",
+      "model": "Colorfunk (2.6%)",
+      "asset": "TON",
+      "symbol": "Candy (1.6%)",
+      "backdrop": "Pistachio (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T12:32:13.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 49049,
       "customEmojiId": "5339468995533762749",
       "gift_id": 7187747,
@@ -24808,26 +24800,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-06T08:27:19.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 37379,
-      "customEmojiId": "5339468995533762749",
-      "gift_id": 7175663,
-      "name": "Candy Cane",
-      "model": "Colorfunk (2.6%)",
-      "asset": "TON",
-      "symbol": "Candy (1.6%)",
-      "backdrop": "Pistachio (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T12:32:13.000Z",
       "premarketData": {}
     },
     {
@@ -25312,6 +25284,26 @@
     }
   ],
   "Goldium": [
+    {
+      "gift_num": 38073,
+      "customEmojiId": "5339468866684742229",
+      "gift_id": 7136928,
+      "name": "Candy Cane",
+      "model": "Goldium (1%)",
+      "asset": "TON",
+      "symbol": "Hedgehog (0.2%)",
+      "backdrop": "Carrot Juice (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-24T17:33:56.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 93578,
       "customEmojiId": "5339468866684742229",
@@ -25890,26 +25882,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-08T09:56:42.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 97537,
-      "customEmojiId": "5339468866684742229",
-      "gift_id": 7068748,
-      "name": "Candy Cane",
-      "model": "Goldium (1%)",
-      "asset": "TON",
-      "symbol": "Cupcake (2.4%)",
-      "backdrop": "Mustard (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 25,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-21T23:07:43.000Z",
       "premarketData": {}
     }
   ],
@@ -30241,6 +30213,26 @@
   ],
   "Diggory": [
     {
+      "gift_num": 93921,
+      "customEmojiId": "5341736553582456078",
+      "gift_id": 6685879,
+      "name": "Candy Cane",
+      "model": "Diggory (2.6%)",
+      "asset": "TON",
+      "symbol": "Dessert (2.4%)",
+      "backdrop": "Black (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 23.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-06T16:28:56.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 71277,
       "customEmojiId": "5341736553582456078",
       "gift_id": 7222681,
@@ -30818,26 +30810,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-11T23:56:27.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 17866,
-      "customEmojiId": "5341736553582456078",
-      "gift_id": 7111283,
-      "name": "Candy Cane",
-      "model": "Diggory (2.6%)",
-      "asset": "TON",
-      "symbol": "Jingle Bell (2.4%)",
-      "backdrop": "Deep Cyan (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T19:18:10.000Z",
       "premarketData": {}
     }
   ],
