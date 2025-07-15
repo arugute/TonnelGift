@@ -1,6 +1,26 @@
 {
   "Pure Gold": [
     {
+      "gift_num": 4135,
+      "customEmojiId": "5307743824464867488",
+      "gift_id": 552428557364,
+      "name": "Joyful Bundle",
+      "model": "Pure Gold (0.5%)",
+      "asset": "TON",
+      "symbol": "Hamburger (0.7%)",
+      "backdrop": "Cappuccino (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 35,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 3765,
       "customEmojiId": "5307743824464867488",
       "gift_id": 568625766131,
@@ -781,26 +801,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 23646,
-      "customEmojiId": "5343961557095183741",
-      "gift_id": 428424619665,
-      "name": "Joyful Bundle",
-      "model": "Ninja Turtles (1%)",
-      "asset": "TON",
-      "symbol": "Grape (0.7%)",
-      "backdrop": "Cobalt Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 13,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
       "gift_num": 4154,
       "customEmojiId": "5343961557095183741",
       "gift_id": 255222099624,
@@ -842,26 +842,6 @@
     }
   ],
   "Tiger Cub": [
-    {
-      "gift_num": 10749,
-      "customEmojiId": "5343568052191523145",
-      "gift_id": 1392577995,
-      "name": "Joyful Bundle",
-      "model": "Tiger Cub (2%)",
-      "asset": "TON",
-      "symbol": "Cute Bear (0.7%)",
-      "backdrop": "Sky Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 4.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
     {
       "gift_num": 8751,
       "customEmojiId": "5343568052191523145",
@@ -4068,6 +4048,32 @@
     }
   ],
   "Watermelon": [
+    {
+      "gift_num": 8197,
+      "customEmojiId": "5343550752063266261",
+      "gift_id": 247980553055,
+      "name": "Joyful Bundle",
+      "model": "Watermelon (3%)",
+      "asset": "TON",
+      "symbol": "Gentian (0.2%)",
+      "backdrop": "Navy Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 5.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 0.76,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 4.028,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-04T18:59:18.098Z"
+      }
+    },
     {
       "gift_num": 10276,
       "customEmojiId": "5343550752063266261",
