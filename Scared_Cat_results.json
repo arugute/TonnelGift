@@ -4082,26 +4082,6 @@
   ],
   "Caustic": [
     {
-      "gift_num": 2200,
-      "customEmojiId": "5429189831555047441",
-      "gift_id": 7216947,
-      "name": "Scared Cat",
-      "model": "Caustic (3%)",
-      "asset": "TON",
-      "symbol": "Human Scull (2.4%)",
-      "backdrop": "Electric Indigo (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 40.9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T16:30:49.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 14203,
       "customEmojiId": "5429189831555047441",
       "gift_id": 576722476873,
@@ -4662,6 +4642,24 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
+    },
+    {
+      "gift_num": 12381,
+      "customEmojiId": "5429189831555047441",
+      "gift_id": 603970829583,
+      "name": "Scared Cat",
+      "model": "Caustic (3%)",
+      "asset": "TON",
+      "symbol": "Spider Web (2.4%)",
+      "backdrop": "Chestnut (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 530.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
     }
   ],
   "Instacat": [
@@ -4678,7 +4676,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 41,
+      "price": 40,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -9167,6 +9165,26 @@
     }
   ],
   "Nyan Cat": [
+    {
+      "gift_num": 15934,
+      "customEmojiId": "5429597703124312813",
+      "gift_id": 7231575,
+      "name": "Scared Cat",
+      "model": "Nyan Cat (3.5%)",
+      "asset": "TON",
+      "symbol": "Jaws (2.4%)",
+      "backdrop": "Dark Lilac (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 48,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T13:42:07.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3023,
       "customEmojiId": "5429597703124312813",
@@ -14528,26 +14546,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 11374,
-      "customEmojiId": "5431598380495165986",
-      "gift_id": 4954134,
-      "name": "Scared Cat",
-      "model": "Niko (2.5%)",
-      "asset": "TON",
-      "symbol": "Flower Cross (0.2%)",
-      "backdrop": "Platinum (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 80,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-30T21:20:21.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 1664,
       "customEmojiId": "5431598380495165986",
       "gift_id": 7155453,
@@ -14565,6 +14563,54 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-25T12:45:39.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 10548,
+      "customEmojiId": "5431598380495165986",
+      "gift_id": 5726843,
+      "name": "Scared Cat",
+      "model": "Niko (2.5%)",
+      "asset": "TON",
+      "symbol": "Ghost (2%)",
+      "backdrop": "Grape (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "TP8HARB7",
+      "auction": {
+        "_id": "6877014aaace4cd2f6aedf66",
+        "gift_id": 5726843,
+        "seller": 0,
+        "auction_id": "TP8HARB7",
+        "startingBid": 50,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 50,
+            "asset": "TON",
+            "_id": "68772bfaaace4cd2f6cdf469",
+            "timestamp": "2025-07-16T04:35:06.596Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-16T07:32:57.220Z",
+        "status": "finished",
+        "gift_name": "Scared Cat",
+        "gift_num": 10548,
+        "model": "Niko (2.5%)",
+        "backdrop": "Grape (1.5%)",
+        "symbol": "Ghost (2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-16T01:32:58.250Z",
+        "__v": 0,
+        "winningBid": 50,
+        "winningBidder": 994190914
+      },
+      "export_at": "2025-06-19T10:31:45.000Z",
       "premarketData": {}
     },
     {
