@@ -109,26 +109,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 3629,
-      "customEmojiId": "5368588259620318314",
-      "gift_id": 6566949,
-      "name": "Nail Bracelet",
-      "model": "X-Ray (2.5%)",
-      "asset": "TON",
-      "symbol": "Wagasa (0.4%)",
-      "backdrop": "Midnight Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 884994,
-      "price": 333.33,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-02T12:47:31.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2317,
       "customEmojiId": "5368588259620318314",
       "gift_id": 6364203,
@@ -1037,6 +1017,109 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-28T06:25:35.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3615,
+      "customEmojiId": "5303263696833767812",
+      "gift_id": 7242947,
+      "name": "Nail Bracelet",
+      "model": "Rose Thorn (3.5%)",
+      "asset": "TON",
+      "symbol": "Inca Sun (0.5%)",
+      "backdrop": "Raspberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 128.1,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "BV8KFAQR",
+      "auction": {
+        "_id": "68770ed7aace4cd2f6b2f761",
+        "gift_id": 7242947,
+        "seller": 0,
+        "auction_id": "BV8KFAQR",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68771287aace4cd2f6b7bbd7",
+            "timestamp": "2025-07-16T02:46:31.077Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "68773056aace4cd2f6cfd0bc",
+            "timestamp": "2025-07-16T04:53:42.510Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3,
+            "asset": "TON",
+            "_id": "68773346aace4cd2f6d0dade",
+            "timestamp": "2025-07-16T05:06:14.133Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "6877338faace4cd2f6d0f15c",
+            "timestamp": "2025-07-16T05:07:27.237Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "68773413aace4cd2f6d14ede",
+            "timestamp": "2025-07-16T05:09:39.034Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.51,
+            "asset": "TON",
+            "_id": "687736edaace4cd2f6d312fe",
+            "timestamp": "2025-07-16T05:21:49.003Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 110,
+            "asset": "TON",
+            "_id": "68777e34aace4cd2f65ea5ce",
+            "timestamp": "2025-07-16T10:25:56.017Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 122,
+            "asset": "TON",
+            "_id": "687785b8aace4cd2f67fbf16",
+            "timestamp": "2025-07-16T10:58:00.438Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 128.1,
+            "asset": "TON",
+            "_id": "6877af7daace4cd2f6856fc0",
+            "timestamp": "2025-07-16T13:56:13.791Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-16T14:30:46.270Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 3615,
+        "model": "Rose Thorn (3.5%)",
+        "backdrop": "Raspberry (1.5%)",
+        "symbol": "Inca Sun (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-16T02:30:47.313Z",
+        "__v": 0,
+        "winningBid": 128.1,
+        "winningBidder": 1216923257
+      },
+      "export_at": "2025-07-30T02:30:17.000Z",
       "premarketData": {}
     }
   ],
@@ -2327,6 +2410,26 @@
   ],
   "Carrot Bunny": [
     {
+      "gift_num": 1117,
+      "customEmojiId": "5409105675420726573",
+      "gift_id": 7161999,
+      "name": "Nail Bracelet",
+      "model": "Carrot Bunny (1.5%)",
+      "asset": "TON",
+      "symbol": "Leprechaun (0.4%)",
+      "backdrop": "Turquoise (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 908623,
+      "price": 160,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-25T18:40:10.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2486,
       "customEmojiId": "5409105675420726573",
       "gift_id": 7068374,
@@ -2384,26 +2487,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-27T19:42:59.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1117,
-      "customEmojiId": "5409105675420726573",
-      "gift_id": 7161999,
-      "name": "Nail Bracelet",
-      "model": "Carrot Bunny (1.5%)",
-      "asset": "TON",
-      "symbol": "Leprechaun (0.4%)",
-      "backdrop": "Turquoise (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 897681,
-      "price": 180,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T18:40:10.000Z",
       "premarketData": {}
     },
     {
@@ -2979,23 +3062,23 @@
   ],
   "Aqua Ring": [
     {
-      "gift_num": 1246,
+      "gift_num": 1270,
       "customEmojiId": "5425135880643833920",
-      "gift_id": 7249559,
+      "gift_id": 7251952,
       "name": "Nail Bracelet",
       "model": "Aqua Ring (1.5%)",
       "asset": "TON",
-      "symbol": "Sauron (0.5%)",
-      "backdrop": "Carmine (1.5%)",
+      "symbol": "Easter Bunny (0.5%)",
+      "backdrop": "Orange (1%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 908463,
+      "message_in_channel": 908659,
       "price": 200,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-30T13:06:49.000Z",
+      "export_at": "2025-07-30T15:19:50.000Z",
       "premarketData": {}
     },
     {
@@ -3995,11 +4078,31 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 128.89,
+      "price": 124.99,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "export_at": "2025-07-27T13:38:21.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3192,
+      "customEmojiId": "5307682642655734361",
+      "gift_id": 7251743,
+      "name": "Nail Bracelet",
+      "model": "Jade Serpent (3%)",
+      "asset": "TON",
+      "symbol": "Polar Bear (0.5%)",
+      "backdrop": "Cappuccino (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 120,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T15:05:17.000Z",
       "premarketData": {}
     },
     {
@@ -4709,6 +4812,26 @@
     }
   ],
   "Argent": [
+    {
+      "gift_num": 4553,
+      "customEmojiId": "5307495111498687124",
+      "gift_id": 7251751,
+      "name": "Nail Bracelet",
+      "model": "Argent (3.5%)",
+      "asset": "TON",
+      "symbol": "Flower Tulip (0.4%)",
+      "backdrop": "Emerald (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 125,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T15:05:37.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 1870,
       "customEmojiId": "5307495111498687124",
