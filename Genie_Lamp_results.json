@@ -442,6 +442,102 @@
       "auction": null,
       "export_at": "2025-03-13T15:43:54.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 5214,
+      "customEmojiId": "5237957799975084688",
+      "gift_id": 7241214,
+      "name": "Genie Lamp",
+      "model": "Flammable (1.5%)",
+      "asset": "TON",
+      "symbol": "Champagne (1%)",
+      "backdrop": "Jade Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 45.2,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ZAW4JIQS",
+      "auction": {
+        "_id": "6876d845aace4cd2f687fe01",
+        "gift_id": 7241214,
+        "seller": 0,
+        "auction_id": "ZAW4JIQS",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.728,
+            "asset": "TON",
+            "_id": "6876d9e9aace4cd2f6954f3e",
+            "timestamp": "2025-07-15T22:44:57.657Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.87,
+            "asset": "TON",
+            "_id": "6876dc7baace4cd2f697e383",
+            "timestamp": "2025-07-15T22:55:55.300Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.1,
+            "asset": "TON",
+            "_id": "6876de3caace4cd2f69ac7fe",
+            "timestamp": "2025-07-15T23:03:24.689Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.2,
+            "asset": "TON",
+            "_id": "6876e0a5aace4cd2f69ea99f",
+            "timestamp": "2025-07-15T23:13:41.061Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.46,
+            "asset": "TON",
+            "_id": "6876e930aace4cd2f6a37ebd",
+            "timestamp": "2025-07-15T23:50:08.166Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.66,
+            "asset": "TON",
+            "_id": "687732e7aace4cd2f6d0c8f5",
+            "timestamp": "2025-07-16T05:04:39.641Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 20,
+            "asset": "TON",
+            "_id": "68775aa2aace4cd2f629dee1",
+            "timestamp": "2025-07-16T07:54:10.013Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 45.2,
+            "asset": "TON",
+            "_id": "687766bcaace4cd2f64ef268",
+            "timestamp": "2025-07-16T08:45:48.042Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-16T10:37:51.396Z",
+        "status": "finished",
+        "gift_name": "Genie Lamp",
+        "gift_num": 5214,
+        "model": "Flammable (1.5%)",
+        "backdrop": "Jade Green (2%)",
+        "symbol": "Champagne (1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-15T22:37:57.663Z",
+        "__v": 0,
+        "winningBid": 45.2,
+        "winningBidder": 714535170
+      },
+      "export_at": "2025-07-29T22:37:27.000Z",
+      "premarketData": {}
     }
   ],
   "Thunder": [
@@ -1010,26 +1106,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-28T12:56:35.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1082,
-      "customEmojiId": "5228836234331189631",
-      "gift_id": 6968820,
-      "name": "Genie Lamp",
-      "model": "Love Thirst (2%)",
-      "asset": "TON",
-      "symbol": "Pearl (0.8%)",
-      "backdrop": "Battleship Grey (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 880717,
-      "price": 600,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-17T18:57:59.000Z",
       "premarketData": {}
     },
     {
@@ -3127,26 +3203,6 @@
     }
   ],
   "Crypto Dream": [
-    {
-      "gift_num": 5772,
-      "customEmojiId": "5231365360183174106",
-      "gift_id": 7241904,
-      "name": "Genie Lamp",
-      "model": "Crypto Dream (2%)",
-      "asset": "TON",
-      "symbol": "Nordic Wolf (0.8%)",
-      "backdrop": "Mystic Pearl (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 68,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T23:49:45.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 55,
       "customEmojiId": "5231365360183174106",
@@ -7918,6 +7974,46 @@
     }
   ],
   "Sahara": [
+    {
+      "gift_num": 4233,
+      "customEmojiId": "5237926816081012816",
+      "gift_id": 7247497,
+      "name": "Genie Lamp",
+      "model": "Sahara (3.5%)",
+      "asset": "TON",
+      "symbol": "Twin Peaks (0.2%)",
+      "backdrop": "Platinum (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 45.98,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T11:00:22.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 4851,
+      "customEmojiId": "5237926816081012816",
+      "gift_id": 7246776,
+      "name": "Genie Lamp",
+      "model": "Sahara (3.5%)",
+      "asset": "TON",
+      "symbol": "Inca Sun (0.8%)",
+      "backdrop": "Pacific Cyan (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 46,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T10:05:31.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 1584,
       "customEmojiId": "5237926816081012816",
