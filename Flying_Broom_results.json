@@ -1296,26 +1296,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 23415,
-      "customEmojiId": "5436149873302853480",
-      "gift_id": 7176863,
-      "name": "Flying Broom",
-      "model": "Pop Art (2%)",
-      "asset": "TON",
-      "symbol": "Cat Mask (0.2%)",
-      "backdrop": "Platinum (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T13:33:29.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 17844,
       "customEmojiId": "5436149873302853480",
       "gift_id": 7068590,
@@ -5984,6 +5964,26 @@
   ],
   "RGB Branch": [
     {
+      "gift_num": 14848,
+      "customEmojiId": "5438457829813935651",
+      "gift_id": 6570780,
+      "name": "Flying Broom",
+      "model": "RGB Branch (2%)",
+      "asset": "TON",
+      "symbol": "Jaws (1.6%)",
+      "backdrop": "Sapphire (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 11,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-02T14:46:18.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 17633,
       "customEmojiId": "5438457829813935651",
       "gift_id": 7234462,
@@ -7884,6 +7884,26 @@
   ],
   "Mint Sprint": [
     {
+      "gift_num": 7916,
+      "customEmojiId": "5411487011448053789",
+      "gift_id": 6554067,
+      "name": "Flying Broom",
+      "model": "Mint Sprint (2%)",
+      "asset": "TON",
+      "symbol": "Jaws (1.6%)",
+      "backdrop": "Moonstone (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-01T23:30:30.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 11162,
       "customEmojiId": "5411487011448053789",
       "gift_id": 6075958,
@@ -8242,29 +8262,63 @@
       "auction": null,
       "export_at": "2025-06-21T14:29:48.000Z",
       "premarketData": {}
-    }
-  ],
-  "Green Dragon": [
+    },
     {
-      "gift_num": 22389,
-      "customEmojiId": "5413387276778499149",
-      "gift_id": 5914473,
+      "gift_num": 22461,
+      "customEmojiId": "5411487011448053789",
+      "gift_id": 7248064,
       "name": "Flying Broom",
-      "model": "Green Dragon (2%)",
+      "model": "Mint Sprint (2%)",
       "asset": "TON",
-      "symbol": "Happy Smile (2%)",
-      "backdrop": "Light Olive (1.5%)",
+      "symbol": "Coffin (2.4%)",
+      "backdrop": "Jade Green (1%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6.7,
-      "status": "forsale",
+      "price": 6.9,
+      "status": "auction",
       "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T02:12:30.000Z",
+      "auction_id": "6J1OJQCK",
+      "auction": {
+        "_id": "68778eb2aace4cd2f6a1ecc7",
+        "gift_id": 7248064,
+        "seller": 0,
+        "auction_id": "6J1OJQCK",
+        "startingBid": 6.5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 6.5,
+            "asset": "TON",
+            "_id": "687792b8aace4cd2f6b0d0ab",
+            "timestamp": "2025-07-16T11:53:28.097Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.9,
+            "asset": "TON",
+            "_id": "68779ca6aace4cd2f6d57b75",
+            "timestamp": "2025-07-16T12:35:50.517Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-16T12:46:17.730Z",
+        "status": "finished",
+        "gift_name": "Flying Broom",
+        "gift_num": 22461,
+        "model": "Mint Sprint (2%)",
+        "backdrop": "Jade Green (1%)",
+        "symbol": "Coffin (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-16T11:36:18.904Z",
+        "__v": 0,
+        "winningBid": 6.9,
+        "winningBidder": 5492486812
+      },
+      "export_at": "2025-07-30T11:32:52.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Green Dragon": [
     {
       "gift_num": 1835,
       "customEmojiId": "5413387276778499149",
@@ -16076,6 +16130,26 @@
   ],
   "Visionary": [
     {
+      "gift_num": 7306,
+      "customEmojiId": "5438575292874513323",
+      "gift_id": 7249252,
+      "name": "Flying Broom",
+      "model": "Visionary (1.5%)",
+      "asset": "TON",
+      "symbol": "Gravestone (2.4%)",
+      "backdrop": "Hunter Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 13,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T12:49:46.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 11720,
       "customEmojiId": "5438575292874513323",
       "gift_id": 7208773,
@@ -16477,6 +16551,26 @@
     }
   ],
   "Dusk Duster": [
+    {
+      "gift_num": 10799,
+      "customEmojiId": "5411603731479292085",
+      "gift_id": 7248447,
+      "name": "Flying Broom",
+      "model": "Dusk Duster (2.5%)",
+      "asset": "TON",
+      "symbol": "Magic Wand (2.4%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T11:57:47.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 23125,
       "customEmojiId": "5411603731479292085",
@@ -17055,26 +17149,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-08T12:45:43.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 9874,
-      "customEmojiId": "5411603731479292085",
-      "gift_id": 2679669,
-      "name": "Flying Broom",
-      "model": "Dusk Duster (2.5%)",
-      "asset": "TON",
-      "symbol": "Moose Head (0.2%)",
-      "backdrop": "Electric Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 477378,
-      "price": 23,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-04-17T20:27:26.000Z",
       "premarketData": {}
     }
   ],
@@ -22537,6 +22611,26 @@
     }
   ],
   "Sleep Sweeper": [
+    {
+      "gift_num": 7682,
+      "customEmojiId": "5435884186625926363",
+      "gift_id": 7248925,
+      "name": "Flying Broom",
+      "model": "Sleep Sweeper (2%)",
+      "asset": "TON",
+      "symbol": "Coffin (2.4%)",
+      "backdrop": "Copper (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T12:30:15.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 16852,
       "customEmojiId": "5435884186625926363",
