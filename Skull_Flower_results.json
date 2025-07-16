@@ -18241,6 +18241,88 @@
       "auction": null,
       "export_at": "2025-04-25T06:07:01.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 10355,
+      "customEmojiId": "5411391414065977781",
+      "gift_id": 7241457,
+      "name": "Skull Flower",
+      "model": "Early Green (3%)",
+      "asset": "TON",
+      "symbol": "Witch's Hat (1.2%)",
+      "backdrop": "Malachite (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.62,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "7POM2ZMW",
+      "auction": {
+        "_id": "6876ddfbaace4cd2f69a7d8d",
+        "gift_id": 7241457,
+        "seller": 0,
+        "auction_id": "7POM2ZMW",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6876de7baace4cd2f69b0964",
+            "timestamp": "2025-07-15T23:04:27.546Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.351,
+            "asset": "TON",
+            "_id": "6876e0c3aace4cd2f69eeb14",
+            "timestamp": "2025-07-15T23:14:11.577Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.52,
+            "asset": "TON",
+            "_id": "6876f20baace4cd2f6a797d7",
+            "timestamp": "2025-07-16T00:27:55.880Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6,
+            "asset": "TON",
+            "_id": "6876f596aace4cd2f6a913e7",
+            "timestamp": "2025-07-16T00:43:02.771Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.3,
+            "asset": "TON",
+            "_id": "6876fa04aace4cd2f6ab1ea3",
+            "timestamp": "2025-07-16T01:01:56.845Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.62,
+            "asset": "TON",
+            "_id": "68770729aace4cd2f6b0b8fd",
+            "timestamp": "2025-07-16T01:58:01.714Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-16T02:12:18.285Z",
+        "status": "finished",
+        "gift_name": "Skull Flower",
+        "gift_num": 10355,
+        "model": "Early Green (3%)",
+        "backdrop": "Malachite (2%)",
+        "symbol": "Witch's Hat (1.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-15T23:02:19.910Z",
+        "__v": 0,
+        "winningBid": 6.62,
+        "winningBidder": 7060064705
+      },
+      "export_at": "2025-07-29T23:02:05.000Z",
+      "premarketData": {}
     }
   ],
   "Luau Lily": [
