@@ -2567,6 +2567,170 @@
   ],
   "Blue Gold": [
     {
+      "gift_num": 8389,
+      "customEmojiId": "5431552295496082014",
+      "gift_id": 576707500322,
+      "name": "Signet Ring",
+      "model": "Blue Gold (3%)",
+      "asset": "TON",
+      "symbol": "Eagle (1%)",
+      "backdrop": "Mystic Pearl (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 586,
+      "customEmojiId": "5431552295496082014",
+      "gift_id": 7255908,
+      "name": "Signet Ring",
+      "model": "Blue Gold (3%)",
+      "asset": "TON",
+      "symbol": "Royal Crown (0.8%)",
+      "backdrop": "Silver Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 24.12,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "LW0MZU1O",
+      "auction": {
+        "_id": "6877f754aace4cd2f6c8e3e3",
+        "gift_id": 7255908,
+        "seller": 0,
+        "auction_id": "LW0MZU1O",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.3,
+            "asset": "TON",
+            "_id": "687808a5aace4cd2f6e60695",
+            "timestamp": "2025-07-16T20:16:37.364Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.1,
+            "asset": "TON",
+            "_id": "687809bdaace4cd2f6e6a5c3",
+            "timestamp": "2025-07-16T20:21:17.535Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.41,
+            "asset": "TON",
+            "_id": "68780aaaaace4cd2f6e6e7e4",
+            "timestamp": "2025-07-16T20:25:14.086Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.73,
+            "asset": "TON",
+            "_id": "68780c38aace4cd2f6ea2682",
+            "timestamp": "2025-07-16T20:31:52.709Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "68780d2aaace4cd2f6ebf71d",
+            "timestamp": "2025-07-16T20:35:54.363Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12,
+            "asset": "TON",
+            "_id": "68780d3daace4cd2f6ec3134",
+            "timestamp": "2025-07-16T20:36:13.472Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.6,
+            "asset": "TON",
+            "_id": "68780ef6aace4cd2f6f3a026",
+            "timestamp": "2025-07-16T20:43:34.993Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.23,
+            "asset": "TON",
+            "_id": "68780f03aace4cd2f6f3ded7",
+            "timestamp": "2025-07-16T20:43:47.238Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 18,
+            "asset": "TON",
+            "_id": "68780f1eaace4cd2f6f44e08",
+            "timestamp": "2025-07-16T20:44:14.165Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 18.9,
+            "asset": "TON",
+            "_id": "68780f2aaace4cd2f6f47f49",
+            "timestamp": "2025-07-16T20:44:26.665Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 19.85,
+            "asset": "TON",
+            "_id": "68780f47aace4cd2f6f505f7",
+            "timestamp": "2025-07-16T20:44:55.864Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 20.84,
+            "asset": "TON",
+            "_id": "68780f55aace4cd2f6f53ba8",
+            "timestamp": "2025-07-16T20:45:09.077Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 21.88,
+            "asset": "TON",
+            "_id": "68780f7caace4cd2f6f5d638",
+            "timestamp": "2025-07-16T20:45:48.832Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 22.97,
+            "asset": "TON",
+            "_id": "68781228aace4cd2f601d068",
+            "timestamp": "2025-07-16T20:57:12.772Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 24.12,
+            "asset": "TON",
+            "_id": "68781241aace4cd2f6022ed9",
+            "timestamp": "2025-07-16T20:57:37.186Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-16T21:15:08.916Z",
+        "status": "finished",
+        "gift_name": "Signet Ring",
+        "gift_num": 586,
+        "model": "Blue Gold (3%)",
+        "backdrop": "Silver Blue (2%)",
+        "symbol": "Royal Crown (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-16T20:15:09.966Z",
+        "__v": 0,
+        "winningBid": 24.12,
+        "winningBidder": 6778926149
+      },
+      "export_at": "2025-07-30T19:02:00.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 14725,
       "customEmojiId": "5431552295496082014",
       "gift_id": 6140642,
@@ -3100,46 +3264,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-17T07:17:11.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6291,
-      "customEmojiId": "5431552295496082014",
-      "gift_id": 6038024,
-      "name": "Signet Ring",
-      "model": "Blue Gold (3%)",
-      "asset": "TON",
-      "symbol": "Calm Wolf (1%)",
-      "backdrop": "Silver Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 56.83,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T19:35:06.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5707,
-      "customEmojiId": "5431552295496082014",
-      "gift_id": 5972663,
-      "name": "Signet Ring",
-      "model": "Blue Gold (3%)",
-      "asset": "TON",
-      "symbol": "Fehu Rune (0.5%)",
-      "backdrop": "Navy Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 56.83,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T13:40:13.000Z",
       "premarketData": {}
     }
   ],
@@ -7394,6 +7518,24 @@
   ],
   "Star Platinum": [
     {
+      "gift_num": 15058,
+      "customEmojiId": "5431674809438202234",
+      "gift_id": 587991738336,
+      "name": "Signet Ring",
+      "model": "Star Platinum (1.5%)",
+      "asset": "TON",
+      "symbol": "Rhino Warrior (1%)",
+      "backdrop": "Chestnut (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 165.24,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 13420,
       "customEmojiId": "5431674809438202234",
       "gift_id": 7248494,
@@ -8792,6 +8934,26 @@
   ],
   "Spades": [
     {
+      "gift_num": 12119,
+      "customEmojiId": "5431348052621288433",
+      "gift_id": 7257397,
+      "name": "Signet Ring",
+      "model": "Spades (2%)",
+      "asset": "TON",
+      "symbol": "Sauron (1%)",
+      "backdrop": "English Violet (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 40,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T20:38:54.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 15381,
       "customEmojiId": "5431348052621288433",
       "gift_id": 7108098,
@@ -9592,6 +9754,26 @@
     }
   ],
   "Candy Cane": [
+    {
+      "gift_num": 2258,
+      "customEmojiId": "5431776346760045394",
+      "gift_id": 7255882,
+      "name": "Signet Ring",
+      "model": "Candy Cane (2%)",
+      "asset": "TON",
+      "symbol": "Anchor (1%)",
+      "backdrop": "Desert Sand (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 42,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T19:00:38.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 7624,
       "customEmojiId": "5431776346760045394",
@@ -11243,23 +11425,21 @@
   ],
   "Obsidian": [
     {
-      "gift_num": 6733,
+      "gift_num": 1591,
       "customEmojiId": "5431794170874323924",
-      "gift_id": 7257828,
+      "gift_id": 603080458810,
       "name": "Signet Ring",
       "model": "Obsidian (2%)",
       "asset": "TON",
-      "symbol": "Lion Head (1%)",
-      "backdrop": "Light Olive (2%)",
+      "symbol": "Mayan Moth (0.5%)",
+      "backdrop": "Aquamarine (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 0,
-      "price": 24,
+      "price": 165.24,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-30T21:08:11.000Z",
       "premarketData": {}
     },
     {
@@ -14496,7 +14676,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 40,
+      "price": 38,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -16393,6 +16573,24 @@
     }
   ],
   "Citrine": [
+    {
+      "gift_num": 6417,
+      "customEmojiId": "5431528136305043215",
+      "gift_id": 603965167957,
+      "name": "Signet Ring",
+      "model": "Citrine (2%)",
+      "asset": "TON",
+      "symbol": "Wolf Rage (0.8%)",
+      "backdrop": "Electric Indigo (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 82.62,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 14417,
       "customEmojiId": "5431528136305043215",
@@ -19166,7 +19364,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 23.7,
+      "price": 25.2,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -21226,6 +21424,26 @@
   ],
   "Pristine": [
     {
+      "gift_num": 9201,
+      "customEmojiId": "5431544272497174450",
+      "gift_id": 7259269,
+      "name": "Signet Ring",
+      "model": "Pristine (2%)",
+      "asset": "TON",
+      "symbol": "Unicorn Head (1%)",
+      "backdrop": "Carrot Juice (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 32.99,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T22:34:42.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3911,
       "customEmojiId": "5431544272497174450",
       "gift_id": 603061251717,
@@ -21491,26 +21709,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T17:42:19.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 10314,
-      "customEmojiId": "5431544272497174450",
-      "gift_id": 7118721,
-      "name": "Signet Ring",
-      "model": "Pristine (2%)",
-      "asset": "TON",
-      "symbol": "Conch (0.2%)",
-      "backdrop": "Indigo Dye (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 50,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T02:17:51.000Z",
       "premarketData": {}
     },
     {
