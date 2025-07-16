@@ -523,6 +523,26 @@
   ],
   "Joy Dance": [
     {
+      "gift_num": 88489,
+      "customEmojiId": "5436241295976718744",
+      "gift_id": 7240400,
+      "name": "Jester Hat",
+      "model": "Joy Dance (1.5%)",
+      "asset": "TON",
+      "symbol": "Cash (0.3%)",
+      "backdrop": "Chestnut (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T21:37:49.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 45365,
       "customEmojiId": "5436241295976718744",
       "gift_id": 7241336,
@@ -1100,26 +1120,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-26T05:54:19.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 60172,
-      "customEmojiId": "5436241295976718744",
-      "gift_id": 6090119,
-      "name": "Jester Hat",
-      "model": "Joy Dance (1.5%)",
-      "asset": "TON",
-      "symbol": "Melon (0.3%)",
-      "backdrop": "Cyberpunk (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T06:58:37.000Z",
       "premarketData": {}
     }
   ],
@@ -6018,6 +6018,215 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T13:11:25.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 88810,
+      "customEmojiId": "5429279600666501838",
+      "gift_id": 7191617,
+      "name": "Jester Hat",
+      "model": "Sketchy (1.5%)",
+      "asset": "TON",
+      "symbol": "Narcissus (0.5%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 11.88,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "X03JZWUZ",
+      "auction": {
+        "_id": "6873a36e8938e518f1dab64d",
+        "gift_id": 7191617,
+        "seller": 0,
+        "auction_id": "X03JZWUZ",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6876a945aace4cd2f69d468f",
+            "timestamp": "2025-07-15T19:17:25.618Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6876af4aaace4cd2f6b5a235",
+            "timestamp": "2025-07-15T19:43:06.395Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "6876b821aace4cd2f6e26e34",
+            "timestamp": "2025-07-15T20:20:49.712Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "6876b85faace4cd2f6e35bfd",
+            "timestamp": "2025-07-15T20:21:51.355Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "6876b86daace4cd2f6e3ae2b",
+            "timestamp": "2025-07-15T20:22:05.939Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.56,
+            "asset": "TON",
+            "_id": "6876bcc5aace4cd2f6effdb0",
+            "timestamp": "2025-07-15T20:40:37.042Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.69,
+            "asset": "TON",
+            "_id": "6876bd71aace4cd2f6004606",
+            "timestamp": "2025-07-15T20:43:29.437Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.85,
+            "asset": "TON",
+            "_id": "6876bdbdaace4cd2f60ad9e6",
+            "timestamp": "2025-07-15T20:44:45.681Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.99,
+            "asset": "TON",
+            "_id": "6876bed7aace4cd2f62565ce",
+            "timestamp": "2025-07-15T20:49:27.753Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.14,
+            "asset": "TON",
+            "_id": "6876c281aace4cd2f62ef73f",
+            "timestamp": "2025-07-15T21:05:05.002Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.3,
+            "asset": "TON",
+            "_id": "6876c2c8aace4cd2f62f68f8",
+            "timestamp": "2025-07-15T21:06:16.499Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "6876d7feaace4cd2f6795c0f",
+            "timestamp": "2025-07-15T22:36:46.511Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "6876da4faace4cd2f695d83a",
+            "timestamp": "2025-07-15T22:46:39.365Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7,
+            "asset": "TON",
+            "_id": "6876daf6aace4cd2f6962ef2",
+            "timestamp": "2025-07-15T22:49:26.309Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.35,
+            "asset": "TON",
+            "_id": "6876ddb5aace4cd2f69a049f",
+            "timestamp": "2025-07-15T23:01:09.320Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.72,
+            "asset": "TON",
+            "_id": "6876f2f0aace4cd2f6a7b3f1",
+            "timestamp": "2025-07-16T00:31:44.810Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.44,
+            "asset": "TON",
+            "_id": "6876f5caaace4cd2f6a9348e",
+            "timestamp": "2025-07-16T00:43:54.554Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.86,
+            "asset": "TON",
+            "_id": "6876f5d6aace4cd2f6a934e4",
+            "timestamp": "2025-07-16T00:44:06.118Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.3,
+            "asset": "TON",
+            "_id": "6876f7adaace4cd2f6a9ec9f",
+            "timestamp": "2025-07-16T00:51:57.202Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.77,
+            "asset": "TON",
+            "_id": "6876f987aace4cd2f6aaf12b",
+            "timestamp": "2025-07-16T00:59:51.154Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.26,
+            "asset": "TON",
+            "_id": "6876f99faace4cd2f6aaf5ff",
+            "timestamp": "2025-07-16T01:00:15.411Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.77,
+            "asset": "TON",
+            "_id": "6876fa12aace4cd2f6ab2a2b",
+            "timestamp": "2025-07-16T01:02:10.429Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.31,
+            "asset": "TON",
+            "_id": "6876fa20aace4cd2f6ab3301",
+            "timestamp": "2025-07-16T01:02:24.180Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.88,
+            "asset": "TON",
+            "_id": "6876fa44aace4cd2f6ab46ad",
+            "timestamp": "2025-07-16T01:03:00.481Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-16T01:17:29.444Z",
+        "status": "finished",
+        "gift_name": "Jester Hat",
+        "gift_num": 88810,
+        "model": "Sketchy (1.5%)",
+        "backdrop": "Onyx Black (2%)",
+        "symbol": "Narcissus (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-15T19:07:31.251Z",
+        "__v": 0,
+        "winningBid": 11.88,
+        "winningBidder": 7461578448
+      },
+      "export_at": "2025-07-27T10:30:58.000Z",
       "premarketData": {}
     },
     {
@@ -26213,6 +26422,26 @@
   ],
   "Jolly Orange": [
     {
+      "gift_num": 9538,
+      "customEmojiId": "5429551832873595198",
+      "gift_id": 7070234,
+      "name": "Jester Hat",
+      "model": "Jolly Orange (1.5%)",
+      "asset": "TON",
+      "symbol": "Vortex (0.5%)",
+      "backdrop": "Pure Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-22T01:12:21.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 73314,
       "customEmojiId": "5429551832873595198",
       "gift_id": 4973730,
@@ -26250,26 +26479,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-23T19:27:07.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 9538,
-      "customEmojiId": "5429551832873595198",
-      "gift_id": 7070234,
-      "name": "Jester Hat",
-      "model": "Jolly Orange (1.5%)",
-      "asset": "TON",
-      "symbol": "Vortex (0.5%)",
-      "backdrop": "Pure Gold (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-22T01:12:21.000Z",
       "premarketData": {}
     },
     {
@@ -40580,6 +40789,26 @@
   ],
   "Comedian": [
     {
+      "gift_num": 50269,
+      "customEmojiId": "5407025455255545701",
+      "gift_id": 7240396,
+      "name": "Jester Hat",
+      "model": "Comedian (1%)",
+      "asset": "TON",
+      "symbol": "Bow Tie (0.5%)",
+      "backdrop": "Indigo Dye (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T21:37:29.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 93280,
       "customEmojiId": "5407025455255545701",
       "gift_id": 7235715,
@@ -49908,6 +50137,26 @@
   ],
   "Bleached": [
     {
+      "gift_num": 72390,
+      "customEmojiId": "5436059640334937207",
+      "gift_id": 6921809,
+      "name": "Jester Hat",
+      "model": "Bleached (1.5%)",
+      "asset": "TON",
+      "symbol": "Skull (0.3%)",
+      "backdrop": "Desert Sand (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-15T22:41:07.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5282,
       "customEmojiId": "5436059640334937207",
       "gift_id": 6518543,
@@ -50521,26 +50770,6 @@
       "auction": null,
       "export_at": "2025-06-25T15:01:58.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 63601,
-      "customEmojiId": "5436059640334937207",
-      "gift_id": 7019990,
-      "name": "Jester Hat",
-      "model": "Bleached (1.5%)",
-      "asset": "TON",
-      "symbol": "Tree of Life (0.4%)",
-      "backdrop": "Malachite (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.75,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-20T00:30:06.000Z",
-      "premarketData": {}
     }
   ],
   "Сourt Jester": [
@@ -50866,6 +51095,26 @@
     }
   ],
   "Honk!": [
+    {
+      "gift_num": 4,
+      "customEmojiId": "5447587929557852628",
+      "gift_id": 6748879,
+      "name": "Jester Hat",
+      "model": "Honk! (0.7%)",
+      "asset": "TON",
+      "symbol": "Hand of God (0.5%)",
+      "backdrop": "Satin Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 907694,
+      "price": 500,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-09T12:02:18.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 91247,
       "customEmojiId": "5447587929557852628",
@@ -51393,6 +51642,26 @@
   ],
   "Dashed Prank": [
     {
+      "gift_num": 21689,
+      "customEmojiId": "5226834934190074055",
+      "gift_id": 7186455,
+      "name": "Jester Hat",
+      "model": "Dashed Prank (1%)",
+      "asset": "TON",
+      "symbol": "Pyramid (0.4%)",
+      "backdrop": "Strawberry (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T23:02:29.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 13830,
       "customEmojiId": "5226834934190074055",
       "gift_id": 7238657,
@@ -51490,26 +51759,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-28T11:41:26.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 21689,
-      "customEmojiId": "5226834934190074055",
-      "gift_id": 7186455,
-      "name": "Jester Hat",
-      "model": "Dashed Prank (1%)",
-      "asset": "TON",
-      "symbol": "Pyramid (0.4%)",
-      "backdrop": "Strawberry (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T23:02:29.000Z",
       "premarketData": {}
     },
     {
@@ -53761,6 +54010,26 @@
   ],
   "Triboulet": [
     {
+      "gift_num": 65636,
+      "customEmojiId": "5226474315851001459",
+      "gift_id": 7240393,
+      "name": "Jester Hat",
+      "model": "Triboulet (1.5%)",
+      "asset": "TON",
+      "symbol": "Ouroboros (0.5%)",
+      "backdrop": "Malachite (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T21:37:11.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 89382,
       "customEmojiId": "5226474315851001459",
       "gift_id": 7239289,
@@ -54338,26 +54607,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T15:25:31.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11989,
-      "customEmojiId": "5226474315851001459",
-      "gift_id": 4614847,
-      "name": "Jester Hat",
-      "model": "Triboulet (1.5%)",
-      "asset": "TON",
-      "symbol": "Scarab (0.5%)",
-      "backdrop": "Turquoise (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-23T23:25:56.000Z",
       "premarketData": {}
     }
   ],
