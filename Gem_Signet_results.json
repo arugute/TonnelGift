@@ -2419,26 +2419,6 @@
   ],
   "Arabica": [
     {
-      "gift_num": 2682,
-      "customEmojiId": "5375127351623447460",
-      "gift_id": 7130636,
-      "name": "Gem Signet",
-      "model": "Arabica (0.5%)",
-      "asset": "TON",
-      "symbol": "Paschal Lamb (0.5%)",
-      "backdrop": "Old Gold (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 902861,
-      "price": 600,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T13:33:50.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 1937,
       "customEmojiId": "5375127351623447460",
       "gift_id": -873166495,
@@ -2593,6 +2573,26 @@
     }
   ],
   "Silver Gold": [
+    {
+      "gift_num": 5158,
+      "customEmojiId": "5375551660032553896",
+      "gift_id": 7239541,
+      "name": "Gem Signet",
+      "model": "Silver Gold (4%)",
+      "asset": "TON",
+      "symbol": "Crystal Ball (0.5%)",
+      "backdrop": "Platinum (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 95,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T20:46:03.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 5303,
       "customEmojiId": "5375551660032553896",
@@ -3213,7 +3213,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 130,
+      "price": 99,
       "status": "forsale",
       "limited": false,
       "auction": null,
