@@ -1,6 +1,26 @@
 {
   "Secret Sprout": [
     {
+      "gift_num": 19648,
+      "customEmojiId": "5413668403862856937",
+      "gift_id": 7229384,
+      "name": "Skull Flower",
+      "model": "Secret Sprout (2%)",
+      "asset": "TON",
+      "symbol": "Top Hat (0.6%)",
+      "backdrop": "Caramel (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T11:36:03.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 13392,
       "customEmojiId": "5413668403862856937",
       "gift_id": 6959335,
@@ -18,26 +38,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-17T12:15:09.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 19648,
-      "customEmojiId": "5413668403862856937",
-      "gift_id": 7229384,
-      "name": "Skull Flower",
-      "model": "Secret Sprout (2%)",
-      "asset": "TON",
-      "symbol": "Top Hat (0.6%)",
-      "backdrop": "Caramel (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T11:36:03.000Z",
       "premarketData": {}
     },
     {
@@ -1870,26 +1870,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 11473,
-      "customEmojiId": "5433858624214557424",
-      "gift_id": 7009705,
-      "name": "Skull Flower",
-      "model": "Pamplona (1%)",
-      "asset": "TON",
-      "symbol": "Key (0.6%)",
-      "backdrop": "Khaki Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-19T15:36:23.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 10225,
       "customEmojiId": "5433858624214557424",
       "gift_id": 6962433,
@@ -2674,6 +2654,117 @@
   ],
   "Technicolor": [
     {
+      "gift_num": 13110,
+      "customEmojiId": "5438154811281272733",
+      "gift_id": 7248230,
+      "name": "Skull Flower",
+      "model": "Technicolor (1.5%)",
+      "asset": "TON",
+      "symbol": "Lemon (0.2%)",
+      "backdrop": "Burgundy (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9.47,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "UZG2JBZW",
+      "auction": {
+        "_id": "6877924faace4cd2f6af44d7",
+        "gift_id": 7248230,
+        "seller": 0,
+        "auction_id": "UZG2JBZW",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 6.1,
+            "asset": "TON",
+            "_id": "68781bf6aace4cd2f64170d2",
+            "timestamp": "2025-07-16T21:39:02.575Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.41,
+            "asset": "TON",
+            "_id": "687823bfaace4cd2f64adbfb",
+            "timestamp": "2025-07-16T22:12:15.150Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.73,
+            "asset": "TON",
+            "_id": "6878260eaace4cd2f64c2de5",
+            "timestamp": "2025-07-16T22:22:06.602Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.07,
+            "asset": "TON",
+            "_id": "6878280aaace4cd2f6536ea4",
+            "timestamp": "2025-07-16T22:30:34.961Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.42,
+            "asset": "TON",
+            "_id": "6878281faace4cd2f65371ef",
+            "timestamp": "2025-07-16T22:30:55.003Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.79,
+            "asset": "TON",
+            "_id": "687828acaace4cd2f653ea9f",
+            "timestamp": "2025-07-16T22:33:16.120Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.18,
+            "asset": "TON",
+            "_id": "68782a6aaace4cd2f654e673",
+            "timestamp": "2025-07-16T22:40:42.980Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.59,
+            "asset": "TON",
+            "_id": "68782b3aaace4cd2f65558a9",
+            "timestamp": "2025-07-16T22:44:10.084Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.02,
+            "asset": "TON",
+            "_id": "68782d41aace4cd2f65988d0",
+            "timestamp": "2025-07-16T22:52:49.531Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.47,
+            "asset": "TON",
+            "_id": "68782da3aace4cd2f65a987f",
+            "timestamp": "2025-07-16T22:54:27.200Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-16T23:13:55.891Z",
+        "status": "finished",
+        "gift_name": "Skull Flower",
+        "gift_num": 13110,
+        "model": "Technicolor (1.5%)",
+        "backdrop": "Burgundy (1.5%)",
+        "symbol": "Lemon (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-16T21:33:56.407Z",
+        "__v": 0,
+        "winningBid": 9.47,
+        "winningBidder": 582007994
+      },
+      "export_at": "2025-07-30T11:44:08.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 10164,
       "customEmojiId": "5438154811281272733",
       "gift_id": 7142108,
@@ -2877,26 +2968,6 @@
         "winningBidder": 1395449917
       },
       "export_at": "2025-07-21T11:12:27.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3197,
-      "customEmojiId": "5438154811281272733",
-      "gift_id": 6996678,
-      "name": "Skull Flower",
-      "model": "Technicolor (1.5%)",
-      "asset": "TON",
-      "symbol": "Ball (0.2%)",
-      "backdrop": "Caramel (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 13.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-18T23:40:20.000Z",
       "premarketData": {}
     },
     {
@@ -3978,6 +4049,26 @@
   ],
   "Wreath": [
     {
+      "gift_num": 16073,
+      "customEmojiId": "5411413004866576979",
+      "gift_id": 4961284,
+      "name": "Skull Flower",
+      "model": "Wreath (3%)",
+      "asset": "TON",
+      "symbol": "Half Moon (1.2%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 99.99,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-05-30T23:00:53.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 13706,
       "customEmojiId": "5411413004866576979",
       "gift_id": 6980589,
@@ -4435,26 +4526,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-07T11:24:28.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16073,
-      "customEmojiId": "5411413004866576979",
-      "gift_id": 4961284,
-      "name": "Skull Flower",
-      "model": "Wreath (3%)",
-      "asset": "TON",
-      "symbol": "Half Moon (1.2%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 775084,
-      "price": 199.99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-30T23:00:53.000Z",
       "premarketData": {}
     },
     {
@@ -5156,7 +5227,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 17,
+      "price": 15,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -5758,7 +5829,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 8.72,
+      "price": 7.22,
       "status": "forsale",
       "limited": false,
       "auction": null,
