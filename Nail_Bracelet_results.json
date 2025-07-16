@@ -3039,6 +3039,53 @@
       "auction": null,
       "export_at": "2025-06-27T05:11:47.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 3337,
+      "customEmojiId": "5368635813498217330",
+      "gift_id": 7253647,
+      "name": "Nail Bracelet",
+      "model": "Pearl Glam (1.5%)",
+      "asset": "TON",
+      "symbol": "Glasses (0.4%)",
+      "backdrop": "Midnight Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 180,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "UBLNX9CC",
+      "auction": {
+        "_id": "6877d9e8aace4cd2f6325af2",
+        "gift_id": 7253647,
+        "seller": 0,
+        "auction_id": "UBLNX9CC",
+        "startingBid": 180,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 180,
+            "asset": "TON",
+            "_id": "6877fd3baace4cd2f6d01441",
+            "timestamp": "2025-07-16T19:27:55.448Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-16T22:57:12.133Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 3337,
+        "model": "Pearl Glam (1.5%)",
+        "backdrop": "Midnight Blue (1.5%)",
+        "symbol": "Glasses (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-16T16:57:12.769Z",
+        "__v": 0,
+        "winningBid": 180,
+        "winningBidder": 640319177
+      },
+      "export_at": "2025-07-30T16:56:54.000Z",
+      "premarketData": {}
     }
   ],
   "Aqua Ring": [
@@ -5970,6 +6017,26 @@
     }
   ],
   "Duck Amulet": [
+    {
+      "gift_num": 56,
+      "customEmojiId": "5381995042984456255",
+      "gift_id": 7259818,
+      "name": "Nail Bracelet",
+      "model": "Duck Amulet (1.5%)",
+      "asset": "TON",
+      "symbol": "Brain (0.5%)",
+      "backdrop": "Gunmetal (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 909551,
+      "price": 365,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T23:23:18.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2171,
       "customEmojiId": "5381995042984456255",
