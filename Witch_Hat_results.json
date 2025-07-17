@@ -1,6 +1,26 @@
 {
   "Bat Swarm": [
     {
+      "gift_num": 76122,
+      "customEmojiId": "5240397242614964095",
+      "gift_id": 7272662,
+      "name": "Witch Hat",
+      "model": "Bat Swarm (0.5%)",
+      "asset": "TON",
+      "symbol": "Cauldron (2.4%)",
+      "backdrop": "Mystic Pearl (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 14.1,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T20:24:54.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 26618,
       "customEmojiId": "5240397242614964095",
       "gift_id": 7264777,
@@ -113,34 +133,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "O5KOAKPT",
-      "auction": {
-        "_id": "68775bb1aace4cd2f62a5c27",
-        "gift_id": 7245063,
-        "seller": 0,
-        "auction_id": "O5KOAKPT",
-        "startingBid": 11,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 11,
-            "asset": "TON",
-            "_id": "6877ca08aace4cd2f6d54614",
-            "timestamp": "2025-07-16T15:49:28.414Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T16:04:22.514Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 49257,
-        "model": "Bat Swarm (0.5%)",
-        "backdrop": "French Blue (1%)",
-        "symbol": "Cauldron (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T15:04:23.515Z",
-        "__v": 0,
-        "winningBid": 11,
-        "winningBidder": 6764942577
-      },
+      "auction": null,
       "export_at": "2025-07-30T07:57:12.000Z",
       "premarketData": {}
     },
@@ -589,24 +582,6 @@
       "auction": null,
       "export_at": "2025-06-29T16:08:28.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 71098,
-      "customEmojiId": "5240397242614964095",
-      "gift_id": 585515796205,
-      "name": "Witch Hat",
-      "model": "Bat Swarm (0.5%)",
-      "asset": "TON",
-      "symbol": "Half Moon (2.4%)",
-      "backdrop": "Pacific Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 550.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Circus": [
@@ -701,34 +676,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "TBI0BHQR",
-      "auction": {
-        "_id": "6875fd20aace4cd2f66a8c90",
-        "gift_id": 7210083,
-        "seller": 0,
-        "auction_id": "TBI0BHQR",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68762229aace4cd2f6f0f0ba",
-            "timestamp": "2025-07-15T09:40:57.157Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T10:02:54.883Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 39025,
-        "model": "Circus (0.5%)",
-        "backdrop": "Jade Green (1.5%)",
-        "symbol": "Crystal Ball (2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T07:02:56.046Z",
-        "__v": 0,
-        "winningBid": 3,
-        "winningBidder": 8078740212
-      },
+      "auction": null,
       "export_at": "2025-07-28T10:12:16.000Z",
       "premarketData": {}
     },
@@ -1427,62 +1375,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "JOC8Z5UQ",
-      "auction": {
-        "_id": "68725f118938e518f1a21db8",
-        "gift_id": 7176312,
-        "seller": 0,
-        "auction_id": "JOC8Z5UQ",
-        "startingBid": 3.2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.2,
-            "asset": "TON",
-            "_id": "68780e29aace4cd2f6f00451",
-            "timestamp": "2025-07-16T20:40:09.113Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.36,
-            "asset": "TON",
-            "_id": "687811c6aace4cd2f6ffb500",
-            "timestamp": "2025-07-16T20:55:34.744Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.54,
-            "asset": "TON",
-            "_id": "68781236aace4cd2f6020353",
-            "timestamp": "2025-07-16T20:57:26.969Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.72,
-            "asset": "TON",
-            "_id": "68781243aace4cd2f6023e64",
-            "timestamp": "2025-07-16T20:57:39.669Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.91,
-            "asset": "TON",
-            "_id": "6878128baace4cd2f603a576",
-            "timestamp": "2025-07-16T20:58:51.555Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T21:17:50.349Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 32830,
-        "model": "Narnia (1.5%)",
-        "backdrop": "Cyberpunk (2%)",
-        "symbol": "Like (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T18:47:51.526Z",
-        "__v": 0,
-        "winningBid": 3.91,
-        "winningBidder": 2054417091
-      },
+      "auction": null,
       "export_at": "2025-07-26T13:06:12.000Z",
       "premarketData": {}
     },
@@ -1671,34 +1564,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "YYRCC7ME",
-      "auction": {
-        "_id": "6873c8688938e518f142f82c",
-        "gift_id": 7196513,
-        "seller": 0,
-        "auction_id": "YYRCC7ME",
-        "startingBid": 2.9,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.9,
-            "asset": "TON",
-            "_id": "6873ebe88938e518f1fc4ba5",
-            "timestamp": "2025-07-13T17:24:56.507Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T17:41:46.703Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 27048,
-        "model": "Narnia (1.5%)",
-        "backdrop": "Chocolate (2%)",
-        "symbol": "Crystal Ball (2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T16:31:48.120Z",
-        "__v": 0,
-        "winningBid": 2.9,
-        "winningBidder": 7224409591
-      },
+      "auction": null,
       "export_at": "2025-07-27T14:50:28.000Z",
       "premarketData": {}
     },
@@ -3015,6 +2881,24 @@
   ],
   "Blood Mage": [
     {
+      "gift_num": 61775,
+      "customEmojiId": "5240383923921380790",
+      "gift_id": 590879982724,
+      "name": "Witch Hat",
+      "model": "Blood Mage (1.5%)",
+      "asset": "TON",
+      "symbol": "Coffin (2.4%)",
+      "backdrop": "Pacific Cyan (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 11.016,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 26025,
       "customEmojiId": "5240383923921380790",
       "gift_id": 6199117,
@@ -3563,24 +3447,6 @@
       "auction": null,
       "export_at": "2025-07-22T09:26:21.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 11245,
-      "customEmojiId": "5240383923921380790",
-      "gift_id": 582352479777,
-      "name": "Witch Hat",
-      "model": "Blood Mage (1.5%)",
-      "asset": "TON",
-      "symbol": "Bloody Axe (2.4%)",
-      "backdrop": "Aquamarine (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 550.794,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Hypnosis": [
@@ -3773,34 +3639,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "WBKHNH6E",
-      "auction": {
-        "_id": "6876e4daaace4cd2f6a108ef",
-        "gift_id": 7222616,
-        "seller": 0,
-        "auction_id": "WBKHNH6E",
-        "startingBid": 3.6,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.6,
-            "asset": "TON",
-            "_id": "6876ef32aace4cd2f6a6a8e5",
-            "timestamp": "2025-07-16T00:15:46.638Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T00:31:38.034Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 34393,
-        "model": "Hypnosis (1%)",
-        "backdrop": "Pine Green (2%)",
-        "symbol": "Fish Skeleton (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T23:31:38.948Z",
-        "__v": 0,
-        "winningBid": 3.6,
-        "winningBidder": 5183859213
-      },
+      "auction": null,
       "export_at": "2025-07-28T22:08:09.000Z",
       "premarketData": {}
     },
@@ -4469,62 +4308,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "JT5URKOD",
-      "auction": {
-        "_id": "686e6179022724755760ebec",
-        "gift_id": 7086505,
-        "seller": 0,
-        "auction_id": "JT5URKOD",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "686f44ed1fe9e6aa2ccb302e",
-            "timestamp": "2025-07-10T04:43:25.685Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "686f77251fe9e6aa2c90fedb",
-            "timestamp": "2025-07-10T08:17:41.199Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.03,
-            "asset": "TON",
-            "_id": "686f7b7b1fe9e6aa2ca1c099",
-            "timestamp": "2025-07-10T08:36:11.752Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.58,
-            "asset": "TON",
-            "_id": "686f7b8e1fe9e6aa2ca1eecf",
-            "timestamp": "2025-07-10T08:36:30.050Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.16,
-            "asset": "TON",
-            "_id": "686f7c3d1fe9e6aa2ca31e15",
-            "timestamp": "2025-07-10T08:39:25.593Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T08:58:23.319Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 67070,
-        "model": "Phantom (0.5%)",
-        "backdrop": "Satin Gold (2%)",
-        "symbol": "Coffin (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T02:48:24.655Z",
-        "__v": 0,
-        "winningBid": 12.16,
-        "winningBidder": 122625958
-      },
+      "auction": null,
       "export_at": "2025-07-22T17:11:19.000Z",
       "premarketData": {}
     },
@@ -5211,6 +4995,26 @@
   ],
   "Witch Hazel": [
     {
+      "gift_num": 29367,
+      "customEmojiId": "5240161646478910571",
+      "gift_id": 7273117,
+      "name": "Witch Hat",
+      "model": "Witch Hazel (1.5%)",
+      "asset": "TON",
+      "symbol": "Human Scull (2.4%)",
+      "backdrop": "Midnight Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:04:02.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 74998,
       "customEmojiId": "5240161646478910571",
       "gift_id": 589975002191,
@@ -5695,41 +5499,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "99Q64QHU",
-      "auction": {
-        "_id": "685eebb1b035688945def0c5",
-        "gift_id": 6805926,
-        "seller": 0,
-        "auction_id": "99Q64QHU",
-        "startingBid": 3.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "686f56dd1fe9e6aa2cd96085",
-            "timestamp": "2025-07-10T05:59:57.855Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.68,
-            "asset": "TON",
-            "_id": "68700bbc34f366334636d85c",
-            "timestamp": "2025-07-10T18:51:40.711Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T19:03:19.645Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 22723,
-        "model": "Witch Hazel (1.5%)",
-        "backdrop": "Mystic Pearl (1.5%)",
-        "symbol": "Bloody Axe (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T18:53:22.564Z",
-        "__v": 0,
-        "winningBid": 3.68,
-        "winningBidder": 6142066392
-      },
+      "auction": null,
       "export_at": "2025-07-11T17:57:40.000Z",
       "premarketData": {}
     },
@@ -5784,24 +5554,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 367.196,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 78459,
-      "customEmojiId": "5240161646478910571",
-      "gift_id": 593590101505,
-      "name": "Witch Hat",
-      "model": "Witch Hazel (1.5%)",
-      "asset": "TON",
-      "symbol": "Flamingo (0.2%)",
-      "backdrop": "Orange (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 275.4,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -6170,76 +5922,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "9135UPX7",
-      "auction": {
-        "_id": "686ff92934f366334607b57e",
-        "gift_id": 7135470,
-        "seller": 0,
-        "auction_id": "9135UPX7",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.4,
-            "asset": "TON",
-            "_id": "686ffce634f3663346103a03",
-            "timestamp": "2025-07-10T17:48:22.486Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.52,
-            "asset": "TON",
-            "_id": "687002b034f3663346282f76",
-            "timestamp": "2025-07-10T18:13:04.670Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.65,
-            "asset": "TON",
-            "_id": "687002e834f366334628d519",
-            "timestamp": "2025-07-10T18:14:00.052Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.78,
-            "asset": "TON",
-            "_id": "6870060e34f36633462e71dc",
-            "timestamp": "2025-07-10T18:27:26.353Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.92,
-            "asset": "TON",
-            "_id": "687006bd34f36633462f5945",
-            "timestamp": "2025-07-10T18:30:21.456Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "6870089f34f3663346321a7e",
-            "timestamp": "2025-07-10T18:38:23.781Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "68700ba134f3663346369219",
-            "timestamp": "2025-07-10T18:51:13.389Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T19:02:23.893Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 52923,
-        "model": "Hex Taxi (1%)",
-        "backdrop": "Mystic Pearl (1.5%)",
-        "symbol": "Treats (2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T17:32:25.286Z",
-        "__v": 0,
-        "winningBid": 3.31,
-        "winningBidder": 6142066392
-      },
+      "auction": null,
       "export_at": "2025-07-24T16:42:39.000Z",
       "premarketData": {}
     },
@@ -6449,6 +6132,44 @@
     }
   ],
   "Green Flag": [
+    {
+      "gift_num": 7052,
+      "customEmojiId": "5237827898689217109",
+      "gift_id": 7272718,
+      "name": "Witch Hat",
+      "model": "Green Flag (0.5%)",
+      "asset": "TON",
+      "symbol": "Jaws (2%)",
+      "backdrop": "Indigo Dye (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T20:31:36.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 7052,
+      "customEmojiId": "5237827898689217109",
+      "gift_id": 582366734773,
+      "name": "Witch Hat",
+      "model": "Green Flag (0.5%)",
+      "asset": "TON",
+      "symbol": "Jaws (2%)",
+      "backdrop": "Indigo Dye (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 9.914,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 28194,
       "customEmojiId": "5237827898689217109",
@@ -7381,39 +7102,32 @@
       "status": "auction",
       "limited": false,
       "auction_id": "EV4YDC7B",
-      "auction": {
-        "_id": "68765517aace4cd2f6511a4a",
-        "gift_id": 7231171,
-        "seller": 0,
-        "auction_id": "EV4YDC7B",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.4,
-            "asset": "TON",
-            "_id": "68765903aace4cd2f66dc88e",
-            "timestamp": "2025-07-15T13:34:59.292Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T14:18:13.720Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 73773,
-        "model": "DJ Witch (0.5%)",
-        "backdrop": "Hunter Green (1%)",
-        "symbol": "Night Bats (1.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T13:18:15.070Z",
-        "__v": 0,
-        "winningBid": 3.4,
-        "winningBidder": 6778926149
-      },
+      "auction": null,
       "export_at": "2025-07-29T13:17:00.000Z",
       "premarketData": {}
     }
   ],
   "Beetroot": [
+    {
+      "gift_num": 732,
+      "customEmojiId": "5239962239737293090",
+      "gift_id": 7269496,
+      "name": "Witch Hat",
+      "model": "Beetroot (1.5%)",
+      "asset": "TON",
+      "symbol": "Ghost (2.4%)",
+      "backdrop": "Strawberry (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T16:06:37.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 75263,
       "customEmojiId": "5239962239737293090",
@@ -7953,29 +7667,27 @@
       "auction": null,
       "export_at": "2025-06-25T16:00:37.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 33683,
-      "customEmojiId": "5239962239737293090",
-      "gift_id": 7146853,
-      "name": "Witch Hat",
-      "model": "Beetroot (1.5%)",
-      "asset": "TON",
-      "symbol": "Baphomet (1.6%)",
-      "backdrop": "Malachite (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T00:34:22.000Z",
-      "premarketData": {}
     }
   ],
   "Lorendale": [
+    {
+      "gift_num": 67924,
+      "customEmojiId": "5240488076878307352",
+      "gift_id": 602170750807,
+      "name": "Witch Hat",
+      "model": "Lorendale (1.5%)",
+      "asset": "TON",
+      "symbol": "Mask (0.2%)",
+      "backdrop": "Aquamarine (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 16.524,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 47975,
       "customEmojiId": "5240488076878307352",
@@ -8513,27 +8225,47 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
+    }
+  ],
+  "Pyromancy": [
     {
-      "gift_num": 62434,
-      "customEmojiId": "5240488076878307352",
-      "gift_id": 593129790103,
+      "gift_num": 3801,
+      "customEmojiId": "5240077220306773349",
+      "gift_id": 582331956705,
       "name": "Witch Hat",
-      "model": "Lorendale (1.5%)",
+      "model": "Pyromancy (1.5%)",
       "asset": "TON",
-      "symbol": "Chest (0.2%)",
-      "backdrop": "English Violet (2%)",
+      "symbol": "Fish Skeleton (2.4%)",
+      "backdrop": "Cyberpunk (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 10.961,
+      "price": 5.167,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "premarketData": {}
-    }
-  ],
-  "Pyromancy": [
+    },
+    {
+      "gift_num": 69874,
+      "customEmojiId": "5240077220306773349",
+      "gift_id": 7270165,
+      "name": "Witch Hat",
+      "model": "Pyromancy (1.5%)",
+      "asset": "TON",
+      "symbol": "Moon (2%)",
+      "backdrop": "Khaki Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T17:07:52.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 53986,
       "customEmojiId": "5240077220306773349",
@@ -9055,42 +8787,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 55.074,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 32262,
-      "customEmojiId": "5240077220306773349",
-      "gift_id": 582339587144,
-      "name": "Witch Hat",
-      "model": "Pyromancy (1.5%)",
-      "asset": "TON",
-      "symbol": "Evil Pumpkin (2.4%)",
-      "backdrop": "Ivory White (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 8.262,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 69699,
-      "customEmojiId": "5240077220306773349",
-      "gift_id": 582567686844,
-      "name": "Witch Hat",
-      "model": "Pyromancy (1.5%)",
-      "asset": "TON",
-      "symbol": "Ghost (2.4%)",
-      "backdrop": "Burgundy (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 20.358,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -10261,6 +9957,24 @@
   ],
   "Morgana": [
     {
+      "gift_num": 760,
+      "customEmojiId": "5240287540560289958",
+      "gift_id": 582134561726,
+      "name": "Witch Hat",
+      "model": "Morgana (1.5%)",
+      "asset": "TON",
+      "symbol": "Melon (0.2%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 75262,
       "customEmojiId": "5240287540560289958",
       "gift_id": 590425483702,
@@ -10800,26 +10514,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11106,
-      "customEmojiId": "5240287540560289958",
-      "gift_id": 6598989,
-      "name": "Witch Hat",
-      "model": "Morgana (1.5%)",
-      "asset": "TON",
-      "symbol": "Eyeball (2.4%)",
-      "backdrop": "Neon Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 22,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-03T12:38:00.000Z",
       "premarketData": {}
     }
   ],
@@ -11389,6 +11083,62 @@
   ],
   "Color Spray": [
     {
+      "gift_num": 38807,
+      "customEmojiId": "5237860016454656448",
+      "gift_id": 7266351,
+      "name": "Witch Hat",
+      "model": "Color Spray (1.5%)",
+      "asset": "TON",
+      "symbol": "Ghost (2.4%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T12:26:40.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 34699,
+      "customEmojiId": "5237860016454656448",
+      "gift_id": 582349237936,
+      "name": "Witch Hat",
+      "model": "Color Spray (1.5%)",
+      "asset": "TON",
+      "symbol": "Hedgehog (0.2%)",
+      "backdrop": "Mint Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 11.016,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 75505,
+      "customEmojiId": "5237860016454656448",
+      "gift_id": 592000376054,
+      "name": "Witch Hat",
+      "model": "Color Spray (1.5%)",
+      "asset": "TON",
+      "symbol": "Lollipop (2.4%)",
+      "backdrop": "Electric Indigo (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 9.914,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 65716,
       "customEmojiId": "5237860016454656448",
       "gift_id": 598100039645,
@@ -11895,64 +11645,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 52393,
-      "customEmojiId": "5237860016454656448",
-      "gift_id": 7063161,
-      "name": "Witch Hat",
-      "model": "Color Spray (1.5%)",
-      "asset": "TON",
-      "symbol": "Bloody Axe (2.4%)",
-      "backdrop": "Pistachio (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-21T19:06:16.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 29096,
-      "customEmojiId": "5237860016454656448",
-      "gift_id": 582319590206,
-      "name": "Witch Hat",
-      "model": "Color Spray (1.5%)",
-      "asset": "TON",
-      "symbol": "Sauron (2.4%)",
-      "backdrop": "Amber (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 22.026,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 78184,
-      "customEmojiId": "5237860016454656448",
-      "gift_id": 6963124,
-      "name": "Witch Hat",
-      "model": "Color Spray (1.5%)",
-      "asset": "TON",
-      "symbol": "Coffin (2.4%)",
-      "backdrop": "Silver Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-17T14:45:02.000Z",
-      "premarketData": {}
     }
   ],
   "Cone of Cold": [
@@ -12071,41 +11763,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "OPH4M0BE",
-      "auction": {
-        "_id": "68777ac9aace4cd2f65a7bac",
-        "gift_id": 7245773,
-        "seller": 0,
-        "auction_id": "OPH4M0BE",
-        "startingBid": 4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4.4,
-            "asset": "TON",
-            "_id": "68780067aace4cd2f6d9c27b",
-            "timestamp": "2025-07-16T19:41:27.273Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.62,
-            "asset": "TON",
-            "_id": "687803fcaace4cd2f6e2c2d5",
-            "timestamp": "2025-07-16T19:56:44.253Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T20:11:59.660Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 37168,
-        "model": "Cone of Cold (0.5%)",
-        "backdrop": "Burgundy (1.5%)",
-        "symbol": "Seahorse (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T19:02:00.633Z",
-        "__v": 0,
-        "winningBid": 4.62,
-        "winningBidder": 1973410815
-      },
+      "auction": null,
       "export_at": "2025-07-30T08:58:50.000Z",
       "premarketData": {}
     },
@@ -12126,118 +11784,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "4RW2W5R0",
-      "auction": {
-        "_id": "68775b07aace4cd2f62a141f",
-        "gift_id": 7238563,
-        "seller": 0,
-        "auction_id": "4RW2W5R0",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68775d27aace4cd2f62ba5cf",
-            "timestamp": "2025-07-16T08:04:55.681Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68776020aace4cd2f62e1737",
-            "timestamp": "2025-07-16T08:17:36.685Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "68776058aace4cd2f62e397f",
-            "timestamp": "2025-07-16T08:18:32.977Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6877606daace4cd2f62e4428",
-            "timestamp": "2025-07-16T08:18:53.484Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "687760ceaace4cd2f62e9b44",
-            "timestamp": "2025-07-16T08:20:30.544Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "687760daaace4cd2f62ea87c",
-            "timestamp": "2025-07-16T08:20:42.228Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "687760fcaace4cd2f62ec811",
-            "timestamp": "2025-07-16T08:21:16.060Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.9,
-            "asset": "TON",
-            "_id": "6877610aaace4cd2f62edbe8",
-            "timestamp": "2025-07-16T08:21:30.434Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.05,
-            "asset": "TON",
-            "_id": "68776116aace4cd2f62edff9",
-            "timestamp": "2025-07-16T08:21:42.151Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.2,
-            "asset": "TON",
-            "_id": "687761b8aace4cd2f62f92a1",
-            "timestamp": "2025-07-16T08:24:24.154Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.36,
-            "asset": "TON",
-            "_id": "687761dcaace4cd2f62fae65",
-            "timestamp": "2025-07-16T08:25:00.014Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.53,
-            "asset": "TON",
-            "_id": "68776432aace4cd2f63b0e3a",
-            "timestamp": "2025-07-16T08:34:58.809Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.71,
-            "asset": "TON",
-            "_id": "68776453aace4cd2f63ec9e6",
-            "timestamp": "2025-07-16T08:35:31.965Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T08:55:52.213Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 37168,
-        "model": "Cone of Cold (0.5%)",
-        "backdrop": "Burgundy (1.5%)",
-        "symbol": "Seahorse (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T07:55:51.428Z",
-        "__v": 0,
-        "winningBid": 3.71,
-        "winningBidder": 7545947633
-      },
+      "auction": null,
       "export_at": "2025-07-29T19:54:00.000Z",
       "premarketData": {}
     },
@@ -14448,26 +13995,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 30768,
-      "customEmojiId": "5240248825725086090",
-      "gift_id": 7211604,
-      "name": "Witch Hat",
-      "model": "Nebula Mist (1%)",
-      "asset": "TON",
-      "symbol": "Nice Ghost (1.6%)",
-      "backdrop": "Orange (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7.4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T11:49:48.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 3471,
       "customEmojiId": "5240248825725086090",
       "gift_id": 7253953,
@@ -14484,34 +14011,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "YWU5RYYK",
-      "auction": {
-        "_id": "68782c1baace4cd2f6570bf0",
-        "gift_id": 7253953,
-        "seller": 0,
-        "auction_id": "YWU5RYYK",
-        "startingBid": 4.3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4.3,
-            "asset": "TON",
-            "_id": "687830d4aace4cd2f6615990",
-            "timestamp": "2025-07-16T23:08:04.662Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T23:47:52.652Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 3471,
-        "model": "Nebula Mist (1%)",
-        "backdrop": "Pacific Cyan (2%)",
-        "symbol": "Scarecrow (1.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T22:47:55.225Z",
-        "__v": 0,
-        "winningBid": 4.3,
-        "winningBidder": 6373016707
-      },
+      "auction": null,
       "export_at": "2025-07-30T17:13:25.000Z",
       "premarketData": {}
     },
@@ -14974,9 +14474,49 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
+    },
+    {
+      "gift_num": 63292,
+      "customEmojiId": "5240248825725086090",
+      "gift_id": 1715511,
+      "name": "Witch Hat",
+      "model": "Nebula Mist (1%)",
+      "asset": "TON",
+      "symbol": "Coffin (2.4%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-04-02T01:29:59.000Z",
+      "premarketData": {}
     }
   ],
   "Patchwork": [
+    {
+      "gift_num": 13625,
+      "customEmojiId": "5237784248936589887",
+      "gift_id": 7211520,
+      "name": "Witch Hat",
+      "model": "Patchwork (0.5%)",
+      "asset": "TON",
+      "symbol": "Gravestone (1.6%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-28T11:46:07.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 53889,
       "customEmojiId": "5237784248936589887",
@@ -15538,26 +15078,6 @@
       "auction": null,
       "export_at": "2025-05-30T17:59:13.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 35168,
-      "customEmojiId": "5237784248936589887",
-      "gift_id": 4973772,
-      "name": "Witch Hat",
-      "model": "Patchwork (0.5%)",
-      "asset": "TON",
-      "symbol": "Bloody Axe (2.4%)",
-      "backdrop": "Amber (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-31T07:40:39.000Z",
-      "premarketData": {}
     }
   ],
   "Ube Tea": [
@@ -15673,26 +15193,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2225,
-      "customEmojiId": "5240007839405073719",
-      "gift_id": 6659042,
-      "name": "Witch Hat",
-      "model": "Ube Tea (1.5%)",
-      "asset": "TON",
-      "symbol": "Illuminati (2.4%)",
-      "backdrop": "Cobalt Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-05T15:11:25.000Z",
       "premarketData": {}
     },
     {
@@ -16125,6 +15625,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-03T21:52:00.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 7603,
+      "customEmojiId": "5240007839405073719",
+      "gift_id": 6164291,
+      "name": "Witch Hat",
+      "model": "Ube Tea (1.5%)",
+      "asset": "TON",
+      "symbol": "Cherry (0.2%)",
+      "backdrop": "Shamrock Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-24T17:51:02.000Z",
       "premarketData": {}
     }
   ],
@@ -16702,6 +16222,26 @@
   ],
   "Techno": [
     {
+      "gift_num": 18003,
+      "customEmojiId": "5238203240176183164",
+      "gift_id": 7203170,
+      "name": "Witch Hat",
+      "model": "Techno (1%)",
+      "asset": "TON",
+      "symbol": "Human Scull (2.4%)",
+      "backdrop": "Cobalt Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T20:51:27.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 40123,
       "customEmojiId": "5238203240176183164",
       "gift_id": 582552025675,
@@ -16923,26 +16463,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 18003,
-      "customEmojiId": "5238203240176183164",
-      "gift_id": 7203170,
-      "name": "Witch Hat",
-      "model": "Techno (1%)",
-      "asset": "TON",
-      "symbol": "Human Scull (2.4%)",
-      "backdrop": "Cobalt Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T20:51:27.000Z",
       "premarketData": {}
     },
     {
@@ -17460,34 +16980,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "Q6F95OKB",
-      "auction": {
-        "_id": "686c088502272475571dd3a1",
-        "gift_id": 7050802,
-        "seller": 0,
-        "auction_id": "Q6F95OKB",
-        "startingBid": 3.8,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.8,
-            "asset": "TON",
-            "_id": "68757614aace4cd2f6b5758c",
-            "timestamp": "2025-07-14T21:26:44.424Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T21:36:57.874Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 22657,
-        "model": "Holiday (0.5%)",
-        "backdrop": "Rosewood (2%)",
-        "symbol": "Black Widow (1.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T18:36:58.437Z",
-        "__v": 0,
-        "winningBid": 3.8,
-        "winningBidder": 1177198528
-      },
+      "auction": null,
       "export_at": "2025-07-21T10:35:13.000Z",
       "premarketData": {}
     },
@@ -17936,76 +17429,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "YKRHAFAN",
-      "auction": {
-        "_id": "68754624aace4cd2f6015cf9",
-        "gift_id": 7103607,
-        "seller": 0,
-        "auction_id": "YKRHAFAN",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6877db99aace4cd2f63a84cf",
-            "timestamp": "2025-07-16T17:04:25.537Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "6877dee4aace4cd2f6438b1e",
-            "timestamp": "2025-07-16T17:18:28.322Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "6877dfd4aace4cd2f6445aff",
-            "timestamp": "2025-07-16T17:22:28.810Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.48,
-            "asset": "TON",
-            "_id": "6877e048aace4cd2f644abc9",
-            "timestamp": "2025-07-16T17:24:24.543Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.66,
-            "asset": "TON",
-            "_id": "6877e05daace4cd2f644bbcf",
-            "timestamp": "2025-07-16T17:24:45.599Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.84,
-            "asset": "TON",
-            "_id": "6877e06faace4cd2f644c4ea",
-            "timestamp": "2025-07-16T17:25:03.944Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.03,
-            "asset": "TON",
-            "_id": "6877e498aace4cd2f69afd0c",
-            "timestamp": "2025-07-16T17:42:48.012Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T17:54:40.421Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 27056,
-        "model": "Fae Touched (0.5%)",
-        "backdrop": "Steel Grey (1.5%)",
-        "symbol": "Flying Witch (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T16:24:42.003Z",
-        "__v": 0,
-        "winningBid": 4.03,
-        "winningBidder": 1648831212
-      },
+      "auction": null,
       "export_at": "2025-07-23T13:01:05.000Z",
       "premarketData": {}
     },
@@ -19547,81 +18971,48 @@
       "status": "auction",
       "limited": false,
       "auction_id": "V88RC8MU",
-      "auction": {
-        "_id": "68770aceaace4cd2f6b1fd35",
-        "gift_id": 7242877,
-        "seller": 0,
-        "auction_id": "V88RC8MU",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68771614aace4cd2f6bc0777",
-            "timestamp": "2025-07-16T03:01:40.890Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "687718d4aace4cd2f6bf9c61",
-            "timestamp": "2025-07-16T03:13:24.523Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "68771985aace4cd2f6c089e0",
-            "timestamp": "2025-07-16T03:16:21.764Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.48,
-            "asset": "TON",
-            "_id": "687719baaace4cd2f6c0e041",
-            "timestamp": "2025-07-16T03:17:14.004Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.66,
-            "asset": "TON",
-            "_id": "687719d5aace4cd2f6c10207",
-            "timestamp": "2025-07-16T03:17:41.125Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.84,
-            "asset": "TON",
-            "_id": "68771a28aace4cd2f6c15ce6",
-            "timestamp": "2025-07-16T03:19:04.814Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.44,
-            "asset": "TON",
-            "_id": "68771b2faace4cd2f6c29785",
-            "timestamp": "2025-07-16T03:23:27.878Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T03:33:33.822Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 75853,
-        "model": "Merlin (0.5%)",
-        "backdrop": "Copper (1.5%)",
-        "symbol": "Crow (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T02:13:34.766Z",
-        "__v": 0,
-        "winningBid": 4.44,
-        "winningBidder": 1070610479
-      },
+      "auction": null,
       "export_at": "2025-07-30T02:11:34.000Z",
       "premarketData": {}
     }
   ],
   "Classic": [
+    {
+      "gift_num": 12704,
+      "customEmojiId": "5238221764370131936",
+      "gift_id": 582108659637,
+      "name": "Witch Hat",
+      "model": "Classic (1.5%)",
+      "asset": "TON",
+      "symbol": "Grim Reaper (1.6%)",
+      "backdrop": "Emerald (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4.489,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 22313,
+      "customEmojiId": "5238221764370131936",
+      "gift_id": 582368815256,
+      "name": "Witch Hat",
+      "model": "Classic (1.5%)",
+      "asset": "TON",
+      "symbol": "Corn (0.2%)",
+      "backdrop": "Indigo Dye (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 19733,
       "customEmojiId": "5238221764370131936",
@@ -20144,44 +19535,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 53316,
-      "customEmojiId": "5238221764370131936",
-      "gift_id": 586830243887,
-      "name": "Witch Hat",
-      "model": "Classic (1.5%)",
-      "asset": "TON",
-      "symbol": "Moose Head (0.2%)",
-      "backdrop": "English Violet (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 20.93,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2346,
-      "customEmojiId": "5238221764370131936",
-      "gift_id": 7124382,
-      "name": "Witch Hat",
-      "model": "Classic (1.5%)",
-      "asset": "TON",
-      "symbol": "Crow (2.4%)",
-      "backdrop": "Chestnut (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T09:35:56.000Z",
       "premarketData": {}
     }
   ],
@@ -21934,23 +21287,21 @@
   ],
   "Maleficar": [
     {
-      "gift_num": 65500,
+      "gift_num": 58289,
       "customEmojiId": "5237803292821581477",
-      "gift_id": 7172517,
+      "gift_id": 588885964271,
       "name": "Witch Hat",
       "model": "Maleficar (1.5%)",
       "asset": "TON",
-      "symbol": "Ghost (2.4%)",
-      "backdrop": "Ivory White (1.5%)",
+      "symbol": "Grim Reaper (1.6%)",
+      "backdrop": "Hunter Green (1%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.4,
+      "price": 5.508,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-26T09:35:37.000Z",
       "premarketData": {}
     },
     {
@@ -22506,6 +21857,24 @@
   ],
   "Ectoplasm": [
     {
+      "gift_num": 5489,
+      "customEmojiId": "5237746676562681871",
+      "gift_id": 582326289066,
+      "name": "Witch Hat",
+      "model": "Ectoplasm (1.5%)",
+      "asset": "TON",
+      "symbol": "Sauron (2.4%)",
+      "backdrop": "Chestnut (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 7.711,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 37558,
       "customEmojiId": "5237746676562681871",
       "gift_id": 582357025141,
@@ -22770,55 +22139,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "R9EEM3T7",
-      "auction": {
-        "_id": "68766564aace4cd2f61b71b2",
-        "gift_id": 7225285,
-        "seller": 0,
-        "auction_id": "R9EEM3T7",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "687677d5aace4cd2f643e5fa",
-            "timestamp": "2025-07-15T15:46:29.944Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "68767b5baace4cd2f6481e11",
-            "timestamp": "2025-07-15T16:01:31.019Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.51,
-            "asset": "TON",
-            "_id": "68767b96aace4cd2f6484bcc",
-            "timestamp": "2025-07-15T16:02:30.177Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.79,
-            "asset": "TON",
-            "_id": "68768142aace4cd2f690637f",
-            "timestamp": "2025-07-15T16:26:42.597Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T16:37:47.932Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 1550,
-        "model": "Ectoplasm (1.5%)",
-        "backdrop": "Onyx Black (2%)",
-        "symbol": "Spider Web (2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T14:27:48.933Z",
-        "__v": 0,
-        "winningBid": 5.79,
-        "winningBidder": 5409178293
-      },
+      "auction": null,
       "export_at": "2025-07-29T05:47:59.000Z",
       "premarketData": {}
     },
@@ -23103,26 +22424,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 957,
-      "customEmojiId": "5237746676562681871",
-      "gift_id": 6315449,
-      "name": "Witch Hat",
-      "model": "Ectoplasm (1.5%)",
-      "asset": "TON",
-      "symbol": "Human Scull (2.4%)",
-      "backdrop": "Raspberry (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-26T21:11:29.000Z",
-      "premarketData": {}
     }
   ],
   "Sorting Cat": [
@@ -23203,286 +22504,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "6L20H42G",
-      "auction": {
-        "_id": "687779ecaace4cd2f6597555",
-        "gift_id": 7239685,
-        "seller": 0,
-        "auction_id": "6L20H42G",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68777a4daace4cd2f659e738",
-            "timestamp": "2025-07-16T10:09:17.265Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68779224aace4cd2f6aef157",
-            "timestamp": "2025-07-16T11:51:00.490Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68779275aace4cd2f6afeb2b",
-            "timestamp": "2025-07-16T11:52:21.043Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "687795f1aace4cd2f6bc3c41",
-            "timestamp": "2025-07-16T12:07:13.887Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7,
-            "asset": "TON",
-            "_id": "687796b4aace4cd2f6be7fc1",
-            "timestamp": "2025-07-16T12:10:28.829Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.35,
-            "asset": "TON",
-            "_id": "687796ceaace4cd2f6beda4f",
-            "timestamp": "2025-07-16T12:10:54.724Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9,
-            "asset": "TON",
-            "_id": "687796d9aace4cd2f6bef32b",
-            "timestamp": "2025-07-16T12:11:05.089Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "68779b31aace4cd2f6d299ba",
-            "timestamp": "2025-07-16T12:29:37.043Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "68779ec7aace4cd2f6da08cb",
-            "timestamp": "2025-07-16T12:44:55.136Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.03,
-            "asset": "TON",
-            "_id": "68779edbaace4cd2f6da365e",
-            "timestamp": "2025-07-16T12:45:15.264Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.58,
-            "asset": "TON",
-            "_id": "6877a0e1aace4cd2f6e2fb46",
-            "timestamp": "2025-07-16T12:53:53.132Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.16,
-            "asset": "TON",
-            "_id": "6877a122aace4cd2f6e46fba",
-            "timestamp": "2025-07-16T12:54:58.350Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15,
-            "asset": "TON",
-            "_id": "6877a140aace4cd2f6e5217f",
-            "timestamp": "2025-07-16T12:55:28.459Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15.75,
-            "asset": "TON",
-            "_id": "6877a1ddaace4cd2f6e89fe4",
-            "timestamp": "2025-07-16T12:58:05.323Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 16.54,
-            "asset": "TON",
-            "_id": "6877a1eaaace4cd2f6e8cce7",
-            "timestamp": "2025-07-16T12:58:18.362Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 17.37,
-            "asset": "TON",
-            "_id": "6877a204aace4cd2f6e91ef4",
-            "timestamp": "2025-07-16T12:58:44.679Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 18.24,
-            "asset": "TON",
-            "_id": "6877a269aace4cd2f6f1440f",
-            "timestamp": "2025-07-16T13:00:25.598Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 19.15,
-            "asset": "TON",
-            "_id": "6877a2adaace4cd2f6f916aa",
-            "timestamp": "2025-07-16T13:01:33.725Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 20.11,
-            "asset": "TON",
-            "_id": "6877a2f8aace4cd2f60701cb",
-            "timestamp": "2025-07-16T13:02:48.680Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 21.12,
-            "asset": "TON",
-            "_id": "6877a330aace4cd2f60c5aa8",
-            "timestamp": "2025-07-16T13:03:44.500Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 22.18,
-            "asset": "TON",
-            "_id": "6877a352aace4cd2f60e2c21",
-            "timestamp": "2025-07-16T13:04:18.799Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 23.29,
-            "asset": "TON",
-            "_id": "6877a585aace4cd2f652e9d8",
-            "timestamp": "2025-07-16T13:13:41.211Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 25,
-            "asset": "TON",
-            "_id": "6877a74baace4cd2f66d8712",
-            "timestamp": "2025-07-16T13:21:15.240Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 28.28,
-            "asset": "TON",
-            "_id": "6877a77faace4cd2f66e71f2",
-            "timestamp": "2025-07-16T13:22:07.297Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 29.69,
-            "asset": "TON",
-            "_id": "6877a7a1aace4cd2f66ef5bc",
-            "timestamp": "2025-07-16T13:22:41.762Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 31.17,
-            "asset": "TON",
-            "_id": "6877a839aace4cd2f670ecc0",
-            "timestamp": "2025-07-16T13:25:13.652Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 33.33,
-            "asset": "TON",
-            "_id": "6877a84baace4cd2f67111d6",
-            "timestamp": "2025-07-16T13:25:31.291Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 35,
-            "asset": "TON",
-            "_id": "6877a8a8aace4cd2f6722357",
-            "timestamp": "2025-07-16T13:27:04.117Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 36.75,
-            "asset": "TON",
-            "_id": "6877a93daace4cd2f673447f",
-            "timestamp": "2025-07-16T13:29:33.664Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 38.59,
-            "asset": "TON",
-            "_id": "6877a9bbaace4cd2f6741413",
-            "timestamp": "2025-07-16T13:31:39.817Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 40.52,
-            "asset": "TON",
-            "_id": "6877a9c6aace4cd2f674327b",
-            "timestamp": "2025-07-16T13:31:50.387Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 42.55,
-            "asset": "TON",
-            "_id": "6877aa8caace4cd2f675cd3f",
-            "timestamp": "2025-07-16T13:35:08.383Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 44.68,
-            "asset": "TON",
-            "_id": "6877ab31aace4cd2f677eda3",
-            "timestamp": "2025-07-16T13:37:53.648Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 46.91,
-            "asset": "TON",
-            "_id": "6877ab45aace4cd2f6781c90",
-            "timestamp": "2025-07-16T13:38:13.255Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 50,
-            "asset": "TON",
-            "_id": "6877ab6daace4cd2f678b2a0",
-            "timestamp": "2025-07-16T13:38:53.351Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 54.54,
-            "asset": "TON",
-            "_id": "6877ac85aace4cd2f67c4e1d",
-            "timestamp": "2025-07-16T13:43:33.579Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 60,
-            "asset": "TON",
-            "_id": "6877ad34aace4cd2f67e7aec",
-            "timestamp": "2025-07-16T13:46:28.669Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T13:57:39.781Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 79596,
-        "model": "Sorting Cat (0.5%)",
-        "backdrop": "Onyx Black (2%)",
-        "symbol": "Narcissus (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T10:07:40.522Z",
-        "__v": 0,
-        "winningBid": 60,
-        "winningBidder": 1130489378
-      },
+      "auction": null,
       "export_at": "2025-07-29T20:56:14.000Z",
       "premarketData": {}
     },
@@ -23874,153 +22896,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "KEO37WUY",
-      "auction": {
-        "_id": "6877b050aace4cd2f6873c79",
-        "gift_id": 7250655,
-        "seller": 0,
-        "auction_id": "KEO37WUY",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5.2,
-            "asset": "TON",
-            "_id": "6877b370aace4cd2f68bde79",
-            "timestamp": "2025-07-16T14:13:04.461Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.46,
-            "asset": "TON",
-            "_id": "6877b5a6aace4cd2f6908223",
-            "timestamp": "2025-07-16T14:22:30.680Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.73,
-            "asset": "TON",
-            "_id": "6877b723aace4cd2f6934ae0",
-            "timestamp": "2025-07-16T14:28:51.946Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.02,
-            "asset": "TON",
-            "_id": "6877b7b6aace4cd2f6944b2f",
-            "timestamp": "2025-07-16T14:31:18.266Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.32,
-            "asset": "TON",
-            "_id": "6877b7c8aace4cd2f69462c3",
-            "timestamp": "2025-07-16T14:31:36.688Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7,
-            "asset": "TON",
-            "_id": "6877b84daace4cd2f6951025",
-            "timestamp": "2025-07-16T14:33:49.761Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8,
-            "asset": "TON",
-            "_id": "6877b867aace4cd2f695472c",
-            "timestamp": "2025-07-16T14:34:15.771Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.4,
-            "asset": "TON",
-            "_id": "6877b877aace4cd2f6956271",
-            "timestamp": "2025-07-16T14:34:31.377Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "6877ba40aace4cd2f697f43c",
-            "timestamp": "2025-07-16T14:42:08.016Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "6877bc3baace4cd2f69c3ce7",
-            "timestamp": "2025-07-16T14:50:35.712Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15,
-            "asset": "TON",
-            "_id": "6877bc48aace4cd2f69c929b",
-            "timestamp": "2025-07-16T14:50:48.828Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 16.5,
-            "asset": "TON",
-            "_id": "6877be4caace4cd2f6a2b681",
-            "timestamp": "2025-07-16T14:59:24.429Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 17.33,
-            "asset": "TON",
-            "_id": "6877be77aace4cd2f6a35715",
-            "timestamp": "2025-07-16T15:00:07.738Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 18.2,
-            "asset": "TON",
-            "_id": "6877c1a8aace4cd2f6b4af35",
-            "timestamp": "2025-07-16T15:13:44.294Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 19.11,
-            "asset": "TON",
-            "_id": "6877c520aace4cd2f6c3fd52",
-            "timestamp": "2025-07-16T15:28:32.043Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 20.07,
-            "asset": "TON",
-            "_id": "6877c5bfaace4cd2f6c68194",
-            "timestamp": "2025-07-16T15:31:11.289Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 21.07,
-            "asset": "TON",
-            "_id": "6877c5d0aace4cd2f6c6cea2",
-            "timestamp": "2025-07-16T15:31:28.585Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 22.12,
-            "asset": "TON",
-            "_id": "6877c668aace4cd2f6c8f1ab",
-            "timestamp": "2025-07-16T15:34:00.077Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T15:49:43.289Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 79596,
-        "model": "Sorting Cat (0.5%)",
-        "backdrop": "Onyx Black (2%)",
-        "symbol": "Narcissus (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T13:59:44.636Z",
-        "__v": 0,
-        "winningBid": 22.12,
-        "winningBidder": 7461578448
-      },
+      "auction": null,
       "export_at": "2025-07-30T13:59:31.000Z",
       "premarketData": {}
     }
@@ -24063,34 +22939,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "VDPAH5QH",
-      "auction": {
-        "_id": "687237c38938e518f1909a02",
-        "gift_id": 7173242,
-        "seller": 0,
-        "auction_id": "VDPAH5QH",
-        "startingBid": 4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "68772b34aace4cd2f6cd8474",
-            "timestamp": "2025-07-16T04:31:48.107Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T04:50:11.791Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 11923,
-        "model": "Polka Dot (0.5%)",
-        "backdrop": "Battleship Grey (1.5%)",
-        "symbol": "Flying Witch (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T03:40:12.756Z",
-        "__v": 0,
-        "winningBid": 4,
-        "winningBidder": 1916489479
-      },
+      "auction": null,
       "export_at": "2025-07-26T10:20:26.000Z",
       "premarketData": {}
     },
@@ -25082,26 +23931,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-02-18T23:33:11.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 37086,
-      "customEmojiId": "5240096277076662697",
-      "gift_id": 239957,
-      "name": "Witch Hat",
-      "model": "Arctic (0.5%)",
-      "asset": "TON",
-      "symbol": "Cherry (0.2%)",
-      "backdrop": "Platinum (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7.9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-02-19T08:58:32.000Z",
       "premarketData": {}
     }
   ],
@@ -27405,6 +26234,24 @@
   ],
   "Cat Familiar": [
     {
+      "gift_num": 22509,
+      "customEmojiId": "5238009717539759405",
+      "gift_id": 582112222742,
+      "name": "Witch Hat",
+      "model": "Cat Familiar (0.5%)",
+      "asset": "TON",
+      "symbol": "Illuminati (2.4%)",
+      "backdrop": "Ivory White (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 489.595,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 78128,
       "customEmojiId": "5238009717539759405",
       "gift_id": 6978570,
@@ -27967,6 +26814,26 @@
   ],
   "Pink Pixie": [
     {
+      "gift_num": 571,
+      "customEmojiId": "5238028757129782670",
+      "gift_id": 7200089,
+      "name": "Witch Hat",
+      "model": "Pink Pixie (1.5%)",
+      "asset": "TON",
+      "symbol": "Flamingo (0.2%)",
+      "backdrop": "Indigo Dye (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.39,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T18:16:34.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 54148,
       "customEmojiId": "5238028757129782670",
       "gift_id": 587297114134,
@@ -28002,26 +26869,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T18:30:42.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 571,
-      "customEmojiId": "5238028757129782670",
-      "gift_id": 7200089,
-      "name": "Witch Hat",
-      "model": "Pink Pixie (1.5%)",
-      "asset": "TON",
-      "symbol": "Flamingo (0.2%)",
-      "backdrop": "Indigo Dye (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6.77,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T18:16:34.000Z",
       "premarketData": {}
     },
     {
@@ -28319,48 +27166,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "JS7OLNS5",
-      "auction": {
-        "_id": "6872a42a8938e518f1c7b951",
-        "gift_id": 7181390,
-        "seller": 0,
-        "auction_id": "JS7OLNS5",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68736d3a8938e518f1fb6699",
-            "timestamp": "2025-07-13T08:24:26.801Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "68736e588938e518f1fbc694",
-            "timestamp": "2025-07-13T08:29:12.771Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "6873718c8938e518f1fcab6f",
-            "timestamp": "2025-07-13T08:42:52.700Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T08:58:59.044Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 22146,
-        "model": "Pink Pixie (1.5%)",
-        "backdrop": "Mystic Pearl (1.5%)",
-        "symbol": "Candle (1.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T07:29:03.798Z",
-        "__v": 0,
-        "winningBid": 3.31,
-        "winningBidder": 895723256
-      },
+      "auction": null,
       "export_at": "2025-07-26T18:01:06.000Z",
       "premarketData": {}
     },
@@ -28573,34 +27379,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "IIRPRNNY",
-      "auction": {
-        "_id": "685c38d09094699bfcdc7515",
-        "gift_id": 6758513,
-        "seller": 0,
-        "auction_id": "IIRPRNNY",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68729c408938e518f1af911c",
-            "timestamp": "2025-07-12T17:32:48.129Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T17:50:29.908Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 22146,
-        "model": "Pink Pixie (1.5%)",
-        "backdrop": "Mystic Pearl (1.5%)",
-        "symbol": "Candle (1.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T16:40:48.865Z",
-        "__v": 0,
-        "winningBid": 3,
-        "winningBidder": 1896294579
-      },
+      "auction": null,
       "export_at": "2025-07-09T17:58:10.000Z",
       "premarketData": {}
     }
@@ -29189,6 +27968,24 @@
   ],
   "Ember Touch": [
     {
+      "gift_num": 44720,
+      "customEmojiId": "5237976457313018963",
+      "gift_id": 582572343877,
+      "name": "Witch Hat",
+      "model": "Ember Touch (1.5%)",
+      "asset": "TON",
+      "symbol": "Treats (2%)",
+      "backdrop": "Chestnut (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4.957,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 45822,
       "customEmojiId": "5237976457313018963",
       "gift_id": 7265614,
@@ -29606,26 +28403,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 687,
-      "customEmojiId": "5237976457313018963",
-      "gift_id": 5954218,
-      "name": "Witch Hat",
-      "model": "Ember Touch (1.5%)",
-      "asset": "TON",
-      "symbol": "Evil Pumpkin (2.4%)",
-      "backdrop": "Light Olive (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T11:56:33.000Z",
       "premarketData": {}
     },
     {
@@ -31370,181 +30147,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "TLWN0ZWI",
-      "auction": {
-        "_id": "6870f5bc8938e518f1ccd910",
-        "gift_id": 7154040,
-        "seller": 0,
-        "auction_id": "TLWN0ZWI",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68712a268938e518f120236e",
-            "timestamp": "2025-07-11T15:13:42.876Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68714a6d8938e518f1d0d446",
-            "timestamp": "2025-07-11T17:31:25.333Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "687160dc8938e518f1964676",
-            "timestamp": "2025-07-11T19:07:08.534Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "687176ba8938e518f1edd4ac",
-            "timestamp": "2025-07-11T20:40:26.079Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "68717a2e8938e518f1001811",
-            "timestamp": "2025-07-11T20:55:10.106Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "6871870a8938e518f11e611c",
-            "timestamp": "2025-07-11T21:50:02.637Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "68718e268938e518f1390ac0",
-            "timestamp": "2025-07-11T22:20:22.707Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.9,
-            "asset": "TON",
-            "_id": "68718e648938e518f1399e78",
-            "timestamp": "2025-07-11T22:21:24.081Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.8,
-            "asset": "TON",
-            "_id": "68718eab8938e518f13a1e0a",
-            "timestamp": "2025-07-11T22:22:35.405Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.04,
-            "asset": "TON",
-            "_id": "68719c6f8938e518f16cae04",
-            "timestamp": "2025-07-11T23:21:19.847Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.29,
-            "asset": "TON",
-            "_id": "68719d7d8938e518f1843509",
-            "timestamp": "2025-07-11T23:25:49.759Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.55,
-            "asset": "TON",
-            "_id": "68719f8b8938e518f19521b6",
-            "timestamp": "2025-07-11T23:34:35.056Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.83,
-            "asset": "TON",
-            "_id": "68719fb78938e518f1957234",
-            "timestamp": "2025-07-11T23:35:19.002Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.12,
-            "asset": "TON",
-            "_id": "6871a0468938e518f1967027",
-            "timestamp": "2025-07-11T23:37:42.454Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.43,
-            "asset": "TON",
-            "_id": "6871a0848938e518f196f55d",
-            "timestamp": "2025-07-11T23:38:44.299Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.75,
-            "asset": "TON",
-            "_id": "6871a14d8938e518f198b458",
-            "timestamp": "2025-07-11T23:42:05.664Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.09,
-            "asset": "TON",
-            "_id": "6871a1998938e518f1991517",
-            "timestamp": "2025-07-11T23:43:21.429Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.44,
-            "asset": "TON",
-            "_id": "6871a25e8938e518f199f6bc",
-            "timestamp": "2025-07-11T23:46:38.678Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.81,
-            "asset": "TON",
-            "_id": "6871a5498938e518f19de3ee",
-            "timestamp": "2025-07-11T23:59:05.978Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.2,
-            "asset": "TON",
-            "_id": "6871a5908938e518f19e02f9",
-            "timestamp": "2025-07-12T00:00:16.535Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.61,
-            "asset": "TON",
-            "_id": "6871a71b8938e518f19fed93",
-            "timestamp": "2025-07-12T00:06:51.725Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.04,
-            "asset": "TON",
-            "_id": "6871a7ff8938e518f1a17c44",
-            "timestamp": "2025-07-12T00:10:39.329Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T00:30:03.103Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 1781,
-        "model": "Dark Side (0.5%)",
-        "backdrop": "Cappuccino (1.5%)",
-        "symbol": "Crow (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T11:30:04.204Z",
-        "__v": 0,
-        "winningBid": 9.04,
-        "winningBidder": 7054781126
-      },
+      "auction": null,
       "export_at": "2025-07-25T11:28:31.000Z",
       "premarketData": {}
     }
@@ -32261,34 +30864,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "LDSI76BW",
-      "auction": {
-        "_id": "686f917c1fe9e6aa2c1aa883",
-        "gift_id": 7009578,
-        "seller": 0,
-        "auction_id": "LDSI76BW",
-        "startingBid": 3.39,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.39,
-            "asset": "TON",
-            "_id": "68722e1a8938e518f17c2928",
-            "timestamp": "2025-07-12T09:42:50.211Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T09:53:19.514Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 61007,
-        "model": "Christmas (0.5%)",
-        "backdrop": "Sapphire (2%)",
-        "symbol": "Coffin (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T07:43:20.182Z",
-        "__v": 0,
-        "winningBid": 3.39,
-        "winningBidder": 692375244
-      },
+      "auction": null,
       "export_at": "2025-07-19T15:29:27.000Z",
       "premarketData": {}
     },
@@ -32345,34 +30921,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "ZMNAYNK3",
-      "auction": {
-        "_id": "686d3c1702272475571b12a0",
-        "gift_id": 7084534,
-        "seller": 0,
-        "auction_id": "ZMNAYNK3",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "686fabbb1fe9e6aa2cb9b76b",
-            "timestamp": "2025-07-10T12:02:03.174Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T17:32:16.813Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 71049,
-        "model": "Christmas (0.5%)",
-        "backdrop": "Navy Blue (2%)",
-        "symbol": "Moon (2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T11:32:18.829Z",
-        "__v": 0,
-        "winningBid": 3,
-        "winningBidder": 6778926149
-      },
+      "auction": null,
       "export_at": "2025-07-22T15:40:48.000Z",
       "premarketData": {}
     },
@@ -32971,55 +31520,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "KL3J22TK",
-      "auction": {
-        "_id": "6874a6618938e518f1f892e4",
-        "gift_id": 7207481,
-        "seller": 0,
-        "auction_id": "KL3J22TK",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687514c2aace4cd2f6a9be21",
-            "timestamp": "2025-07-14T14:31:30.761Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.665,
-            "asset": "TON",
-            "_id": "6875177caace4cd2f6ae5b35",
-            "timestamp": "2025-07-14T14:43:08.744Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.8,
-            "asset": "TON",
-            "_id": "68751b07aace4cd2f6b41950",
-            "timestamp": "2025-07-14T14:58:15.718Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.94,
-            "asset": "TON",
-            "_id": "68751e99aace4cd2f6b6b39f",
-            "timestamp": "2025-07-14T15:13:29.760Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T15:29:56.995Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 27307,
-        "model": "Canvas (1%)",
-        "backdrop": "Platinum (2%)",
-        "symbol": "Grim Reaper (1.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T14:29:58.402Z",
-        "__v": 0,
-        "winningBid": 2.94,
-        "winningBidder": 466743769
-      },
+      "auction": null,
       "export_at": "2025-07-28T06:31:05.000Z",
       "premarketData": {}
     },
@@ -33367,6 +31868,26 @@
     }
   ],
   "Striped": [
+    {
+      "gift_num": 39905,
+      "customEmojiId": "5240182489955199915",
+      "gift_id": 7272168,
+      "name": "Witch Hat",
+      "model": "Striped (1%)",
+      "asset": "TON",
+      "symbol": "Sun Lion (0.2%)",
+      "backdrop": "Pistachio (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T19:43:24.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 37178,
       "customEmojiId": "5240182489955199915",
@@ -33901,26 +32422,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 45311,
-      "customEmojiId": "5240182489955199915",
-      "gift_id": 4403040,
-      "name": "Witch Hat",
-      "model": "Striped (1%)",
-      "asset": "TON",
-      "symbol": "Wasp (0.2%)",
-      "backdrop": "Midnight Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-19T08:12:09.000Z",
       "premarketData": {}
     }
   ],
@@ -34490,34 +32991,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "GKRFV4LO",
-      "auction": {
-        "_id": "686f1bce1fe9e6aa2c98fb26",
-        "gift_id": 7118485,
-        "seller": 0,
-        "auction_id": "GKRFV4LO",
-        "startingBid": 3.3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.3,
-            "asset": "TON",
-            "_id": "686f44cc1fe9e6aa2ccb2313",
-            "timestamp": "2025-07-10T04:42:52.129Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T07:47:56.900Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 27333,
-        "model": "Folklore (1.5%)",
-        "backdrop": "Hunter Green (1%)",
-        "symbol": "Baphomet (1.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T01:47:58.077Z",
-        "__v": 0,
-        "winningBid": 3.3,
-        "winningBidder": 6778926149
-      },
+      "auction": null,
       "export_at": "2025-07-24T01:42:10.000Z",
       "premarketData": {}
     }
@@ -34884,41 +33358,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "T5NTZ7N5",
-      "auction": {
-        "_id": "684b1003d3c0eab9cdcf3230",
-        "gift_id": 6292906,
-        "seller": 0,
-        "auction_id": "T5NTZ7N5",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68720f598938e518f150a8ae",
-            "timestamp": "2025-07-12T07:31:37.947Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "687211078938e518f155e5bc",
-            "timestamp": "2025-07-12T07:38:47.093Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T07:56:22.595Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 35015,
-        "model": "Downtown (1%)",
-        "backdrop": "Amber (1.5%)",
-        "symbol": "Bloody Axe (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T05:36:23.456Z",
-        "__v": 0,
-        "winningBid": 3.15,
-        "winningBidder": 6625712220
-      },
+      "auction": null,
       "export_at": "2025-06-26T13:17:39.000Z",
       "premarketData": {}
     },
@@ -35935,76 +34375,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "JUN2OF37",
-      "auction": {
-        "_id": "68754a57aace4cd2f60cfcf5",
-        "gift_id": 7218681,
-        "seller": 0,
-        "auction_id": "JUN2OF37",
-        "startingBid": 2.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.5,
-            "asset": "TON",
-            "_id": "68755300aace4cd2f616398a",
-            "timestamp": "2025-07-14T18:57:04.820Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.63,
-            "asset": "TON",
-            "_id": "6875555caace4cd2f6191a2d",
-            "timestamp": "2025-07-14T19:07:08.100Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.76,
-            "asset": "TON",
-            "_id": "6875585eaace4cd2f61ddbf8",
-            "timestamp": "2025-07-14T19:19:58.459Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.9,
-            "asset": "TON",
-            "_id": "6875587aaace4cd2f61e1afa",
-            "timestamp": "2025-07-14T19:20:26.204Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.05,
-            "asset": "TON",
-            "_id": "687558c6aace4cd2f61e824d",
-            "timestamp": "2025-07-14T19:21:42.195Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.2,
-            "asset": "TON",
-            "_id": "68755ab9aace4cd2f6458afc",
-            "timestamp": "2025-07-14T19:30:01.418Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.36,
-            "asset": "TON",
-            "_id": "68755ac9aace4cd2f647613c",
-            "timestamp": "2025-07-14T19:30:17.764Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T19:50:06.680Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 52730,
-        "model": "Harvest (1.5%)",
-        "backdrop": "Pure Gold (2%)",
-        "symbol": "Kitsune (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T18:20:07.535Z",
-        "__v": 0,
-        "winningBid": 3.36,
-        "winningBidder": 550443306
-      },
+      "auction": null,
       "export_at": "2025-07-28T18:19:15.000Z",
       "premarketData": {}
     },
@@ -36247,34 +34618,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "39EHLRWB",
-      "auction": {
-        "_id": "6877a440aace4cd2f62ea46b",
-        "gift_id": 7149267,
-        "seller": 0,
-        "auction_id": "39EHLRWB",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6878164baace4cd2f621329b",
-            "timestamp": "2025-07-16T21:14:51.962Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T13:08:14.802Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 74518,
-        "model": "Harvest (1.5%)",
-        "backdrop": "Pacific Green (1.5%)",
-        "symbol": "Spider Web (2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T13:08:16.527Z",
-        "__v": 0,
-        "winningBid": 3,
-        "winningBidder": 6778926149
-      },
+      "auction": null,
       "export_at": "2025-07-25T07:07:01.000Z",
       "premarketData": {}
     },
@@ -39644,62 +37988,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "MS9X2LF0",
-      "auction": {
-        "_id": "687109728938e518f102143c",
-        "gift_id": 7155619,
-        "seller": 0,
-        "auction_id": "MS9X2LF0",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.22,
-            "asset": "TON",
-            "_id": "68710ac88938e518f107439a",
-            "timestamp": "2025-07-11T12:59:52.012Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.6,
-            "asset": "TON",
-            "_id": "68710f388938e518f125f118",
-            "timestamp": "2025-07-11T13:18:48.011Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.73,
-            "asset": "TON",
-            "_id": "687114ef8938e518f1498908",
-            "timestamp": "2025-07-11T13:43:11.494Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.87,
-            "asset": "TON",
-            "_id": "687117198938e518f15cbf49",
-            "timestamp": "2025-07-11T13:52:25.977Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "687117438938e518f160dfe4",
-            "timestamp": "2025-07-11T13:53:07.660Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T14:04:08.206Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 76204,
-        "model": "Illusion (0.5%)",
-        "backdrop": "Desert Sand (1.5%)",
-        "symbol": "Conch (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T12:54:10.327Z",
-        "__v": 0,
-        "winningBid": 3.5,
-        "winningBidder": 1847752077
-      },
+      "auction": null,
       "export_at": "2025-07-25T12:53:47.000Z",
       "premarketData": {}
     }
@@ -40280,6 +38569,26 @@
   ],
   "Aeromancy": [
     {
+      "gift_num": 62950,
+      "customEmojiId": "5237969920372795440",
+      "gift_id": 7258668,
+      "name": "Witch Hat",
+      "model": "Aeromancy (1.5%)",
+      "asset": "TON",
+      "symbol": "Magic Wand (1.6%)",
+      "backdrop": "Pacific Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T21:51:54.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 46257,
       "customEmojiId": "5237969920372795440",
       "gift_id": 582797720568,
@@ -40295,26 +38604,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 62950,
-      "customEmojiId": "5237969920372795440",
-      "gift_id": 7258668,
-      "name": "Witch Hat",
-      "model": "Aeromancy (1.5%)",
-      "asset": "TON",
-      "symbol": "Magic Wand (1.6%)",
-      "backdrop": "Pacific Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T21:51:54.000Z",
       "premarketData": {}
     },
     {
@@ -41034,104 +39323,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "J6E9LVN8",
-      "auction": {
-        "_id": "686ef0d817ef9a49928935eb",
-        "gift_id": 7083184,
-        "seller": 0,
-        "auction_id": "J6E9LVN8",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6871f02c8938e518f1f0e1b3",
-            "timestamp": "2025-07-12T05:18:36.626Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "6871f7fa8938e518f1ff64a5",
-            "timestamp": "2025-07-12T05:51:54.494Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.51,
-            "asset": "TON",
-            "_id": "6871f8488938e518f10050e3",
-            "timestamp": "2025-07-12T05:53:12.105Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.79,
-            "asset": "TON",
-            "_id": "6871f85b8938e518f1008c06",
-            "timestamp": "2025-07-12T05:53:31.823Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.16,
-            "asset": "TON",
-            "_id": "6871f8808938e518f100f62c",
-            "timestamp": "2025-07-12T05:54:08.413Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.47,
-            "asset": "TON",
-            "_id": "6871f8aa8938e518f101673e",
-            "timestamp": "2025-07-12T05:54:50.444Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.79,
-            "asset": "TON",
-            "_id": "6871f8bd8938e518f1019400",
-            "timestamp": "2025-07-12T05:55:09.462Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.13,
-            "asset": "TON",
-            "_id": "6871f8c88938e518f101bbb1",
-            "timestamp": "2025-07-12T05:55:20.113Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.49,
-            "asset": "TON",
-            "_id": "6871f8f08938e518f1021837",
-            "timestamp": "2025-07-12T05:56:00.390Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.86,
-            "asset": "TON",
-            "_id": "6871f9e38938e518f1059b05",
-            "timestamp": "2025-07-12T06:00:03.116Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.25,
-            "asset": "TON",
-            "_id": "6871fa9d8938e518f1081dfa",
-            "timestamp": "2025-07-12T06:03:09.804Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T06:15:43.976Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 6608,
-        "model": "Sneak Attack (0.5%)",
-        "backdrop": "Onyx Black (2%)",
-        "symbol": "Baphomet (1.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T04:55:45.532Z",
-        "__v": 0,
-        "winningBid": 8.25,
-        "winningBidder": 1122005983
-      },
+      "auction": null,
       "export_at": "2025-07-22T14:38:49.000Z",
       "premarketData": {}
     },
@@ -42116,26 +40308,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 46069,
-      "customEmojiId": "5237759398255813712",
-      "gift_id": 7241774,
-      "name": "Witch Hat",
-      "model": "Banished (0.5%)",
-      "asset": "TON",
-      "symbol": "Bloody Axe (2.4%)",
-      "backdrop": "Cobalt Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T23:36:18.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 75681,
       "customEmojiId": "5237759398255813712",
       "gift_id": 592229555508,
@@ -42675,6 +40847,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-09T19:10:10.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 41894,
+      "customEmojiId": "5237759398255813712",
+      "gift_id": 256738,
+      "name": "Witch Hat",
+      "model": "Banished (0.5%)",
+      "asset": "TON",
+      "symbol": "Crystal Ball (2%)",
+      "backdrop": "Satin Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-02-19T17:24:34.000Z",
       "premarketData": {}
     }
   ],
@@ -44828,6 +43020,42 @@
   ],
   "Mad Wizard": [
     {
+      "gift_num": 45664,
+      "customEmojiId": "5237969409271685566",
+      "gift_id": 582814106298,
+      "name": "Witch Hat",
+      "model": "Mad Wizard (1.5%)",
+      "asset": "TON",
+      "symbol": "Cauldron (2.4%)",
+      "backdrop": "Aquamarine (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.059,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 49971,
+      "customEmojiId": "5237969409271685566",
+      "gift_id": 584168850652,
+      "name": "Witch Hat",
+      "model": "Mad Wizard (1.5%)",
+      "asset": "TON",
+      "symbol": "Severed Hand (2%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 16.524,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 46426,
       "customEmojiId": "5237969409271685566",
       "gift_id": 582817214566,
@@ -45356,44 +43584,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 68414,
-      "customEmojiId": "5237969409271685566",
-      "gift_id": 576708342135,
-      "name": "Witch Hat",
-      "model": "Mad Wizard (1.5%)",
-      "asset": "TON",
-      "symbol": "Human Scull (2.4%)",
-      "backdrop": "Turquoise (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 137.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 53988,
-      "customEmojiId": "5237969409271685566",
-      "gift_id": 7089414,
-      "name": "Witch Hat",
-      "model": "Mad Wizard (1.5%)",
-      "asset": "TON",
-      "symbol": "Bloody Axe (2.4%)",
-      "backdrop": "Ivory White (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-22T19:26:49.000Z",
-      "premarketData": {}
     }
   ],
   "Daphnaie": [
@@ -45450,48 +43640,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "WIAUIT48",
-      "auction": {
-        "_id": "68781871aace4cd2f627a26c",
-        "gift_id": 6320269,
-        "seller": 0,
-        "auction_id": "WIAUIT48",
-        "startingBid": 3.2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.2,
-            "asset": "TON",
-            "_id": "6878234daace4cd2f64ab3bb",
-            "timestamp": "2025-07-16T22:10:21.750Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.36,
-            "asset": "TON",
-            "_id": "687823f2aace4cd2f64ae8ab",
-            "timestamp": "2025-07-16T22:13:06.776Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.53,
-            "asset": "TON",
-            "_id": "6878241aaace4cd2f64af4cf",
-            "timestamp": "2025-07-16T22:13:46.193Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T22:24:00.733Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 1714,
-        "model": "Daphnaie (0.5%)",
-        "backdrop": "Satin Gold (2%)",
-        "symbol": "Heart (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T21:24:01.453Z",
-        "__v": 0,
-        "winningBid": 3.53,
-        "winningBidder": 7167465601
-      },
+      "auction": null,
       "export_at": "2025-06-26T23:21:47.000Z",
       "premarketData": {}
     },
@@ -47014,6 +45163,44 @@
   ],
   "Morrigan": [
     {
+      "gift_num": 5332,
+      "customEmojiId": "5237888200030053807",
+      "gift_id": 7118651,
+      "name": "Witch Hat",
+      "model": "Morrigan (1.5%)",
+      "asset": "TON",
+      "symbol": "Bastet (0.2%)",
+      "backdrop": "Cappuccino (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-24T02:05:10.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 62702,
+      "customEmojiId": "5237888200030053807",
+      "gift_id": 593610259504,
+      "name": "Witch Hat",
+      "model": "Morrigan (1.5%)",
+      "asset": "TON",
+      "symbol": "Candle (1.6%)",
+      "backdrop": "Cappuccino (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 30.597,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 69997,
       "customEmojiId": "5237888200030053807",
       "gift_id": 583268137169,
@@ -47089,26 +45276,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-18T09:10:31.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5332,
-      "customEmojiId": "5237888200030053807",
-      "gift_id": 7118651,
-      "name": "Witch Hat",
-      "model": "Morrigan (1.5%)",
-      "asset": "TON",
-      "symbol": "Bastet (0.2%)",
-      "backdrop": "Cappuccino (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T02:05:10.000Z",
       "premarketData": {}
     },
     {
@@ -47568,26 +45735,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 20009,
-      "customEmojiId": "5237888200030053807",
-      "gift_id": 6871207,
-      "name": "Witch Hat",
-      "model": "Morrigan (1.5%)",
-      "asset": "TON",
-      "symbol": "Crystal Ball (2%)",
-      "backdrop": "Lavender (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-14T15:25:46.000Z",
-      "premarketData": {}
     }
   ],
   "Incense": [
@@ -48028,97 +46175,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "261KSEOR",
-      "auction": {
-        "_id": "686ce22002272475570331ba",
-        "gift_id": 7074537,
-        "seller": 0,
-        "auction_id": "261KSEOR",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "687253c68938e518f14f588a",
-            "timestamp": "2025-07-12T12:23:34.355Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "687254df8938e518f150505a",
-            "timestamp": "2025-07-12T12:28:15.637Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.03,
-            "asset": "TON",
-            "_id": "687256608938e518f1515905",
-            "timestamp": "2025-07-12T12:34:40.044Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.58,
-            "asset": "TON",
-            "_id": "687256818938e518f1518f66",
-            "timestamp": "2025-07-12T12:35:13.836Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.16,
-            "asset": "TON",
-            "_id": "687256958938e518f151949f",
-            "timestamp": "2025-07-12T12:35:33.392Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.77,
-            "asset": "TON",
-            "_id": "687256a78938e518f1519933",
-            "timestamp": "2025-07-12T12:35:51.260Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.41,
-            "asset": "TON",
-            "_id": "687256bc8938e518f1519cff",
-            "timestamp": "2025-07-12T12:36:12.194Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 14.08,
-            "asset": "TON",
-            "_id": "6872570f8938e518f1520227",
-            "timestamp": "2025-07-12T12:37:35.348Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 14.78,
-            "asset": "TON",
-            "_id": "6872574c8938e518f1523a3d",
-            "timestamp": "2025-07-12T12:38:36.714Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15.52,
-            "asset": "TON",
-            "_id": "68725bcb8938e518f19f6f1a",
-            "timestamp": "2025-07-12T12:57:47.127Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T13:07:55.223Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 79188,
-        "model": "Incense (1.5%)",
-        "backdrop": "Black (1%)",
-        "symbol": "Spider Web (2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T10:47:56.865Z",
-        "__v": 0,
-        "winningBid": 15.52,
-        "winningBidder": 5913338420
-      },
+      "auction": null,
       "export_at": "2025-07-22T09:13:55.000Z",
       "premarketData": {}
     },
@@ -49759,55 +47816,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "TX2FXUNB",
-      "auction": {
-        "_id": "6873d5b38938e518f19bb02b",
-        "gift_id": 7169206,
-        "seller": 0,
-        "auction_id": "TX2FXUNB",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.5,
-            "asset": "TON",
-            "_id": "6873da8a8938e518f19dd7a2",
-            "timestamp": "2025-07-13T16:10:50.760Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.63,
-            "asset": "TON",
-            "_id": "6873de298938e518f19f2a95",
-            "timestamp": "2025-07-13T16:26:17.770Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.76,
-            "asset": "TON",
-            "_id": "6873e2dd8938e518f1f5b6a5",
-            "timestamp": "2025-07-13T16:46:21.836Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.9,
-            "asset": "TON",
-            "_id": "6873e3558938e518f1f5dcb9",
-            "timestamp": "2025-07-13T16:48:21.841Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T17:00:09.859Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 53431,
-        "model": "Pinstripe (1%)",
-        "backdrop": "Roman Silver (1.5%)",
-        "symbol": "Fish Skeleton (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T15:50:11.341Z",
-        "__v": 0,
-        "winningBid": 2.9,
-        "winningBidder": 5223518675
-      },
+      "auction": null,
       "export_at": "2025-07-26T04:12:27.000Z",
       "premarketData": {}
     },
@@ -50729,34 +48738,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "DQF7SNTH",
-      "auction": {
-        "_id": "686bf68402272475571bd146",
-        "gift_id": 7059110,
-        "seller": 0,
-        "auction_id": "DQF7SNTH",
-        "startingBid": 4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "686fa3f21fe9e6aa2ca1435a",
-            "timestamp": "2025-07-10T11:28:50.009Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T11:40:48.231Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 44404,
-        "model": "Hatroulette (0.5%)",
-        "backdrop": "Electric Indigo (2%)",
-        "symbol": "Skull (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T10:30:49.720Z",
-        "__v": 0,
-        "winningBid": 4,
-        "winningBidder": 1771369046
-      },
+      "auction": null,
       "export_at": "2025-07-21T16:31:32.000Z",
       "premarketData": {}
     },
@@ -50911,76 +48893,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "FP5UBOCR",
-      "auction": {
-        "_id": "6857d06c5b7a7b9faa30a3e6",
-        "gift_id": 5722105,
-        "seller": 0,
-        "auction_id": "FP5UBOCR",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "686f56c01fe9e6aa2cd95741",
-            "timestamp": "2025-07-10T05:59:28.978Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.16,
-            "asset": "TON",
-            "_id": "686f6a0e1fe9e6aa2c763068",
-            "timestamp": "2025-07-10T07:21:50.117Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.32,
-            "asset": "TON",
-            "_id": "686f77b91fe9e6aa2c93e75e",
-            "timestamp": "2025-07-10T08:20:09.638Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "686f79ec1fe9e6aa2c9eaf41",
-            "timestamp": "2025-07-10T08:29:32.371Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.68,
-            "asset": "TON",
-            "_id": "686f7c6f1fe9e6aa2ca35e49",
-            "timestamp": "2025-07-10T08:40:15.931Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.9,
-            "asset": "TON",
-            "_id": "686f7e2e1fe9e6aa2ca6452b",
-            "timestamp": "2025-07-10T08:47:42.067Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.1,
-            "asset": "TON",
-            "_id": "686f813b1fe9e6aa2caa57e5",
-            "timestamp": "2025-07-10T09:00:43.887Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T09:10:59.439Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 46808,
-        "model": "Hatroulette (0.5%)",
-        "backdrop": "Desert Sand (1.5%)",
-        "symbol": "Grape (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T05:21:00.532Z",
-        "__v": 0,
-        "winningBid": 4.1,
-        "winningBidder": 2020690884
-      },
+      "auction": null,
       "export_at": "2025-06-19T08:34:18.000Z",
       "premarketData": {}
     },
@@ -51745,6 +49658,436 @@
       "premarketData": {}
     }
   ],
+  "Black Magic": [
+    {
+      "gift_num": 36204,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 582322861253,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Eyeball (2.4%)",
+      "backdrop": "English Violet (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.794,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 37081,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 7236173,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Blood Drop (1.6%)",
+      "backdrop": "Chocolate (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T17:45:38.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 38221,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 5031546,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Scarecrow (1.6%)",
+      "backdrop": "Ivory White (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10.98,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-05-31T23:17:07.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 20913,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 582365614646,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Human Scull (2.4%)",
+      "backdrop": "Navy Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 27.54,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 9770,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 7231347,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Ghost (2.4%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.14,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T13:28:47.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 74525,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 7225262,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Illuminati (2.4%)",
+      "backdrop": "Caramel (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T05:41:12.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 9770,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 7216032,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Ghost (2.4%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.95,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-28T15:36:40.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 13949,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 6157505,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Gravestone (1.6%)",
+      "backdrop": "Ivory White (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-24T16:49:13.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 48535,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 5664178,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Jellyfish (0.2%)",
+      "backdrop": "Pacific Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 11,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-18T12:45:04.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 47279,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 583023294398,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Bloody Axe (2.4%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 27.54,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 36204,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 7152631,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Eyeball (2.4%)",
+      "backdrop": "English Violet (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-25T10:17:58.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 28933,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 5718365,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Human Scull (2.4%)",
+      "backdrop": "Orange (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-19T06:34:17.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 888,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 6777900,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Ghost (2.4%)",
+      "backdrop": "Satin Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 884355,
+      "price": 180,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-10T14:43:28.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 32156,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 6848888,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Happy Smile (2.4%)",
+      "backdrop": "Burgundy (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-13T18:17:05.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 66352,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 598542675109,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Scarecrow (1.6%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 385.56,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 393,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 582348459688,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Fish Skeleton (2.4%)",
+      "backdrop": "Desert Sand (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 82.62,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 22719,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 582136524956,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Human Scull (2.4%)",
+      "backdrop": "Copper (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 21.977,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3336,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 5920268,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Poison Drop (2%)",
+      "backdrop": "Mint Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 17,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-23T06:21:54.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 44,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 5721617,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Watermelon (0.2%)",
+      "backdrop": "Chestnut (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 737287,
+      "price": 65,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-19T08:20:03.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 39205,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 4659858,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Human Scull (2.4%)",
+      "backdrop": "Midnight Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 581495,
+      "price": 120,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-05-25T06:49:00.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 663,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 2267798,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Voodoo Doll (2.4%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 447599,
+      "price": 90,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-04-08T01:57:31.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 25783,
+      "customEmojiId": "5237687238510274429",
+      "gift_id": 228009,
+      "name": "Witch Hat",
+      "model": "Black Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Treats (2%)",
+      "backdrop": "Pacific Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 233966,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-02-19T03:00:20.000Z",
+      "premarketData": {}
+    }
+  ],
   "Vintage": [
     {
       "gift_num": 8672,
@@ -51951,69 +50294,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "5G0XJD3K",
-      "auction": {
-        "_id": "6875539eaace4cd2f616ea5d",
-        "gift_id": 7219055,
-        "seller": 0,
-        "auction_id": "5G0XJD3K",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6875576faace4cd2f61bd304",
-            "timestamp": "2025-07-14T19:15:59.792Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68755cb6aace4cd2f66780bc",
-            "timestamp": "2025-07-14T19:38:30.588Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.3,
-            "asset": "TON",
-            "_id": "68755d63aace4cd2f669bb7a",
-            "timestamp": "2025-07-14T19:41:23.266Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.42,
-            "asset": "TON",
-            "_id": "68755d8eaace4cd2f66a5964",
-            "timestamp": "2025-07-14T19:42:06.764Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.54,
-            "asset": "TON",
-            "_id": "68756081aace4cd2f675130b",
-            "timestamp": "2025-07-14T19:54:41.293Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.67,
-            "asset": "TON",
-            "_id": "68756099aace4cd2f6754fe4",
-            "timestamp": "2025-07-14T19:55:05.415Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T20:09:39.859Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 14491,
-        "model": "Vintage (1.5%)",
-        "backdrop": "English Violet (2%)",
-        "symbol": "Skull (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T18:59:42.465Z",
-        "__v": 0,
-        "winningBid": 2.67,
-        "winningBidder": 682778850
-      },
+      "auction": null,
       "export_at": "2025-07-28T18:42:15.000Z",
       "premarketData": {}
     },
@@ -54346,55 +52627,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "BU4ATPWK",
-      "auction": {
-        "_id": "6875451aaace4cd2f60009ca",
-        "gift_id": 5954104,
-        "seller": 0,
-        "auction_id": "BU4ATPWK",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68755335aace4cd2f61664cf",
-            "timestamp": "2025-07-14T18:57:57.175Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "68755484aace4cd2f617ed9b",
-            "timestamp": "2025-07-14T19:03:32.158Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "68755494aace4cd2f617f863",
-            "timestamp": "2025-07-14T19:03:48.018Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.48,
-            "asset": "TON",
-            "_id": "687554a3aace4cd2f6181c3b",
-            "timestamp": "2025-07-14T19:04:03.471Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T19:21:46.787Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 630,
-        "model": "Seaside (1.5%)",
-        "backdrop": "Mint Green (1%)",
-        "symbol": "Autumn Leaves (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T18:11:52.165Z",
-        "__v": 0,
-        "winningBid": 3.48,
-        "winningBidder": 1101891897
-      },
+      "auction": null,
       "export_at": "2025-06-23T11:56:04.000Z",
       "premarketData": {}
     },
@@ -54741,69 +52974,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "GNADA9HJ",
-      "auction": {
-        "_id": "68778837aace4cd2f68862b8",
-        "gift_id": 7247594,
-        "seller": 0,
-        "auction_id": "GNADA9HJ",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68788b57aace4cd2f692c602",
-            "timestamp": "2025-07-17T05:34:15.316Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68788b66aace4cd2f692cb71",
-            "timestamp": "2025-07-17T05:34:30.229Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "68788b92aace4cd2f692cfe0",
-            "timestamp": "2025-07-17T05:35:14.860Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "68788c5baace4cd2f692ecfa",
-            "timestamp": "2025-07-17T05:38:35.387Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "68788e03aace4cd2f6934347",
-            "timestamp": "2025-07-17T05:45:39.234Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68788e79aace4cd2f69362ef",
-            "timestamp": "2025-07-17T05:47:37.166Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T06:17:00.676Z",
-        "status": "finished",
-        "gift_name": "Witch Hat",
-        "gift_num": 27408,
-        "model": "Little Wizard (1.5%)",
-        "backdrop": "Sapphire (2%)",
-        "symbol": "Moon (2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T05:17:01.419Z",
-        "__v": 0,
-        "winningBid": 3,
-        "winningBidder": 6778926149
-      },
+      "auction": null,
       "export_at": "2025-07-30T11:05:43.000Z",
       "premarketData": {}
     },
@@ -55902,6 +54073,46 @@
   ],
   "Luminous": [
     {
+      "gift_num": 29251,
+      "customEmojiId": "5239992416177514016",
+      "gift_id": 7242578,
+      "name": "Witch Hat",
+      "model": "Luminous (1.5%)",
+      "asset": "TON",
+      "symbol": "Evil Pumpkin (2.4%)",
+      "backdrop": "Cyberpunk (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T01:23:02.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 75446,
+      "customEmojiId": "5239992416177514016",
+      "gift_id": 7269718,
+      "name": "Witch Hat",
+      "model": "Luminous (1.5%)",
+      "asset": "TON",
+      "symbol": "Evil Pumpkin (2.4%)",
+      "backdrop": "Neon Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T16:30:19.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 9223,
       "customEmojiId": "5239992416177514016",
       "gift_id": 7268032,
@@ -56430,42 +54641,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 6.61,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 39772,
-      "customEmojiId": "5239992416177514016",
-      "gift_id": 582346257658,
-      "name": "Witch Hat",
-      "model": "Luminous (1.5%)",
-      "asset": "TON",
-      "symbol": "Cauldron (2.4%)",
-      "backdrop": "Navy Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 27.54,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5189,
-      "customEmojiId": "5239992416177514016",
-      "gift_id": 582093921457,
-      "name": "Witch Hat",
-      "model": "Luminous (1.5%)",
-      "asset": "TON",
-      "symbol": "Doberman (0.2%)",
-      "backdrop": "Pine Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 22.032,
       "status": "forsale",
       "limited": false,
       "auction": null,
