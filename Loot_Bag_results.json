@@ -749,41 +749,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "H0Z0VWBH",
-      "auction": {
-        "_id": "6876c95daace4cd2f64c98c9",
-        "gift_id": 7239380,
-        "seller": 0,
-        "auction_id": "H0Z0VWBH",
-        "startingBid": 100,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 106.3,
-            "asset": "TON",
-            "_id": "6876d0e9aace4cd2f65e7f27",
-            "timestamp": "2025-07-15T22:06:33.628Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 120,
-            "asset": "TON",
-            "_id": "6876eb2eaace4cd2f6a4c1f4",
-            "timestamp": "2025-07-15T23:58:38.873Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T09:40:46.930Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 10672,
-        "model": "Tressage (2%)",
-        "backdrop": "Neon Blue (1.5%)",
-        "symbol": "Tree of Life (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T21:40:48.066Z",
-        "__v": 0,
-        "winningBid": 120,
-        "winningBidder": 6622581522
-      },
+      "auction": null,
       "export_at": "2025-07-29T20:35:54.000Z",
       "premarketData": {}
     },
@@ -1135,34 +1101,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "8523DKB2",
-      "auction": {
-        "_id": "6870a6d434f3663346d1641c",
-        "gift_id": 7148539,
-        "seller": 0,
-        "auction_id": "8523DKB2",
-        "startingBid": 90,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 98,
-            "asset": "TON",
-            "_id": "6870cb6d34f36633465bc70f",
-            "timestamp": "2025-07-11T08:29:33.271Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T08:53:23.638Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 306,
-        "model": "Tressage (2%)",
-        "backdrop": "Caramel (1.5%)",
-        "symbol": "Hamburger (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T05:53:24.987Z",
-        "__v": 0,
-        "winningBid": 98,
-        "winningBidder": 6916986054
-      },
+      "auction": null,
       "export_at": "2025-07-25T05:52:16.000Z",
       "premarketData": {}
     }
@@ -1585,26 +1524,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 9409,
-      "customEmojiId": "5287420881033784452",
-      "gift_id": 7261583,
-      "name": "Loot Bag",
-      "model": "Jade Serpent (1.5%)",
-      "asset": "TON",
-      "symbol": "War Tiger (0.4%)",
-      "backdrop": "Pine Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 130,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T05:40:59.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2280,
       "customEmojiId": "5287420881033784452",
       "gift_id": 7186685,
@@ -1980,102 +1899,32 @@
       "status": "auction",
       "limited": false,
       "auction_id": "8K8RXRFX",
-      "auction": {
-        "_id": "6870e8ab8938e518f1a03def",
-        "gift_id": 7152951,
-        "seller": 0,
-        "auction_id": "8K8RXRFX",
-        "startingBid": 8,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 8,
-            "asset": "TON",
-            "_id": "6870f5c88938e518f1ccfd8f",
-            "timestamp": "2025-07-11T11:30:16.098Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 29,
-            "asset": "TON",
-            "_id": "687100fa8938e518f1ec6ad7",
-            "timestamp": "2025-07-11T12:18:02.417Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 30.45,
-            "asset": "TON",
-            "_id": "687101608938e518f1ed83bf",
-            "timestamp": "2025-07-11T12:19:44.002Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 31.97,
-            "asset": "TON",
-            "_id": "68710bde8938e518f10ba955",
-            "timestamp": "2025-07-11T13:04:30.504Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 33.57,
-            "asset": "TON",
-            "_id": "68710c858938e518f10df3ae",
-            "timestamp": "2025-07-11T13:07:17.945Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 35.25,
-            "asset": "TON",
-            "_id": "68710c998938e518f10e4861",
-            "timestamp": "2025-07-11T13:07:37.809Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 37.01,
-            "asset": "TON",
-            "_id": "68710cae8938e518f10e843b",
-            "timestamp": "2025-07-11T13:07:58.699Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 38.86,
-            "asset": "TON",
-            "_id": "68710d8a8938e518f1115103",
-            "timestamp": "2025-07-11T13:11:38.582Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 40.8,
-            "asset": "TON",
-            "_id": "68710d988938e518f111772d",
-            "timestamp": "2025-07-11T13:11:52.454Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 98,
-            "asset": "TON",
-            "_id": "68710da88938e518f111b828",
-            "timestamp": "2025-07-11T13:12:08.820Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T13:45:09.529Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 5819,
-        "model": "Jade Serpent (1.5%)",
-        "backdrop": "Moonstone (2%)",
-        "symbol": "Greek Sun (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T10:45:10.916Z",
-        "__v": 0,
-        "winningBid": 98,
-        "winningBidder": 5639908664
-      },
+      "auction": null,
       "export_at": "2025-07-25T10:33:55.000Z",
       "premarketData": {}
     }
   ],
   "Black Ascot": [
+    {
+      "gift_num": 9961,
+      "customEmojiId": "5287737205375135536",
+      "gift_id": 7241813,
+      "name": "Loot Bag",
+      "model": "Black Ascot (2%)",
+      "asset": "TON",
+      "symbol": "Police Badge (0.2%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 911082,
+      "price": 235,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T23:41:09.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 10494,
       "customEmojiId": "5287737205375135536",
@@ -2110,26 +1959,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 9961,
-      "customEmojiId": "5287737205375135536",
-      "gift_id": 7241813,
-      "name": "Loot Bag",
-      "model": "Black Ascot (2%)",
-      "asset": "TON",
-      "symbol": "Police Badge (0.2%)",
-      "backdrop": "Onyx Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 907622,
-      "price": 275,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T23:41:09.000Z",
       "premarketData": {}
     },
     {
@@ -2642,6 +2471,26 @@
     }
   ],
   "Cortado": [
+    {
+      "gift_num": 5608,
+      "customEmojiId": "5287606256117246036",
+      "gift_id": 7273841,
+      "name": "Loot Bag",
+      "model": "Cortado (2%)",
+      "asset": "TON",
+      "symbol": "Silver Ibis (0.5%)",
+      "backdrop": "Roman Silver (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 100,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:57:01.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 7377,
       "customEmojiId": "5287606256117246036",
@@ -4652,8 +4501,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 907357,
-      "price": 330,
+      "message_in_channel": 911046,
+      "price": 299,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -5017,34 +4866,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "XZ03AJU1",
-      "auction": {
-        "_id": "686ccfe30227247557c1fec3",
-        "gift_id": 7062523,
-        "seller": 0,
-        "auction_id": "XZ03AJU1",
-        "startingBid": 103,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 103.1,
-            "asset": "TON",
-            "_id": "686ec6360227247557e42d5a",
-            "timestamp": "2025-07-09T19:42:46.920Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T21:23:28.507Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 7588,
-        "model": "Grizzly (1.5%)",
-        "backdrop": "Chocolate (1.5%)",
-        "symbol": "Doberman (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-08T21:23:30.135Z",
-        "__v": 0,
-        "winningBid": 103.1,
-        "winningBidder": 6789917689
-      },
+      "auction": null,
       "export_at": "2025-07-21T18:45:48.000Z",
       "premarketData": {}
     },
@@ -5148,26 +4970,6 @@
     }
   ],
   "Dark Arches": [
-    {
-      "gift_num": 10459,
-      "customEmojiId": "5287458315968734382",
-      "gift_id": 7269601,
-      "name": "Loot Bag",
-      "model": "Dark Arches (1%)",
-      "asset": "TON",
-      "symbol": "Fenrir (0.5%)",
-      "backdrop": "Pure Gold (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 120,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T16:16:35.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 14225,
       "customEmojiId": "5287458315968734382",
@@ -5356,111 +5158,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "A5TNRZZX",
-      "auction": {
-        "_id": "6871287d8938e518f10e85c1",
-        "gift_id": 7158226,
-        "seller": 0,
-        "auction_id": "A5TNRZZX",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6873dadd8938e518f19df87d",
-            "timestamp": "2025-07-13T16:12:13.225Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6873db358938e518f19e3811",
-            "timestamp": "2025-07-13T16:13:41.278Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "6873db608938e518f19e5bf4",
-            "timestamp": "2025-07-13T16:14:24.016Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.4,
-            "asset": "TON",
-            "_id": "6873db7a8938e518f19e6daf",
-            "timestamp": "2025-07-13T16:14:50.376Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8,
-            "asset": "TON",
-            "_id": "6873db8d8938e518f19e7572",
-            "timestamp": "2025-07-13T16:15:09.008Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 77,
-            "asset": "TON",
-            "_id": "6873dc998938e518f19ec574",
-            "timestamp": "2025-07-13T16:19:37.704Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 94,
-            "asset": "TON",
-            "_id": "68743b368938e518f18b16f9",
-            "timestamp": "2025-07-13T23:03:18.524Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 98.7,
-            "asset": "TON",
-            "_id": "6874bb7c8938e518f1e90da6",
-            "timestamp": "2025-07-14T08:10:36.856Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 115,
-            "asset": "TON",
-            "_id": "6875153aaace4cd2f6aa88c7",
-            "timestamp": "2025-07-14T14:33:30.309Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 120.75,
-            "asset": "TON",
-            "_id": "6875154aaace4cd2f6aaa471",
-            "timestamp": "2025-07-14T14:33:46.722Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 126.79,
-            "asset": "TON",
-            "_id": "68751601aace4cd2f6abcc9d",
-            "timestamp": "2025-07-14T14:36:49.300Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 133.13,
-            "asset": "TON",
-            "_id": "687525daaace4cd2f6bf7fe4",
-            "timestamp": "2025-07-14T15:44:26.324Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T16:07:17.395Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 12473,
-        "model": "Dark Arches (1%)",
-        "backdrop": "Steel Grey (2%)",
-        "symbol": "Viking Shield (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T16:07:20.120Z",
-        "__v": 0,
-        "winningBid": 133.13,
-        "winningBidder": 6622581522
-      },
+      "auction": null,
       "export_at": "2025-07-25T15:04:38.000Z",
       "premarketData": {}
     }
@@ -6277,118 +5975,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "XIEABG8B",
-      "auction": {
-        "_id": "68740f908938e518f1170320",
-        "gift_id": 6667914,
-        "seller": 0,
-        "auction_id": "XIEABG8B",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6874100e8938e518f11732b8",
-            "timestamp": "2025-07-13T19:59:10.174Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "687410e98938e518f11792d3",
-            "timestamp": "2025-07-13T20:02:49.425Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7,
-            "asset": "TON",
-            "_id": "687412a18938e518f1191026",
-            "timestamp": "2025-07-13T20:10:09.917Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.35,
-            "asset": "TON",
-            "_id": "6874130b8938e518f1194ea0",
-            "timestamp": "2025-07-13T20:11:55.041Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.77,
-            "asset": "TON",
-            "_id": "687413f58938e518f11a2fa5",
-            "timestamp": "2025-07-13T20:15:49.622Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.16,
-            "asset": "TON",
-            "_id": "6874140d8938e518f11a4189",
-            "timestamp": "2025-07-13T20:16:13.550Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.57,
-            "asset": "TON",
-            "_id": "687414738938e518f11a7d9d",
-            "timestamp": "2025-07-13T20:17:55.328Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9,
-            "asset": "TON",
-            "_id": "687414808938e518f11a86d1",
-            "timestamp": "2025-07-13T20:18:08.297Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 111.69,
-            "asset": "TON",
-            "_id": "687414e38938e518f11b1162",
-            "timestamp": "2025-07-13T20:19:47.269Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 120,
-            "asset": "TON",
-            "_id": "68741b888938e518f123eb8d",
-            "timestamp": "2025-07-13T20:48:08.014Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 126,
-            "asset": "TON",
-            "_id": "68741bbb8938e518f12440c6",
-            "timestamp": "2025-07-13T20:48:59.724Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 132.3,
-            "asset": "TON",
-            "_id": "68741bce8938e518f1245e98",
-            "timestamp": "2025-07-13T20:49:18.647Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 153,
-            "asset": "TON",
-            "_id": "68741d5b8938e518f127645b",
-            "timestamp": "2025-07-13T20:55:55.920Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T21:07:02.419Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 14120,
-        "model": "Sunset Stripes (1.5%)",
-        "backdrop": "Onyx Black (1.5%)",
-        "symbol": "Twin Peaks (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T19:57:04.052Z",
-        "__v": 0,
-        "winningBid": 153,
-        "winningBidder": 7080957786
-      },
+      "auction": null,
       "export_at": "2025-07-05T21:15:22.000Z",
       "premarketData": {}
     },
@@ -6593,6 +6180,26 @@
   ],
   "Black Purrse": [
     {
+      "gift_num": 2659,
+      "customEmojiId": "5292214348003959542",
+      "gift_id": 7272956,
+      "name": "Loot Bag",
+      "model": "Black Purrse (0.5%)",
+      "asset": "TON",
+      "symbol": "Watermelon (0.5%)",
+      "backdrop": "Burgundy (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 910930,
+      "price": 500,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T20:51:04.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2582,
       "customEmojiId": "5292214348003959542",
       "gift_id": 6317098,
@@ -6734,6 +6341,26 @@
     }
   ],
   "Night City": [
+    {
+      "gift_num": 7896,
+      "customEmojiId": "5291752501580688380",
+      "gift_id": 7271586,
+      "name": "Loot Bag",
+      "model": "Night City (1%)",
+      "asset": "TON",
+      "symbol": "Hamburger (0.4%)",
+      "backdrop": "Azure Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 910806,
+      "price": 150,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T18:59:32.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 7896,
       "customEmojiId": "5291752501580688380",
@@ -7337,6 +6964,26 @@
   ],
   "Menthol": [
     {
+      "gift_num": 13605,
+      "customEmojiId": "5292016809573114080",
+      "gift_id": 7273554,
+      "name": "Loot Bag",
+      "model": "Menthol (1.5%)",
+      "asset": "TON",
+      "symbol": "Double Axe (0.5%)",
+      "backdrop": "Battleship Grey (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 115,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:38:26.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4674,
       "customEmojiId": "5292016809573114080",
       "gift_id": 6861363,
@@ -7888,41 +7535,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "EW7AWHI5",
-      "auction": {
-        "_id": "6873ec668938e518f1fcec81",
-        "gift_id": 7199111,
-        "seller": 0,
-        "auction_id": "EW7AWHI5",
-        "startingBid": 20,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 107,
-            "asset": "TON",
-            "_id": "6873efc88938e518f100cbe8",
-            "timestamp": "2025-07-13T17:41:28.125Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 112.35,
-            "asset": "TON",
-            "_id": "6873f00f8938e518f1013ac5",
-            "timestamp": "2025-07-13T17:42:39.783Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T18:27:01.189Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 10036,
-        "model": "Anemone (1.5%)",
-        "backdrop": "Carrot Juice (2%)",
-        "symbol": "Grenade (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T17:27:02.432Z",
-        "__v": 0,
-        "winningBid": 112.35,
-        "winningBidder": 5639908664
-      },
+      "auction": null,
       "export_at": "2025-07-27T17:26:40.000Z",
       "premarketData": {}
     }
@@ -8564,41 +8177,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "8PX6YFH0",
-      "auction": {
-        "_id": "686fbb58241ecc1b1114cb71",
-        "gift_id": 7129963,
-        "seller": 0,
-        "auction_id": "8PX6YFH0",
-        "startingBid": 110,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 110,
-            "asset": "TON",
-            "_id": "686fe48734f36633466376bb",
-            "timestamp": "2025-07-10T16:04:23.365Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 115.5,
-            "asset": "TON",
-            "_id": "686fecc934f366334689e24a",
-            "timestamp": "2025-07-10T16:39:37.964Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T17:46:46.614Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 414,
-        "model": "White Pony (1.5%)",
-        "backdrop": "Electric Purple (2%)",
-        "symbol": "Chest (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T14:46:47.896Z",
-        "__v": 0,
-        "winningBid": 115.5,
-        "winningBidder": 127437833
-      },
+      "auction": null,
       "export_at": "2025-07-24T13:08:19.000Z",
       "premarketData": {}
     }
@@ -8870,8 +8449,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 910431,
-      "price": 350,
+      "message_in_channel": 910892,
+      "price": 300,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -8895,69 +8474,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "CK7P709E",
-      "auction": {
-        "_id": "687545e9aace4cd2f6012dd6",
-        "gift_id": 7218103,
-        "seller": 0,
-        "auction_id": "CK7P709E",
-        "startingBid": 100,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 100,
-            "asset": "TON",
-            "_id": "687546e4aace4cd2f6029fc1",
-            "timestamp": "2025-07-14T18:05:24.998Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 105,
-            "asset": "TON",
-            "_id": "687547e3aace4cd2f603d1fd",
-            "timestamp": "2025-07-14T18:09:39.337Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 112,
-            "asset": "TON",
-            "_id": "68754854aace4cd2f608e954",
-            "timestamp": "2025-07-14T18:11:32.902Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 117.6,
-            "asset": "TON",
-            "_id": "68754903aace4cd2f60b53d8",
-            "timestamp": "2025-07-14T18:14:27.077Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 123.48,
-            "asset": "TON",
-            "_id": "68754d71aace4cd2f6111918",
-            "timestamp": "2025-07-14T18:33:21.475Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 129.65,
-            "asset": "TON",
-            "_id": "687553dfaace4cd2f6174110",
-            "timestamp": "2025-07-14T19:00:47.980Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T19:11:11.828Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 747,
-        "model": "Courchevel (1.5%)",
-        "backdrop": "English Violet (2%)",
-        "symbol": "Skull (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T18:01:13.766Z",
-        "__v": 0,
-        "winningBid": 129.65,
-        "winningBidder": 8173622469
-      },
+      "auction": null,
       "export_at": "2025-07-28T17:40:10.000Z",
       "premarketData": {}
     },
@@ -9129,8 +8646,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 901736,
-      "price": 190,
+      "message_in_channel": 910813,
+      "price": 150,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -9488,41 +9005,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "P79GEVLM",
-      "auction": {
-        "_id": "686ad185022724755797cbe5",
-        "gift_id": 6852979,
-        "seller": 0,
-        "auction_id": "P79GEVLM",
-        "startingBid": 200,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 200,
-            "asset": "TON",
-            "_id": "68781aceaace4cd2f63e066a",
-            "timestamp": "2025-07-16T21:34:06.711Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 255.06,
-            "asset": "TON",
-            "_id": "68786b74aace4cd2f673b281",
-            "timestamp": "2025-07-17T03:18:12.396Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T08:25:13.137Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 11069,
-        "model": "Glacier (0.5%)",
-        "backdrop": "Dark Lilac (2%)",
-        "symbol": "Star (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T20:25:14.840Z",
-        "__v": 0,
-        "winningBid": 255.06,
-        "winningBidder": 6622581522
-      },
+      "auction": null,
       "export_at": "2025-07-13T20:46:19.000Z",
       "premarketData": {}
     },
@@ -10259,6 +9742,103 @@
   ],
   "Circus": [
     {
+      "gift_num": 390,
+      "customEmojiId": "5289643711293055119",
+      "gift_id": 7264278,
+      "name": "Loot Bag",
+      "model": "Circus (0.5%)",
+      "asset": "TON",
+      "symbol": "Fish (0.4%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 910578,
+      "price": 231,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "0PI3CEON",
+      "auction": {
+        "_id": "6878c88daace4cd2f6f85312",
+        "gift_id": 7264278,
+        "seller": 0,
+        "auction_id": "0PI3CEON",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68793143aace4cd2f641df58",
+            "timestamp": "2025-07-17T17:22:11.446Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "687931daaace4cd2f6427aea",
+            "timestamp": "2025-07-17T17:24:42.939Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "6879390caace4cd2f645c015",
+            "timestamp": "2025-07-17T17:55:24.823Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "687942fdaace4cd2f64a4b3d",
+            "timestamp": "2025-07-17T18:37:49.111Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15,
+            "asset": "TON",
+            "_id": "68794334aace4cd2f64a5eac",
+            "timestamp": "2025-07-17T18:38:44.577Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 100,
+            "asset": "TON",
+            "_id": "6879434caace4cd2f64a6851",
+            "timestamp": "2025-07-17T18:39:08.933Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 220,
+            "asset": "TON",
+            "_id": "68794378aace4cd2f64a7dc1",
+            "timestamp": "2025-07-17T18:39:52.991Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 231,
+            "asset": "TON",
+            "_id": "687944d8aace4cd2f64b079b",
+            "timestamp": "2025-07-17T18:45:44.617Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-17T19:18:26.901Z",
+        "status": "finished",
+        "gift_name": "Loot Bag",
+        "gift_num": 390,
+        "model": "Circus (0.5%)",
+        "backdrop": "Onyx Black (1.5%)",
+        "symbol": "Fish (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-17T17:18:28.970Z",
+        "__v": 0,
+        "winningBid": 231,
+        "winningBidder": 7181439033
+      },
+      "export_at": "2025-07-31T09:55:10.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12333,
       "customEmojiId": "5289643711293055119",
       "gift_id": 829488,
@@ -10320,6 +9900,24 @@
     }
   ],
   "Vertigo": [
+    {
+      "gift_num": 867,
+      "customEmojiId": "5287412888099648167",
+      "gift_id": 587289060211,
+      "name": "Loot Bag",
+      "model": "Vertigo (2%)",
+      "asset": "TON",
+      "symbol": "Royal Crown (0.4%)",
+      "backdrop": "Malachite (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 275.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 7441,
       "customEmojiId": "5287412888099648167",
@@ -11979,6 +11577,26 @@
   ],
   "Secret Toys": [
     {
+      "gift_num": 1986,
+      "customEmojiId": "5289940394748961588",
+      "gift_id": 7274353,
+      "name": "Loot Bag",
+      "model": "Secret Toys (0.5%)",
+      "asset": "TON",
+      "symbol": "Anubis (0.5%)",
+      "backdrop": "Carrot Juice (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 911094,
+      "price": 275,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T22:49:19.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1922,
       "customEmojiId": "5289940394748961588",
       "gift_id": 7154575,
@@ -12117,41 +11735,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "7JY2R77E",
-      "auction": {
-        "_id": "68763519aace4cd2f614f0e9",
-        "gift_id": 7225971,
-        "seller": 0,
-        "auction_id": "7JY2R77E",
-        "startingBid": 100,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 100,
-            "asset": "TON",
-            "_id": "68765288aace4cd2f64de531",
-            "timestamp": "2025-07-15T13:07:20.023Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 111,
-            "asset": "TON",
-            "_id": "687656faaace4cd2f6591723",
-            "timestamp": "2025-07-15T13:26:18.053Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T17:01:43.688Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 13164,
-        "model": "Verso Blue (1.5%)",
-        "backdrop": "Lavender (2%)",
-        "symbol": "Thunderbird (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T11:01:45.278Z",
-        "__v": 0,
-        "winningBid": 111,
-        "winningBidder": 5639908664
-      },
+      "auction": null,
       "export_at": "2025-07-29T07:15:29.000Z",
       "premarketData": {}
     },
@@ -12352,139 +11936,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "08UXK5BX",
-      "auction": {
-        "_id": "685d04a89094699bfca6a9ef",
-        "gift_id": 6748776,
-        "seller": 0,
-        "auction_id": "08UXK5BX",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "68741c7f8938e518f125c48d",
-            "timestamp": "2025-07-13T20:52:15.760Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "68741ef78938e518f12977c7",
-            "timestamp": "2025-07-13T21:02:47.410Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12,
-            "asset": "TON",
-            "_id": "68741f2a8938e518f129ab1d",
-            "timestamp": "2025-07-13T21:03:38.914Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.6,
-            "asset": "TON",
-            "_id": "687438fd8938e518f189ffe3",
-            "timestamp": "2025-07-13T22:53:49.409Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.23,
-            "asset": "TON",
-            "_id": "6874390a8938e518f18a07e2",
-            "timestamp": "2025-07-13T22:54:02.084Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.89,
-            "asset": "TON",
-            "_id": "6874392c8938e518f18a2528",
-            "timestamp": "2025-07-13T22:54:36.577Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "687439398938e518f18a2a9e",
-            "timestamp": "2025-07-13T22:54:49.984Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 25,
-            "asset": "TON",
-            "_id": "6874397b8938e518f18a56cf",
-            "timestamp": "2025-07-13T22:55:55.269Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 26.25,
-            "asset": "TON",
-            "_id": "687439898938e518f18a6c1f",
-            "timestamp": "2025-07-13T22:56:09.207Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 27.56,
-            "asset": "TON",
-            "_id": "6874ed518938e518f198f92f",
-            "timestamp": "2025-07-14T11:43:13.501Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 95,
-            "asset": "TON",
-            "_id": "68750d63aace4cd2f69ca3ef",
-            "timestamp": "2025-07-14T14:00:03.431Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 99.75,
-            "asset": "TON",
-            "_id": "68752e65aace4cd2f6d05d00",
-            "timestamp": "2025-07-14T16:20:53.183Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 110,
-            "asset": "TON",
-            "_id": "68753987aace4cd2f6e79bfe",
-            "timestamp": "2025-07-14T17:08:23.329Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 120,
-            "asset": "TON",
-            "_id": "68754a98aace4cd2f60d58b8",
-            "timestamp": "2025-07-14T18:21:12.591Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 126,
-            "asset": "TON",
-            "_id": "68755e7daace4cd2f66e2db2",
-            "timestamp": "2025-07-14T19:46:05.338Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 132.3,
-            "asset": "TON",
-            "_id": "68755ec1aace4cd2f66f38a4",
-            "timestamp": "2025-07-14T19:47:13.314Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T20:45:55.908Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 5648,
-        "model": "Road Trip (1%)",
-        "backdrop": "Pure Gold (2%)",
-        "symbol": "Musical Note (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T20:45:57.512Z",
-        "__v": 0,
-        "winningBid": 132.3,
-        "winningBidder": 6153141004
-      },
+      "auction": null,
       "export_at": "2025-07-09T11:59:17.000Z",
       "premarketData": {}
     },
@@ -13349,26 +12801,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 10073,
-      "customEmojiId": "5287636501276944971",
-      "gift_id": 6563976,
-      "name": "Loot Bag",
-      "model": "Reptile Noir (1.5%)",
-      "asset": "TON",
-      "symbol": "Thor Hammer (0.5%)",
-      "backdrop": "Pistachio (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 890584,
-      "price": 200,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-02T11:23:59.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 8439,
       "customEmojiId": "5287636501276944971",
       "gift_id": 7114447,
@@ -13734,34 +13166,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "AC5JJ7J3",
-      "auction": {
-        "_id": "6875491daace4cd2f60b720e",
-        "gift_id": 7218614,
-        "seller": 0,
-        "auction_id": "AC5JJ7J3",
-        "startingBid": 139,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 139,
-            "asset": "TON",
-            "_id": "68755860aace4cd2f61de000",
-            "timestamp": "2025-07-14T19:20:00.657Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T21:14:51.097Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 11426,
-        "model": "Aqua Atoll (1.5%)",
-        "backdrop": "Azure Blue (2%)",
-        "symbol": "Kitsune (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T18:14:53.637Z",
-        "__v": 0,
-        "winningBid": 139,
-        "winningBidder": 320930950
-      },
+      "auction": null,
       "export_at": "2025-07-28T18:14:19.000Z",
       "premarketData": {}
     }
@@ -14077,139 +13482,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "BAH89UIW",
-      "auction": {
-        "_id": "686f31651fe9e6aa2cc14dae",
-        "gift_id": 7119068,
-        "seller": 0,
-        "auction_id": "BAH89UIW",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "686f31ce1fe9e6aa2cc173ab",
-            "timestamp": "2025-07-10T03:21:50.184Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "686f32211fe9e6aa2cc18082",
-            "timestamp": "2025-07-10T03:23:13.810Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "686f32561fe9e6aa2cc18505",
-            "timestamp": "2025-07-10T03:24:06.740Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 21,
-            "asset": "TON",
-            "_id": "686f379b1fe9e6aa2cc3d04b",
-            "timestamp": "2025-07-10T03:46:35.448Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 22.05,
-            "asset": "TON",
-            "_id": "686f37a81fe9e6aa2cc3d744",
-            "timestamp": "2025-07-10T03:46:48.995Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 30,
-            "asset": "TON",
-            "_id": "686f37bd1fe9e6aa2cc3e90c",
-            "timestamp": "2025-07-10T03:47:09.832Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 31.5,
-            "asset": "TON",
-            "_id": "686f5e3d1fe9e6aa2ce05bf8",
-            "timestamp": "2025-07-10T06:31:25.885Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 124,
-            "asset": "TON",
-            "_id": "686f63dc1fe9e6aa2c0166cf",
-            "timestamp": "2025-07-10T06:55:24.460Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 130.2,
-            "asset": "TON",
-            "_id": "686f668b1fe9e6aa2c36efe9",
-            "timestamp": "2025-07-10T07:06:51.663Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 146,
-            "asset": "TON",
-            "_id": "686f672a1fe9e6aa2c4053be",
-            "timestamp": "2025-07-10T07:09:30.186Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 153.3,
-            "asset": "TON",
-            "_id": "686f67351fe9e6aa2c40d6f8",
-            "timestamp": "2025-07-10T07:09:41.070Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 160.97,
-            "asset": "TON",
-            "_id": "686f7f221fe9e6aa2ca79cec",
-            "timestamp": "2025-07-10T08:51:46.607Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 169.02,
-            "asset": "TON",
-            "_id": "686f83621fe9e6aa2caddb76",
-            "timestamp": "2025-07-10T09:09:54.865Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 177.47,
-            "asset": "TON",
-            "_id": "686f83901fe9e6aa2cae41fc",
-            "timestamp": "2025-07-10T09:10:40.990Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 186.34,
-            "asset": "TON",
-            "_id": "686f83df1fe9e6aa2cae90de",
-            "timestamp": "2025-07-10T09:11:59.859Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 200,
-            "asset": "TON",
-            "_id": "686f84001fe9e6aa2caec31a",
-            "timestamp": "2025-07-10T09:12:32.133Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T09:30:03.959Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 6062,
-        "model": "Conductor (0.5%)",
-        "backdrop": "Sky Blue (1.5%)",
-        "symbol": "Mountain Goat (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T03:20:05.305Z",
-        "__v": 0,
-        "winningBid": 200,
-        "winningBidder": 320930950
-      },
+      "auction": null,
       "export_at": "2025-07-24T03:19:36.000Z",
       "premarketData": {}
     }
@@ -14357,26 +13630,6 @@
     }
   ],
   "Cherry Red": [
-    {
-      "gift_num": 7067,
-      "customEmojiId": "5287719600304185486",
-      "gift_id": 5258966,
-      "name": "Loot Bag",
-      "model": "Cherry Red (2%)",
-      "asset": "TON",
-      "symbol": "Toilet Paper (0.5%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 910465,
-      "price": 300,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-06T20:56:05.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 7287,
       "customEmojiId": "5287719600304185486",
@@ -14534,34 +13787,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "ZU7H1UIX",
-      "auction": {
-        "_id": "6851a4c224d3d8f21eec4c5f",
-        "gift_id": 6105703,
-        "seller": 0,
-        "auction_id": "ZU7H1UIX",
-        "startingBid": 100,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 100,
-            "asset": "TON",
-            "_id": "6871e4868938e518f1c48579",
-            "timestamp": "2025-07-12T04:28:54.463Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T07:48:31.337Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 11442,
-        "model": "Cherry Red (2%)",
-        "backdrop": "Burgundy (2%)",
-        "symbol": "Royal Crown (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T01:48:34.625Z",
-        "__v": 0,
-        "winningBid": 100,
-        "winningBidder": 704206810
-      },
+      "auction": null,
       "export_at": "2025-06-24T09:49:39.000Z",
       "premarketData": {}
     },
@@ -16460,8 +15686,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 910242,
-      "price": 370,
+      "message_in_channel": 911025,
+      "price": 350,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -16872,62 +16098,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "RMN9JAGN",
-      "auction": {
-        "_id": "68721f1b8938e518f165556e",
-        "gift_id": 2981336,
-        "seller": 0,
-        "auction_id": "RMN9JAGN",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 70,
-            "asset": "TON",
-            "_id": "68721fe18938e518f16693f8",
-            "timestamp": "2025-07-12T08:42:09.502Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 73.5,
-            "asset": "TON",
-            "_id": "687229708938e518f176226c",
-            "timestamp": "2025-07-12T09:22:56.807Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 84,
-            "asset": "TON",
-            "_id": "68722a198938e518f1768e33",
-            "timestamp": "2025-07-12T09:25:45.603Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 90.5,
-            "asset": "TON",
-            "_id": "68722a408938e518f176d3bc",
-            "timestamp": "2025-07-12T09:26:24.218Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 95.03,
-            "asset": "TON",
-            "_id": "68722a768938e518f17711e4",
-            "timestamp": "2025-07-12T09:27:18.333Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T09:38:50.656Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 6866,
-        "model": "Tropical (1.5%)",
-        "backdrop": "Carrot Juice (2%)",
-        "symbol": "Toilet (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T08:38:51.521Z",
-        "__v": 0,
-        "winningBid": 95.03,
-        "winningBidder": 1389545579
-      },
+      "auction": null,
       "export_at": "2025-04-25T19:24:15.000Z",
       "premarketData": {}
     }
@@ -17085,8 +16256,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 907351,
-      "price": 330,
+      "message_in_channel": 911045,
+      "price": 299,
       "promoted": true,
       "status": "forsale",
       "limited": false,
@@ -17319,6 +16490,26 @@
   ],
   "Panthera": [
     {
+      "gift_num": 12617,
+      "customEmojiId": "5287331846361737006",
+      "gift_id": 6761351,
+      "name": "Loot Bag",
+      "model": "Panthera (0.5%)",
+      "asset": "TON",
+      "symbol": "Gold (0.5%)",
+      "backdrop": "Shamrock Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 911047,
+      "price": 299,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-09T19:40:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 11606,
       "customEmojiId": "5287331846361737006",
       "gift_id": 865841,
@@ -17336,26 +16527,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-03-10T00:58:56.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 12617,
-      "customEmojiId": "5287331846361737006",
-      "gift_id": 6761351,
-      "name": "Loot Bag",
-      "model": "Panthera (0.5%)",
-      "asset": "TON",
-      "symbol": "Gold (0.5%)",
-      "backdrop": "Shamrock Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 907353,
-      "price": 330,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-09T19:40:16.000Z",
       "premarketData": {}
     },
     {
@@ -17730,90 +16901,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "KPDZ415M",
-      "auction": {
-        "_id": "686e92000227247557b04e8c",
-        "gift_id": 7107236,
-        "seller": 0,
-        "auction_id": "KPDZ415M",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "686e93950227247557b5ce28",
-            "timestamp": "2025-07-09T16:06:45.879Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "686e94380227247557b9a84a",
-            "timestamp": "2025-07-09T16:09:28.555Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "686e94b90227247557bcb337",
-            "timestamp": "2025-07-09T16:11:37.800Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "686e95390227247557bf9008",
-            "timestamp": "2025-07-09T16:13:45.465Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11,
-            "asset": "TON",
-            "_id": "686e95fa0227247557c4397a",
-            "timestamp": "2025-07-09T16:16:58.950Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.55,
-            "asset": "TON",
-            "_id": "686e9a2b0227247557f622f8",
-            "timestamp": "2025-07-09T16:34:51.094Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15,
-            "asset": "TON",
-            "_id": "686e9a370227247557f66491",
-            "timestamp": "2025-07-09T16:35:03.536Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 153,
-            "asset": "TON",
-            "_id": "686e9ab90227247557f90fdd",
-            "timestamp": "2025-07-09T16:37:13.184Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 160.65,
-            "asset": "TON",
-            "_id": "686e9c050227247557007700",
-            "timestamp": "2025-07-09T16:42:45.072Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T17:59:56.472Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 14372,
-        "model": "Rouge Royale (1.5%)",
-        "backdrop": "Onyx Black (1.5%)",
-        "symbol": "Sun Mountain (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T16:00:00.392Z",
-        "__v": 0,
-        "winningBid": 160.65,
-        "winningBidder": 5913338420
-      },
+      "auction": null,
       "export_at": "2025-07-23T15:59:52.000Z",
       "premarketData": {}
     }
@@ -18018,6 +17106,26 @@
   ],
   "Riviera": [
     {
+      "gift_num": 4919,
+      "customEmojiId": "5287422225358549607",
+      "gift_id": 6948791,
+      "name": "Loot Bag",
+      "model": "Riviera (2%)",
+      "asset": "TON",
+      "symbol": "War Tiger (0.4%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 125,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-16T23:14:49.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6920,
       "customEmojiId": "5287422225358549607",
       "gift_id": 7263325,
@@ -18108,55 +17216,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "7F2U3CI7",
-      "auction": {
-        "_id": "6873a2928938e518f1d95058",
-        "gift_id": 7193424,
-        "seller": 0,
-        "auction_id": "7F2U3CI7",
-        "startingBid": 220,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 220,
-            "asset": "TON",
-            "_id": "6877af9caace4cd2f685c025",
-            "timestamp": "2025-07-16T13:56:44.640Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 231,
-            "asset": "TON",
-            "_id": "6877b039aace4cd2f6870fd5",
-            "timestamp": "2025-07-16T13:59:21.514Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 242.55,
-            "asset": "TON",
-            "_id": "6877b06caace4cd2f68763cf",
-            "timestamp": "2025-07-16T14:00:12.803Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 254.68,
-            "asset": "TON",
-            "_id": "6877b0d8aace4cd2f687e4c0",
-            "timestamp": "2025-07-16T14:02:00.209Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T14:18:18.358Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 497,
-        "model": "Riviera (2%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Geisha Fan (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T13:08:19.962Z",
-        "__v": 0,
-        "winningBid": 254.68,
-        "winningBidder": 7078466427
-      },
+      "auction": null,
       "export_at": "2025-07-27T12:11:34.000Z",
       "premarketData": {}
     },
@@ -18273,132 +17333,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "GYZMHF25",
-      "auction": {
-        "_id": "686cdd640227247557ec3900",
-        "gift_id": 7074110,
-        "seller": 0,
-        "auction_id": "GYZMHF25",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "686f6df91fe9e6aa2c7c4848",
-            "timestamp": "2025-07-10T07:38:33.118Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "686f7fd71fe9e6aa2ca85241",
-            "timestamp": "2025-07-10T08:54:47.293Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "686f80bb1fe9e6aa2ca98d0b",
-            "timestamp": "2025-07-10T08:58:35.781Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.48,
-            "asset": "TON",
-            "_id": "686f80d21fe9e6aa2ca9ae56",
-            "timestamp": "2025-07-10T08:58:58.300Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.7,
-            "asset": "TON",
-            "_id": "686f81321fe9e6aa2caa4b1f",
-            "timestamp": "2025-07-10T09:00:34.656Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.89,
-            "asset": "TON",
-            "_id": "686f817a1fe9e6aa2caab42b",
-            "timestamp": "2025-07-10T09:01:46.452Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.1,
-            "asset": "TON",
-            "_id": "686f81901fe9e6aa2caac1c5",
-            "timestamp": "2025-07-10T09:02:08.310Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.4,
-            "asset": "TON",
-            "_id": "686f854e1fe9e6aa2cb0562d",
-            "timestamp": "2025-07-10T09:18:06.996Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "686f858d1fe9e6aa2cb0727c",
-            "timestamp": "2025-07-10T09:19:09.132Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "686fac0a1fe9e6aa2cbb0bdf",
-            "timestamp": "2025-07-10T12:03:22.279Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "686fb5fa241ecc1b11eaa1e6",
-            "timestamp": "2025-07-10T12:45:46.249Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "686fdc3034f3663346486e4f",
-            "timestamp": "2025-07-10T15:28:48.771Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 105.9999999996,
-            "asset": "TON",
-            "_id": "686fdd0c34f366334648dc5a",
-            "timestamp": "2025-07-10T15:32:28.911Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 111.3,
-            "asset": "TON",
-            "_id": "686fecd634f36633468a046c",
-            "timestamp": "2025-07-10T16:39:50.593Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 116.87,
-            "asset": "TON",
-            "_id": "686fff1534f36633461c572e",
-            "timestamp": "2025-07-10T17:57:41.187Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T19:35:33.130Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 25,
-        "model": "Riviera (2%)",
-        "backdrop": "Burgundy (2%)",
-        "symbol": "Trophy (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T07:35:49.304Z",
-        "__v": 0,
-        "winningBid": 116.87,
-        "winningBidder": 7594678776
-      },
+      "auction": null,
       "export_at": "2025-07-22T08:43:48.000Z",
       "premarketData": {}
     },
@@ -18706,67 +17641,30 @@
       "status": "auction",
       "limited": false,
       "auction_id": "HEDOP7BL",
-      "auction": {
-        "_id": "687146fe8938e518f1b85f74",
-        "gift_id": 7160430,
-        "seller": 0,
-        "auction_id": "HEDOP7BL",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "687147e48938e518f1bbf6e5",
-            "timestamp": "2025-07-11T17:20:36.048Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "687148948938e518f1c195a5",
-            "timestamp": "2025-07-11T17:23:32.196Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.89,
-            "asset": "TON",
-            "_id": "687148ad8938e518f1c2a25f",
-            "timestamp": "2025-07-11T17:23:57.826Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 170,
-            "asset": "TON",
-            "_id": "68714e358938e518f1da45ae",
-            "timestamp": "2025-07-11T17:47:33.779Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 178.5,
-            "asset": "TON",
-            "_id": "6871e3ae8938e518f1c42981",
-            "timestamp": "2025-07-12T04:25:18.510Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T05:16:44.510Z",
-        "status": "finished",
-        "gift_name": "Loot Bag",
-        "gift_num": 497,
-        "model": "Riviera (2%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Geisha Fan (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T17:16:46.302Z",
-        "__v": 0,
-        "winningBid": 178.5,
-        "winningBidder": 435235660
-      },
+      "auction": null,
       "export_at": "2025-07-25T17:13:04.000Z",
       "premarketData": {}
     }
   ],
   "Zip Pocket": [
+    {
+      "gift_num": 7282,
+      "customEmojiId": "5287477072090915861",
+      "gift_id": 587072883770,
+      "name": "Loot Bag",
+      "model": "Zip Pocket (2%)",
+      "asset": "TON",
+      "symbol": "Nemean Lion (0.5%)",
+      "backdrop": "Pacific Cyan (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 10509,
       "customEmojiId": "5287477072090915861",
@@ -20177,6 +19075,24 @@
     }
   ],
   "Jaune Citrone": [
+    {
+      "gift_num": 10428,
+      "customEmojiId": "5287586791325462660",
+      "gift_id": 587497005777,
+      "name": "Loot Bag",
+      "model": "Jaune Citrone (2%)",
+      "asset": "TON",
+      "symbol": "High Heels (0.5%)",
+      "backdrop": "Azure Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 176.256,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 4443,
       "customEmojiId": "5287586791325462660",
