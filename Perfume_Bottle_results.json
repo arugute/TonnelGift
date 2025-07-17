@@ -41,26 +41,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 63,
-      "customEmojiId": "5393416713939216351",
-      "gift_id": 7096270,
-      "name": "Perfume Bottle",
-      "model": "Madmoiselle (1.5%)",
-      "asset": "TON",
-      "symbol": "Feather (0.2%)",
-      "backdrop": "Caramel (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 888246,
-      "price": 500,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T04:45:07.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 3344,
       "customEmojiId": "5393416713939216351",
       "gift_id": 5567021,
@@ -1429,90 +1409,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "KIF35H6A",
-      "auction": {
-        "_id": "686e1ad70227247557b7ed5f",
-        "gift_id": 7097890,
-        "seller": 0,
-        "auction_id": "KIF35H6A",
-        "startingBid": 100,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 100,
-            "asset": "TON",
-            "_id": "6870253f34f3663346a323e0",
-            "timestamp": "2025-07-10T20:40:31.257Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 105,
-            "asset": "TON",
-            "_id": "68716a208938e518f1bf5e42",
-            "timestamp": "2025-07-11T19:46:40.790Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 110.25,
-            "asset": "TON",
-            "_id": "68716a828938e518f1c1d8ab",
-            "timestamp": "2025-07-11T19:48:18.763Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 120,
-            "asset": "TON",
-            "_id": "68716a9b8938e518f1c2736a",
-            "timestamp": "2025-07-11T19:48:43.835Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 126,
-            "asset": "TON",
-            "_id": "68716c358938e518f1ccc69a",
-            "timestamp": "2025-07-11T19:55:33.720Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 132.3,
-            "asset": "TON",
-            "_id": "68716ca98938e518f1ceacfb",
-            "timestamp": "2025-07-11T19:57:29.622Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 138.92,
-            "asset": "TON",
-            "_id": "68716cc38938e518f1ced9e7",
-            "timestamp": "2025-07-11T19:57:55.671Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 145.87,
-            "asset": "TON",
-            "_id": "68716cf08938e518f1cf773b",
-            "timestamp": "2025-07-11T19:58:40.110Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 153.16,
-            "asset": "TON",
-            "_id": "68716d278938e518f1cfef01",
-            "timestamp": "2025-07-11T19:59:35.635Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T20:22:34.570Z",
-        "status": "finished",
-        "gift_name": "Perfume Bottle",
-        "gift_num": 4136,
-        "model": "Golden Elixir (0.5%)",
-        "backdrop": "Grape (1.5%)",
-        "symbol": "Royal Crown (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T20:22:35.739Z",
-        "__v": 0,
-        "winningBid": 153.16,
-        "winningBidder": 572437084
-      },
+      "auction": null,
       "export_at": "2025-07-23T07:30:53.000Z",
       "premarketData": {}
     },
@@ -1812,237 +1709,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "AV0D01ZM",
-      "auction": {
-        "_id": "6876a6feaace4cd2f691b803",
-        "gift_id": 7237704,
-        "seller": 0,
-        "auction_id": "AV0D01ZM",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6876a80faace4cd2f69383e9",
-            "timestamp": "2025-07-15T19:12:15.275Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.1,
-            "asset": "TON",
-            "_id": "6876a8d3aace4cd2f696095b",
-            "timestamp": "2025-07-15T19:15:31.222Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.41,
-            "asset": "TON",
-            "_id": "6876a938aace4cd2f69d3a16",
-            "timestamp": "2025-07-15T19:17:12.754Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.73,
-            "asset": "TON",
-            "_id": "6876afbcaace4cd2f6b66ec2",
-            "timestamp": "2025-07-15T19:45:00.410Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.07,
-            "asset": "TON",
-            "_id": "6876afc8aace4cd2f6b67ad9",
-            "timestamp": "2025-07-15T19:45:12.236Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.42,
-            "asset": "TON",
-            "_id": "6876afd3aace4cd2f6b684d2",
-            "timestamp": "2025-07-15T19:45:23.318Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.79,
-            "asset": "TON",
-            "_id": "6876afefaace4cd2f6b6b2c5",
-            "timestamp": "2025-07-15T19:45:51.884Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.18,
-            "asset": "TON",
-            "_id": "6876affeaace4cd2f6b6bd7d",
-            "timestamp": "2025-07-15T19:46:06.952Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.59,
-            "asset": "TON",
-            "_id": "6876b009aace4cd2f6b6dcd7",
-            "timestamp": "2025-07-15T19:46:17.377Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.02,
-            "asset": "TON",
-            "_id": "6876b016aace4cd2f6b70e52",
-            "timestamp": "2025-07-15T19:46:30.730Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.47,
-            "asset": "TON",
-            "_id": "6876b022aace4cd2f6b735e4",
-            "timestamp": "2025-07-15T19:46:42.571Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.94,
-            "asset": "TON",
-            "_id": "6876b030aace4cd2f6b762a6",
-            "timestamp": "2025-07-15T19:46:56.613Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.44,
-            "asset": "TON",
-            "_id": "6876b043aace4cd2f6b7db8a",
-            "timestamp": "2025-07-15T19:47:15.465Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.96,
-            "asset": "TON",
-            "_id": "6876b09baace4cd2f6b9aba0",
-            "timestamp": "2025-07-15T19:48:43.648Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.51,
-            "asset": "TON",
-            "_id": "6876b0aeaace4cd2f6ba0337",
-            "timestamp": "2025-07-15T19:49:02.162Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.09,
-            "asset": "TON",
-            "_id": "6876b188aace4cd2f6beb321",
-            "timestamp": "2025-07-15T19:52:40.190Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.69,
-            "asset": "TON",
-            "_id": "6876b19eaace4cd2f6bf4cfd",
-            "timestamp": "2025-07-15T19:53:02.728Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.32,
-            "asset": "TON",
-            "_id": "6876b1dcaace4cd2f6c09b56",
-            "timestamp": "2025-07-15T19:54:04.333Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.99,
-            "asset": "TON",
-            "_id": "6876b1efaace4cd2f6c0fecb",
-            "timestamp": "2025-07-15T19:54:23.229Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 30,
-            "asset": "TON",
-            "_id": "6876b200aace4cd2f6c16890",
-            "timestamp": "2025-07-15T19:54:40.765Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 31.5,
-            "asset": "TON",
-            "_id": "6876b213aace4cd2f6c1da44",
-            "timestamp": "2025-07-15T19:54:59.813Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 40,
-            "asset": "TON",
-            "_id": "6876b21faace4cd2f6c21eed",
-            "timestamp": "2025-07-15T19:55:11.768Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 42,
-            "asset": "TON",
-            "_id": "6876b233aace4cd2f6c28d07",
-            "timestamp": "2025-07-15T19:55:31.263Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 50,
-            "asset": "TON",
-            "_id": "6876b250aace4cd2f6c3246a",
-            "timestamp": "2025-07-15T19:56:00.762Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 52.5,
-            "asset": "TON",
-            "_id": "6876b277aace4cd2f6c412b4",
-            "timestamp": "2025-07-15T19:56:39.981Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 60,
-            "asset": "TON",
-            "_id": "6876b2a3aace4cd2f6c4ee0c",
-            "timestamp": "2025-07-15T19:57:23.990Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 63,
-            "asset": "TON",
-            "_id": "6876b35faace4cd2f6c7ba9c",
-            "timestamp": "2025-07-15T20:00:31.489Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 68,
-            "asset": "TON",
-            "_id": "6876b3caaace4cd2f6c9aa01",
-            "timestamp": "2025-07-15T20:02:18.138Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 71.4,
-            "asset": "TON",
-            "_id": "6876b3f0aace4cd2f6ca629e",
-            "timestamp": "2025-07-15T20:02:56.047Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 82,
-            "asset": "TON",
-            "_id": "6876b468aace4cd2f6cc030d",
-            "timestamp": "2025-07-15T20:04:56.542Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T20:17:42.161Z",
-        "status": "finished",
-        "gift_name": "Perfume Bottle",
-        "gift_num": 3721,
-        "model": "Twilight Bliss (3%)",
-        "backdrop": "Dark Lilac (2%)",
-        "symbol": "Love Dove (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T19:07:42.922Z",
-        "__v": 0,
-        "winningBid": 82,
-        "winningBidder": 6916986054
-      },
+      "auction": null,
       "export_at": "2025-07-29T19:05:39.000Z",
       "premarketData": {}
     }
@@ -2757,7 +2424,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 88.8,
+      "price": 85.9,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3778,7 +3445,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 89,
+      "price": 100,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -4621,26 +4288,6 @@
     }
   ],
   "Millet Fields": [
-    {
-      "gift_num": 3589,
-      "customEmojiId": "5411176115945365146",
-      "gift_id": 7270409,
-      "name": "Perfume Bottle",
-      "model": "Millet Fields (4%)",
-      "asset": "TON",
-      "symbol": "Lion Head (0.5%)",
-      "backdrop": "Malachite (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 89,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T17:18:35.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 1431,
       "customEmojiId": "5411176115945365146",
@@ -5826,34 +5473,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "AFP3PGT1",
-      "auction": {
-        "_id": "686f53d41fe9e6aa2cd84d1b",
-        "gift_id": 7120291,
-        "seller": 0,
-        "auction_id": "AFP3PGT1",
-        "startingBid": 100,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 100,
-            "asset": "TON",
-            "_id": "686f82591fe9e6aa2cabdf8b",
-            "timestamp": "2025-07-10T09:05:29.442Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T09:19:03.227Z",
-        "status": "finished",
-        "gift_name": "Perfume Bottle",
-        "gift_num": 891,
-        "model": "Crimson Sky (4%)",
-        "backdrop": "Shamrock Green (2%)",
-        "symbol": "Blossom (0.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T08:09:04.920Z",
-        "__v": 0,
-        "winningBid": 100,
-        "winningBidder": 432805815
-      },
+      "auction": null,
       "export_at": "2025-07-24T05:43:54.000Z",
       "premarketData": {}
     }
@@ -6738,6 +6358,26 @@
     }
   ],
   "Scarlet Kiss": [
+    {
+      "gift_num": 4084,
+      "customEmojiId": "5411627048856739426",
+      "gift_id": 7271371,
+      "name": "Perfume Bottle",
+      "model": "Scarlet Kiss (3%)",
+      "asset": "TON",
+      "symbol": "Nordic Wolf (0.5%)",
+      "backdrop": "Pacific Cyan (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 86,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T18:44:44.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2039,
       "customEmojiId": "5411627048856739426",
