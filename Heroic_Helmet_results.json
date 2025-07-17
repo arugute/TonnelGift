@@ -187,26 +187,6 @@
   ],
   "King Leonidas": [
     {
-      "gift_num": 3085,
-      "customEmojiId": "5386497779323398447",
-      "gift_id": 7255921,
-      "name": "Heroic Helmet",
-      "model": "King Leonidas (1.5%)",
-      "asset": "TON",
-      "symbol": "Fleur-de-lis (0.5%)",
-      "backdrop": "Desert Sand (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 910694,
-      "price": 249,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T19:03:26.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2247,
       "customEmojiId": "5386497779323398447",
       "gift_id": 6981404,
@@ -387,26 +367,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-04T12:07:01.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2953,
-      "customEmojiId": "5411291534601514317",
-      "gift_id": 7109264,
-      "name": "Heroic Helmet",
-      "model": "Dynamo (1%)",
-      "asset": "TON",
-      "symbol": "Divine Falcon (0.2%)",
-      "backdrop": "Jade Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 889522,
-      "price": 700,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T17:42:46.000Z",
       "premarketData": {}
     },
     {
@@ -1314,48 +1274,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "AOXRJE4Y",
-      "auction": {
-        "_id": "686ea40202272475574b4728",
-        "gift_id": 7104957,
-        "seller": 0,
-        "auction_id": "AOXRJE4Y",
-        "startingBid": 180,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 181.98,
-            "asset": "TON",
-            "_id": "687644fdaace4cd2f6437a30",
-            "timestamp": "2025-07-15T12:09:33.439Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 191.08,
-            "asset": "TON",
-            "_id": "687669e9aace4cd2f637534c",
-            "timestamp": "2025-07-15T14:47:05.201Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 200.63,
-            "asset": "TON",
-            "_id": "687677b3aace4cd2f643c6b7",
-            "timestamp": "2025-07-15T15:45:55.275Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T16:02:14.474Z",
-        "status": "finished",
-        "gift_name": "Heroic Helmet",
-        "gift_num": 2463,
-        "model": "Maya Warrior (1.5%)",
-        "backdrop": "Grape (1.2%)",
-        "symbol": "Grenade (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T15:52:15.770Z",
-        "__v": 0,
-        "winningBid": 200.63,
-        "winningBidder": 854594511
-      },
+      "auction": null,
       "export_at": "2025-07-23T14:19:53.000Z",
       "premarketData": {}
     }
@@ -1705,26 +1624,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T08:41:47.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3064,
-      "customEmojiId": "5406725481854692967",
-      "gift_id": 7090041,
-      "name": "Heroic Helmet",
-      "model": "Athena (3%)",
-      "asset": "TON",
-      "symbol": "Double Axe (0.5%)",
-      "backdrop": "Electric Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 887684,
-      "price": 400,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-22T19:54:53.000Z",
       "premarketData": {}
     }
   ],
@@ -2593,6 +2492,26 @@
   ],
   "Hard Rock": [
     {
+      "gift_num": 2837,
+      "customEmojiId": "5395542044145905491",
+      "gift_id": 7256520,
+      "name": "Heroic Helmet",
+      "model": "Hard Rock (1%)",
+      "asset": "TON",
+      "symbol": "Anchor (0.5%)",
+      "backdrop": "Moonstone (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 910929,
+      "price": 333,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T19:45:04.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 816,
       "customEmojiId": "5395542044145905491",
       "gift_id": 6852958,
@@ -2611,26 +2530,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-13T20:45:29.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2837,
-      "customEmojiId": "5395542044145905491",
-      "gift_id": 7256520,
-      "name": "Heroic Helmet",
-      "model": "Hard Rock (1%)",
-      "asset": "TON",
-      "symbol": "Anchor (0.5%)",
-      "backdrop": "Moonstone (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 909113,
-      "price": 400,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T19:45:04.000Z",
       "premarketData": {}
     },
     {
@@ -2943,6 +2842,26 @@
     }
   ],
   "Hard Hat": [
+    {
+      "gift_num": 306,
+      "customEmojiId": "5395389250684365004",
+      "gift_id": 7272420,
+      "name": "Heroic Helmet",
+      "model": "Hard Hat (2.5%)",
+      "asset": "TON",
+      "symbol": "Moose Head (0.4%)",
+      "backdrop": "Feldgrau (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 911040,
+      "price": 185,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T20:09:33.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2637,
       "customEmojiId": "5395389250684365004",
@@ -3655,8 +3574,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 909337,
-      "price": 192,
+      "message_in_channel": 910998,
+      "price": 180,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3705,26 +3624,6 @@
     }
   ],
   "Pale Guard": [
-    {
-      "gift_num": 2113,
-      "customEmojiId": "5348511284671310112",
-      "gift_id": 6818607,
-      "name": "Heroic Helmet",
-      "model": "Pale Guard (2%)",
-      "asset": "TON",
-      "symbol": "Tree of Life (0.5%)",
-      "backdrop": "Amber (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 910682,
-      "price": 600,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-12T10:33:22.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 625,
       "customEmojiId": "5348511284671310112",
