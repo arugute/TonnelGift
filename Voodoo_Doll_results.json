@@ -2811,6 +2811,144 @@
       "auction": null,
       "export_at": "2025-06-23T14:31:27.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 2037,
+      "customEmojiId": "5231476148864572156",
+      "gift_id": 7259060,
+      "name": "Voodoo Doll",
+      "model": "Shrek (1%)",
+      "asset": "TON",
+      "symbol": "Eyeball (2.4%)",
+      "backdrop": "English Violet (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 35.93,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "849F1DPL",
+      "auction": {
+        "_id": "687825edaace4cd2f64c1d55",
+        "gift_id": 7259060,
+        "seller": 0,
+        "auction_id": "849F1DPL",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 16.5,
+            "asset": "TON",
+            "_id": "68782774aace4cd2f64d8048",
+            "timestamp": "2025-07-16T22:28:04.588Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 20,
+            "asset": "TON",
+            "_id": "687827adaace4cd2f64f7c65",
+            "timestamp": "2025-07-16T22:29:01.850Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 21,
+            "asset": "TON",
+            "_id": "68782eb3aace4cd2f65d437c",
+            "timestamp": "2025-07-16T22:58:59.037Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 22.05,
+            "asset": "TON",
+            "_id": "68782f45aace4cd2f65e3b28",
+            "timestamp": "2025-07-16T23:01:25.298Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 23.15,
+            "asset": "TON",
+            "_id": "68782f5faace4cd2f65e5ec2",
+            "timestamp": "2025-07-16T23:01:51.724Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 24.31,
+            "asset": "TON",
+            "_id": "68782f78aace4cd2f65e8cf2",
+            "timestamp": "2025-07-16T23:02:16.700Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 25.53,
+            "asset": "TON",
+            "_id": "6878316eaace4cd2f6628fbe",
+            "timestamp": "2025-07-16T23:10:38.068Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 26.81,
+            "asset": "TON",
+            "_id": "68783345aace4cd2f6666aaf",
+            "timestamp": "2025-07-16T23:18:29.707Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 28.15,
+            "asset": "TON",
+            "_id": "687835c4aace4cd2f6679c89",
+            "timestamp": "2025-07-16T23:29:08.593Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 29.56,
+            "asset": "TON",
+            "_id": "687835eaaace4cd2f667aa3e",
+            "timestamp": "2025-07-16T23:29:46.808Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 31.04,
+            "asset": "TON",
+            "_id": "68783746aace4cd2f6683943",
+            "timestamp": "2025-07-16T23:35:34.645Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 32.59,
+            "asset": "TON",
+            "_id": "6878375faace4cd2f6683ffe",
+            "timestamp": "2025-07-16T23:35:59.935Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 34.22,
+            "asset": "TON",
+            "_id": "687837ffaace4cd2f6687f5b",
+            "timestamp": "2025-07-16T23:38:39.231Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 35.93,
+            "asset": "TON",
+            "_id": "6878380eaace4cd2f6688992",
+            "timestamp": "2025-07-16T23:38:54.770Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-16T23:51:32.295Z",
+        "status": "finished",
+        "gift_name": "Voodoo Doll",
+        "gift_num": 2037,
+        "model": "Shrek (1%)",
+        "backdrop": "English Violet (2%)",
+        "symbol": "Eyeball (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-16T22:21:33.227Z",
+        "__v": 0,
+        "winningBid": 35.93,
+        "winningBidder": 6864890970
+      },
+      "export_at": "2025-07-30T22:20:50.000Z",
+      "premarketData": {}
     }
   ],
   "Far Galaxy": [
@@ -2827,7 +2965,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 17.5,
+      "price": 17.9,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -4501,6 +4639,26 @@
   ],
   "Terminator": [
     {
+      "gift_num": 15471,
+      "customEmojiId": "5228981202362329519",
+      "gift_id": 7177851,
+      "name": "Voodoo Doll",
+      "model": "Terminator (2%)",
+      "asset": "TON",
+      "symbol": "Human Scull (2.4%)",
+      "backdrop": "Midnight Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 27,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T14:34:30.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 9499,
       "customEmojiId": "5228981202362329519",
       "gift_id": 7259661,
@@ -5078,26 +5236,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-30T16:22:10.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3499,
-      "customEmojiId": "5228981202362329519",
-      "gift_id": 4934989,
-      "name": "Voodoo Doll",
-      "model": "Terminator (2%)",
-      "asset": "TON",
-      "symbol": "Evil Pumpkin (2.4%)",
-      "backdrop": "Malachite (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 34,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-30T16:02:52.000Z",
       "premarketData": {}
     }
   ],
@@ -9785,26 +9923,6 @@
   ],
   "Clear Water": [
     {
-      "gift_num": 9748,
-      "customEmojiId": "5228839524276137201",
-      "gift_id": 7252005,
-      "name": "Voodoo Doll",
-      "model": "Clear Water (1.5%)",
-      "asset": "TON",
-      "symbol": "Flying Witch (2.4%)",
-      "backdrop": "Satin Gold (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T15:24:00.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 21366,
       "customEmojiId": "5228839524276137201",
       "gift_id": 7224577,
@@ -10411,9 +10529,49 @@
       "auction": null,
       "export_at": "2025-05-29T21:17:42.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 11026,
+      "customEmojiId": "5228839524276137201",
+      "gift_id": 5638045,
+      "name": "Voodoo Doll",
+      "model": "Clear Water (1.5%)",
+      "asset": "TON",
+      "symbol": "Inca Sun (0.2%)",
+      "backdrop": "Ivory White (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 35,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-17T22:22:09.000Z",
+      "premarketData": {}
     }
   ],
   "Pumpkin": [
+    {
+      "gift_num": 15790,
+      "customEmojiId": "5231172236978710642",
+      "gift_id": 6321554,
+      "name": "Voodoo Doll",
+      "model": "Pumpkin (1%)",
+      "asset": "TON",
+      "symbol": "Sea Jelly (0.2%)",
+      "backdrop": "Burgundy (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 25,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-27T00:20:05.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 25521,
       "customEmojiId": "5231172236978710642",
@@ -10472,26 +10630,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T11:01:56.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15790,
-      "customEmojiId": "5231172236978710642",
-      "gift_id": 6321554,
-      "name": "Voodoo Doll",
-      "model": "Pumpkin (1%)",
-      "asset": "TON",
-      "symbol": "Sea Jelly (0.2%)",
-      "backdrop": "Burgundy (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-27T00:20:05.000Z",
       "premarketData": {}
     },
     {
@@ -13775,6 +13913,26 @@
   ],
   "Vengeance": [
     {
+      "gift_num": 8285,
+      "customEmojiId": "5228958408970890694",
+      "gift_id": 7015557,
+      "name": "Voodoo Doll",
+      "model": "Vengeance (3.5%)",
+      "asset": "TON",
+      "symbol": "Baphomet (2.4%)",
+      "backdrop": "Carrot Juice (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15.1,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-19T20:23:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 978,
       "customEmojiId": "5228958408970890694",
       "gift_id": 5824642,
@@ -14260,26 +14418,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-21T04:08:03.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 8285,
-      "customEmojiId": "5228958408970890694",
-      "gift_id": 7015557,
-      "name": "Voodoo Doll",
-      "model": "Vengeance (3.5%)",
-      "asset": "TON",
-      "symbol": "Baphomet (2.4%)",
-      "backdrop": "Carrot Juice (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 35,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-19T20:23:16.000Z",
       "premarketData": {}
     },
     {
@@ -21842,6 +21980,26 @@
   ],
   "Dark Side": [
     {
+      "gift_num": 7663,
+      "customEmojiId": "5231481221220949813",
+      "gift_id": 7260203,
+      "name": "Voodoo Doll",
+      "model": "Dark Side (3.5%)",
+      "asset": "TON",
+      "symbol": "Crystal Ball (2%)",
+      "backdrop": "Cobalt Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T00:17:22.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 21857,
       "customEmojiId": "5231481221220949813",
       "gift_id": 7218069,
@@ -22419,26 +22577,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-30T12:07:47.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 10499,
-      "customEmojiId": "5231481221220949813",
-      "gift_id": 6411234,
-      "name": "Voodoo Doll",
-      "model": "Dark Side (3.5%)",
-      "asset": "TON",
-      "symbol": "Coffee Bean (0.2%)",
-      "backdrop": "Sky Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 37,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-28T19:09:03.000Z",
       "premarketData": {}
     }
   ],
@@ -23850,6 +23988,26 @@
   ],
   "Malachite": [
     {
+      "gift_num": 475,
+      "customEmojiId": "5229127918445160912",
+      "gift_id": 7259863,
+      "name": "Voodoo Doll",
+      "model": "Malachite (3.5%)",
+      "asset": "TON",
+      "symbol": "Piñata (0.2%)",
+      "backdrop": "Sky Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 40,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T23:30:24.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6297,
       "customEmojiId": "5229127918445160912",
       "gift_id": 7111476,
@@ -24428,29 +24586,29 @@
       "auction": null,
       "export_at": "2025-06-23T14:20:03.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Ice Block": [
     {
-      "gift_num": 21509,
-      "customEmojiId": "5229127918445160912",
-      "gift_id": 7113938,
+      "gift_num": 7339,
+      "customEmojiId": "5229003729465797151",
+      "gift_id": 7240339,
       "name": "Voodoo Doll",
-      "model": "Malachite (3.5%)",
+      "model": "Ice Block (0.6%)",
       "asset": "TON",
       "symbol": "Baphomet (2.4%)",
-      "backdrop": "Sapphire (2%)",
+      "backdrop": "Moonstone (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 28,
+      "price": 52,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-23T21:03:25.000Z",
+      "export_at": "2025-07-29T21:32:40.000Z",
       "premarketData": {}
-    }
-  ],
-  "Ice Block": [
+    },
     {
       "gift_num": 13740,
       "customEmojiId": "5229003729465797151",
@@ -24489,26 +24647,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-27T16:36:59.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7339,
-      "customEmojiId": "5229003729465797151",
-      "gift_id": 7240339,
-      "name": "Voodoo Doll",
-      "model": "Ice Block (0.6%)",
-      "asset": "TON",
-      "symbol": "Baphomet (2.4%)",
-      "backdrop": "Moonstone (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 55,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T21:32:40.000Z",
       "premarketData": {}
     },
     {
