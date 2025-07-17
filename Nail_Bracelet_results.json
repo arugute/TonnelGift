@@ -1228,6 +1228,26 @@
   ],
   "Crypto Gem": [
     {
+      "gift_num": 1849,
+      "customEmojiId": "5393389939113090467",
+      "gift_id": 6977998,
+      "name": "Nail Bracelet",
+      "model": "Crypto Gem (1.5%)",
+      "asset": "TON",
+      "symbol": "Chest (0.2%)",
+      "backdrop": "Jade Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 909794,
+      "price": 500,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-18T07:33:34.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4083,
       "customEmojiId": "5393389939113090467",
       "gift_id": 6739480,
@@ -1289,6 +1309,54 @@
     }
   ],
   "Hachikō": [
+    {
+      "gift_num": 415,
+      "customEmojiId": "5413512981881317444",
+      "gift_id": 7251211,
+      "name": "Nail Bracelet",
+      "model": "Hachikō (1.5%)",
+      "asset": "TON",
+      "symbol": "Moto Helmet (0.5%)",
+      "backdrop": "Pacific Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 909568,
+      "price": 165,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "MTMKR2Z5",
+      "auction": {
+        "_id": "6877b74eaace4cd2f69398cc",
+        "gift_id": 7251211,
+        "seller": 0,
+        "auction_id": "MTMKR2Z5",
+        "startingBid": 165,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 165,
+            "asset": "TON",
+            "_id": "68788a31aace4cd2f6926148",
+            "timestamp": "2025-07-17T05:29:21.158Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-17T05:45:48.331Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 415,
+        "model": "Hachikō (1.5%)",
+        "backdrop": "Pacific Green (1%)",
+        "symbol": "Moto Helmet (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-16T23:35:48.388Z",
+        "__v": 0,
+        "winningBid": 165,
+        "winningBidder": 435235660
+      },
+      "export_at": "2025-07-30T14:29:21.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 571,
       "customEmojiId": "5413512981881317444",
@@ -4447,7 +4515,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 135,
+      "price": 130,
       "status": "forsale",
       "limited": false,
       "auction": null,
