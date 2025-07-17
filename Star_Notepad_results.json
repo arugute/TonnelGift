@@ -1,6 +1,26 @@
 {
   "Skies Above": [
     {
+      "gift_num": 20081,
+      "customEmojiId": "5208636642360849170",
+      "gift_id": 7271651,
+      "name": "Star Notepad",
+      "model": "Skies Above (1.3%)",
+      "asset": "TON",
+      "symbol": "Scarab (0.4%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T19:02:55.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 50146,
       "customEmojiId": "5208636642360849170",
       "gift_id": 7257756,
@@ -13,10 +33,185 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
+      "price": 15.75,
+      "status": "auction",
       "limited": false,
-      "auction": null,
+      "auction_id": "HBPWX7XQ",
+      "auction": {
+        "_id": "68795874aace4cd2f6564a42",
+        "gift_id": 7257756,
+        "seller": 0,
+        "auction_id": "HBPWX7XQ",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68795a2caace4cd2f656c8b5",
+            "timestamp": "2025-07-17T20:16:44.730Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "68795e4faace4cd2f657f900",
+            "timestamp": "2025-07-17T20:34:23.412Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "68796119aace4cd2f658b687",
+            "timestamp": "2025-07-17T20:46:17.523Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3,
+            "asset": "TON",
+            "_id": "68796125aace4cd2f658b809",
+            "timestamp": "2025-07-17T20:46:29.176Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.15,
+            "asset": "TON",
+            "_id": "68796183aace4cd2f658d8c9",
+            "timestamp": "2025-07-17T20:48:03.967Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.5,
+            "asset": "TON",
+            "_id": "687961c8aace4cd2f658f403",
+            "timestamp": "2025-07-17T20:49:12.299Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4,
+            "asset": "TON",
+            "_id": "687961e1aace4cd2f658fc19",
+            "timestamp": "2025-07-17T20:49:37.856Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.5,
+            "asset": "TON",
+            "_id": "687961f6aace4cd2f658fea5",
+            "timestamp": "2025-07-17T20:49:58.704Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.73,
+            "asset": "TON",
+            "_id": "6879621faace4cd2f659020d",
+            "timestamp": "2025-07-17T20:50:39.442Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "6879623caace4cd2f659075e",
+            "timestamp": "2025-07-17T20:51:08.324Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.3,
+            "asset": "TON",
+            "_id": "68796296aace4cd2f65912a1",
+            "timestamp": "2025-07-17T20:52:38.001Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.57,
+            "asset": "TON",
+            "_id": "687962b0aace4cd2f65918af",
+            "timestamp": "2025-07-17T20:53:04.243Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.1,
+            "asset": "TON",
+            "_id": "687962c0aace4cd2f6591c4d",
+            "timestamp": "2025-07-17T20:53:20.202Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.41,
+            "asset": "TON",
+            "_id": "687962caaace4cd2f6591dae",
+            "timestamp": "2025-07-17T20:53:30.845Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8,
+            "asset": "TON",
+            "_id": "687962d8aace4cd2f65927e6",
+            "timestamp": "2025-07-17T20:53:44.482Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9,
+            "asset": "TON",
+            "_id": "68796356aace4cd2f6594455",
+            "timestamp": "2025-07-17T20:55:50.271Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "687963e4aace4cd2f659580c",
+            "timestamp": "2025-07-17T20:58:12.637Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.5,
+            "asset": "TON",
+            "_id": "68796466aace4cd2f65962ac",
+            "timestamp": "2025-07-17T21:00:22.303Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13,
+            "asset": "TON",
+            "_id": "68796605aace4cd2f659a25f",
+            "timestamp": "2025-07-17T21:07:17.320Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.65,
+            "asset": "TON",
+            "_id": "687967a6aace4cd2f65a0180",
+            "timestamp": "2025-07-17T21:14:14.817Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15,
+            "asset": "TON",
+            "_id": "687967b2aace4cd2f65a06a6",
+            "timestamp": "2025-07-17T21:14:26.950Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15.75,
+            "asset": "TON",
+            "_id": "6879681aaace4cd2f65a26a4",
+            "timestamp": "2025-07-17T21:16:10.932Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-17T21:29:15.342Z",
+        "status": "finished",
+        "gift_name": "Star Notepad",
+        "gift_num": 50146,
+        "model": "Skies Above (1.3%)",
+        "backdrop": "Black (1.5%)",
+        "symbol": "Croissant (0.3%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-17T20:09:24.745Z",
+        "__v": 0,
+        "winningBid": 15.75,
+        "winningBidder": 7301086318
+      },
       "export_at": "2025-07-30T21:03:01.000Z",
       "premarketData": {}
     },
@@ -543,24 +738,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 8.262,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6033,
-      "customEmojiId": "5208636642360849170",
-      "gift_id": 584356680739,
-      "name": "Star Notepad",
-      "model": "Skies Above (1.3%)",
-      "asset": "TON",
-      "symbol": "Spirit Impala (0.3%)",
-      "backdrop": "Indigo Dye (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 24.478,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -1433,41 +1610,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "12PFT46Q",
-      "auction": {
-        "_id": "686fd08734f36633462ee2d5",
-        "gift_id": 7113914,
-        "seller": 0,
-        "auction_id": "12PFT46Q",
-        "startingBid": 3.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "687285c98938e518f163fc98",
-            "timestamp": "2025-07-12T15:56:57.710Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.7,
-            "asset": "TON",
-            "_id": "6872902a8938e518f16e34b1",
-            "timestamp": "2025-07-12T16:41:14.917Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T17:11:33.046Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 49098,
-        "model": "Metallic (0.7%)",
-        "backdrop": "Roman Silver (2%)",
-        "symbol": "Rhino Warrior (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T15:11:36.475Z",
-        "__v": 0,
-        "winningBid": 3.7,
-        "winningBidder": 2110306547
-      },
+      "auction": null,
       "export_at": "2025-07-23T21:02:01.000Z",
       "premarketData": {}
     },
@@ -2512,48 +2655,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "GHFT84JP",
-      "auction": {
-        "_id": "687264ec8938e518f1a6156c",
-        "gift_id": 7058669,
-        "seller": 0,
-        "auction_id": "GHFT84JP",
-        "startingBid": 9,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 9,
-            "asset": "TON",
-            "_id": "687393408938e518f16b4d59",
-            "timestamp": "2025-07-13T11:06:40.305Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.45,
-            "asset": "TON",
-            "_id": "6873a1c98938e518f1d81109",
-            "timestamp": "2025-07-13T12:08:41.390Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.92,
-            "asset": "TON",
-            "_id": "6873a3618938e518f1daa0db",
-            "timestamp": "2025-07-13T12:15:29.647Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T12:29:27.405Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 25122,
-        "model": "True Love (0.7%)",
-        "backdrop": "Fandango (2%)",
-        "symbol": "Cap (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T00:09:31.315Z",
-        "__v": 0,
-        "winningBid": 9.92,
-        "winningBidder": 954997534
-      },
+      "auction": null,
       "export_at": "2025-07-21T16:15:22.000Z",
       "premarketData": {}
     },
@@ -2895,6 +2997,24 @@
     }
   ],
   "Rainbow": [
+    {
+      "gift_num": 45145,
+      "customEmojiId": "5447351298334681528",
+      "gift_id": 588845911553,
+      "name": "Star Notepad",
+      "model": "Rainbow (1.3%)",
+      "asset": "TON",
+      "symbol": "Turkey (0.4%)",
+      "backdrop": "Chestnut (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2.754,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 48258,
       "customEmojiId": "5447351298334681528",
@@ -3442,29 +3562,27 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 40150,
-      "customEmojiId": "5447351298334681528",
-      "gift_id": 6168644,
-      "name": "Star Notepad",
-      "model": "Rainbow (1.3%)",
-      "asset": "TON",
-      "symbol": "Breeze (0.5%)",
-      "backdrop": "Pacific Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T18:30:06.000Z",
-      "premarketData": {}
     }
   ],
   "Tutti Frutti": [
+    {
+      "gift_num": 21272,
+      "customEmojiId": "5447603885361360042",
+      "gift_id": 587087857744,
+      "name": "Star Notepad",
+      "model": "Tutti Frutti (1.3%)",
+      "asset": "TON",
+      "symbol": "Trickster Fox (0.4%)",
+      "backdrop": "Sapphire (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.059,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 42662,
       "customEmojiId": "5447603885361360042",
@@ -4001,24 +4119,6 @@
       "model": "Tutti Frutti (1.3%)",
       "asset": "TON",
       "symbol": "Shortsword (0.3%)",
-      "backdrop": "Onyx Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 55.08,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 14767,
-      "customEmojiId": "5447603885361360042",
-      "gift_id": 584821109297,
-      "name": "Star Notepad",
-      "model": "Tutti Frutti (1.3%)",
-      "asset": "TON",
-      "symbol": "Croissant (0.3%)",
       "backdrop": "Onyx Black (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
@@ -4594,6 +4694,26 @@
   ],
   "Negative": [
     {
+      "gift_num": 42716,
+      "customEmojiId": "5222295067858855800",
+      "gift_id": 7261513,
+      "name": "Star Notepad",
+      "model": "Negative (1.3%)",
+      "asset": "TON",
+      "symbol": "Scarab (0.4%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 40,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T05:27:54.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3696,
       "customEmojiId": "5222295067858855800",
       "gift_id": 584383008029,
@@ -5126,24 +5246,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 550.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 47451,
-      "customEmojiId": "5222295067858855800",
-      "gift_id": 593179306781,
-      "name": "Star Notepad",
-      "model": "Negative (1.3%)",
-      "asset": "TON",
-      "symbol": "Eye of Horus (0.5%)",
-      "backdrop": "English Violet (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 55.08,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -7435,34 +7537,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "QRVICVSM",
-      "auction": {
-        "_id": "6878c6adaace4cd2f6f63c65",
-        "gift_id": 7258856,
-        "seller": 0,
-        "auction_id": "QRVICVSM",
-        "startingBid": 2.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.5,
-            "asset": "TON",
-            "_id": "6878e1e4aace4cd2f6d425b8",
-            "timestamp": "2025-07-17T11:43:32.905Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T11:57:23.359Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 2866,
-        "model": "Cheerleader (1.3%)",
-        "backdrop": "Coral Red (1.5%)",
-        "symbol": "Pineapple (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T09:47:25.863Z",
-        "__v": 0,
-        "winningBid": 2.5,
-        "winningBidder": 5159574322
-      },
+      "auction": null,
       "export_at": "2025-07-30T22:00:59.000Z",
       "premarketData": {}
     },
@@ -7983,6 +8058,66 @@
   ],
   "Vice City": [
     {
+      "gift_num": 42809,
+      "customEmojiId": "5201880667394171958",
+      "gift_id": 7272943,
+      "name": "Star Notepad",
+      "model": "Vice City (1.3%)",
+      "asset": "TON",
+      "symbol": "Cone (0.5%)",
+      "backdrop": "Cappuccino (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.24,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T20:50:09.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 13467,
+      "customEmojiId": "5201880667394171958",
+      "gift_id": 7272978,
+      "name": "Star Notepad",
+      "model": "Vice City (1.3%)",
+      "asset": "TON",
+      "symbol": "Toy Bucket (0.2%)",
+      "backdrop": "Navy Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T20:52:51.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 19340,
+      "customEmojiId": "5201880667394171958",
+      "gift_id": 7088923,
+      "name": "Star Notepad",
+      "model": "Vice City (1.3%)",
+      "asset": "TON",
+      "symbol": "Trophy (0.5%)",
+      "backdrop": "Moonstone (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-22T19:06:21.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 446,
       "customEmojiId": "5201880667394171958",
       "gift_id": 7211377,
@@ -8395,26 +8530,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 31785,
-      "customEmojiId": "5201880667394171958",
-      "gift_id": 7205227,
-      "name": "Star Notepad",
-      "model": "Vice City (1.3%)",
-      "asset": "TON",
-      "symbol": "Ancient Urn (0.3%)",
-      "backdrop": "Electric Purple (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T23:11:40.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 1057,
       "customEmojiId": "5201880667394171958",
       "gift_id": 7203984,
@@ -8507,47 +8622,29 @@
       "auction": null,
       "export_at": "2025-06-26T18:35:10.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Novelist": [
     {
-      "gift_num": 24098,
-      "customEmojiId": "5201880667394171958",
-      "gift_id": 587991923878,
+      "gift_num": 34124,
+      "customEmojiId": "5233573746467430122",
+      "gift_id": 7273403,
       "name": "Star Notepad",
-      "model": "Vice City (1.3%)",
+      "model": "Novelist (1%)",
       "asset": "TON",
-      "symbol": "Lion King (0.4%)",
-      "backdrop": "Raspberry (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 5.233,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 26512,
-      "customEmojiId": "5201880667394171958",
-      "gift_id": 6911839,
-      "name": "Star Notepad",
-      "model": "Vice City (1.3%)",
-      "asset": "TON",
-      "symbol": "Fleur-de-lis (0.3%)",
-      "backdrop": "Chestnut (2%)",
+      "symbol": "Nigiri (0.4%)",
+      "backdrop": "Cobalt Blue (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.7,
+      "price": 2.7,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-15T17:28:54.000Z",
+      "export_at": "2025-07-31T21:22:27.000Z",
       "premarketData": {}
-    }
-  ],
-  "Novelist": [
+    },
     {
       "gift_num": 50099,
       "customEmojiId": "5233573746467430122",
@@ -9093,24 +9190,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 48377,
-      "customEmojiId": "5233573746467430122",
-      "gift_id": 594261894090,
-      "name": "Star Notepad",
-      "model": "Novelist (1%)",
-      "asset": "TON",
-      "symbol": "Moon (0.5%)",
-      "backdrop": "Chestnut (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 11.016,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Color Switch": [
@@ -9205,34 +9284,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "QMI5AWFM",
-      "auction": {
-        "_id": "6877f708aace4cd2f6c88163",
-        "gift_id": 7251514,
-        "seller": 0,
-        "auction_id": "QMI5AWFM",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68781351aace4cd2f6073f30",
-            "timestamp": "2025-07-16T21:02:09.215Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T21:12:13.042Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 46579,
-        "model": "Color Switch (0.7%)",
-        "backdrop": "Caramel (2%)",
-        "symbol": "Morgenstern (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T20:02:14.085Z",
-        "__v": 0,
-        "winningBid": 3,
-        "winningBidder": 1339840022
-      },
+      "auction": null,
       "export_at": "2025-07-30T14:51:22.000Z",
       "premarketData": {}
     },
@@ -9899,34 +9951,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "8ZKVGK8S",
-      "auction": {
-        "_id": "686e545d022724755739c408",
-        "gift_id": 7101907,
-        "seller": 0,
-        "auction_id": "8ZKVGK8S",
-        "startingBid": 4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "68769c93aace4cd2f6859887",
-            "timestamp": "2025-07-15T18:23:15.617Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T18:33:46.260Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 48652,
-        "model": "Neon Grid (0.7%)",
-        "backdrop": "Cobalt Blue (1.5%)",
-        "symbol": "Griffon (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T16:23:46.709Z",
-        "__v": 0,
-        "winningBid": 4,
-        "winningBidder": 968294148
-      },
+      "auction": null,
       "export_at": "2025-07-23T11:34:42.000Z",
       "premarketData": {}
     },
@@ -10561,55 +10586,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "P8NJGL40",
-      "auction": {
-        "_id": "687360468938e518f1d6aa0d",
-        "gift_id": 7171013,
-        "seller": 0,
-        "auction_id": "P8NJGL40",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "687362308938e518f1f12552",
-            "timestamp": "2025-07-13T07:37:20.940Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "687368938938e518f1f966a0",
-            "timestamp": "2025-07-13T08:04:35.722Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.51,
-            "asset": "TON",
-            "_id": "6873698c8938e518f1f9ded9",
-            "timestamp": "2025-07-13T08:08:44.338Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.29,
-            "asset": "TON",
-            "_id": "687369cb8938e518f1f9f4eb",
-            "timestamp": "2025-07-13T08:09:47.629Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T08:29:09.720Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 48978,
-        "model": "Cursed Tome (0.5%)",
-        "backdrop": "Emerald (1%)",
-        "symbol": "Lemon Slice (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T07:29:10.762Z",
-        "__v": 0,
-        "winningBid": 6.29,
-        "winningBidder": 2118606134
-      },
+      "auction": null,
       "export_at": "2025-07-26T08:04:17.000Z",
       "premarketData": {}
     },
@@ -10650,55 +10627,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "36UGKL9J",
-      "auction": {
-        "_id": "6871712a8938e518f1dceeb0",
-        "gift_id": 7116190,
-        "seller": 0,
-        "auction_id": "36UGKL9J",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "68720bf88938e518f146faef",
-            "timestamp": "2025-07-12T07:17:12.439Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "68720da08938e518f14a8e8a",
-            "timestamp": "2025-07-12T07:24:16.715Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.51,
-            "asset": "TON",
-            "_id": "68720e1f8938e518f14c5f77",
-            "timestamp": "2025-07-12T07:26:23.333Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7,
-            "asset": "TON",
-            "_id": "68720e308938e518f14ca191",
-            "timestamp": "2025-07-12T07:26:40.245Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T08:01:30.418Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 48978,
-        "model": "Cursed Tome (0.5%)",
-        "backdrop": "Emerald (1%)",
-        "symbol": "Lemon Slice (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T07:01:31.104Z",
-        "__v": 0,
-        "winningBid": 7,
-        "winningBidder": 1896294579
-      },
+      "auction": null,
       "export_at": "2025-07-23T22:32:04.000Z",
       "premarketData": {}
     },
@@ -10969,6 +10898,24 @@
     }
   ],
   "Blue Jeans": [
+    {
+      "gift_num": 45376,
+      "customEmojiId": "5445018254919625731",
+      "gift_id": 589312736703,
+      "name": "Star Notepad",
+      "model": "Blue Jeans (1.3%)",
+      "asset": "TON",
+      "symbol": "Pawn (0.4%)",
+      "backdrop": "Electric Purple (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4.82,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 7500,
       "customEmojiId": "5445018254919625731",
@@ -11530,27 +11477,27 @@
       "auction": null,
       "export_at": "2025-06-24T12:45:52.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Hipster": [
     {
-      "gift_num": 31810,
-      "customEmojiId": "5445018254919625731",
-      "gift_id": 594511533051,
+      "gift_num": 26979,
+      "customEmojiId": "5447457611660157839",
+      "gift_id": 590243300638,
       "name": "Star Notepad",
-      "model": "Blue Jeans (1.3%)",
+      "model": "Hipster (1.3%)",
       "asset": "TON",
-      "symbol": "Magic Vial (0.5%)",
-      "backdrop": "Ivory White (2%)",
+      "symbol": "Paper Lantern (0.5%)",
+      "backdrop": "Purple (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 7.711,
+      "price": 15.224,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "premarketData": {}
-    }
-  ],
-  "Hipster": [
+    },
     {
       "gift_num": 28428,
       "customEmojiId": "5447457611660157839",
@@ -12090,24 +12037,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 23020,
-      "customEmojiId": "5447457611660157839",
-      "gift_id": 587526614852,
-      "name": "Star Notepad",
-      "model": "Hipster (1.3%)",
-      "asset": "TON",
-      "symbol": "Magic Hat (0.3%)",
-      "backdrop": "Emerald (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 13.164,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Leather": [
@@ -12356,41 +12285,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "HCLMZY2B",
-      "auction": {
-        "_id": "687519d3aace4cd2f6b294a9",
-        "gift_id": 7215248,
-        "seller": 0,
-        "auction_id": "HCLMZY2B",
-        "startingBid": 16.8,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 16.8,
-            "asset": "TON",
-            "_id": "68753d91aace4cd2f6efec38",
-            "timestamp": "2025-07-14T17:25:37.379Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 17.64,
-            "asset": "TON",
-            "_id": "68753f75aace4cd2f6f53d8b",
-            "timestamp": "2025-07-14T17:33:41.619Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T17:47:35.671Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 47540,
-        "model": "Leather (1.3%)",
-        "backdrop": "Black (1.5%)",
-        "symbol": "Jewel (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T16:27:36.638Z",
-        "__v": 0,
-        "winningBid": 17.64,
-        "winningBidder": 1434259986
-      },
+      "auction": null,
       "export_at": "2025-07-28T14:50:17.000Z",
       "premarketData": {}
     },
@@ -12823,34 +12718,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "ENXNM7ZQ",
-      "auction": {
-        "_id": "68755915aace4cd2f61f1549",
-        "gift_id": 7219783,
-        "seller": 0,
-        "auction_id": "ENXNM7ZQ",
-        "startingBid": 3.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "68764913aace4cd2f6468624",
-            "timestamp": "2025-07-15T12:26:59.162Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T12:41:52.049Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 49550,
-        "model": "Positive (1%)",
-        "backdrop": "Mint Green (2%)",
-        "symbol": "War Tiger (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T11:31:52.410Z",
-        "__v": 0,
-        "winningBid": 3.5,
-        "winningBidder": 1313811539
-      },
+      "auction": null,
       "export_at": "2025-07-28T19:21:09.000Z",
       "premarketData": {}
     },
@@ -13302,6 +13170,26 @@
     }
   ],
   "Grimoire": [
+    {
+      "gift_num": 5312,
+      "customEmojiId": "5235985147265837746",
+      "gift_id": 7200527,
+      "name": "Star Notepad",
+      "model": "Grimoire (0.5%)",
+      "asset": "TON",
+      "symbol": "Breeze (0.5%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 11,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T18:42:13.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3846,
       "customEmojiId": "5235985147265837746",
@@ -13860,26 +13748,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-25T11:33:37.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 20711,
-      "customEmojiId": "5235985147265837746",
-      "gift_id": 651342,
-      "name": "Star Notepad",
-      "model": "Grimoire (0.5%)",
-      "asset": "TON",
-      "symbol": "Bone (0.5%)",
-      "backdrop": "Pure Gold (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-03-06T18:43:14.000Z",
       "premarketData": {}
     }
   ],
@@ -14451,6 +14319,26 @@
   ],
   "Mustard": [
     {
+      "gift_num": 20329,
+      "customEmojiId": "5204080639837498501",
+      "gift_id": 7273264,
+      "name": "Star Notepad",
+      "model": "Mustard (1.3%)",
+      "asset": "TON",
+      "symbol": "Venetian Mask (0.5%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:14:43.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 13903,
       "customEmojiId": "5204080639837498501",
       "gift_id": 7262432,
@@ -14467,55 +14355,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "D3DYD5HY",
-      "auction": {
-        "_id": "6878a1a8aace4cd2f6adce87",
-        "gift_id": 7262432,
-        "seller": 0,
-        "auction_id": "D3DYD5HY",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6878ac0aaace4cd2f6b5fcb5",
-            "timestamp": "2025-07-17T07:53:46.578Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6878b678aace4cd2f6cf8ef5",
-            "timestamp": "2025-07-17T08:38:16.492Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6878b85faace4cd2f6d81831",
-            "timestamp": "2025-07-17T08:46:23.353Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6878b8fdaace4cd2f6da17e7",
-            "timestamp": "2025-07-17T08:49:01.414Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T09:06:40.814Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 13903,
-        "model": "Mustard (1.3%)",
-        "backdrop": "Light Olive (2%)",
-        "symbol": "Takoyaki (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T07:46:42.495Z",
-        "__v": 0,
-        "winningBid": 2.44,
-        "winningBidder": 5188618267
-      },
+      "auction": null,
       "export_at": "2025-07-31T07:08:44.000Z",
       "premarketData": {}
     },
@@ -15040,24 +14880,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 6.885,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 19243,
-      "customEmojiId": "5204080639837498501",
-      "gift_id": 586186359570,
-      "name": "Star Notepad",
-      "model": "Mustard (1.3%)",
-      "asset": "TON",
-      "symbol": "Axe (0.5%)",
-      "backdrop": "Desert Sand (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 6.059,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -15640,6 +15462,26 @@
   ],
   "Sterling": [
     {
+      "gift_num": 4229,
+      "customEmojiId": "5231391649677993239",
+      "gift_id": 6215527,
+      "name": "Star Notepad",
+      "model": "Sterling (1.3%)",
+      "asset": "TON",
+      "symbol": "Valkyrie (0.5%)",
+      "backdrop": "Cobalt Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-25T09:56:59.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 40019,
       "customEmojiId": "5231391649677993239",
       "gift_id": 7252610,
@@ -16060,48 +15902,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "2J9GRM67",
-      "auction": {
-        "_id": "687502a9aace4cd2f653956b",
-        "gift_id": 7211328,
-        "seller": 0,
-        "auction_id": "2J9GRM67",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68750c2daace4cd2f67ff778",
-            "timestamp": "2025-07-14T13:54:53.710Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "68751002aace4cd2f6a19744",
-            "timestamp": "2025-07-14T14:11:14.099Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "6875101aaace4cd2f6a1c253",
-            "timestamp": "2025-07-14T14:11:38.150Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T14:24:14.000Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 4780,
-        "model": "Sterling (1.3%)",
-        "backdrop": "Pine Green (2%)",
-        "symbol": "Lion Head (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T13:14:17.866Z",
-        "__v": 0,
-        "winningBid": 3.31,
-        "winningBidder": 6334255207
-      },
+      "auction": null,
       "export_at": "2025-07-28T11:34:02.000Z",
       "premarketData": {}
     },
@@ -16122,69 +15923,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "WICHKARD",
-      "auction": {
-        "_id": "6874f4398938e518f1c533cb",
-        "gift_id": 7210012,
-        "seller": 0,
-        "auction_id": "WICHKARD",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68750c09aace4cd2f67cd7ff",
-            "timestamp": "2025-07-14T13:54:17.528Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "68750febaace4cd2f6a15be3",
-            "timestamp": "2025-07-14T14:10:51.469Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "687511eeaace4cd2f6a4b34d",
-            "timestamp": "2025-07-14T14:19:26.674Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.48,
-            "asset": "TON",
-            "_id": "687511fbaace4cd2f6a4c55c",
-            "timestamp": "2025-07-14T14:19:39.284Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "687514b1aace4cd2f6a99b71",
-            "timestamp": "2025-07-14T14:31:13.480Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.2,
-            "asset": "TON",
-            "_id": "687516a7aace4cd2f6acdbb5",
-            "timestamp": "2025-07-14T14:39:35.858Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T14:53:50.006Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 37883,
-        "model": "Sterling (1.3%)",
-        "backdrop": "Pure Gold (2%)",
-        "symbol": "Illuminati (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T13:13:52.063Z",
-        "__v": 0,
-        "winningBid": 4.2,
-        "winningBidder": 238933002
-      },
+      "auction": null,
       "export_at": "2025-07-28T10:09:43.000Z",
       "premarketData": {}
     },
@@ -16305,24 +16044,6 @@
       "auction": null,
       "export_at": "2025-07-27T14:44:48.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 19878,
-      "customEmojiId": "5231391649677993239",
-      "gift_id": 586414195989,
-      "name": "Star Notepad",
-      "model": "Sterling (1.3%)",
-      "asset": "TON",
-      "symbol": "Polar Bear (0.4%)",
-      "backdrop": "Aquamarine (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 11.016,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Springfield": [
@@ -16339,11 +16060,31 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 4.5,
+      "price": 3.9,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T15:34:01.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 50272,
+      "customEmojiId": "5231285954827805927",
+      "gift_id": 7269340,
+      "name": "Star Notepad",
+      "model": "Springfield (0.7%)",
+      "asset": "TON",
+      "symbol": "Sleepy Unicorn (0.4%)",
+      "backdrop": "Silver Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T15:54:34.000Z",
       "premarketData": {}
     },
     {
@@ -16699,34 +16440,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "4QO7BW81",
-      "auction": {
-        "_id": "686ceb4e0227247557367188",
-        "gift_id": 7075145,
-        "seller": 0,
-        "auction_id": "4QO7BW81",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6870dd2034f36633467764cf",
-            "timestamp": "2025-07-11T09:45:04.932Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T10:02:37.362Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 1500,
-        "model": "Springfield (0.7%)",
-        "backdrop": "Orange (1.5%)",
-        "symbol": "Cobra (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T08:52:40.703Z",
-        "__v": 0,
-        "winningBid": 3,
-        "winningBidder": 5159574322
-      },
+      "auction": null,
       "export_at": "2025-07-22T09:54:34.000Z",
       "premarketData": {}
     },
@@ -16897,27 +16611,27 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
+    }
+  ],
+  "Newmarket": [
     {
-      "gift_num": 34043,
-      "customEmojiId": "5231285954827805927",
-      "gift_id": 596959340140,
+      "gift_num": 11385,
+      "customEmojiId": "5447109856748137457",
+      "gift_id": 584344208583,
       "name": "Star Notepad",
-      "model": "Springfield (0.7%)",
+      "model": "Newmarket (1.3%)",
       "asset": "TON",
-      "symbol": "Telescope (0.5%)",
-      "backdrop": "Raspberry (2%)",
+      "symbol": "Love Letter (0.3%)",
+      "backdrop": "Mint Green (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 17.075,
+      "price": 6.885,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "premarketData": {}
-    }
-  ],
-  "Newmarket": [
+    },
     {
       "gift_num": 46202,
       "customEmojiId": "5447109856748137457",
@@ -17458,24 +17172,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-25T20:32:56.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 21523,
-      "customEmojiId": "5447109856748137457",
-      "gift_id": 587063570992,
-      "name": "Star Notepad",
-      "model": "Newmarket (1.3%)",
-      "asset": "TON",
-      "symbol": "Horseshoe (0.3%)",
-      "backdrop": "Steel Grey (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 6.059,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
@@ -19643,6 +19339,24 @@
   ],
   "Tiger": [
     {
+      "gift_num": 26403,
+      "customEmojiId": "5229189980722590666",
+      "gift_id": 589564041682,
+      "name": "Star Notepad",
+      "model": "Tiger (0.7%)",
+      "asset": "TON",
+      "symbol": "Drug (0.5%)",
+      "backdrop": "Mint Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.538,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 50255,
       "customEmojiId": "5229189980722590666",
       "gift_id": 597402625003,
@@ -19811,202 +19525,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "71ZPDB0I",
-      "auction": {
-        "_id": "686d652a02272475572aa9b5",
-        "gift_id": 7088292,
-        "seller": 0,
-        "auction_id": "71ZPDB0I",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68779648aace4cd2f6bd2421",
-            "timestamp": "2025-07-16T12:08:40.784Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68779775aace4cd2f6c0e07f",
-            "timestamp": "2025-07-16T12:13:41.518Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "68779788aace4cd2f6c11bc6",
-            "timestamp": "2025-07-16T12:14:00.562Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6877979aaace4cd2f6c14b1b",
-            "timestamp": "2025-07-16T12:14:18.786Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "68779824aace4cd2f6c32266",
-            "timestamp": "2025-07-16T12:16:36.811Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.5,
-            "asset": "TON",
-            "_id": "6877983daace4cd2f6c36ee3",
-            "timestamp": "2025-07-16T12:17:01.015Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.73,
-            "asset": "TON",
-            "_id": "68779d3eaace4cd2f6d6bd55",
-            "timestamp": "2025-07-16T12:38:22.167Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6,
-            "asset": "TON",
-            "_id": "68779ed7aace4cd2f6da22f0",
-            "timestamp": "2025-07-16T12:45:11.082Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.3,
-            "asset": "TON",
-            "_id": "6877a110aace4cd2f6e3d13c",
-            "timestamp": "2025-07-16T12:54:40.941Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.62,
-            "asset": "TON",
-            "_id": "6877a94eaace4cd2f673649a",
-            "timestamp": "2025-07-16T13:29:50.294Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.95,
-            "asset": "TON",
-            "_id": "6877a978aace4cd2f673b94a",
-            "timestamp": "2025-07-16T13:30:32.510Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.3,
-            "asset": "TON",
-            "_id": "6877b2b7aace4cd2f68a22fe",
-            "timestamp": "2025-07-16T14:09:59.227Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.67,
-            "asset": "TON",
-            "_id": "6877b500aace4cd2f68f47f5",
-            "timestamp": "2025-07-16T14:19:44.335Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.05,
-            "asset": "TON",
-            "_id": "6877b617aace4cd2f69150e5",
-            "timestamp": "2025-07-16T14:24:23.644Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.45,
-            "asset": "TON",
-            "_id": "6877b625aace4cd2f6917110",
-            "timestamp": "2025-07-16T14:24:37.432Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.87,
-            "asset": "TON",
-            "_id": "6877b90caace4cd2f6961c90",
-            "timestamp": "2025-07-16T14:37:00.738Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.3,
-            "asset": "TON",
-            "_id": "6877b938aace4cd2f696549a",
-            "timestamp": "2025-07-16T14:37:44.950Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.87,
-            "asset": "TON",
-            "_id": "6877ba6baace4cd2f6984eab",
-            "timestamp": "2025-07-16T14:42:51.045Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.46,
-            "asset": "TON",
-            "_id": "6877ba9eaace4cd2f698ab7e",
-            "timestamp": "2025-07-16T14:43:42.703Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.08,
-            "asset": "TON",
-            "_id": "6877baafaace4cd2f698bb51",
-            "timestamp": "2025-07-16T14:43:59.909Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.73,
-            "asset": "TON",
-            "_id": "6877bb1eaace4cd2f699ca44",
-            "timestamp": "2025-07-16T14:45:50.548Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 14.42,
-            "asset": "TON",
-            "_id": "6877bd7faace4cd2f69fbc2f",
-            "timestamp": "2025-07-16T14:55:59.975Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15.14,
-            "asset": "TON",
-            "_id": "6877c069aace4cd2f6aa4a2e",
-            "timestamp": "2025-07-16T15:08:25.118Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15.9,
-            "asset": "TON",
-            "_id": "6877c270aace4cd2f6b855f9",
-            "timestamp": "2025-07-16T15:17:04.625Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 16.7,
-            "asset": "TON",
-            "_id": "6877c4e1aace4cd2f6c317bc",
-            "timestamp": "2025-07-16T15:27:29.151Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T15:38:58.649Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 19364,
-        "model": "Tiger (0.7%)",
-        "backdrop": "Black (1.5%)",
-        "symbol": "Tsunami (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T11:59:00.928Z",
-        "__v": 0,
-        "winningBid": 16.7,
-        "winningBidder": 143137261
-      },
+      "auction": null,
       "export_at": "2025-07-22T18:35:22.000Z",
       "premarketData": {}
     },
@@ -20123,34 +19642,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "U56WY7DB",
-      "auction": {
-        "_id": "68750a14aace4cd2f662d886",
-        "gift_id": 7202618,
-        "seller": 0,
-        "auction_id": "U56WY7DB",
-        "startingBid": 3.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "687517ecaace4cd2f6af10b5",
-            "timestamp": "2025-07-14T14:45:00.263Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T14:55:55.019Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 48916,
-        "model": "Tiger (0.7%)",
-        "backdrop": "Moonstone (1.5%)",
-        "symbol": "Aztec Totem (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T13:45:56.384Z",
-        "__v": 0,
-        "winningBid": 3.5,
-        "winningBidder": 5223518675
-      },
+      "auction": null,
       "export_at": "2025-07-27T20:22:32.000Z",
       "premarketData": {}
     },
@@ -20411,24 +19903,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 8.152,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 10906,
-      "customEmojiId": "5229189980722590666",
-      "gift_id": 584124173973,
-      "name": "Star Notepad",
-      "model": "Tiger (0.7%)",
-      "asset": "TON",
-      "symbol": "Duck Face (0.5%)",
-      "backdrop": "Raspberry (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 20.655,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -21017,6 +20491,24 @@
   ],
   "Spellbook": [
     {
+      "gift_num": 9756,
+      "customEmojiId": "5237687406013996578",
+      "gift_id": 584355435628,
+      "name": "Star Notepad",
+      "model": "Spellbook (0.5%)",
+      "asset": "TON",
+      "symbol": "Paper Lantern (0.5%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 18.176,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 8069,
       "customEmojiId": "5237687406013996578",
       "gift_id": 7258783,
@@ -21111,111 +20603,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "CFGJMQKR",
-      "auction": {
-        "_id": "68782f3aaace4cd2f65e322f",
-        "gift_id": 7253623,
-        "seller": 0,
-        "auction_id": "CFGJMQKR",
-        "startingBid": 4.2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4.2,
-            "asset": "TON",
-            "_id": "687832deaace4cd2f665b221",
-            "timestamp": "2025-07-16T23:16:46.969Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.41,
-            "asset": "TON",
-            "_id": "6878360eaace4cd2f667ab6a",
-            "timestamp": "2025-07-16T23:30:22.292Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.63,
-            "asset": "TON",
-            "_id": "687836e2aace4cd2f6680bf9",
-            "timestamp": "2025-07-16T23:33:54.163Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.86,
-            "asset": "TON",
-            "_id": "68783928aace4cd2f6691275",
-            "timestamp": "2025-07-16T23:43:36.015Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.1,
-            "asset": "TON",
-            "_id": "68783933aace4cd2f6691957",
-            "timestamp": "2025-07-16T23:43:47.477Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.36,
-            "asset": "TON",
-            "_id": "68783959aace4cd2f6691d5a",
-            "timestamp": "2025-07-16T23:44:25.801Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.63,
-            "asset": "TON",
-            "_id": "687839c3aace4cd2f6695748",
-            "timestamp": "2025-07-16T23:46:11.405Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.91,
-            "asset": "TON",
-            "_id": "687839d7aace4cd2f669697c",
-            "timestamp": "2025-07-16T23:46:31.042Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.21,
-            "asset": "TON",
-            "_id": "687839e6aace4cd2f66970dd",
-            "timestamp": "2025-07-16T23:46:46.605Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.52,
-            "asset": "TON",
-            "_id": "687839f1aace4cd2f66977f3",
-            "timestamp": "2025-07-16T23:46:57.503Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.85,
-            "asset": "TON",
-            "_id": "68783a29aace4cd2f669a752",
-            "timestamp": "2025-07-16T23:47:53.611Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.19,
-            "asset": "TON",
-            "_id": "68783a50aace4cd2f669c166",
-            "timestamp": "2025-07-16T23:48:32.465Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T00:01:13.806Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 47851,
-        "model": "Spellbook (0.5%)",
-        "backdrop": "Amber (2%)",
-        "symbol": "Inca Sun (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T23:01:14.938Z",
-        "__v": 0,
-        "winningBid": 7.19,
-        "winningBidder": 6377478637
-      },
+      "auction": null,
       "export_at": "2025-07-30T16:55:20.000Z",
       "premarketData": {}
     },
@@ -21410,111 +20798,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "T5EIQ76E",
-      "auction": {
-        "_id": "68726e188938e518f1acd838",
-        "gift_id": 6570871,
-        "seller": 0,
-        "auction_id": "T5EIQ76E",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687280db8938e518f1608ac8",
-            "timestamp": "2025-07-12T15:35:55.205Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6872874f8938e518f164e18d",
-            "timestamp": "2025-07-12T16:03:27.924Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.52,
-            "asset": "TON",
-            "_id": "68728c098938e518f16aaae7",
-            "timestamp": "2025-07-12T16:23:37.027Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.75,
-            "asset": "TON",
-            "_id": "68728eb78938e518f16cda20",
-            "timestamp": "2025-07-12T16:35:03.708Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "687294af8938e518f1713c83",
-            "timestamp": "2025-07-12T17:00:31.146Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "687294b98938e518f1714976",
-            "timestamp": "2025-07-12T17:00:41.228Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.51,
-            "asset": "TON",
-            "_id": "687294d58938e518f17177f3",
-            "timestamp": "2025-07-12T17:01:09.454Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.79,
-            "asset": "TON",
-            "_id": "687294e98938e518f1718e8d",
-            "timestamp": "2025-07-12T17:01:29.262Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.08,
-            "asset": "TON",
-            "_id": "687294f78938e518f1719aa3",
-            "timestamp": "2025-07-12T17:01:43.760Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.38,
-            "asset": "TON",
-            "_id": "6872952d8938e518f171c9f5",
-            "timestamp": "2025-07-12T17:02:37.508Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.7,
-            "asset": "TON",
-            "_id": "687295738938e518f1720277",
-            "timestamp": "2025-07-12T17:03:47.608Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.04,
-            "asset": "TON",
-            "_id": "687295968938e518f1722d41",
-            "timestamp": "2025-07-12T17:04:22.615Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T17:15:51.185Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 45121,
-        "model": "Spellbook (0.5%)",
-        "backdrop": "Sapphire (1.5%)",
-        "symbol": "Tamagotchi (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T14:15:52.367Z",
-        "__v": 0,
-        "winningBid": 7.04,
-        "winningBidder": 1313811539
-      },
+      "auction": null,
       "export_at": "2025-07-02T14:48:02.000Z",
       "premarketData": {}
     },
@@ -21778,26 +21062,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 40104,
-      "customEmojiId": "5237687406013996578",
-      "gift_id": 6489102,
-      "name": "Star Notepad",
-      "model": "Spellbook (0.5%)",
-      "asset": "TON",
-      "symbol": "Tie (0.2%)",
-      "backdrop": "Orange (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 16.98,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-30T13:04:36.000Z",
       "premarketData": {}
     }
   ],
@@ -22611,48 +21875,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "GY6ZD3EO",
-      "auction": {
-        "_id": "6874aa258938e518f17092b7",
-        "gift_id": 7207695,
-        "seller": 0,
-        "auction_id": "GY6ZD3EO",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "687564b9aace4cd2f680d573",
-            "timestamp": "2025-07-14T20:12:41.733Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "687567ddaace4cd2f6924ed9",
-            "timestamp": "2025-07-14T20:26:05.954Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "687567feaace4cd2f692655e",
-            "timestamp": "2025-07-14T20:26:38.856Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T20:39:45.727Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 49828,
-        "model": "Leopard (0.7%)",
-        "backdrop": "Pistachio (2%)",
-        "symbol": "Flower Cross (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T19:19:46.420Z",
-        "__v": 0,
-        "winningBid": 3.31,
-        "winningBidder": 1134158575
-      },
+      "auction": null,
       "export_at": "2025-07-28T06:56:11.000Z",
       "premarketData": {}
     },
@@ -22981,6 +22204,24 @@
   ],
   "Marmalade": [
     {
+      "gift_num": 49415,
+      "customEmojiId": "5447209551529009434",
+      "gift_id": 595648281616,
+      "name": "Star Notepad",
+      "model": "Marmalade (1.3%)",
+      "asset": "TON",
+      "symbol": "Pirate Scull (0.5%)",
+      "backdrop": "Roman Silver (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 27.54,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 47901,
       "customEmojiId": "5447209551529009434",
       "gift_id": 7253995,
@@ -23241,90 +22482,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "LELVBAZJ",
-      "auction": {
-        "_id": "6874e2028938e518f18dc848",
-        "gift_id": 7210714,
-        "seller": 0,
-        "auction_id": "LELVBAZJ",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6874ee8b8938e518f19b980d",
-            "timestamp": "2025-07-14T11:48:27.141Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "6874f2238938e518f1a2aa95",
-            "timestamp": "2025-07-14T12:03:47.828Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "6874f3e18938e518f1bf5c39",
-            "timestamp": "2025-07-14T12:11:13.171Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.48,
-            "asset": "TON",
-            "_id": "6874f4838938e518f1d1d68e",
-            "timestamp": "2025-07-14T12:13:55.580Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.7,
-            "asset": "TON",
-            "_id": "6874f6318938e518f1e362ca",
-            "timestamp": "2025-07-14T12:21:05.749Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.89,
-            "asset": "TON",
-            "_id": "6874f64b8938e518f1e3f020",
-            "timestamp": "2025-07-14T12:21:31.685Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.1,
-            "asset": "TON",
-            "_id": "6874f6a48938e518f1e55b6b",
-            "timestamp": "2025-07-14T12:23:00.274Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.31,
-            "asset": "TON",
-            "_id": "6874f9078938e518f1efc294",
-            "timestamp": "2025-07-14T12:33:11.804Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.79,
-            "asset": "TON",
-            "_id": "6874f93b8938e518f1f0b4de",
-            "timestamp": "2025-07-14T12:34:03.110Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T12:44:57.378Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 39999,
-        "model": "Marmalade (1.3%)",
-        "backdrop": "French Blue (2%)",
-        "symbol": "Hot Matcha (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T10:54:58.204Z",
-        "__v": 0,
-        "winningBid": 4.79,
-        "winningBidder": 1953256132
-      },
+      "auction": null,
       "export_at": "2025-07-28T10:52:54.000Z",
       "premarketData": {}
     },
@@ -23603,29 +22761,27 @@
       "auction": null,
       "export_at": "2025-07-24T21:00:50.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 2069,
-      "customEmojiId": "5447209551529009434",
-      "gift_id": 6732012,
-      "name": "Star Notepad",
-      "model": "Marmalade (1.3%)",
-      "asset": "TON",
-      "symbol": "Ribeye Steak (0.2%)",
-      "backdrop": "Chestnut (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-08T15:51:23.000Z",
-      "premarketData": {}
     }
   ],
   "Sunflower": [
+    {
+      "gift_num": 25850,
+      "customEmojiId": "5447528285347013748",
+      "gift_id": 589313381377,
+      "name": "Star Notepad",
+      "model": "Sunflower (1.3%)",
+      "asset": "TON",
+      "symbol": "Pyramid (0.3%)",
+      "backdrop": "Orange (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 7.16,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 26582,
       "customEmojiId": "5447528285347013748",
@@ -23981,34 +23137,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "W4R13SAX",
-      "auction": {
-        "_id": "687519b9aace4cd2f6b255f3",
-        "gift_id": 7215245,
-        "seller": 0,
-        "auction_id": "W4R13SAX",
-        "startingBid": 16.53,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 16.53,
-            "asset": "TON",
-            "_id": "68753e0caace4cd2f6f0eddb",
-            "timestamp": "2025-07-14T17:27:40.663Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T17:42:28.909Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 45685,
-        "model": "Sunflower (1.3%)",
-        "backdrop": "Black (1.5%)",
-        "symbol": "Magic Hat (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T16:42:30.350Z",
-        "__v": 0,
-        "winningBid": 16.53,
-        "winningBidder": 431999627
-      },
+      "auction": null,
       "export_at": "2025-07-28T14:50:07.000Z",
       "premarketData": {}
     },
@@ -24193,27 +23322,27 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
+    }
+  ],
+  "Matcha": [
     {
-      "gift_num": 47976,
-      "customEmojiId": "5447528285347013748",
-      "gift_id": 593588727115,
+      "gift_num": 29852,
+      "customEmojiId": "5447652933887879052",
+      "gift_id": 593173676078,
       "name": "Star Notepad",
-      "model": "Sunflower (1.3%)",
+      "model": "Matcha (1.3%)",
       "asset": "TON",
-      "symbol": "Plum (0.5%)",
-      "backdrop": "Roman Silver (2%)",
+      "symbol": "Sharp Sword (0.5%)",
+      "backdrop": "Fandango (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 4.82,
+      "price": 3.69,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "premarketData": {}
-    }
-  ],
-  "Matcha": [
+    },
     {
       "gift_num": 3965,
       "customEmojiId": "5447652933887879052",
@@ -24761,29 +23890,29 @@
       "auction": null,
       "export_at": "2025-07-26T10:08:17.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "North Pole": [
     {
-      "gift_num": 465,
-      "customEmojiId": "5447652933887879052",
-      "gift_id": 6482571,
+      "gift_num": 4328,
+      "customEmojiId": "5231415654250208960",
+      "gift_id": 7273139,
       "name": "Star Notepad",
-      "model": "Matcha (1.3%)",
+      "model": "North Pole (0.7%)",
       "asset": "TON",
-      "symbol": "Sleepy Unicorn (0.4%)",
+      "symbol": "Tamagotchi (0.5%)",
       "backdrop": "Roman Silver (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 4.5,
+      "price": 3.9,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-06-30T11:04:14.000Z",
+      "export_at": "2025-07-31T21:05:22.000Z",
       "premarketData": {}
-    }
-  ],
-  "North Pole": [
+    },
     {
       "gift_num": 45124,
       "customEmojiId": "5231415654250208960",
@@ -25329,24 +24458,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 19.278,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 20966,
-      "customEmojiId": "5231415654250208960",
-      "gift_id": 587070383669,
-      "name": "Star Notepad",
-      "model": "North Pole (0.7%)",
-      "asset": "TON",
-      "symbol": "Calm Wolf (0.2%)",
-      "backdrop": "Fandango (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 19.223,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -25925,6 +25036,26 @@
   ],
   "Hologram": [
     {
+      "gift_num": 36962,
+      "customEmojiId": "5237812260713291192",
+      "gift_id": 5992717,
+      "name": "Star Notepad",
+      "model": "Hologram (0.7%)",
+      "asset": "TON",
+      "symbol": "Moon (0.5%)",
+      "backdrop": "Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-23T15:23:49.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 29765,
       "customEmojiId": "5237812260713291192",
       "gift_id": 7270599,
@@ -26463,27 +25594,27 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
+    }
+  ],
+  "Pearlescent": [
     {
-      "gift_num": 44574,
-      "customEmojiId": "5237812260713291192",
-      "gift_id": 587770720178,
+      "gift_num": 49434,
+      "customEmojiId": "5231351826741223455",
+      "gift_id": 595827569871,
       "name": "Star Notepad",
-      "model": "Hologram (0.7%)",
+      "model": "Pearlescent (0.7%)",
       "asset": "TON",
-      "symbol": "Tamagotchi (0.5%)",
-      "backdrop": "Navy Blue (1%)",
+      "symbol": "Bonsai (0.4%)",
+      "backdrop": "Persimmon (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 8.262,
+      "price": 4.076,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "premarketData": {}
-    }
-  ],
-  "Pearlescent": [
+    },
     {
       "gift_num": 10170,
       "customEmojiId": "5231351826741223455",
@@ -27035,27 +26166,29 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 45611,
-      "customEmojiId": "5231351826741223455",
-      "gift_id": 590027760711,
-      "name": "Star Notepad",
-      "model": "Pearlescent (0.7%)",
-      "asset": "TON",
-      "symbol": "Avocado (0.3%)",
-      "backdrop": "Pure Gold (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 10.465,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Ranger": [
+    {
+      "gift_num": 45722,
+      "customEmojiId": "5442945082795780795",
+      "gift_id": 7224813,
+      "name": "Star Notepad",
+      "model": "Ranger (1.3%)",
+      "asset": "TON",
+      "symbol": "Crystal (0.5%)",
+      "backdrop": "Cappuccino (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T03:29:49.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 32779,
       "customEmojiId": "5442945082795780795",
@@ -27605,45 +26738,25 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 42286,
-      "customEmojiId": "5442945082795780795",
-      "gift_id": 584123468739,
-      "name": "Star Notepad",
-      "model": "Ranger (1.3%)",
-      "asset": "TON",
-      "symbol": "Pizza Slice (0.5%)",
-      "backdrop": "Khaki Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 55.08,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Red Cover": [
     {
-      "gift_num": 6491,
+      "gift_num": 45663,
       "customEmojiId": "5447477123696582868",
-      "gift_id": 7271505,
+      "gift_id": 590236353099,
       "name": "Star Notepad",
       "model": "Red Cover (1.3%)",
       "asset": "TON",
-      "symbol": "Shark Knife (0.5%)",
-      "backdrop": "Khaki Green (2%)",
+      "symbol": "Magic Vial (0.5%)",
+      "backdrop": "Cappuccino (1%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.2,
+      "price": 4.682,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-31T18:53:30.000Z",
       "premarketData": {}
     },
     {
@@ -28195,6 +27308,44 @@
   ],
   "Superstar": [
     {
+      "gift_num": 41182,
+      "customEmojiId": "5222159054834524024",
+      "gift_id": 7232222,
+      "name": "Star Notepad",
+      "model": "Superstar (1%)",
+      "asset": "TON",
+      "symbol": "Nordic Wolf (0.4%)",
+      "backdrop": "Steel Grey (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T14:13:37.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 6354,
+      "customEmojiId": "5222159054834524024",
+      "gift_id": 584147389989,
+      "name": "Star Notepad",
+      "model": "Superstar (1%)",
+      "asset": "TON",
+      "symbol": "Mustache (0.2%)",
+      "backdrop": "Indigo Dye (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 8.262,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 48288,
       "customEmojiId": "5222159054834524024",
       "gift_id": 7266246,
@@ -28212,26 +27363,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-31T12:21:16.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 41182,
-      "customEmojiId": "5222159054834524024",
-      "gift_id": 7232222,
-      "name": "Star Notepad",
-      "model": "Superstar (1%)",
-      "asset": "TON",
-      "symbol": "Nordic Wolf (0.4%)",
-      "backdrop": "Steel Grey (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T14:13:37.000Z",
       "premarketData": {}
     },
     {
@@ -28749,24 +27880,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 25875,
-      "customEmojiId": "5222159054834524024",
-      "gift_id": 589307296697,
-      "name": "Star Notepad",
-      "model": "Superstar (1%)",
-      "asset": "TON",
-      "symbol": "Coat of Arms (0.3%)",
-      "backdrop": "Silver Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 4.957,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Error Log": [
@@ -28919,34 +28032,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "YX6OSPBR",
-      "auction": {
-        "_id": "6873b13c8938e518f1e23a53",
-        "gift_id": 7194485,
-        "seller": 0,
-        "auction_id": "YX6OSPBR",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6873bc488938e518f1fd59b0",
-            "timestamp": "2025-07-13T14:01:44.939Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T14:14:35.674Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 39325,
-        "model": "Error Log (0.7%)",
-        "backdrop": "Pistachio (2%)",
-        "symbol": "Paper Crane (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T13:14:36.954Z",
-        "__v": 0,
-        "winningBid": 5,
-        "winningBidder": 5023481279
-      },
+      "auction": null,
       "export_at": "2025-07-27T13:11:29.000Z",
       "premarketData": {}
     },
@@ -29925,6 +29011,24 @@
   ],
   "Coyote": [
     {
+      "gift_num": 50286,
+      "customEmojiId": "5210777567593784227",
+      "gift_id": 597419231064,
+      "name": "Star Notepad",
+      "model": "Coyote (1.3%)",
+      "asset": "TON",
+      "symbol": "Meat Leg (0.5%)",
+      "backdrop": "Khaki Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 126.684,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 21530,
       "customEmojiId": "5210777567593784227",
       "gift_id": 7270153,
@@ -30119,48 +29223,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "ZPPE3ON1",
-      "auction": {
-        "_id": "68761e61aace4cd2f6e2cb41",
-        "gift_id": 7200199,
-        "seller": 0,
-        "auction_id": "ZPPE3ON1",
-        "startingBid": 2.7,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.7,
-            "asset": "TON",
-            "_id": "68762ae7aace4cd2f6f9ce31",
-            "timestamp": "2025-07-15T10:18:15.666Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.84,
-            "asset": "TON",
-            "_id": "68762b7aaace4cd2f6fa1ecc",
-            "timestamp": "2025-07-15T10:20:42.704Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.98,
-            "asset": "TON",
-            "_id": "68762c17aace4cd2f6fa728a",
-            "timestamp": "2025-07-15T10:23:19.457Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T10:34:46.376Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 45333,
-        "model": "Coyote (1.3%)",
-        "backdrop": "Battleship Grey (1.5%)",
-        "symbol": "Tulip (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T09:24:49.908Z",
-        "__v": 0,
-        "winningBid": 2.98,
-        "winningBidder": 693932451
-      },
+      "auction": null,
       "export_at": "2025-07-27T18:23:34.000Z",
       "premarketData": {}
     },
@@ -30515,26 +29578,6 @@
       "auction": null,
       "export_at": "2025-07-24T17:55:43.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 3476,
-      "customEmojiId": "5210777567593784227",
-      "gift_id": 7071467,
-      "name": "Star Notepad",
-      "model": "Coyote (1.3%)",
-      "asset": "TON",
-      "symbol": "The Eye (0.4%)",
-      "backdrop": "Sapphire (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-22T04:38:20.000Z",
-      "premarketData": {}
     }
   ],
   "Watermelon": [
@@ -30729,97 +29772,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "PD9VJ6Y4",
-      "auction": {
-        "_id": "687686bcaace4cd2f642109d",
-        "gift_id": 7234891,
-        "seller": 0,
-        "auction_id": "PD9VJ6Y4",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.3,
-            "asset": "TON",
-            "_id": "687687d7aace4cd2f6470b56",
-            "timestamp": "2025-07-15T16:54:47.507Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.42,
-            "asset": "TON",
-            "_id": "68768a7caace4cd2f64a402b",
-            "timestamp": "2025-07-15T17:06:04.640Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.54,
-            "asset": "TON",
-            "_id": "68768e2faace4cd2f6509ab1",
-            "timestamp": "2025-07-15T17:21:51.096Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.67,
-            "asset": "TON",
-            "_id": "68768fe2aace4cd2f652e26f",
-            "timestamp": "2025-07-15T17:29:06.716Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.9,
-            "asset": "TON",
-            "_id": "68769056aace4cd2f65320af",
-            "timestamp": "2025-07-15T17:31:02.541Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.05,
-            "asset": "TON",
-            "_id": "6876909daace4cd2f6532d0f",
-            "timestamp": "2025-07-15T17:32:13.200Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.3,
-            "asset": "TON",
-            "_id": "687690f9aace4cd2f6535de5",
-            "timestamp": "2025-07-15T17:33:45.061Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.8,
-            "asset": "TON",
-            "_id": "687693acaace4cd2f65e90b9",
-            "timestamp": "2025-07-15T17:45:16.118Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.99,
-            "asset": "TON",
-            "_id": "687693e7aace4cd2f6607259",
-            "timestamp": "2025-07-15T17:46:15.060Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.19,
-            "asset": "TON",
-            "_id": "687693f7aace4cd2f6614925",
-            "timestamp": "2025-07-15T17:46:31.973Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T18:04:18.301Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 49875,
-        "model": "Watermelon (1.3%)",
-        "backdrop": "Lemongrass (1.5%)",
-        "symbol": "Seahorse (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T16:54:20.065Z",
-        "__v": 0,
-        "winningBid": 4.19,
-        "winningBidder": 628117936
-      },
+      "auction": null,
       "export_at": "2025-07-29T16:38:56.000Z",
       "premarketData": {}
     },
@@ -31118,83 +30071,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "G1VQFKZF",
-      "auction": {
-        "_id": "6874bb058938e518f1e86dda",
-        "gift_id": 7173199,
-        "seller": 0,
-        "auction_id": "G1VQFKZF",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6874bd1f8938e518f1159fa4",
-            "timestamp": "2025-07-14T08:17:35.286Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6874bdf58938e518f12141c8",
-            "timestamp": "2025-07-14T08:21:09.667Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6874c15c8938e518f1227ff5",
-            "timestamp": "2025-07-14T08:35:40.377Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6874c1748938e518f1228f50",
-            "timestamp": "2025-07-14T08:36:04.723Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6874c18f8938e518f1229dd3",
-            "timestamp": "2025-07-14T08:36:31.182Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "6874c3f48938e518f1237129",
-            "timestamp": "2025-07-14T08:46:44.572Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "6874c4368938e518f1238359",
-            "timestamp": "2025-07-14T08:47:50.315Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6874c4af8938e518f1239fc6",
-            "timestamp": "2025-07-14T08:49:51.033Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T09:08:36.882Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 16277,
-        "model": "Watermelon (1.3%)",
-        "backdrop": "Emerald (1%)",
-        "symbol": "Sun Lion (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T08:08:37.972Z",
-        "__v": 0,
-        "winningBid": 3,
-        "winningBidder": 5502157717
-      },
+      "auction": null,
       "export_at": "2025-07-26T10:18:53.000Z",
       "premarketData": {}
     },
@@ -31276,26 +30153,6 @@
     }
   ],
   "Daybook": [
-    {
-      "gift_num": 38460,
-      "customEmojiId": "5203963975640837171",
-      "gift_id": 7268789,
-      "name": "Star Notepad",
-      "model": "Daybook (1.3%)",
-      "asset": "TON",
-      "symbol": "Strawberry (0.5%)",
-      "backdrop": "Rosewood (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.25,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T15:07:17.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 18589,
       "customEmojiId": "5203963975640837171",
@@ -31833,6 +30690,24 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
+    },
+    {
+      "gift_num": 4346,
+      "customEmojiId": "5203963975640837171",
+      "gift_id": 584157645512,
+      "name": "Star Notepad",
+      "model": "Daybook (1.3%)",
+      "asset": "TON",
+      "symbol": "Shell (0.4%)",
+      "backdrop": "Battleship Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 495.72,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
     }
   ],
   "Pepe Diary": [
@@ -31854,26 +30729,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T20:20:34.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 49895,
-      "customEmojiId": "5224714586145450070",
-      "gift_id": 7244376,
-      "name": "Star Notepad",
-      "model": "Pepe Diary (0.3%)",
-      "asset": "TON",
-      "symbol": "Telescope (0.5%)",
-      "backdrop": "Khaki Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 42,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T06:39:42.000Z",
       "premarketData": {}
     },
     {
@@ -32069,118 +30924,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "IGDV3XDK",
-      "auction": {
-        "_id": "6875060daace4cd2f65d615f",
-        "gift_id": 7208874,
-        "seller": 0,
-        "auction_id": "IGDV3XDK",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 6,
-            "asset": "TON",
-            "_id": "68750883aace4cd2f6607dba",
-            "timestamp": "2025-07-14T13:39:15.975Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.3,
-            "asset": "TON",
-            "_id": "687512e8aace4cd2f6a6464f",
-            "timestamp": "2025-07-14T14:23:36.873Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "68751325aace4cd2f6a6972c",
-            "timestamp": "2025-07-14T14:24:37.760Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "687519b9aace4cd2f6b2560a",
-            "timestamp": "2025-07-14T14:52:41.600Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15,
-            "asset": "TON",
-            "_id": "68751a33aace4cd2f6b3473e",
-            "timestamp": "2025-07-14T14:54:43.682Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15.75,
-            "asset": "TON",
-            "_id": "68751a40aace4cd2f6b35fe4",
-            "timestamp": "2025-07-14T14:54:56.658Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 17,
-            "asset": "TON",
-            "_id": "68751a5caace4cd2f6b381fd",
-            "timestamp": "2025-07-14T14:55:24.721Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 17.85,
-            "asset": "TON",
-            "_id": "68751a88aace4cd2f6b3ab86",
-            "timestamp": "2025-07-14T14:56:08.732Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "68751aa0aace4cd2f6b3ca4d",
-            "timestamp": "2025-07-14T14:56:32.390Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 21,
-            "asset": "TON",
-            "_id": "68751ac9aace4cd2f6b3f6e6",
-            "timestamp": "2025-07-14T14:57:13.399Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 24,
-            "asset": "TON",
-            "_id": "68751b5baace4cd2f6b43f63",
-            "timestamp": "2025-07-14T14:59:39.324Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 25.2,
-            "asset": "TON",
-            "_id": "68751c32aace4cd2f6b4e0ea",
-            "timestamp": "2025-07-14T15:03:14.890Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 28,
-            "asset": "TON",
-            "_id": "68751c61aace4cd2f6b508da",
-            "timestamp": "2025-07-14T15:04:01.741Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T15:28:40.440Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 4537,
-        "model": "Pepe Diary (0.3%)",
-        "backdrop": "Pacific Cyan (1.5%)",
-        "symbol": "Hamburger (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T13:28:45.637Z",
-        "__v": 0,
-        "winningBid": 28,
-        "winningBidder": 7086546177
-      },
+      "auction": null,
       "export_at": "2025-07-28T08:39:13.000Z",
       "premarketData": {}
     },
@@ -32536,6 +31280,598 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-20T22:53:15.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 10835,
+      "customEmojiId": "5224714586145450070",
+      "gift_id": 5628767,
+      "name": "Star Notepad",
+      "model": "Pepe Diary (0.3%)",
+      "asset": "TON",
+      "symbol": "Twin Peaks (0.4%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 719759,
+      "price": 900,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-17T19:04:53.000Z",
+      "premarketData": {}
+    }
+  ],
+  "Meadow": [
+    {
+      "gift_num": 494,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 584157985673,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Watermelon (0.4%)",
+      "backdrop": "Fandango (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 385.56,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 26999,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 590000050441,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Shark Knife (0.5%)",
+      "backdrop": "Pure Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 11.016,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 40175,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 7238557,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Bunny Ears (0.5%)",
+      "backdrop": "Light Olive (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T19:53:45.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 43378,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 5868667,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Lemon (0.5%)",
+      "backdrop": "Moonstone (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-22T14:24:37.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 5136,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 584393638933,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Book (0.4%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 428.396,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 39510,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 7236619,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Doberman (0.4%)",
+      "backdrop": "Burgundy (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.78,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T18:06:23.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 34482,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 597647136202,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Bishop (0.2%)",
+      "backdrop": "Battleship Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4.296,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 48026,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 593820430293,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Manta Ray (0.2%)",
+      "backdrop": "Strawberry (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 16.524,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 18572,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 585728614411,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Moon (0.5%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 5.502,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 34482,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 7227023,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Bishop (0.2%)",
+      "backdrop": "Battleship Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.55,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T08:43:42.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 30109,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 5725736,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Cap (0.4%)",
+      "backdrop": "Silver Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.84,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-19T10:04:11.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 16397,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 7219658,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Magic Vial (0.5%)",
+      "backdrop": "Coral Red (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.49,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-28T19:14:30.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 28091,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 7059730,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Moai Head (0.4%)",
+      "backdrop": "Platinum (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.79,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-21T16:58:26.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 10240,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 584385023228,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Breeze (0.5%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 14.321,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 16397,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 585031761122,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Magic Vial (0.5%)",
+      "backdrop": "Coral Red (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4.517,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 10128,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 584118943991,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Ring (0.5%)",
+      "backdrop": "Caramel (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4.649,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 42050,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 7205153,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Gamepad (0.5%)",
+      "backdrop": "Dark Lilac (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.72,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T23:04:15.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 49588,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 596074464778,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Cow Skull (0.4%)",
+      "backdrop": "Grape (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 5.233,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 44015,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 586864470482,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Cash (0.3%)",
+      "backdrop": "Satin Gold (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 18.358,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 31893,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 594730058410,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Winged Helm (0.3%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 36.716,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 16306,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 7202189,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Hermit Shell (0.5%)",
+      "backdrop": "French Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T20:00:25.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 45569,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 590020507799,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Pickaxe (0.4%)",
+      "backdrop": "French Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 7.16,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 19351,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 5064132,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Candle (0.5%)",
+      "backdrop": "Coral Red (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.87,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-01T14:45:04.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 24515,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 588217358551,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Mask (0.4%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 5.453,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 19193,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 6373666,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Bubble Tea (0.5%)",
+      "backdrop": "Grape (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.85,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-27T23:05:58.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 37733,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 7189157,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Jewel (0.5%)",
+      "backdrop": "French Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.88,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T07:09:27.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 5609,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 584397040117,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "The Eye (0.4%)",
+      "backdrop": "Malachite (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 5.508,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 6747,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 7181395,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Lion Head (0.5%)",
+      "backdrop": "Pacific Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T18:01:35.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 38699,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 7169036,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Fish Skeleton (0.4%)",
+      "backdrop": "Hunter Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.1,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T03:34:39.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 41852,
+      "customEmojiId": "5204168282940138750",
+      "gift_id": 7078408,
+      "name": "Star Notepad",
+      "model": "Meadow (1.3%)",
+      "asset": "TON",
+      "symbol": "Banana (0.4%)",
+      "backdrop": "Battleship Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-22T12:24:38.000Z",
       "premarketData": {}
     }
   ],
@@ -34391,83 +33727,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "1YCJ8W8J",
-      "auction": {
-        "_id": "687422f88938e518f12cd60f",
-        "gift_id": 7182149,
-        "seller": 0,
-        "auction_id": "1YCJ8W8J",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.8,
-            "asset": "TON",
-            "_id": "687426dc8938e518f1396b83",
-            "timestamp": "2025-07-13T21:36:28.616Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.94,
-            "asset": "TON",
-            "_id": "687428168938e518f13cf0f3",
-            "timestamp": "2025-07-13T21:41:42.894Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.09,
-            "asset": "TON",
-            "_id": "6874292e8938e518f140da7a",
-            "timestamp": "2025-07-13T21:46:22.609Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.33,
-            "asset": "TON",
-            "_id": "687429fd8938e518f1458e87",
-            "timestamp": "2025-07-13T21:49:49.017Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.8,
-            "asset": "TON",
-            "_id": "68742a178938e518f1480f4d",
-            "timestamp": "2025-07-13T21:50:15.093Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.99,
-            "asset": "TON",
-            "_id": "68742c648938e518f1757109",
-            "timestamp": "2025-07-13T22:00:04.683Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.4,
-            "asset": "TON",
-            "_id": "68742d458938e518f1792abb",
-            "timestamp": "2025-07-13T22:03:49.247Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.62,
-            "asset": "TON",
-            "_id": "687430718938e518f1846424",
-            "timestamp": "2025-07-13T22:17:21.141Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T22:29:51.598Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 49600,
-        "model": "Brainstorm (0.7%)",
-        "backdrop": "Light Olive (2%)",
-        "symbol": "Puzzle (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T21:19:52.294Z",
-        "__v": 0,
-        "winningBid": 4.62,
-        "winningBidder": 7142285217
-      },
+      "auction": null,
       "export_at": "2025-07-26T18:48:29.000Z",
       "premarketData": {}
     },
@@ -34698,34 +33958,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "DE01QYGE",
-      "auction": {
-        "_id": "6874c6a78938e518f123f06b",
-        "gift_id": 7125823,
-        "seller": 0,
-        "auction_id": "DE01QYGE",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6874d2d58938e518f1805d6c",
-            "timestamp": "2025-07-14T09:50:13.925Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T10:08:15.125Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 302,
-        "model": "Brainstorm (0.7%)",
-        "backdrop": "Silver Blue (2%)",
-        "symbol": "Crab (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T08:58:15.048Z",
-        "__v": 0,
-        "winningBid": 5,
-        "winningBidder": 6100787873
-      },
+      "auction": null,
       "export_at": "2025-07-24T10:30:28.000Z",
       "premarketData": {}
     },
@@ -37100,6 +36333,26 @@
   ],
   "Nightpad": [
     {
+      "gift_num": 40440,
+      "customEmojiId": "5219729336000603823",
+      "gift_id": 7189225,
+      "name": "Star Notepad",
+      "model": "Nightpad (1.3%)",
+      "asset": "TON",
+      "symbol": "Drug (0.5%)",
+      "backdrop": "Aquamarine (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T07:16:56.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 46762,
       "customEmojiId": "5219729336000603823",
       "gift_id": 7233786,
@@ -37475,26 +36728,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 40440,
-      "customEmojiId": "5219729336000603823",
-      "gift_id": 7189225,
-      "name": "Star Notepad",
-      "model": "Nightpad (1.3%)",
-      "asset": "TON",
-      "symbol": "Drug (0.5%)",
-      "backdrop": "Aquamarine (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T07:16:56.000Z",
       "premarketData": {}
     },
     {
@@ -38892,41 +38125,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "938X8TS0",
-      "auction": {
-        "_id": "6878922daace4cd2f695c97a",
-        "gift_id": 7240159,
-        "seller": 0,
-        "auction_id": "938X8TS0",
-        "startingBid": 2.8,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.8,
-            "asset": "TON",
-            "_id": "6878a583aace4cd2f6af5ced",
-            "timestamp": "2025-07-17T07:25:55.556Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.94,
-            "asset": "TON",
-            "_id": "6878ae3daace4cd2f6bab515",
-            "timestamp": "2025-07-17T08:03:09.892Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T08:13:25.104Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 7575,
-        "model": "Mermaid (0.7%)",
-        "backdrop": "Chocolate (1%)",
-        "symbol": "Eikthyrnir (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T06:03:25.751Z",
-        "__v": 0,
-        "winningBid": 2.94,
-        "winningBidder": 1078409572
-      },
+      "auction": null,
       "export_at": "2025-07-29T21:23:59.000Z",
       "premarketData": {}
     },
@@ -39595,34 +38794,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "Y34KJXDV",
-      "auction": {
-        "_id": "68727a0b8938e518f1fbc3b9",
-        "gift_id": 7178336,
-        "seller": 0,
-        "auction_id": "Y34KJXDV",
-        "startingBid": 3.7,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.7,
-            "asset": "TON",
-            "_id": "68775e9aaace4cd2f62cd8ca",
-            "timestamp": "2025-07-16T08:11:06.575Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T08:29:03.661Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 49297,
-        "model": "Snow White (1.3%)",
-        "backdrop": "Purple (2%)",
-        "symbol": "Mayan Moth (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T06:19:04.649Z",
-        "__v": 0,
-        "winningBid": 3.7,
-        "winningBidder": 6084432992
-      },
+      "auction": null,
       "export_at": "2025-07-26T15:05:15.000Z",
       "premarketData": {}
     },
@@ -40004,6 +39176,24 @@
     }
   ],
   "Lemonade": [
+    {
+      "gift_num": 27012,
+      "customEmojiId": "5204018002034451767",
+      "gift_id": 590232870739,
+      "name": "Star Notepad",
+      "model": "Lemonade (1.3%)",
+      "asset": "TON",
+      "symbol": "Corn (0.4%)",
+      "backdrop": "Pine Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 959,
       "customEmojiId": "5204018002034451767",
@@ -40540,24 +39730,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-23T23:11:42.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 29406,
-      "customEmojiId": "5204018002034451767",
-      "gift_id": 592698945183,
-      "name": "Star Notepad",
-      "model": "Lemonade (1.3%)",
-      "asset": "TON",
-      "symbol": "Fire (0.5%)",
-      "backdrop": "Copper (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 16.524,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
@@ -41119,26 +40291,6 @@
   ],
   "Florist": [
     {
-      "gift_num": 7580,
-      "customEmojiId": "5226648111702632088",
-      "gift_id": 7258969,
-      "name": "Star Notepad",
-      "model": "Florist (0.7%)",
-      "asset": "TON",
-      "symbol": "Sea Jelly (0.4%)",
-      "backdrop": "Electric Indigo (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.94,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T22:10:40.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 21027,
       "customEmojiId": "5226648111702632088",
       "gift_id": 587089846743,
@@ -41682,6 +40834,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-15T10:26:30.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 11483,
+      "customEmojiId": "5226648111702632088",
+      "gift_id": 6815646,
+      "name": "Star Notepad",
+      "model": "Florist (0.7%)",
+      "asset": "TON",
+      "symbol": "Gold (0.3%)",
+      "backdrop": "Sky Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-12T07:26:20.000Z",
       "premarketData": {}
     }
   ],
@@ -44299,26 +43471,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 16314,
-      "customEmojiId": "5201820877154444066",
-      "gift_id": 7262931,
-      "name": "Star Notepad",
-      "model": "Daily Blues (1.3%)",
-      "asset": "TON",
-      "symbol": "Mannaz Rune (0.5%)",
-      "backdrop": "Pure Gold (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T08:06:20.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 679,
       "customEmojiId": "5201820877154444066",
       "gift_id": 584166000512,
@@ -44561,34 +43713,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "FVJ8PK3B",
-      "auction": {
-        "_id": "6871658d8938e518f1ae2866",
-        "gift_id": 7162902,
-        "seller": 0,
-        "auction_id": "FVJ8PK3B",
-        "startingBid": 2.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.5,
-            "asset": "TON",
-            "_id": "68752f5caace4cd2f6d25edb",
-            "timestamp": "2025-07-14T16:25:00.129Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T16:45:10.828Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 47321,
-        "model": "Daily Blues (1.3%)",
-        "backdrop": "Strawberry (2%)",
-        "symbol": "Breeze (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T15:45:11.855Z",
-        "__v": 0,
-        "winningBid": 2.5,
-        "winningBidder": 7352255987
-      },
+      "auction": null,
       "export_at": "2025-07-25T19:26:35.000Z",
       "premarketData": {}
     },
@@ -44869,6 +43994,24 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 413.1,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 19921,
+      "customEmojiId": "5201820877154444066",
+      "gift_id": 586624147305,
+      "name": "Star Notepad",
+      "model": "Daily Blues (1.3%)",
+      "asset": "TON",
+      "symbol": "Bone (0.5%)",
+      "backdrop": "Navy Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 13.77,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -45445,6 +44588,84 @@
   ],
   "Inferno": [
     {
+      "gift_num": 17852,
+      "customEmojiId": "5239940545857479559",
+      "gift_id": 585722692081,
+      "name": "Star Notepad",
+      "model": "Inferno (0.5%)",
+      "asset": "TON",
+      "symbol": "Hermit Shell (0.5%)",
+      "backdrop": "Chestnut (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 17.626,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 10995,
+      "customEmojiId": "5239940545857479559",
+      "gift_id": 7273400,
+      "name": "Star Notepad",
+      "model": "Inferno (0.5%)",
+      "asset": "TON",
+      "symbol": "The Eye (0.4%)",
+      "backdrop": "Khaki Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:22:15.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 23877,
+      "customEmojiId": "5239940545857479559",
+      "gift_id": 7273236,
+      "name": "Star Notepad",
+      "model": "Inferno (0.5%)",
+      "asset": "TON",
+      "symbol": "Oxen of Fire (0.5%)",
+      "backdrop": "Sky Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:12:18.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 22728,
+      "customEmojiId": "5239940545857479559",
+      "gift_id": 7273234,
+      "name": "Star Notepad",
+      "model": "Inferno (0.5%)",
+      "asset": "TON",
+      "symbol": "Hammerhead (0.5%)",
+      "backdrop": "Caramel (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:12:07.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 28738,
       "customEmojiId": "5239940545857479559",
       "gift_id": 7200185,
@@ -45943,99 +45164,25 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 44489,
-      "customEmojiId": "5239940545857479559",
-      "gift_id": 587754253273,
-      "name": "Star Notepad",
-      "model": "Inferno (0.5%)",
-      "asset": "TON",
-      "symbol": "Corn (0.4%)",
-      "backdrop": "Light Olive (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 27.534,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 44643,
-      "customEmojiId": "5239940545857479559",
-      "gift_id": 587965910550,
-      "name": "Star Notepad",
-      "model": "Inferno (0.5%)",
-      "asset": "TON",
-      "symbol": "Wagasa (0.4%)",
-      "backdrop": "Roman Silver (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 183.598,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 9147,
-      "customEmojiId": "5239940545857479559",
-      "gift_id": 584118502469,
-      "name": "Star Notepad",
-      "model": "Inferno (0.5%)",
-      "asset": "TON",
-      "symbol": "Pumpkin Coach (0.2%)",
-      "backdrop": "Fandango (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 99.144,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 28511,
-      "customEmojiId": "5239940545857479559",
-      "gift_id": 591552955996,
-      "name": "Star Notepad",
-      "model": "Inferno (0.5%)",
-      "asset": "TON",
-      "symbol": "Morgenstern (0.4%)",
-      "backdrop": "Platinum (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 413.1,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Trade Ledger": [
     {
-      "gift_num": 41671,
+      "gift_num": 50196,
       "customEmojiId": "5220012292741034422",
-      "gift_id": 7266015,
+      "gift_id": 597216779620,
       "name": "Star Notepad",
       "model": "Trade Ledger (0.7%)",
       "asset": "TON",
-      "symbol": "Ancient Urn (0.3%)",
-      "backdrop": "Fandango (2%)",
+      "symbol": "Inca Sun (0.5%)",
+      "backdrop": "Orange (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 0,
-      "price": 16.5,
+      "price": 165.24,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-31T12:06:03.000Z",
       "premarketData": {}
     },
     {
@@ -47163,6 +46310,24 @@
   ],
   "Fashion Doll": [
     {
+      "gift_num": 5109,
+      "customEmojiId": "5221972472865253064",
+      "gift_id": 584383268734,
+      "name": "Star Notepad",
+      "model": "Fashion Doll (1.3%)",
+      "asset": "TON",
+      "symbol": "Heater Shield (0.3%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.885,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 50222,
       "customEmojiId": "5221972472865253064",
       "gift_id": 7269117,
@@ -47175,7 +46340,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.8,
+      "price": 3,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -47557,34 +46722,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "MF14RVQO",
-      "auction": {
-        "_id": "686ffaac34f3663346099585",
-        "gift_id": 7134055,
-        "seller": 0,
-        "auction_id": "MF14RVQO",
-        "startingBid": 4.2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4.2,
-            "asset": "TON",
-            "_id": "687180468938e518f1105b15",
-            "timestamp": "2025-07-11T21:21:10.219Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T21:36:05.977Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 48919,
-        "model": "Fashion Doll (1.3%)",
-        "backdrop": "Dark Lilac (1.5%)",
-        "symbol": "Winged Helm (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T20:25:59.082Z",
-        "__v": 0,
-        "winningBid": 4.2,
-        "winningBidder": 997201514
-      },
+      "auction": null,
       "export_at": "2025-07-24T15:51:34.000Z",
       "premarketData": {}
     },
@@ -47737,26 +46875,6 @@
       "auction": null,
       "export_at": "2025-07-10T23:17:39.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 48574,
-      "customEmojiId": "5221972472865253064",
-      "gift_id": 7075861,
-      "name": "Star Notepad",
-      "model": "Fashion Doll (1.3%)",
-      "asset": "TON",
-      "symbol": "Birthday Cake (0.5%)",
-      "backdrop": "Light Olive (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-22T10:29:11.000Z",
-      "premarketData": {}
     }
   ],
   "Smoothie": [
@@ -47796,26 +46914,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-31T06:40:10.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 48202,
-      "customEmojiId": "5239981348046793285",
-      "gift_id": 7175674,
-      "name": "Star Notepad",
-      "model": "Smoothie (0.7%)",
-      "asset": "TON",
-      "symbol": "Tulip (0.5%)",
-      "backdrop": "Emerald (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T12:32:57.000Z",
       "premarketData": {}
     },
     {
@@ -48327,6 +47425,24 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 91.796,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 17423,
+      "customEmojiId": "5239981348046793285",
+      "gift_id": 585523563653,
+      "name": "Star Notepad",
+      "model": "Smoothie (0.7%)",
+      "asset": "TON",
+      "symbol": "Bubble Tea (0.5%)",
+      "backdrop": "Carrot Juice (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 8.262,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -48905,6 +48021,60 @@
   ],
   "Cyprus": [
     {
+      "gift_num": 36510,
+      "customEmojiId": "5211203254687392527",
+      "gift_id": 601022224583,
+      "name": "Star Notepad",
+      "model": "Cyprus (1.3%)",
+      "asset": "TON",
+      "symbol": "Two Katanas (0.5%)",
+      "backdrop": "Carrot Juice (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 31085,
+      "customEmojiId": "5211203254687392527",
+      "gift_id": 594052131323,
+      "name": "Star Notepad",
+      "model": "Cyprus (1.3%)",
+      "asset": "TON",
+      "symbol": "Shuriken (0.5%)",
+      "backdrop": "Cobalt Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 5.508,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 38975,
+      "customEmojiId": "5211203254687392527",
+      "gift_id": 577416793555,
+      "name": "Star Notepad",
+      "model": "Cyprus (1.3%)",
+      "asset": "TON",
+      "symbol": "Thunderbird (0.3%)",
+      "backdrop": "Fandango (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.202,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 23687,
       "customEmojiId": "5211203254687392527",
       "gift_id": 587753039515,
@@ -48978,26 +48148,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 23488,
-      "customEmojiId": "5211203254687392527",
-      "gift_id": 7151173,
-      "name": "Star Notepad",
-      "model": "Cyprus (1.3%)",
-      "asset": "TON",
-      "symbol": "Blood Drop (0.5%)",
-      "backdrop": "Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T09:08:58.000Z",
       "premarketData": {}
     },
     {
@@ -49433,42 +48583,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 8087,
-      "customEmojiId": "5211203254687392527",
-      "gift_id": 584134595711,
-      "name": "Star Notepad",
-      "model": "Cyprus (1.3%)",
-      "asset": "TON",
-      "symbol": "Bonsai (0.4%)",
-      "backdrop": "Amber (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 55.074,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 40296,
-      "customEmojiId": "5211203254687392527",
-      "gift_id": 580550359603,
-      "name": "Star Notepad",
-      "model": "Cyprus (1.3%)",
-      "asset": "TON",
-      "symbol": "Crown (0.3%)",
-      "backdrop": "Emerald (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 24.478,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Chronicles": [
@@ -49485,7 +48599,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 5.5,
+      "price": 4.87,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -49505,11 +48619,29 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.37,
+      "price": 3.2,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T22:23:58.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 9795,
+      "customEmojiId": "5233618195083978614",
+      "gift_id": 584382382253,
+      "name": "Star Notepad",
+      "model": "Chronicles (1%)",
+      "asset": "TON",
+      "symbol": "Black Cat (0.5%)",
+      "backdrop": "Pistachio (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4.406,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
       "premarketData": {}
     },
     {
@@ -50022,26 +49154,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 32993,
-      "customEmojiId": "5233618195083978614",
-      "gift_id": 6867190,
-      "name": "Star Notepad",
-      "model": "Chronicles (1%)",
-      "asset": "TON",
-      "symbol": "Sword (0.2%)",
-      "backdrop": "Pine Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 25,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-14T13:01:49.000Z",
       "premarketData": {}
     }
   ],
@@ -51668,118 +50780,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "19X76WG1",
-      "auction": {
-        "_id": "6877d998aace4cd2f6309f84",
-        "gift_id": 7253599,
-        "seller": 0,
-        "auction_id": "19X76WG1",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6877d9baaace4cd2f6317371",
-            "timestamp": "2025-07-16T16:56:26.784Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6877de9daace4cd2f6432c46",
-            "timestamp": "2025-07-16T17:17:17.496Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6877e091aace4cd2f644ea99",
-            "timestamp": "2025-07-16T17:25:37.723Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.72,
-            "asset": "TON",
-            "_id": "6877e23caace4cd2f64647dd",
-            "timestamp": "2025-07-16T17:32:44.236Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.96,
-            "asset": "TON",
-            "_id": "6877e3e4aace4cd2f695736d",
-            "timestamp": "2025-07-16T17:39:48.770Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.21,
-            "asset": "TON",
-            "_id": "6877e697aace4cd2f6a64e4b",
-            "timestamp": "2025-07-16T17:51:19.743Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.47,
-            "asset": "TON",
-            "_id": "6877e6c3aace4cd2f6a71dbc",
-            "timestamp": "2025-07-16T17:52:03.555Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.74,
-            "asset": "TON",
-            "_id": "6877e6efaace4cd2f6a7b1ff",
-            "timestamp": "2025-07-16T17:52:47.352Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.03,
-            "asset": "TON",
-            "_id": "6877e73faace4cd2f6a8bb0a",
-            "timestamp": "2025-07-16T17:54:07.054Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.33,
-            "asset": "TON",
-            "_id": "6877e74baace4cd2f6a8e1cc",
-            "timestamp": "2025-07-16T17:54:19.132Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.65,
-            "asset": "TON",
-            "_id": "6877e769aace4cd2f6a95a58",
-            "timestamp": "2025-07-16T17:54:49.405Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.98,
-            "asset": "TON",
-            "_id": "6877e7d6aace4cd2f6aafa22",
-            "timestamp": "2025-07-16T17:56:38.371Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.33,
-            "asset": "TON",
-            "_id": "6877e998aace4cd2f6b14ef9",
-            "timestamp": "2025-07-16T18:04:08.178Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T18:15:50.819Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 40834,
-        "model": "Mon Amour (0.3%)",
-        "backdrop": "Pistachio (2%)",
-        "symbol": "Paper Lantern (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T16:55:52.347Z",
-        "__v": 0,
-        "winningBid": 7.33,
-        "winningBidder": 2100709207
-      },
+      "auction": null,
       "export_at": "2025-07-30T16:53:27.000Z",
       "premarketData": {}
     }
@@ -52356,6 +51357,46 @@
   ],
   "Phoenix": [
     {
+      "gift_num": 49675,
+      "customEmojiId": "5235696796046483610",
+      "gift_id": 7228210,
+      "name": "Star Notepad",
+      "model": "Phoenix (0.7%)",
+      "asset": "TON",
+      "symbol": "Aztec Totem (0.3%)",
+      "backdrop": "Chestnut (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T10:12:17.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 35847,
+      "customEmojiId": "5235696796046483610",
+      "gift_id": 7272337,
+      "name": "Star Notepad",
+      "model": "Phoenix (0.7%)",
+      "asset": "TON",
+      "symbol": "Ink Pen (0.4%)",
+      "backdrop": "Cyberpunk (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T20:00:09.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 8826,
       "customEmojiId": "5235696796046483610",
       "gift_id": 7057503,
@@ -52373,26 +51414,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-21T15:23:09.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 49675,
-      "customEmojiId": "5235696796046483610",
-      "gift_id": 7228210,
-      "name": "Star Notepad",
-      "model": "Phoenix (0.7%)",
-      "asset": "TON",
-      "symbol": "Aztec Totem (0.3%)",
-      "backdrop": "Chestnut (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T10:12:17.000Z",
       "premarketData": {}
     },
     {
@@ -52892,29 +51913,27 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 4193,
-      "customEmojiId": "5235696796046483610",
-      "gift_id": 6856579,
-      "name": "Star Notepad",
-      "model": "Phoenix (0.7%)",
-      "asset": "TON",
-      "symbol": "Ribeye Steak (0.2%)",
-      "backdrop": "Shamrock Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-13T23:39:16.000Z",
-      "premarketData": {}
     }
   ],
   "Telegram": [
+    {
+      "gift_num": 34550,
+      "customEmojiId": "5474265393067484370",
+      "gift_id": 597853711244,
+      "name": "Star Notepad",
+      "model": "Telegram (0.7%)",
+      "asset": "TON",
+      "symbol": "Totem Bear (0.5%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 30.288,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 44330,
       "customEmojiId": "5474265393067484370",
@@ -53146,251 +52165,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "98W7JZ0O",
-      "auction": {
-        "_id": "687181008938e518f111e3a9",
-        "gift_id": 6843240,
-        "seller": 0,
-        "auction_id": "98W7JZ0O",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687283478938e518f16204af",
-            "timestamp": "2025-07-12T15:46:15.781Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "687283618938e518f162158c",
-            "timestamp": "2025-07-12T15:46:41.629Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "687283728938e518f1621e74",
-            "timestamp": "2025-07-12T15:46:58.415Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "687283828938e518f1622b45",
-            "timestamp": "2025-07-12T15:47:14.760Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6872839d8938e518f1623838",
-            "timestamp": "2025-07-12T15:47:41.837Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "687283b08938e518f1624aa7",
-            "timestamp": "2025-07-12T15:48:00.334Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "687283c88938e518f1625782",
-            "timestamp": "2025-07-12T15:48:24.996Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "687283e28938e518f162732f",
-            "timestamp": "2025-07-12T15:48:50.715Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "687283ed8938e518f162791f",
-            "timestamp": "2025-07-12T15:49:01.208Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.2,
-            "asset": "TON",
-            "_id": "687283ff8938e518f1628b04",
-            "timestamp": "2025-07-12T15:49:19.270Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.41,
-            "asset": "TON",
-            "_id": "687284178938e518f162a8d9",
-            "timestamp": "2025-07-12T15:49:43.435Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.63,
-            "asset": "TON",
-            "_id": "687284218938e518f162b97c",
-            "timestamp": "2025-07-12T15:49:53.579Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6872842e8938e518f162c0d9",
-            "timestamp": "2025-07-12T15:50:06.252Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "687284518938e518f162ed6d",
-            "timestamp": "2025-07-12T15:50:41.479Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6,
-            "asset": "TON",
-            "_id": "687284dc8938e518f1634ff1",
-            "timestamp": "2025-07-12T15:53:00.248Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.3,
-            "asset": "TON",
-            "_id": "687285048938e518f1636267",
-            "timestamp": "2025-07-12T15:53:40.116Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.62,
-            "asset": "TON",
-            "_id": "687289d18938e518f16846c5",
-            "timestamp": "2025-07-12T16:14:09.411Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.95,
-            "asset": "TON",
-            "_id": "68728d0e8938e518f16b7c77",
-            "timestamp": "2025-07-12T16:27:58.050Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.3,
-            "asset": "TON",
-            "_id": "68728d1a8938e518f16b83d3",
-            "timestamp": "2025-07-12T16:28:10.595Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.67,
-            "asset": "TON",
-            "_id": "68728d348938e518f16b937e",
-            "timestamp": "2025-07-12T16:28:36.582Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.05,
-            "asset": "TON",
-            "_id": "68728d5b8938e518f16bb86f",
-            "timestamp": "2025-07-12T16:29:15.593Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.45,
-            "asset": "TON",
-            "_id": "68728d6b8938e518f16bca8a",
-            "timestamp": "2025-07-12T16:29:31.604Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.87,
-            "asset": "TON",
-            "_id": "68728da08938e518f16bf4fd",
-            "timestamp": "2025-07-12T16:30:24.981Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.31,
-            "asset": "TON",
-            "_id": "68728e558938e518f16c8bf9",
-            "timestamp": "2025-07-12T16:33:25.919Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.78,
-            "asset": "TON",
-            "_id": "68728f7a8938e518f16d9084",
-            "timestamp": "2025-07-12T16:38:18.421Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.27,
-            "asset": "TON",
-            "_id": "68728fd18938e518f16dda9f",
-            "timestamp": "2025-07-12T16:39:45.011Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.78,
-            "asset": "TON",
-            "_id": "687290c98938e518f16eb429",
-            "timestamp": "2025-07-12T16:43:53.101Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.32,
-            "asset": "TON",
-            "_id": "6872917b8938e518f16f36ee",
-            "timestamp": "2025-07-12T16:46:51.086Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.89,
-            "asset": "TON",
-            "_id": "687291918938e518f16f41e1",
-            "timestamp": "2025-07-12T16:47:13.045Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.48,
-            "asset": "TON",
-            "_id": "687291b08938e518f16f4c81",
-            "timestamp": "2025-07-12T16:47:44.046Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.1,
-            "asset": "TON",
-            "_id": "687291c78938e518f16f5d6c",
-            "timestamp": "2025-07-12T16:48:07.572Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.76,
-            "asset": "TON",
-            "_id": "687294158938e518f170c350",
-            "timestamp": "2025-07-12T16:57:57.736Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T17:13:40.630Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 44330,
-        "model": "Telegram (0.7%)",
-        "backdrop": "Pacific Cyan (1.5%)",
-        "symbol": "Tamagotchi (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T15:43:41.944Z",
-        "__v": 0,
-        "winningBid": 13.76,
-        "winningBidder": 5751625517
-      },
+      "auction": null,
       "export_at": "2025-07-13T14:10:35.000Z",
       "premarketData": {}
     },
@@ -53713,29 +52488,29 @@
       "auction": null,
       "export_at": "2025-07-12T19:46:29.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Matte Black": [
     {
-      "gift_num": 40146,
-      "customEmojiId": "5474265393067484370",
-      "gift_id": 6106533,
+      "gift_num": 46678,
+      "customEmojiId": "5199966245851523333",
+      "gift_id": 7228990,
       "name": "Star Notepad",
-      "model": "Telegram (0.7%)",
+      "model": "Matte Black (1.3%)",
       "asset": "TON",
-      "symbol": "Manta Ray (0.2%)",
-      "backdrop": "Hunter Green (2%)",
+      "symbol": "Money Bag (0.4%)",
+      "backdrop": "Light Olive (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 90,
+      "price": 8.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-06-24T09:57:14.000Z",
+      "export_at": "2025-07-29T11:09:32.000Z",
       "premarketData": {}
-    }
-  ],
-  "Matte Black": [
+    },
     {
       "gift_num": 38575,
       "customEmojiId": "5199966245851523333",
@@ -53792,26 +52567,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-17T07:08:07.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 46678,
-      "customEmojiId": "5199966245851523333",
-      "gift_id": 7228990,
-      "name": "Star Notepad",
-      "model": "Matte Black (1.3%)",
-      "asset": "TON",
-      "symbol": "Money Bag (0.4%)",
-      "backdrop": "Light Olive (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T11:09:32.000Z",
       "premarketData": {}
     },
     {
@@ -54309,6 +53064,26 @@
   ],
   "Golden Star": [
     {
+      "gift_num": 48992,
+      "customEmojiId": "5222396845698868405",
+      "gift_id": 7101218,
+      "name": "Star Notepad",
+      "model": "Golden Star (0.7%)",
+      "asset": "TON",
+      "symbol": "Pickaxe (0.4%)",
+      "backdrop": "Sky Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-23T11:05:36.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 32455,
       "customEmojiId": "5222396845698868405",
       "gift_id": 7258772,
@@ -54422,26 +53197,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-17T09:28:32.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 48992,
-      "customEmojiId": "5222396845698868405",
-      "gift_id": 7101218,
-      "name": "Star Notepad",
-      "model": "Golden Star (0.7%)",
-      "asset": "TON",
-      "symbol": "Pickaxe (0.4%)",
-      "backdrop": "Sky Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 28,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T11:05:36.000Z",
       "premarketData": {}
     },
     {
@@ -54890,6 +53645,24 @@
     }
   ],
   "Tangerine": [
+    {
+      "gift_num": 21013,
+      "customEmojiId": "5229117567573976999",
+      "gift_id": 587077952261,
+      "name": "Star Notepad",
+      "model": "Tangerine (1.3%)",
+      "asset": "TON",
+      "symbol": "Mask (0.4%)",
+      "backdrop": "Coral Red (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 27.54,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 7156,
       "customEmojiId": "5229117567573976999",
@@ -55443,27 +54216,27 @@
       "auction": null,
       "export_at": "2025-07-24T12:43:22.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Crimson": [
     {
-      "gift_num": 49435,
-      "customEmojiId": "5229117567573976999",
-      "gift_id": 595838765133,
+      "gift_num": 48706,
+      "customEmojiId": "5203913462530470997",
+      "gift_id": 594729388395,
       "name": "Star Notepad",
-      "model": "Tangerine (1.3%)",
+      "model": "Crimson (1.3%)",
       "asset": "TON",
-      "symbol": "Birthday Cake (0.5%)",
-      "backdrop": "Pure Gold (2%)",
+      "symbol": "Pickaxe (0.4%)",
+      "backdrop": "Mint Green (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 11.016,
+      "price": 55.08,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "premarketData": {}
-    }
-  ],
-  "Crimson": [
+    },
     {
       "gift_num": 31922,
       "customEmojiId": "5203913462530470997",
@@ -56007,26 +54780,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 3128,
-      "customEmojiId": "5203913462530470997",
-      "gift_id": 4930928,
-      "name": "Star Notepad",
-      "model": "Crimson (1.3%)",
-      "asset": "TON",
-      "symbol": "Scarab (0.4%)",
-      "backdrop": "Burgundy (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-30T14:29:34.000Z",
-      "premarketData": {}
     }
   ],
   "Vineyard": [
@@ -56251,76 +55004,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "23ZH9UAK",
-      "auction": {
-        "_id": "6875467daace4cd2f6020528",
-        "gift_id": 7210916,
-        "seller": 0,
-        "auction_id": "23ZH9UAK",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687549aeaace4cd2f60c2ad2",
-            "timestamp": "2025-07-14T18:17:18.983Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68754a42aace4cd2f60ce64a",
-            "timestamp": "2025-07-14T18:19:46.144Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "68754a52aace4cd2f60cf6d3",
-            "timestamp": "2025-07-14T18:20:02.172Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "68754a89aace4cd2f60d47da",
-            "timestamp": "2025-07-14T18:20:57.785Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6875539daace4cd2f616deb4",
-            "timestamp": "2025-07-14T18:59:41.357Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "68755640aace4cd2f61a0f4a",
-            "timestamp": "2025-07-14T19:10:56.413Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "687556ecaace4cd2f61ae120",
-            "timestamp": "2025-07-14T19:13:48.638Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T19:33:38.920Z",
-        "status": "finished",
-        "gift_name": "Star Notepad",
-        "gift_num": 46143,
-        "model": "Vineyard (1.3%)",
-        "backdrop": "Platinum (2%)",
-        "symbol": "Origami (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T18:03:41.147Z",
-        "__v": 0,
-        "winningBid": 2.69,
-        "winningBidder": 7629909717
-      },
+      "auction": null,
       "export_at": "2025-07-28T11:03:30.000Z",
       "premarketData": {}
     },
