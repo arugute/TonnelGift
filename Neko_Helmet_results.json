@@ -665,55 +665,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "DS7VYJSZ",
-      "auction": {
-        "_id": "6874e1bf8938e518f18dab5f",
-        "gift_id": 7209547,
-        "seller": 0,
-        "auction_id": "DS7VYJSZ",
-        "startingBid": 20,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "6874e3b98938e518f18eaf86",
-            "timestamp": "2025-07-14T11:02:17.505Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 21,
-            "asset": "TON",
-            "_id": "6874e7ec8938e518f190212f",
-            "timestamp": "2025-07-14T11:20:12.935Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 22.05,
-            "asset": "TON",
-            "_id": "6874f1028938e518f19ffd1b",
-            "timestamp": "2025-07-14T11:58:58.131Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 27,
-            "asset": "TON",
-            "_id": "6874f47f8938e518f1d00de2",
-            "timestamp": "2025-07-14T12:13:51.254Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T12:52:34.099Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 7437,
-        "model": "Shockwave (2.7%)",
-        "backdrop": "Roman Silver (1%)",
-        "symbol": "Fuchsia (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T10:53:51.452Z",
-        "__v": 0,
-        "winningBid": 27,
-        "winningBidder": 7352255987
-      },
+      "auction": null,
       "export_at": "2025-07-28T09:33:32.000Z",
       "premarketData": {}
     },
@@ -1310,48 +1262,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "L04462F9",
-      "auction": {
-        "_id": "68765706aace4cd2f65929ea",
-        "gift_id": 7231314,
-        "seller": 0,
-        "auction_id": "L04462F9",
-        "startingBid": 59,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 59,
-            "asset": "TON",
-            "_id": "68768913aace4cd2f648644c",
-            "timestamp": "2025-07-15T17:00:03.823Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 61.95,
-            "asset": "TON",
-            "_id": "68768f94aace4cd2f652698d",
-            "timestamp": "2025-07-15T17:27:48.425Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 65.05,
-            "asset": "TON",
-            "_id": "68769167aace4cd2f653a12b",
-            "timestamp": "2025-07-15T17:35:35.031Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T17:49:43.876Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 7405,
-        "model": "White Rabbit (0.5%)",
-        "backdrop": "Lemongrass (1.5%)",
-        "symbol": "Gingerbread (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T16:29:54.327Z",
-        "__v": 0,
-        "winningBid": 65.05,
-        "winningBidder": 8173622469
-      },
+      "auction": null,
       "export_at": "2025-07-29T13:26:08.000Z",
       "premarketData": {}
     }
@@ -3512,55 +3423,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "YD4ZNCSC",
-      "auction": {
-        "_id": "6874d4038938e518f180bc92",
-        "gift_id": 7209673,
-        "seller": 0,
-        "auction_id": "YD4ZNCSC",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.55,
-            "asset": "TON",
-            "_id": "6875026baace4cd2f64e59e4",
-            "timestamp": "2025-07-14T13:13:15.749Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "687503dfaace4cd2f65ab357",
-            "timestamp": "2025-07-14T13:19:27.367Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 25,
-            "asset": "TON",
-            "_id": "687504d6aace4cd2f65bf00c",
-            "timestamp": "2025-07-14T13:23:34.047Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 27.9,
-            "asset": "TON",
-            "_id": "68750a7daace4cd2f663a0ac",
-            "timestamp": "2025-07-14T13:47:41.629Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T14:05:38.900Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 11333,
-        "model": "Blackout (2.3%)",
-        "backdrop": "Fire Engine (1.5%)",
-        "symbol": "Crescent (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T13:05:40.983Z",
-        "__v": 0,
-        "winningBid": 27.9,
-        "winningBidder": 1271589793
-      },
+      "auction": null,
       "export_at": "2025-07-28T09:43:41.000Z",
       "premarketData": {}
     },
@@ -4468,111 +4331,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "H6T91VH8",
-      "auction": {
-        "_id": "6878ba31aace4cd2f6dd6363",
-        "gift_id": 7263543,
-        "seller": 0,
-        "auction_id": "H6T91VH8",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6878be34aace4cd2f6e73942",
-            "timestamp": "2025-07-17T09:11:16.136Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6878c3c4aace4cd2f6f4e06b",
-            "timestamp": "2025-07-17T09:35:00.349Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6878c720aace4cd2f6f6875b",
-            "timestamp": "2025-07-17T09:49:20.930Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6878c772aace4cd2f6f6a01c",
-            "timestamp": "2025-07-17T09:50:42.978Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6878c785aace4cd2f6f6b3dd",
-            "timestamp": "2025-07-17T09:51:01.461Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6878c96eaace4cd2f6fa34f9",
-            "timestamp": "2025-07-17T09:59:10.295Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "6878ccb3aace4cd2f6151590",
-            "timestamp": "2025-07-17T10:13:07.972Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 21,
-            "asset": "TON",
-            "_id": "6878cdacaace4cd2f63c8eda",
-            "timestamp": "2025-07-17T10:17:16.966Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 24.5,
-            "asset": "TON",
-            "_id": "6878cdf1aace4cd2f63cace9",
-            "timestamp": "2025-07-17T10:18:25.785Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 25.73,
-            "asset": "TON",
-            "_id": "6878ce40aace4cd2f63cb5f6",
-            "timestamp": "2025-07-17T10:19:44.867Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 27.02,
-            "asset": "TON",
-            "_id": "6878ceceaace4cd2f63cd49e",
-            "timestamp": "2025-07-17T10:22:06.346Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 28.37,
-            "asset": "TON",
-            "_id": "6878cf03aace4cd2f63ce43a",
-            "timestamp": "2025-07-17T10:22:59.302Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T14:54:08.635Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 7048,
-        "model": "Twister (2%)",
-        "backdrop": "Fandango (1.2%)",
-        "symbol": "Mafdet (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T08:54:09.504Z",
-        "__v": 0,
-        "winningBid": 28.37,
-        "winningBidder": 1066028295
-      },
+      "auction": null,
       "export_at": "2025-07-31T08:52:12.000Z",
       "premarketData": {}
     }
@@ -5413,41 +5172,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "MIJYUW6H",
-      "auction": {
-        "_id": "686e4e600227247557353149",
-        "gift_id": 7100422,
-        "seller": 0,
-        "auction_id": "MIJYUW6H",
-        "startingBid": 32.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 32.5,
-            "asset": "TON",
-            "_id": "686e4ee30227247557358b39",
-            "timestamp": "2025-07-09T11:13:39.250Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 34.13,
-            "asset": "TON",
-            "_id": "686e8c600227247557a5ab75",
-            "timestamp": "2025-07-09T15:36:00.250Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T17:11:26.958Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 5744,
-        "model": "Chrome (2%)",
-        "backdrop": "Tactical Pine (1%)",
-        "symbol": "Love (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T11:11:28.105Z",
-        "__v": 0,
-        "winningBid": 34.13,
-        "winningBidder": 2136133570
-      },
+      "auction": null,
       "export_at": "2025-07-23T10:22:39.000Z",
       "premarketData": {}
     },
@@ -6472,6 +6197,24 @@
   ],
   "Jade Breeze": [
     {
+      "gift_num": 2307,
+      "customEmojiId": "5350612283888267222",
+      "gift_id": 593599224874,
+      "name": "Neko Helmet",
+      "model": "Jade Breeze (2.5%)",
+      "asset": "TON",
+      "symbol": "Lotus Flower (0.4%)",
+      "backdrop": "Malachite (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 50.674,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 10201,
       "customEmojiId": "5350612283888267222",
       "gift_id": 594056828729,
@@ -7009,26 +6752,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-26T03:19:03.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4615,
-      "customEmojiId": "5350612283888267222",
-      "gift_id": 7162002,
-      "name": "Neko Helmet",
-      "model": "Jade Breeze (2.5%)",
-      "asset": "TON",
-      "symbol": "Mailbox (0.5%)",
-      "backdrop": "Onyx Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 50,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T18:40:18.000Z",
       "premarketData": {}
     }
   ],
@@ -8112,7 +7835,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 88,
+      "price": 84,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -8202,6 +7925,24 @@
   ],
   "Lime Juice": [
     {
+      "gift_num": 1860,
+      "customEmojiId": "5352812733072958437",
+      "gift_id": 593577101927,
+      "name": "Neko Helmet",
+      "model": "Lime Juice (2.7%)",
+      "asset": "TON",
+      "symbol": "Kitty Cat (0.4%)",
+      "backdrop": "Deep Cyan (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 44.064,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 9216,
       "customEmojiId": "5352812733072958437",
       "gift_id": 594065070341,
@@ -8274,34 +8015,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "8HBAWAFO",
-      "auction": {
-        "_id": "685e3c31b0356889457e9a6a",
-        "gift_id": 6693752,
-        "seller": 0,
-        "auction_id": "8HBAWAFO",
-        "startingBid": 31,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 31,
-            "asset": "TON",
-            "_id": "6877bcd4aace4cd2f69df5e3",
-            "timestamp": "2025-07-16T14:53:08.276Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T15:03:31.587Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 12858,
-        "model": "Lime Juice (2.7%)",
-        "backdrop": "Jade Green (1%)",
-        "symbol": "Tricorne (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T13:53:32.377Z",
-        "__v": 0,
-        "winningBid": 31,
-        "winningBidder": 583237233
-      },
+      "auction": null,
       "export_at": "2025-07-06T21:51:42.000Z",
       "premarketData": {}
     },
@@ -8772,24 +8486,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 137.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 12127,
-      "customEmojiId": "5352812733072958437",
-      "gift_id": 594253356124,
-      "name": "Neko Helmet",
-      "model": "Lime Juice (2.7%)",
-      "asset": "TON",
-      "symbol": "Wine Toast (0.4%)",
-      "backdrop": "Burgundy (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 363.528,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -9360,76 +9056,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "WYMAAMTG",
-      "auction": {
-        "_id": "68755bf8aace4cd2f664e177",
-        "gift_id": 7203163,
-        "seller": 0,
-        "auction_id": "WYMAAMTG",
-        "startingBid": 25,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 25,
-            "asset": "TON",
-            "_id": "687564d0aace4cd2f6810ac2",
-            "timestamp": "2025-07-14T20:13:04.800Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 26.7,
-            "asset": "TON",
-            "_id": "687567dcaace4cd2f6924ec4",
-            "timestamp": "2025-07-14T20:26:04.785Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 28.04,
-            "asset": "TON",
-            "_id": "68756996aace4cd2f6965f4c",
-            "timestamp": "2025-07-14T20:33:26.114Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 29.44,
-            "asset": "TON",
-            "_id": "68756b1aaace4cd2f69b1a38",
-            "timestamp": "2025-07-14T20:39:54.885Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 30.91,
-            "asset": "TON",
-            "_id": "68756b2caace4cd2f69b542b",
-            "timestamp": "2025-07-14T20:40:12.879Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 32.46,
-            "asset": "TON",
-            "_id": "68756be7aace4cd2f69d22ce",
-            "timestamp": "2025-07-14T20:43:19.308Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 34.08,
-            "asset": "TON",
-            "_id": "68756e88aace4cd2f6a24b13",
-            "timestamp": "2025-07-14T20:54:32.774Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T21:05:18.866Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 12897,
-        "model": "Dullahan (1%)",
-        "backdrop": "Silver Blue (1.5%)",
-        "symbol": "Love Bulb (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T19:35:20.906Z",
-        "__v": 0,
-        "winningBid": 34.08,
-        "winningBidder": 1365228070
-      },
+      "auction": null,
       "export_at": "2025-07-27T20:51:02.000Z",
       "premarketData": {}
     },
@@ -9684,132 +9311,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "B27VXZQD",
-      "auction": {
-        "_id": "6877ea5faace4cd2f6bbbaad",
-        "gift_id": 6554510,
-        "seller": 0,
-        "auction_id": "B27VXZQD",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 6.1,
-            "asset": "TON",
-            "_id": "6877eb68aace4cd2f6beb111",
-            "timestamp": "2025-07-16T18:11:52.829Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.29,
-            "asset": "TON",
-            "_id": "6877ebabaace4cd2f6bf16c0",
-            "timestamp": "2025-07-16T18:12:59.748Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.7,
-            "asset": "TON",
-            "_id": "6877f0dcaace4cd2f6c259bb",
-            "timestamp": "2025-07-16T18:35:08.504Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.14,
-            "asset": "TON",
-            "_id": "6877f140aace4cd2f6c29a87",
-            "timestamp": "2025-07-16T18:36:48.613Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.5,
-            "asset": "TON",
-            "_id": "6877f17baace4cd2f6c2ef10",
-            "timestamp": "2025-07-16T18:37:47.243Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.08,
-            "asset": "TON",
-            "_id": "6877f281aace4cd2f6c4737e",
-            "timestamp": "2025-07-16T18:42:09.726Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.68,
-            "asset": "TON",
-            "_id": "6877f307aace4cd2f6c4ca30",
-            "timestamp": "2025-07-16T18:44:23.764Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.31,
-            "asset": "TON",
-            "_id": "6877f314aace4cd2f6c4ce5e",
-            "timestamp": "2025-07-16T18:44:36.612Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.98,
-            "asset": "TON",
-            "_id": "6877f341aace4cd2f6c4eef5",
-            "timestamp": "2025-07-16T18:45:21.349Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 14.68,
-            "asset": "TON",
-            "_id": "6877f356aace4cd2f6c50d06",
-            "timestamp": "2025-07-16T18:45:42.612Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15.41,
-            "asset": "TON",
-            "_id": "6877f375aace4cd2f6c528ac",
-            "timestamp": "2025-07-16T18:46:13.133Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 16.18,
-            "asset": "TON",
-            "_id": "6877f3cdaace4cd2f6c56014",
-            "timestamp": "2025-07-16T18:47:41.003Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 16.99,
-            "asset": "TON",
-            "_id": "6877f3e1aace4cd2f6c5679b",
-            "timestamp": "2025-07-16T18:48:01.060Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 26,
-            "asset": "TON",
-            "_id": "6877f3edaace4cd2f6c57284",
-            "timestamp": "2025-07-16T18:48:13.804Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 30,
-            "asset": "TON",
-            "_id": "6877f6beaace4cd2f6c81571",
-            "timestamp": "2025-07-16T19:00:14.049Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T19:16:39.244Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 5714,
-        "model": "Dullahan (1%)",
-        "backdrop": "Dark Green (1.2%)",
-        "symbol": "Firebird (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T18:07:27.345Z",
-        "__v": 0,
-        "winningBid": 30,
-        "winningBidder": 5488824025
-      },
+      "auction": null,
       "export_at": "2025-07-02T00:09:00.000Z",
       "premarketData": {}
     },
@@ -10933,97 +10435,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "1Q44V1OX",
-      "auction": {
-        "_id": "68754238aace4cd2f6fa56b5",
-        "gift_id": 7218162,
-        "seller": 0,
-        "auction_id": "1Q44V1OX",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6875424aaace4cd2f6fa8307",
-            "timestamp": "2025-07-14T17:45:46.040Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "687542c7aace4cd2f6fb8787",
-            "timestamp": "2025-07-14T17:47:51.680Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "68754325aace4cd2f6fc3fc2",
-            "timestamp": "2025-07-14T17:49:25.506Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6,
-            "asset": "TON",
-            "_id": "68754374aace4cd2f6fcd120",
-            "timestamp": "2025-07-14T17:50:44.746Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 29,
-            "asset": "TON",
-            "_id": "6875458eaace4cd2f600c77c",
-            "timestamp": "2025-07-14T17:59:42.531Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 31,
-            "asset": "TON",
-            "_id": "687558ddaace4cd2f61eb127",
-            "timestamp": "2025-07-14T19:22:05.532Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 32.55,
-            "asset": "TON",
-            "_id": "68756a63aace4cd2f698c674",
-            "timestamp": "2025-07-14T20:36:51.990Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 34.18,
-            "asset": "TON",
-            "_id": "68756eadaace4cd2f6a270ed",
-            "timestamp": "2025-07-14T20:55:09.892Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 35.89,
-            "asset": "TON",
-            "_id": "68756ebcaace4cd2f6a28a8e",
-            "timestamp": "2025-07-14T20:55:24.618Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 37.68,
-            "asset": "TON",
-            "_id": "687570f0aace4cd2f6b0ca99",
-            "timestamp": "2025-07-14T21:04:48.801Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T21:15:28.758Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 1291,
-        "model": "Starry Sky (1.5%)",
-        "backdrop": "Gunmetal (1%)",
-        "symbol": "La Corona (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T17:45:28.734Z",
-        "__v": 0,
-        "winningBid": 37.68,
-        "winningBidder": 1365228070
-      },
+      "auction": null,
       "export_at": "2025-07-28T17:45:13.000Z",
       "premarketData": {}
     }
@@ -11313,90 +10725,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "4B58JX3I",
-      "auction": {
-        "_id": "68781c68aace4cd2f64253d5",
-        "gift_id": 7258263,
-        "seller": 0,
-        "auction_id": "4B58JX3I",
-        "startingBid": 26,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 26,
-            "asset": "TON",
-            "_id": "68782556aace4cd2f64bc4d3",
-            "timestamp": "2025-07-16T22:19:02.701Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 35,
-            "asset": "TON",
-            "_id": "687825bfaace4cd2f64c0704",
-            "timestamp": "2025-07-16T22:20:47.264Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 36.75,
-            "asset": "TON",
-            "_id": "687826dfaace4cd2f64cb1b4",
-            "timestamp": "2025-07-16T22:25:35.405Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 38.59,
-            "asset": "TON",
-            "_id": "687826f5aace4cd2f64cba92",
-            "timestamp": "2025-07-16T22:25:57.086Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 40.52,
-            "asset": "TON",
-            "_id": "687829deaace4cd2f654c4ce",
-            "timestamp": "2025-07-16T22:38:22.544Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 42.55,
-            "asset": "TON",
-            "_id": "6878387faace4cd2f668c5c5",
-            "timestamp": "2025-07-16T23:40:47.454Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 44.68,
-            "asset": "TON",
-            "_id": "68783893aace4cd2f668d411",
-            "timestamp": "2025-07-16T23:41:07.446Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 46.91,
-            "asset": "TON",
-            "_id": "68783c0aaace4cd2f66aa4f2",
-            "timestamp": "2025-07-16T23:55:54.318Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 49.26,
-            "asset": "TON",
-            "_id": "68783c2caace4cd2f66aac74",
-            "timestamp": "2025-07-16T23:56:28.244Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T00:10:53.946Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 8992,
-        "model": "Road Queen (1%)",
-        "backdrop": "Light Olive (1.2%)",
-        "symbol": "Pussy Willow (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T21:40:56.249Z",
-        "__v": 0,
-        "winningBid": 49.26,
-        "winningBidder": 1593716458
-      },
+      "auction": null,
       "export_at": "2025-07-30T21:31:40.000Z",
       "premarketData": {}
     }
@@ -13855,34 +13184,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "H0DPAZ7L",
-      "auction": {
-        "_id": "686f99cf1fe9e6aa2c7fa0ac",
-        "gift_id": 7109649,
-        "seller": 0,
-        "auction_id": "H0DPAZ7L",
-        "startingBid": 27,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 27,
-            "asset": "TON",
-            "_id": "68717ceb8938e518f1094c8f",
-            "timestamp": "2025-07-11T21:06:51.783Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T22:54:22.130Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 14993,
-        "model": "Red Shift (2.5%)",
-        "backdrop": "Hunter Green (1.2%)",
-        "symbol": "Genie Lamp (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T16:54:23.541Z",
-        "__v": 0,
-        "winningBid": 27,
-        "winningBidder": 7815061138
-      },
+      "auction": null,
       "export_at": "2025-07-23T18:05:22.000Z",
       "premarketData": {}
     },
@@ -14623,6 +13925,26 @@
   ],
   "Strawberry": [
     {
+      "gift_num": 4854,
+      "customEmojiId": "5357143258403201559",
+      "gift_id": 7049271,
+      "name": "Neko Helmet",
+      "model": "Strawberry (2%)",
+      "asset": "TON",
+      "symbol": "Heart Ring (0.5%)",
+      "backdrop": "Shamrock Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 35,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-21T09:25:03.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 10749,
       "customEmojiId": "5357143258403201559",
       "gift_id": 7271206,
@@ -15168,26 +14490,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-25T13:42:14.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 14024,
-      "customEmojiId": "5357143258403201559",
-      "gift_id": 5094654,
-      "name": "Neko Helmet",
-      "model": "Strawberry (2%)",
-      "asset": "TON",
-      "symbol": "Chili (0.4%)",
-      "backdrop": "Mustard (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-02T02:04:35.000Z",
       "premarketData": {}
     }
   ],
@@ -18665,34 +17967,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "YJCXNBDT",
-      "auction": {
-        "_id": "686ece8aac189a7248404cff",
-        "gift_id": 7112696,
-        "seller": 0,
-        "auction_id": "YJCXNBDT",
-        "startingBid": 40,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 40,
-            "asset": "TON",
-            "_id": "686f982a1fe9e6aa2c7d73bd",
-            "timestamp": "2025-07-10T10:38:34.959Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T11:41:42.555Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 9356,
-        "model": "Princess (1%)",
-        "backdrop": "Pacific Cyan (1.5%)",
-        "symbol": "Belladonna (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T09:41:43.551Z",
-        "__v": 0,
-        "winningBid": 40,
-        "winningBidder": 1077505356
-      },
+      "auction": null,
       "export_at": "2025-07-23T20:16:03.000Z",
       "premarketData": {}
     },
@@ -19903,6 +19178,62 @@
   ],
   "Hornet": [
     {
+      "gift_num": 4005,
+      "customEmojiId": "5357330733725673172",
+      "gift_id": 593578521414,
+      "name": "Neko Helmet",
+      "model": "Hornet (2.5%)",
+      "asset": "TON",
+      "symbol": "Snowdrop (0.2%)",
+      "backdrop": "Khaki Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 51.775,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 13850,
+      "customEmojiId": "5357330733725673172",
+      "gift_id": 598778049195,
+      "name": "Neko Helmet",
+      "model": "Hornet (2.5%)",
+      "asset": "TON",
+      "symbol": "Sunflower (0.4%)",
+      "backdrop": "Dark Lilac (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 68.85,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 14794,
+      "customEmojiId": "5357330733725673172",
+      "gift_id": 6979276,
+      "name": "Neko Helmet",
+      "model": "Hornet (2.5%)",
+      "asset": "TON",
+      "symbol": "Bobby Helmet (0.4%)",
+      "backdrop": "Navy Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 25,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-18T08:58:55.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2674,
       "customEmojiId": "5357330733725673172",
       "gift_id": 593624367613,
@@ -19958,26 +19289,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-31T16:01:46.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 14794,
-      "customEmojiId": "5357330733725673172",
-      "gift_id": 6979276,
-      "name": "Neko Helmet",
-      "model": "Hornet (2.5%)",
-      "asset": "TON",
-      "symbol": "Bobby Helmet (0.4%)",
-      "backdrop": "Navy Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 28,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-18T08:58:55.000Z",
       "premarketData": {}
     },
     {
@@ -20089,34 +19400,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "SBGYMUHC",
-      "auction": {
-        "_id": "6873c5c78938e518f12ef9c7",
-        "gift_id": 6685943,
-        "seller": 0,
-        "auction_id": "SBGYMUHC",
-        "startingBid": 25,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 25.1,
-            "asset": "TON",
-            "_id": "6876b5ecaace4cd2f6d0b62d",
-            "timestamp": "2025-07-15T20:11:24.532Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T18:25:03.381Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 3193,
-        "model": "Hornet (2.5%)",
-        "backdrop": "Celtic Blue (1%)",
-        "symbol": "Tsunami (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T18:25:04.469Z",
-        "__v": 0,
-        "winningBid": 25.1,
-        "winningBidder": 325155472
-      },
+      "auction": null,
       "export_at": "2025-07-06T16:31:25.000Z",
       "premarketData": {}
     },
@@ -20462,44 +19746,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-28T16:28:13.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 10355,
-      "customEmojiId": "5357330733725673172",
-      "gift_id": 6404505,
-      "name": "Neko Helmet",
-      "model": "Hornet (2.5%)",
-      "asset": "TON",
-      "symbol": "Magic Vial (0.5%)",
-      "backdrop": "Lavender (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 60,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-28T16:28:03.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 10976,
-      "customEmojiId": "5357330733725673172",
-      "gift_id": 594068860650,
-      "name": "Neko Helmet",
-      "model": "Hornet (2.5%)",
-      "asset": "TON",
-      "symbol": "Birthday Cake (0.5%)",
-      "backdrop": "French Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 110.16,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
@@ -21481,6 +20727,26 @@
   ],
   "Cookie Monster": [
     {
+      "gift_num": 8663,
+      "customEmojiId": "5352995922018065699",
+      "gift_id": 7239714,
+      "name": "Neko Helmet",
+      "model": "Cookie Monster (1%)",
+      "asset": "TON",
+      "symbol": "Mars & Venus (0.5%)",
+      "backdrop": "Cobalt Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 45,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T20:58:25.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6829,
       "customEmojiId": "5352995922018065699",
       "gift_id": 5577840,
@@ -21598,26 +20864,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-22T07:17:24.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 8663,
-      "customEmojiId": "5352995922018065699",
-      "gift_id": 7239714,
-      "name": "Neko Helmet",
-      "model": "Cookie Monster (1%)",
-      "asset": "TON",
-      "symbol": "Mars & Venus (0.5%)",
-      "backdrop": "Cobalt Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 49,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T20:58:25.000Z",
       "premarketData": {}
     },
     {
@@ -21771,69 +21017,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "ZFEH00D2",
-      "auction": {
-        "_id": "68729aa88938e518f1ae19d0",
-        "gift_id": 7179987,
-        "seller": 0,
-        "auction_id": "ZFEH00D2",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68729ae28938e518f1ae5250",
-            "timestamp": "2025-07-12T17:26:58.333Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15,
-            "asset": "TON",
-            "_id": "68729ccc8938e518f1b0159c",
-            "timestamp": "2025-07-12T17:35:08.214Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 26.4,
-            "asset": "TON",
-            "_id": "68729d2f8938e518f1b08c8a",
-            "timestamp": "2025-07-12T17:36:47.739Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 28.2,
-            "asset": "TON",
-            "_id": "68729d788938e518f1b0fddf",
-            "timestamp": "2025-07-12T17:38:00.152Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 29.61,
-            "asset": "TON",
-            "_id": "6872b52a8938e518f11bd249",
-            "timestamp": "2025-07-12T19:19:06.250Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 31.31,
-            "asset": "TON",
-            "_id": "6872b6018938e518f11c2f7a",
-            "timestamp": "2025-07-12T19:22:41.833Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T19:35:50.582Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 10265,
-        "model": "Cookie Monster (1%)",
-        "backdrop": "Pure Gold (1%)",
-        "symbol": "Flower (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T17:26:00.788Z",
-        "__v": 0,
-        "winningBid": 31.31,
-        "winningBidder": 7009240403
-      },
+      "auction": null,
       "export_at": "2025-07-26T16:40:34.000Z",
       "premarketData": {}
     },
@@ -22694,6 +21878,26 @@
   ],
   "Astronaut": [
     {
+      "gift_num": 9612,
+      "customEmojiId": "5357111703278476773",
+      "gift_id": 7245131,
+      "name": "Neko Helmet",
+      "model": "Astronaut (1%)",
+      "asset": "TON",
+      "symbol": "Succubus (0.4%)",
+      "backdrop": "Chestnut (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 89,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T08:04:46.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2922,
       "customEmojiId": "5357111703278476773",
       "gift_id": 6727765,
@@ -22711,26 +21915,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-08T12:04:11.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 9612,
-      "customEmojiId": "5357111703278476773",
-      "gift_id": 7245131,
-      "name": "Neko Helmet",
-      "model": "Astronaut (1%)",
-      "asset": "TON",
-      "symbol": "Succubus (0.4%)",
-      "backdrop": "Chestnut (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T08:04:46.000Z",
       "premarketData": {}
     },
     {
@@ -23687,104 +22871,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "XZDPTC73",
-      "auction": {
-        "_id": "687008a834f3663346322c0a",
-        "gift_id": 7138150,
-        "seller": 0,
-        "auction_id": "XZDPTC73",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 6.6,
-            "asset": "TON",
-            "_id": "687184908938e518f117f3fc",
-            "timestamp": "2025-07-11T21:39:28.481Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.93,
-            "asset": "TON",
-            "_id": "6871d8258938e518f1c0eea1",
-            "timestamp": "2025-07-12T03:36:05.439Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.28,
-            "asset": "TON",
-            "_id": "687202dd8938e518f12901ff",
-            "timestamp": "2025-07-12T06:38:21.308Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.64,
-            "asset": "TON",
-            "_id": "687249818938e518f125e602",
-            "timestamp": "2025-07-12T11:39:45.744Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 27.5,
-            "asset": "TON",
-            "_id": "68724ba78938e518f131ea04",
-            "timestamp": "2025-07-12T11:48:55.642Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 28.88,
-            "asset": "TON",
-            "_id": "687287998938e518f1651dd8",
-            "timestamp": "2025-07-12T16:04:41.123Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 30.32,
-            "asset": "TON",
-            "_id": "6872b67a8938e518f11c632e",
-            "timestamp": "2025-07-12T19:24:42.587Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 32,
-            "asset": "TON",
-            "_id": "6872bb898938e518f127dcff",
-            "timestamp": "2025-07-12T19:46:17.443Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 33.6,
-            "asset": "TON",
-            "_id": "6872bdff8938e518f12bb4dd",
-            "timestamp": "2025-07-12T19:56:47.690Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 35.28,
-            "asset": "TON",
-            "_id": "6872be3a8938e518f12c25e1",
-            "timestamp": "2025-07-12T19:57:46.491Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 44,
-            "asset": "TON",
-            "_id": "6872bedb8938e518f12d4735",
-            "timestamp": "2025-07-12T20:00:27.847Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T20:15:06.679Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 13302,
-        "model": "Frostbear (1%)",
-        "backdrop": "Aquamarine (1%)",
-        "symbol": "Bubbles (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T19:55:08.030Z",
-        "__v": 0,
-        "winningBid": 44,
-        "winningBidder": 5409874747
-      },
+      "auction": null,
       "export_at": "2025-07-24T18:16:38.000Z",
       "premarketData": {}
     }
@@ -23845,55 +22932,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "KCZHITP5",
-      "auction": {
-        "_id": "68752405aace4cd2f6bbb69a",
-        "gift_id": 7203168,
-        "seller": 0,
-        "auction_id": "KCZHITP5",
-        "startingBid": 25,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 25,
-            "asset": "TON",
-            "_id": "687537afaace4cd2f6e1c088",
-            "timestamp": "2025-07-14T17:00:31.076Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 26.27,
-            "asset": "TON",
-            "_id": "68753c9baace4cd2f6eeb81e",
-            "timestamp": "2025-07-14T17:21:31.296Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 27.58,
-            "asset": "TON",
-            "_id": "68753fe0aace4cd2f6f62f1c",
-            "timestamp": "2025-07-14T17:35:28.845Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 28.96,
-            "asset": "TON",
-            "_id": "6875401faace4cd2f6f6909a",
-            "timestamp": "2025-07-14T17:36:31.414Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T17:46:34.974Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 9760,
-        "model": "Disco Ball (1%)",
-        "backdrop": "Rifle Green (1%)",
-        "symbol": "Fried Egg (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T15:36:37.095Z",
-        "__v": 0,
-        "winningBid": 28.96,
-        "winningBidder": 943095101
-      },
+      "auction": null,
       "export_at": "2025-07-27T20:51:18.000Z",
       "premarketData": {}
     },
@@ -24203,76 +23242,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "1DFST0F7",
-      "auction": {
-        "_id": "68781b8baace4cd2f64054f0",
-        "gift_id": 7258250,
-        "seller": 0,
-        "auction_id": "1DFST0F7",
-        "startingBid": 100,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 100,
-            "asset": "TON",
-            "_id": "687828e4aace4cd2f6541e05",
-            "timestamp": "2025-07-16T22:34:12.778Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 110,
-            "asset": "TON",
-            "_id": "68782909aace4cd2f6543666",
-            "timestamp": "2025-07-16T22:34:49.670Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 115.5,
-            "asset": "TON",
-            "_id": "68783584aace4cd2f6678de3",
-            "timestamp": "2025-07-16T23:28:04.657Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 121.28,
-            "asset": "TON",
-            "_id": "6878380daace4cd2f6688969",
-            "timestamp": "2025-07-16T23:38:53.337Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 127.34,
-            "asset": "TON",
-            "_id": "68783990aace4cd2f6693f29",
-            "timestamp": "2025-07-16T23:45:20.456Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 133.71,
-            "asset": "TON",
-            "_id": "68783bc9aace4cd2f66a89c5",
-            "timestamp": "2025-07-16T23:54:49.598Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 140.4,
-            "asset": "TON",
-            "_id": "68783ddcaace4cd2f66af425",
-            "timestamp": "2025-07-17T00:03:40.813Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T00:17:12.047Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 13745,
-        "model": "Disco Ball (1%)",
-        "backdrop": "Black (1.2%)",
-        "symbol": "Pierced Heart (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T21:37:15.844Z",
-        "__v": 0,
-        "winningBid": 140.4,
-        "winningBidder": 7241860097
-      },
+      "auction": null,
       "export_at": "2025-07-30T21:30:46.000Z",
       "premarketData": {}
     }
@@ -26669,34 +25639,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "Q51JHLBP",
-      "auction": {
-        "_id": "6877fc2faace4cd2f6cdbf40",
-        "gift_id": 7256194,
-        "seller": 0,
-        "auction_id": "Q51JHLBP",
-        "startingBid": 38,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 38,
-            "asset": "TON",
-            "_id": "68783b7baace4cd2f66a7145",
-            "timestamp": "2025-07-16T23:53:31.338Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T00:46:58.749Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 5450,
-        "model": "Glitch (1%)",
-        "backdrop": "Old Gold (1.2%)",
-        "symbol": "Love Bulb (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T23:46:59.635Z",
-        "__v": 0,
-        "winningBid": 38,
-        "winningBidder": 1700971571
-      },
+      "auction": null,
       "export_at": "2025-07-30T19:22:41.000Z",
       "premarketData": {}
     }
@@ -27059,55 +26002,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "II2FAI39",
-      "auction": {
-        "_id": "68770c07aace4cd2f6b24b41",
-        "gift_id": 7235591,
-        "seller": 0,
-        "auction_id": "II2FAI39",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68770c48aace4cd2f6b25d58",
-            "timestamp": "2025-07-16T02:19:52.980Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68770c9baace4cd2f6b26884",
-            "timestamp": "2025-07-16T02:21:15.517Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "68770ca7aace4cd2f6b274e3",
-            "timestamp": "2025-07-16T02:21:27.222Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 26.7,
-            "asset": "TON",
-            "_id": "68770cb8aace4cd2f6b2757b",
-            "timestamp": "2025-07-16T02:21:44.101Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T03:18:46.121Z",
-        "status": "finished",
-        "gift_name": "Neko Helmet",
-        "gift_num": 1435,
-        "model": "Poison Ivy (2%)",
-        "backdrop": "Strawberry (1.2%)",
-        "symbol": "Pyramid (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T02:18:47.000Z",
-        "__v": 0,
-        "winningBid": 26.7,
-        "winningBidder": 7352255987
-      },
+      "auction": null,
       "export_at": "2025-07-29T17:21:43.000Z",
       "premarketData": {}
     },
@@ -27597,8 +26492,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 906647,
-      "price": 5500,
+      "message_in_channel": 911020,
+      "price": 925,
       "status": "forsale",
       "limited": false,
       "auction": null,
