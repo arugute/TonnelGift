@@ -361,6 +361,26 @@
   ],
   "Ogre Snack": [
     {
+      "gift_num": 1115,
+      "customEmojiId": "5283145266860420865",
+      "gift_id": 389889360922,
+      "name": "Whip Cupcake",
+      "model": "Ogre Snack (1%)",
+      "asset": "TON",
+      "symbol": "Bee (0.5%)",
+      "backdrop": "Lemongrass (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 10,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 88846,
       "customEmojiId": "5283145266860420865",
       "gift_id": 903663192568,
@@ -3559,6 +3579,32 @@
   ],
   "Zero Sugar": [
     {
+      "gift_num": 30217,
+      "customEmojiId": "5330352235958269011",
+      "gift_id": 664993976895,
+      "name": "Whip Cupcake",
+      "model": "Zero Sugar (3%)",
+      "asset": "TON",
+      "symbol": "Chest (0.7%)",
+      "backdrop": "Marine Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2.23,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 0.4,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 2.12,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-29T22:55:33.111Z"
+      }
+    },
+    {
       "gift_num": 34262,
       "customEmojiId": "5330352235958269011",
       "gift_id": 678595172155,
@@ -4139,26 +4185,6 @@
       "asset": "TON",
       "symbol": "Hazelnut (0.5%)",
       "backdrop": "Desert Sand (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16379,
-      "customEmojiId": "5330352235958269011",
-      "gift_id": 741415273411,
-      "name": "Whip Cupcake",
-      "model": "Zero Sugar (3%)",
-      "asset": "TON",
-      "symbol": "Basketball (0.7%)",
-      "backdrop": "Indigo Dye (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
@@ -4977,6 +5003,26 @@
   ],
   "Sponge Duck": [
     {
+      "gift_num": 44431,
+      "customEmojiId": "5372835977981098256",
+      "gift_id": 223524281778,
+      "name": "Whip Cupcake",
+      "model": "Sponge Duck (2.5%)",
+      "asset": "TON",
+      "symbol": "Key (0.7%)",
+      "backdrop": "Mustard (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 11759,
       "customEmojiId": "5372835977981098256",
       "gift_id": 13559873931,
@@ -5591,29 +5637,35 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
+    }
+  ],
+  "Sweetheart": [
     {
-      "gift_num": 31920,
-      "customEmojiId": "5372835977981098256",
-      "gift_id": 435007741395,
+      "gift_num": 88606,
+      "customEmojiId": "5352721976119031085",
+      "gift_id": 970745846832,
       "name": "Whip Cupcake",
-      "model": "Sponge Duck (2.5%)",
+      "model": "Sweetheart (1.5%)",
       "asset": "TON",
-      "symbol": "Balloon (0.5%)",
-      "backdrop": "Chestnut (1.5%)",
+      "symbol": "Avocado (0.7%)",
+      "backdrop": "Cobalt Blue (1.2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 7,
+      "price": 3.2,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "premarket": true,
       "premarketStage": 2,
-      "premarketData": {}
-    }
-  ],
-  "Sweetheart": [
+      "premarketData": {
+        "premarketCollateralAmount": 0.5,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 2.968,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-28T16:55:42.306Z"
+      }
+    },
     {
       "gift_num": 1157,
       "customEmojiId": "5352721976119031085",
@@ -5705,32 +5757,6 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
-    {
-      "gift_num": 88606,
-      "customEmojiId": "5352721976119031085",
-      "gift_id": 970745846832,
-      "name": "Whip Cupcake",
-      "model": "Sweetheart (1.5%)",
-      "asset": "TON",
-      "symbol": "Avocado (0.7%)",
-      "backdrop": "Cobalt Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 3.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 0.5,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 2.968,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-28T16:55:42.306Z"
-      }
     },
     {
       "gift_num": 21524,
@@ -18536,7 +18562,7 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 3,
+      "price": 2,
       "status": "forsale",
       "limited": false,
       "auction": null,
