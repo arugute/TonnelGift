@@ -37,62 +37,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "IBKGZAF3",
-      "auction": {
-        "_id": "6869fb4c5ea5afa2c4ae7f38",
-        "gift_id": 6962568,
-        "seller": 0,
-        "auction_id": "IBKGZAF3",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687237d38938e518f190bac5",
-            "timestamp": "2025-07-12T10:24:19.929Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68723b9e8938e518f19a0079",
-            "timestamp": "2025-07-12T10:40:30.513Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "687261978938e518f1a3dbc5",
-            "timestamp": "2025-07-12T13:22:31.868Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "687269d28938e518f1a82ce2",
-            "timestamp": "2025-07-12T13:57:38.351Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 44,
-            "asset": "TON",
-            "_id": "68726b7f8938e518f1a9ca8b",
-            "timestamp": "2025-07-12T14:04:47.624Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T16:23:43.356Z",
-        "status": "finished",
-        "gift_name": "Sharp Tongue",
-        "gift_num": 6476,
-        "model": "Sour Bite (2.5%)",
-        "backdrop": "Satin Gold (2%)",
-        "symbol": "Happy Smile (1.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T10:23:45.206Z",
-        "__v": 0,
-        "winningBid": 44,
-        "winningBidder": 1055922091
-      },
+      "auction": null,
       "export_at": "2025-07-17T14:20:58.000Z",
       "premarketData": {}
     },
@@ -215,90 +160,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "KQSJVHPJ",
-      "auction": {
-        "_id": "687563a4aace4cd2f67d9083",
-        "gift_id": 7219844,
-        "seller": 0,
-        "auction_id": "KQSJVHPJ",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68756da5aace4cd2f6a11c14",
-            "timestamp": "2025-07-14T20:50:45.177Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "687572d5aace4cd2f6b2ac45",
-            "timestamp": "2025-07-14T21:12:53.610Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.444,
-            "asset": "TON",
-            "_id": "6875796daace4cd2f6b8ef02",
-            "timestamp": "2025-07-14T21:41:01.201Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.68,
-            "asset": "TON",
-            "_id": "687579e3aace4cd2f6b99577",
-            "timestamp": "2025-07-14T21:42:59.836Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.66,
-            "asset": "TON",
-            "_id": "68757a48aace4cd2f6b9e7e2",
-            "timestamp": "2025-07-14T21:44:40.686Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "6875a42aaace4cd2f601e9ff",
-            "timestamp": "2025-07-15T00:43:22.400Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11,
-            "asset": "TON",
-            "_id": "6875ff12aace4cd2f66e6bbb",
-            "timestamp": "2025-07-15T07:11:14.197Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 37,
-            "asset": "TON",
-            "_id": "68762960aace4cd2f6f8ae00",
-            "timestamp": "2025-07-15T10:11:44.292Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 38.85,
-            "asset": "TON",
-            "_id": "6876ba27aace4cd2f6e8c03b",
-            "timestamp": "2025-07-15T20:29:27.716Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T20:49:31.010Z",
-        "status": "finished",
-        "gift_name": "Sharp Tongue",
-        "gift_num": 6873,
-        "model": "Spicy Mint (2.5%)",
-        "backdrop": "Moonstone (1.5%)",
-        "symbol": "Bow Tie (0.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T20:49:35.431Z",
-        "__v": 0,
-        "winningBid": 38.85,
-        "winningBidder": 5409178293
-      },
+      "auction": null,
       "export_at": "2025-07-28T19:23:18.000Z",
       "premarketData": {}
     },
@@ -379,41 +241,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "H3FG47D0",
-      "auction": {
-        "_id": "686d254f0227247557ed2da1",
-        "gift_id": 7081526,
-        "seller": 0,
-        "auction_id": "H3FG47D0",
-        "startingBid": 45,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 45.5,
-            "asset": "TON",
-            "_id": "686ebc210227247557a97349",
-            "timestamp": "2025-07-09T18:59:45.670Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 47.78,
-            "asset": "TON",
-            "_id": "686ebe950227247557b414b3",
-            "timestamp": "2025-07-09T19:10:13.654Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T19:56:45.971Z",
-        "status": "finished",
-        "gift_name": "Sharp Tongue",
-        "gift_num": 6873,
-        "model": "Spicy Mint (2.5%)",
-        "backdrop": "Moonstone (1.5%)",
-        "symbol": "Bow Tie (0.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T18:56:46.625Z",
-        "__v": 0,
-        "winningBid": 47.78,
-        "winningBidder": 8094860550
-      },
+      "auction": null,
       "export_at": "2025-07-22T14:03:47.000Z",
       "premarketData": {}
     },
@@ -532,7 +360,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 40.5,
+      "price": 39.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -859,26 +687,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-31T21:03:34.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5082,
-      "customEmojiId": "5429200367109827638",
-      "gift_id": 6410479,
-      "name": "Sharp Tongue",
-      "model": "Secret Look (0.5%)",
-      "asset": "TON",
-      "symbol": "Sharp Sword (0.2%)",
-      "backdrop": "Desert Sand (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 898760,
-      "price": 150,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-28T18:51:51.000Z",
       "premarketData": {}
     },
     {
@@ -1268,6 +1076,26 @@
   ],
   "Rainbow": [
     {
+      "gift_num": 4500,
+      "customEmojiId": "5408895754599161643",
+      "gift_id": 7273167,
+      "name": "Sharp Tongue",
+      "model": "Rainbow (2.5%)",
+      "asset": "TON",
+      "symbol": "Lollipop (1.2%)",
+      "backdrop": "Sky Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:07:47.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3664,
       "customEmojiId": "5408895754599161643",
       "gift_id": 7262583,
@@ -1280,7 +1108,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 130,
+      "price": 45,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -1324,34 +1152,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "UXL99M22",
-      "auction": {
-        "_id": "68771428aace4cd2f6b9af2f",
-        "gift_id": 7241408,
-        "seller": 0,
-        "auction_id": "UXL99M22",
-        "startingBid": 45,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 45,
-            "asset": "TON",
-            "_id": "6877bc8eaace4cd2f69d675a",
-            "timestamp": "2025-07-16T14:51:58.901Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T15:03:26.578Z",
-        "status": "finished",
-        "gift_name": "Sharp Tongue",
-        "gift_num": 7198,
-        "model": "Rainbow (2.5%)",
-        "backdrop": "Midnight Blue (2%)",
-        "symbol": "Anchor (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T02:53:28.204Z",
-        "__v": 0,
-        "winningBid": 45,
-        "winningBidder": 143137261
-      },
+      "auction": null,
       "export_at": "2025-07-29T22:53:54.000Z",
       "premarketData": {}
     },
@@ -1857,41 +1658,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "QLX9XRSG",
-      "auction": {
-        "_id": "687176588938e518f1ebfa51",
-        "gift_id": 7164521,
-        "seller": 0,
-        "auction_id": "QLX9XRSG",
-        "startingBid": 35,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 37,
-            "asset": "TON",
-            "_id": "68724cf18938e518f13505ec",
-            "timestamp": "2025-07-12T11:54:25.680Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 38.85,
-            "asset": "TON",
-            "_id": "68724d028938e518f1352678",
-            "timestamp": "2025-07-12T11:54:42.099Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T12:08:45.976Z",
-        "status": "finished",
-        "gift_name": "Sharp Tongue",
-        "gift_num": 220,
-        "model": "Mystique (2.5%)",
-        "backdrop": "Pine Green (2%)",
-        "symbol": "Maple Leaf (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T11:08:47.888Z",
-        "__v": 0,
-        "winningBid": 38.85,
-        "winningBidder": 6298621171
-      },
+      "auction": null,
       "export_at": "2025-07-25T20:38:15.000Z",
       "premarketData": {}
     }
@@ -2299,6 +2066,26 @@
     }
   ],
   "Sunset": [
+    {
+      "gift_num": 5352,
+      "customEmojiId": "5413361597169031482",
+      "gift_id": 5108219,
+      "name": "Sharp Tongue",
+      "model": "Sunset (2.5%)",
+      "asset": "TON",
+      "symbol": "Strawberry (0.6%)",
+      "backdrop": "Hunter Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 34.19,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-02T11:38:58.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 5645,
       "customEmojiId": "5413361597169031482",
@@ -2897,90 +2684,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "M768MP01",
-      "auction": {
-        "_id": "68761f5baace4cd2f6e68aa9",
-        "gift_id": 7227581,
-        "seller": 0,
-        "auction_id": "M768MP01",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 37,
-            "asset": "TON",
-            "_id": "6876296aaace4cd2f6f8b029",
-            "timestamp": "2025-07-15T10:11:54.615Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 38.85,
-            "asset": "TON",
-            "_id": "68768136aace4cd2f6902415",
-            "timestamp": "2025-07-15T16:26:30.667Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 40.79,
-            "asset": "TON",
-            "_id": "6876c576aace4cd2f63f3f16",
-            "timestamp": "2025-07-15T21:17:42.820Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 42.83,
-            "asset": "TON",
-            "_id": "6876c5a5aace4cd2f63fc67e",
-            "timestamp": "2025-07-15T21:18:29.937Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 44.97,
-            "asset": "TON",
-            "_id": "6876c5b4aace4cd2f63feaeb",
-            "timestamp": "2025-07-15T21:18:44.444Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 47.22,
-            "asset": "TON",
-            "_id": "6876c6e1aace4cd2f643461e",
-            "timestamp": "2025-07-15T21:23:45.830Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 49.58,
-            "asset": "TON",
-            "_id": "6876c8d2aace4cd2f64b1541",
-            "timestamp": "2025-07-15T21:32:02.430Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 52.06,
-            "asset": "TON",
-            "_id": "6876cb4eaace4cd2f651dcc6",
-            "timestamp": "2025-07-15T21:42:38.622Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 54.66,
-            "asset": "TON",
-            "_id": "6876cb5aaace4cd2f651f3a5",
-            "timestamp": "2025-07-15T21:42:50.212Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T21:58:57.205Z",
-        "status": "finished",
-        "gift_name": "Sharp Tongue",
-        "gift_num": 4594,
-        "model": "Avatar (2.5%)",
-        "backdrop": "Azure Blue (2%)",
-        "symbol": "Lily (0.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T09:28:59.890Z",
-        "__v": 0,
-        "winningBid": 54.66,
-        "winningBidder": 1388465961
-      },
+      "auction": null,
       "export_at": "2025-07-29T09:28:08.000Z",
       "premarketData": {}
     }
@@ -3063,34 +2767,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "WHYNTFR7",
-      "auction": {
-        "_id": "68724fa58938e518f13d1287",
-        "gift_id": 7173988,
-        "seller": 0,
-        "auction_id": "WHYNTFR7",
-        "startingBid": 37,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 37,
-            "asset": "TON",
-            "_id": "6877c729aace4cd2f6cbeeec",
-            "timestamp": "2025-07-16T15:37:13.274Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T15:53:55.957Z",
-        "status": "finished",
-        "gift_name": "Sharp Tongue",
-        "gift_num": 1473,
-        "model": "Tangy Coil (2.5%)",
-        "backdrop": "Chestnut (1.5%)",
-        "symbol": "Sauron (0.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T09:43:58.646Z",
-        "__v": 0,
-        "winningBid": 37,
-        "winningBidder": 599589169
-      },
+      "auction": null,
       "export_at": "2025-07-26T11:06:04.000Z",
       "premarketData": {}
     },
@@ -5068,69 +4745,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "0HO4O0MH",
-      "auction": {
-        "_id": "6876b30caace4cd2f6c685d7",
-        "gift_id": 7238646,
-        "seller": 0,
-        "auction_id": "0HO4O0MH",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6876b328aace4cd2f6c6eb36",
-            "timestamp": "2025-07-15T19:59:36.151Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6876b3d9aace4cd2f6c9f149",
-            "timestamp": "2025-07-15T20:02:33.862Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "6876b4e1aace4cd2f6cd1908",
-            "timestamp": "2025-07-15T20:06:57.579Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "6876b53eaace4cd2f6ce3611",
-            "timestamp": "2025-07-15T20:08:30.894Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "6876b5f4aace4cd2f6d0dd33",
-            "timestamp": "2025-07-15T20:11:32.827Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 37,
-            "asset": "TON",
-            "_id": "6876b605aace4cd2f6d11188",
-            "timestamp": "2025-07-15T20:11:49.748Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T20:59:06.467Z",
-        "status": "finished",
-        "gift_name": "Sharp Tongue",
-        "gift_num": 7181,
-        "model": "Lady Night (2.5%)",
-        "backdrop": "Pine Green (2%)",
-        "symbol": "Black Widow (1.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T19:59:08.995Z",
-        "__v": 0,
-        "winningBid": 37,
-        "winningBidder": 7352255987
-      },
+      "auction": null,
       "export_at": "2025-07-29T19:58:46.000Z",
       "premarketData": {}
     }
@@ -5537,34 +5152,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "TD34BIDH",
-      "auction": {
-        "_id": "6876cd86aace4cd2f6569b86",
-        "gift_id": 7227730,
-        "seller": 0,
-        "auction_id": "TD34BIDH",
-        "startingBid": 47,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 47,
-            "asset": "TON",
-            "_id": "68777467aace4cd2f65752f2",
-            "timestamp": "2025-07-16T09:44:07.601Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T10:02:05.402Z",
-        "status": "finished",
-        "gift_name": "Sharp Tongue",
-        "gift_num": 7445,
-        "model": "Frostbite (1.5%)",
-        "backdrop": "Grape (2%)",
-        "symbol": "Ice Pop (0.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T21:52:06.439Z",
-        "__v": 0,
-        "winningBid": 47,
-        "winningBidder": 1123909532
-      },
+      "auction": null,
       "export_at": "2025-07-29T09:40:16.000Z",
       "premarketData": {}
     },
@@ -5585,34 +5173,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "MH18N588",
-      "auction": {
-        "_id": "686ddcfc02272475572a5746",
-        "gift_id": 7091040,
-        "seller": 0,
-        "auction_id": "MH18N588",
-        "startingBid": 74.23,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 74.23,
-            "asset": "TON",
-            "_id": "686e9b630227247557fcb56f",
-            "timestamp": "2025-07-09T16:40:03.985Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T16:56:27.955Z",
-        "status": "finished",
-        "gift_name": "Sharp Tongue",
-        "gift_num": 74,
-        "model": "Frostbite (1.5%)",
-        "backdrop": "Silver Blue (2%)",
-        "symbol": "Sakura (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T13:56:30.525Z",
-        "__v": 0,
-        "winningBid": 74.23,
-        "winningBidder": 1043354439
-      },
+      "auction": null,
       "export_at": "2025-07-22T20:33:01.000Z",
       "premarketData": {}
     },
@@ -7641,26 +7202,6 @@
     {
       "gift_num": 256,
       "customEmojiId": "5431432474498457760",
-      "gift_id": 7137757,
-      "name": "Sharp Tongue",
-      "model": "Acid Witch (1.5%)",
-      "asset": "TON",
-      "symbol": "Heartbeat (0.4%)",
-      "backdrop": "Cobalt Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 84,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T18:01:27.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 256,
-      "customEmojiId": "5431432474498457760",
       "gift_id": 6801419,
       "name": "Sharp Tongue",
       "model": "Acid Witch (1.5%)",
@@ -8307,6 +7848,229 @@
       "premarketData": {}
     },
     {
+      "gift_num": 6037,
+      "customEmojiId": "5431398570026621670",
+      "gift_id": 7241800,
+      "name": "Sharp Tongue",
+      "model": "Redlight (1.5%)",
+      "asset": "TON",
+      "symbol": "PC Mouse (0.2%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 61.56,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "QG270CW2",
+      "auction": {
+        "_id": "6876e6d6aace4cd2f6a2355e",
+        "gift_id": 7241800,
+        "seller": 0,
+        "auction_id": "QG270CW2",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.10001,
+            "asset": "TON",
+            "_id": "68780142aace4cd2f6dc826d",
+            "timestamp": "2025-07-16T19:45:06.132Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.25,
+            "asset": "TON",
+            "_id": "68780989aace4cd2f6e69c51",
+            "timestamp": "2025-07-16T20:20:25.282Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.4,
+            "asset": "TON",
+            "_id": "68780e06aace4cd2f6ef52ed",
+            "timestamp": "2025-07-16T20:39:34.873Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.52,
+            "asset": "TON",
+            "_id": "68781625aace4cd2f620c2df",
+            "timestamp": "2025-07-16T21:14:13.948Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.65,
+            "asset": "TON",
+            "_id": "68781672aace4cd2f621b590",
+            "timestamp": "2025-07-16T21:15:30.332Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.78,
+            "asset": "TON",
+            "_id": "68781d6daace4cd2f6442cc2",
+            "timestamp": "2025-07-16T21:45:17.849Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.92,
+            "asset": "TON",
+            "_id": "68781d7baace4cd2f644320c",
+            "timestamp": "2025-07-16T21:45:31.081Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.07,
+            "asset": "TON",
+            "_id": "68781d88aace4cd2f644531c",
+            "timestamp": "2025-07-16T21:45:44.791Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.25,
+            "asset": "TON",
+            "_id": "68781e39aace4cd2f6457502",
+            "timestamp": "2025-07-16T21:48:41.836Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.41,
+            "asset": "TON",
+            "_id": "68781e56aace4cd2f645b11a",
+            "timestamp": "2025-07-16T21:49:10.744Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.58,
+            "asset": "TON",
+            "_id": "68781e65aace4cd2f645c092",
+            "timestamp": "2025-07-16T21:49:25.562Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.76,
+            "asset": "TON",
+            "_id": "68781e76aace4cd2f645f18c",
+            "timestamp": "2025-07-16T21:49:42.719Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4,
+            "asset": "TON",
+            "_id": "68781e90aace4cd2f6461635",
+            "timestamp": "2025-07-16T21:50:08.604Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 30,
+            "asset": "TON",
+            "_id": "68781ef0aace4cd2f6465828",
+            "timestamp": "2025-07-16T21:51:44.115Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 36,
+            "asset": "TON",
+            "_id": "68792c26aace4cd2f63f816e",
+            "timestamp": "2025-07-17T17:00:22.816Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 37.8,
+            "asset": "TON",
+            "_id": "68794208aace4cd2f649dee3",
+            "timestamp": "2025-07-17T18:33:44.696Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 39.69,
+            "asset": "TON",
+            "_id": "687946d7aace4cd2f64b9e74",
+            "timestamp": "2025-07-17T18:54:15.197Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 41.67,
+            "asset": "TON",
+            "_id": "68794e56aace4cd2f64f621e",
+            "timestamp": "2025-07-17T19:26:14.921Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 43.75,
+            "asset": "TON",
+            "_id": "68795002aace4cd2f6501841",
+            "timestamp": "2025-07-17T19:33:22.444Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 45.94,
+            "asset": "TON",
+            "_id": "68795048aace4cd2f65031e3",
+            "timestamp": "2025-07-17T19:34:32.461Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 48.24,
+            "asset": "TON",
+            "_id": "687950b9aace4cd2f6507e71",
+            "timestamp": "2025-07-17T19:36:25.714Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 50.65,
+            "asset": "TON",
+            "_id": "6879526caace4cd2f6520926",
+            "timestamp": "2025-07-17T19:43:40.665Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 53.18,
+            "asset": "TON",
+            "_id": "687952ffaace4cd2f6529187",
+            "timestamp": "2025-07-17T19:46:07.228Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 55.84,
+            "asset": "TON",
+            "_id": "6879533caace4cd2f652c60f",
+            "timestamp": "2025-07-17T19:47:08.962Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 58.63,
+            "asset": "TON",
+            "_id": "687955d8aace4cd2f654ead0",
+            "timestamp": "2025-07-17T19:58:16.096Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 61.56,
+            "asset": "TON",
+            "_id": "68795870aace4cd2f6564926",
+            "timestamp": "2025-07-17T20:09:20.839Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-17T20:24:28.901Z",
+        "status": "finished",
+        "gift_name": "Sharp Tongue",
+        "gift_num": 6037,
+        "model": "Redlight (1.5%)",
+        "backdrop": "Onyx Black (1.5%)",
+        "symbol": "PC Mouse (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-16T19:44:31.845Z",
+        "__v": 0,
+        "winningBid": 61.56,
+        "winningBidder": 1005758245
+      },
+      "export_at": "2025-07-29T23:39:41.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3270,
       "customEmojiId": "5431398570026621670",
       "gift_id": 7237473,
@@ -8521,7 +8285,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 48,
+      "price": 40,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -8704,34 +8468,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "XJTOYUVM",
-      "auction": {
-        "_id": "6876fc86aace4cd2f6acbdcc",
-        "gift_id": 7242525,
-        "seller": 0,
-        "auction_id": "XJTOYUVM",
-        "startingBid": 35,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 37,
-            "asset": "TON",
-            "_id": "687766fbaace4cd2f64f2909",
-            "timestamp": "2025-07-16T08:46:51.080Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T13:12:37.314Z",
-        "status": "finished",
-        "gift_name": "Sharp Tongue",
-        "gift_num": 3420,
-        "model": "Comics (1.5%)",
-        "backdrop": "Jade Green (1.5%)",
-        "symbol": "Skull (1.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T01:12:38.480Z",
-        "__v": 0,
-        "winningBid": 37,
-        "winningBidder": 714535170
-      },
+      "auction": null,
       "export_at": "2025-07-30T01:11:57.000Z",
       "premarketData": {}
     }
@@ -8775,26 +8512,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-29T17:05:31.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 152,
-      "customEmojiId": "5431693720179203380",
-      "gift_id": 7173857,
-      "name": "Sharp Tongue",
-      "model": "Golden Girl (2%)",
-      "asset": "TON",
-      "symbol": "Star Crown (0.6%)",
-      "backdrop": "Platinum (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 70,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T10:58:08.000Z",
       "premarketData": {}
     },
     {
@@ -8974,76 +8691,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "J1ST677C",
-      "auction": {
-        "_id": "6870533734f36633467e5509",
-        "gift_id": 1125628,
-        "seller": 0,
-        "auction_id": "J1ST677C",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 35,
-            "asset": "TON",
-            "_id": "687053bb34f36633467ee579",
-            "timestamp": "2025-07-10T23:58:51.569Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 40,
-            "asset": "TON",
-            "_id": "6870f8658938e518f1d48a27",
-            "timestamp": "2025-07-11T11:41:25.854Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 42,
-            "asset": "TON",
-            "_id": "6870f9af8938e518f1d85a76",
-            "timestamp": "2025-07-11T11:46:55.699Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 44.1,
-            "asset": "TON",
-            "_id": "6870fa618938e518f1da6bac",
-            "timestamp": "2025-07-11T11:49:53.942Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 50,
-            "asset": "TON",
-            "_id": "6870fa6d8938e518f1da84a2",
-            "timestamp": "2025-07-11T11:50:05.067Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 52.5,
-            "asset": "TON",
-            "_id": "6870fb1c8938e518f1dc76eb",
-            "timestamp": "2025-07-11T11:53:00.593Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 55.13,
-            "asset": "TON",
-            "_id": "6870fb388938e518f1dcd949",
-            "timestamp": "2025-07-11T11:53:28.397Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T12:06:37.199Z",
-        "status": "finished",
-        "gift_name": "Sharp Tongue",
-        "gift_num": 786,
-        "model": "Golden Girl (2%)",
-        "backdrop": "Copper (2%)",
-        "symbol": "Cunning Fox (0.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T23:56:39.170Z",
-        "__v": 0,
-        "winningBid": 55.13,
-        "winningBidder": 1081125151
-      },
+      "auction": null,
       "export_at": "2025-03-14T23:24:58.000Z",
       "premarketData": {}
     },
@@ -10646,6 +10294,54 @@
   ],
   "Coral Reef": [
     {
+      "gift_num": 3480,
+      "customEmojiId": "5429524954968253627",
+      "gift_id": 7258320,
+      "name": "Sharp Tongue",
+      "model": "Coral Reef (2%)",
+      "asset": "TON",
+      "symbol": "Moose Head (0.2%)",
+      "backdrop": "Caramel (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 32,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "VR4MY3ZQ",
+      "auction": {
+        "_id": "68793f3aaace4cd2f648e4cc",
+        "gift_id": 7258320,
+        "seller": 0,
+        "auction_id": "VR4MY3ZQ",
+        "startingBid": 29,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 32,
+            "asset": "TON",
+            "_id": "6879477caace4cd2f64bc931",
+            "timestamp": "2025-07-17T18:57:00.125Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-17T19:21:36.883Z",
+        "status": "finished",
+        "gift_name": "Sharp Tongue",
+        "gift_num": 3480,
+        "model": "Coral Reef (2%)",
+        "backdrop": "Caramel (1.5%)",
+        "symbol": "Moose Head (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-17T18:21:46.805Z",
+        "__v": 0,
+        "winningBid": 32,
+        "winningBidder": 5639908664
+      },
+      "export_at": "2025-07-30T21:34:22.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 374,
       "customEmojiId": "5429524954968253627",
       "gift_id": 7237805,
@@ -10722,41 +10418,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "ZL5KJCCG",
-      "auction": {
-        "_id": "68723ea98938e518f1ab949b",
-        "gift_id": 7110564,
-        "seller": 0,
-        "auction_id": "ZL5KJCCG",
-        "startingBid": 40,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 40,
-            "asset": "TON",
-            "_id": "6872eb478938e518f10cb205",
-            "timestamp": "2025-07-12T23:09:59.570Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 42,
-            "asset": "TON",
-            "_id": "6872ed468938e518f1118b7c",
-            "timestamp": "2025-07-12T23:18:30.158Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T23:55:07.792Z",
-        "status": "finished",
-        "gift_name": "Sharp Tongue",
-        "gift_num": 6721,
-        "model": "Coral Reef (2%)",
-        "backdrop": "Mint Green (1%)",
-        "symbol": "Pearl (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T22:55:09.137Z",
-        "__v": 0,
-        "winningBid": 42,
-        "winningBidder": 743416634
-      },
+      "auction": null,
       "export_at": "2025-07-23T18:53:25.000Z",
       "premarketData": {}
     },
