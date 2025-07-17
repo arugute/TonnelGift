@@ -219,132 +219,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "RJHPDHMO",
-      "auction": {
-        "_id": "68778bcdaace4cd2f6956816",
-        "gift_id": 7232741,
-        "seller": 0,
-        "auction_id": "RJHPDHMO",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "68778c38aace4cd2f6973f2e",
-            "timestamp": "2025-07-16T11:25:44.837Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.03,
-            "asset": "TON",
-            "_id": "68778ca5aace4cd2f6991253",
-            "timestamp": "2025-07-16T11:27:33.666Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 35,
-            "asset": "TON",
-            "_id": "68778ee8aace4cd2f6a2e52a",
-            "timestamp": "2025-07-16T11:37:12.697Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 36.75,
-            "asset": "TON",
-            "_id": "687792aeaace4cd2f6b0b36b",
-            "timestamp": "2025-07-16T11:53:18.089Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 38.59,
-            "asset": "TON",
-            "_id": "68779344aace4cd2f6b2da1f",
-            "timestamp": "2025-07-16T11:55:48.929Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 40.52,
-            "asset": "TON",
-            "_id": "68779362aace4cd2f6b345b1",
-            "timestamp": "2025-07-16T11:56:18.916Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 42.55,
-            "asset": "TON",
-            "_id": "68779619aace4cd2f6bca386",
-            "timestamp": "2025-07-16T12:07:53.628Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 44.68,
-            "asset": "TON",
-            "_id": "6877962eaace4cd2f6bce750",
-            "timestamp": "2025-07-16T12:08:14.716Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 50,
-            "asset": "TON",
-            "_id": "6877968caace4cd2f6be14d8",
-            "timestamp": "2025-07-16T12:09:48.145Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 52.5,
-            "asset": "TON",
-            "_id": "68779696aace4cd2f6be3236",
-            "timestamp": "2025-07-16T12:09:58.597Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 55.13,
-            "asset": "TON",
-            "_id": "687796a7aace4cd2f6be5d74",
-            "timestamp": "2025-07-16T12:10:15.031Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 64,
-            "asset": "TON",
-            "_id": "687796b8aace4cd2f6be914b",
-            "timestamp": "2025-07-16T12:10:32.151Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 80,
-            "asset": "TON",
-            "_id": "687796c4aace4cd2f6beb814",
-            "timestamp": "2025-07-16T12:10:44.987Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 84,
-            "asset": "TON",
-            "_id": "687799c7aace4cd2f6cc3f77",
-            "timestamp": "2025-07-16T12:23:35.993Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 88.2,
-            "asset": "TON",
-            "_id": "687799daaace4cd2f6cc778a",
-            "timestamp": "2025-07-16T12:23:54.014Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T12:33:54.341Z",
-        "status": "finished",
-        "gift_name": "Gem Signet",
-        "gift_num": 4710,
-        "model": "Fading Crown (1.5%)",
-        "backdrop": "Sky Blue (1.2%)",
-        "symbol": "Musical Note (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T11:23:57.861Z",
-        "__v": 0,
-        "winningBid": 88.2,
-        "winningBidder": 7650109977
-      },
+      "auction": null,
       "export_at": "2025-07-29T14:39:54.000Z",
       "premarketData": {}
     },
@@ -366,26 +241,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-29T20:10:10.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 464,
-      "customEmojiId": "5375247898470544118",
-      "gift_id": 7000812,
-      "name": "Gem Signet",
-      "model": "Fading Crown (1.5%)",
-      "asset": "TON",
-      "symbol": "Double Axe (0.5%)",
-      "backdrop": "Cappuccino (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 903387,
-      "price": 300,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-19T08:43:49.000Z",
       "premarketData": {}
     },
     {
@@ -851,209 +706,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "544HD11I",
-      "auction": {
-        "_id": "686f5daa1fe9e6aa2cde8d99",
-        "gift_id": 7120828,
-        "seller": 0,
-        "auction_id": "544HD11I",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4.9,
-            "asset": "TON",
-            "_id": "686f5f211fe9e6aa2ce22098",
-            "timestamp": "2025-07-10T06:35:13.371Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.5,
-            "asset": "TON",
-            "_id": "686f69861fe9e6aa2c74ae9f",
-            "timestamp": "2025-07-10T07:19:34.889Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.78,
-            "asset": "TON",
-            "_id": "686f7ff41fe9e6aa2ca86f1c",
-            "timestamp": "2025-07-10T08:55:16.421Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.07,
-            "asset": "TON",
-            "_id": "686f80a71fe9e6aa2ca973d9",
-            "timestamp": "2025-07-10T08:58:15.213Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.37,
-            "asset": "TON",
-            "_id": "686f80b41fe9e6aa2ca97e04",
-            "timestamp": "2025-07-10T08:58:28.963Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.69,
-            "asset": "TON",
-            "_id": "686f81641fe9e6aa2caa8121",
-            "timestamp": "2025-07-10T09:01:24.309Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.02,
-            "asset": "TON",
-            "_id": "686f999c1fe9e6aa2c7f5402",
-            "timestamp": "2025-07-10T10:44:44.973Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.37,
-            "asset": "TON",
-            "_id": "686f9b911fe9e6aa2c830139",
-            "timestamp": "2025-07-10T10:53:05.471Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.74,
-            "asset": "TON",
-            "_id": "686fdd4d34f366334649a43c",
-            "timestamp": "2025-07-10T15:33:33.406Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.13,
-            "asset": "TON",
-            "_id": "686fe84e34f3663346788935",
-            "timestamp": "2025-07-10T16:20:30.550Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.54,
-            "asset": "TON",
-            "_id": "686fe8a634f36633467a5e85",
-            "timestamp": "2025-07-10T16:21:58.147Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "686fe91434f36633467c937f",
-            "timestamp": "2025-07-10T16:23:48.211Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "686fe94634f36633467d73cf",
-            "timestamp": "2025-07-10T16:24:38.758Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 30,
-            "asset": "TON",
-            "_id": "686ff54134f3663346e93b35",
-            "timestamp": "2025-07-10T17:15:45.807Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 31.5,
-            "asset": "TON",
-            "_id": "686ffb1634f366334609d767",
-            "timestamp": "2025-07-10T17:40:38.798Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 42,
-            "asset": "TON",
-            "_id": "686ffb3034f366334609f20b",
-            "timestamp": "2025-07-10T17:41:04.172Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 44.1,
-            "asset": "TON",
-            "_id": "686ffbd234f36633460acc02",
-            "timestamp": "2025-07-10T17:43:46.306Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 52,
-            "asset": "TON",
-            "_id": "686ffbea34f36633460b4d49",
-            "timestamp": "2025-07-10T17:44:10.425Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 54.6,
-            "asset": "TON",
-            "_id": "6870013634f3663346247c6c",
-            "timestamp": "2025-07-10T18:06:46.315Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 62,
-            "asset": "TON",
-            "_id": "6870015234f366334624e940",
-            "timestamp": "2025-07-10T18:07:14.631Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 65.1,
-            "asset": "TON",
-            "_id": "6870028b34f366334627a23e",
-            "timestamp": "2025-07-10T18:12:27.595Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 68.36,
-            "asset": "TON",
-            "_id": "6870031634f3663346292596",
-            "timestamp": "2025-07-10T18:14:46.116Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 71.78,
-            "asset": "TON",
-            "_id": "6870032234f366334629337c",
-            "timestamp": "2025-07-10T18:14:58.340Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 75.373737373737,
-            "asset": "TON",
-            "_id": "687005b934f36633462dec82",
-            "timestamp": "2025-07-10T18:26:01.884Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 79.14,
-            "asset": "TON",
-            "_id": "6870065734f36633462ec0de",
-            "timestamp": "2025-07-10T18:28:39.868Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 83.1,
-            "asset": "TON",
-            "_id": "6870091e34f366334632a0c5",
-            "timestamp": "2025-07-10T18:40:30.549Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T18:53:50.138Z",
-        "status": "finished",
-        "gift_name": "Gem Signet",
-        "gift_num": 1218,
-        "model": "Pink Quartz (4%)",
-        "backdrop": "Dark Lilac (1.2%)",
-        "symbol": "Cheese (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T06:33:51.836Z",
-        "__v": 0,
-        "winningBid": 83.1,
-        "winningBidder": 325155472
-      },
+      "auction": null,
       "export_at": "2025-07-24T06:27:32.000Z",
       "premarketData": {}
     }
@@ -1483,6 +1136,54 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-08T15:47:10.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 4366,
+      "customEmojiId": "5375565197769469984",
+      "gift_id": 7080977,
+      "name": "Gem Signet",
+      "model": "Jet Black (3%)",
+      "asset": "TON",
+      "symbol": "Sun Mountain (0.4%)",
+      "backdrop": "Gunship Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 70,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "EK7HBTPO",
+      "auction": {
+        "_id": "686d22dc0227247557e734da",
+        "gift_id": 7080977,
+        "seller": 0,
+        "auction_id": "EK7HBTPO",
+        "startingBid": 67,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 70,
+            "asset": "TON",
+            "_id": "68796f90aace4cd2f66fdb2f",
+            "timestamp": "2025-07-17T21:48:00.291Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-17T22:31:39.573Z",
+        "status": "finished",
+        "gift_name": "Gem Signet",
+        "gift_num": 4366,
+        "model": "Jet Black (3%)",
+        "backdrop": "Gunship Green (1.2%)",
+        "symbol": "Sun Mountain (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-17T10:31:40.510Z",
+        "__v": 0,
+        "winningBid": 70,
+        "winningBidder": 5639908664
+      },
+      "export_at": "2025-07-22T13:51:25.000Z",
       "premarketData": {}
     },
     {
@@ -2440,97 +2141,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "5LKCQMW8",
-      "auction": {
-        "_id": "68752057aace4cd2f6b8a9c0",
-        "gift_id": 7211612,
-        "seller": 0,
-        "auction_id": "5LKCQMW8",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68753404aace4cd2f6dc198c",
-            "timestamp": "2025-07-14T16:44:52.182Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6875346faace4cd2f6dd06a0",
-            "timestamp": "2025-07-14T16:46:39.108Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "68753481aace4cd2f6dd1bdf",
-            "timestamp": "2025-07-14T16:46:57.376Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "68753497aace4cd2f6dd5022",
-            "timestamp": "2025-07-14T16:47:19.224Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "6875362baace4cd2f6dfb460",
-            "timestamp": "2025-07-14T16:54:03.645Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 115.235,
-            "asset": "TON",
-            "_id": "68753646aace4cd2f6dff9f5",
-            "timestamp": "2025-07-14T16:54:30.016Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 121,
-            "asset": "TON",
-            "_id": "68753b75aace4cd2f6edb9ec",
-            "timestamp": "2025-07-14T17:16:37.254Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 150,
-            "asset": "TON",
-            "_id": "68753e55aace4cd2f6f1d5f9",
-            "timestamp": "2025-07-14T17:28:53.661Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 163,
-            "asset": "TON",
-            "_id": "6875408eaace4cd2f6f7b298",
-            "timestamp": "2025-07-14T17:38:22.763Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 180,
-            "asset": "TON",
-            "_id": "687540aaaace4cd2f6f7fa96",
-            "timestamp": "2025-07-14T17:38:50.345Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T17:51:13.664Z",
-        "status": "finished",
-        "gift_name": "Gem Signet",
-        "gift_num": 5289,
-        "model": "Eternal Life (0.2%)",
-        "backdrop": "Orange (1.2%)",
-        "symbol": "Mannaz Rune (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T16:41:15.061Z",
-        "__v": 0,
-        "winningBid": 180,
-        "winningBidder": 6635876404
-      },
+      "auction": null,
       "export_at": "2025-07-28T11:50:20.000Z",
       "premarketData": {}
     }
@@ -2820,6 +2431,26 @@
   ],
   "Sapphire": [
     {
+      "gift_num": 5026,
+      "customEmojiId": "5377716753046464406",
+      "gift_id": 7274156,
+      "name": "Gem Signet",
+      "model": "Sapphire (4%)",
+      "asset": "TON",
+      "symbol": "Diamond (0.4%)",
+      "backdrop": "Platinum (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 110,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T22:24:40.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2485,
       "customEmojiId": "5377716753046464406",
       "gift_id": 7135010,
@@ -2832,7 +2463,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 79.59,
+      "price": 79.55,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3358,7 +2989,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 83.98,
+      "price": 79.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3422,34 +3053,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "6NUMVHVE",
-      "auction": {
-        "_id": "6876afb5aace4cd2f6b666f3",
-        "gift_id": 7092125,
-        "seller": 0,
-        "auction_id": "6NUMVHVE",
-        "startingBid": 75,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 75,
-            "asset": "TON",
-            "_id": "68775027aace4cd2f61fbc25",
-            "timestamp": "2025-07-16T07:09:27.479Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T19:44:51.643Z",
-        "status": "finished",
-        "gift_name": "Gem Signet",
-        "gift_num": 5039,
-        "model": "Sentry Turret (1.5%)",
-        "backdrop": "Mexican Pink (1.5%)",
-        "symbol": "Sun Lion (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T19:44:53.097Z",
-        "__v": 0,
-        "winningBid": 75,
-        "winningBidder": 7410220747
-      },
+      "auction": null,
       "export_at": "2025-07-22T21:26:29.000Z",
       "premarketData": {}
     },
@@ -3609,62 +3213,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "7PL3QRJ4",
-      "auction": {
-        "_id": "6873afd68938e518f1e19bc5",
-        "gift_id": 7194353,
-        "seller": 0,
-        "auction_id": "7PL3QRJ4",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 50,
-            "asset": "TON",
-            "_id": "6873b1ba8938e518f1e28f5e",
-            "timestamp": "2025-07-13T13:16:42.273Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 75,
-            "asset": "TON",
-            "_id": "6873b3cf8938e518f1e386b2",
-            "timestamp": "2025-07-13T13:25:35.505Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 79,
-            "asset": "TON",
-            "_id": "6873b5d48938e518f1e4308f",
-            "timestamp": "2025-07-13T13:34:12.344Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 82.95,
-            "asset": "TON",
-            "_id": "6873b7d98938e518f1e553aa",
-            "timestamp": "2025-07-13T13:42:49.102Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 87.1,
-            "asset": "TON",
-            "_id": "6873bccd8938e518f109a969",
-            "timestamp": "2025-07-13T14:03:57.794Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T14:18:37.249Z",
-        "status": "finished",
-        "gift_name": "Gem Signet",
-        "gift_num": 3826,
-        "model": "Sentry Turret (1.5%)",
-        "backdrop": "Desert Sand (1.2%)",
-        "symbol": "Rhino Warrior (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T13:08:38.238Z",
-        "__v": 0,
-        "winningBid": 87.1,
-        "winningBidder": 6572608141
-      },
+      "auction": null,
       "export_at": "2025-07-27T13:05:03.000Z",
       "premarketData": {}
     }
@@ -3887,139 +3436,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "1I4IYILB",
-      "auction": {
-        "_id": "686d70e202272475574974d9",
-        "gift_id": 7088602,
-        "seller": 0,
-        "auction_id": "1I4IYILB",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "686e83ad022724755796520f",
-            "timestamp": "2025-07-09T14:58:53.794Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 25,
-            "asset": "TON",
-            "_id": "686e83ba022724755796658a",
-            "timestamp": "2025-07-09T14:59:06.754Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 26.25,
-            "asset": "TON",
-            "_id": "686e846b0227247557978a01",
-            "timestamp": "2025-07-09T15:02:03.328Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 50,
-            "asset": "TON",
-            "_id": "686e84b7022724755797e9ce",
-            "timestamp": "2025-07-09T15:03:19.631Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 52.5,
-            "asset": "TON",
-            "_id": "686e872602272475579c503b",
-            "timestamp": "2025-07-09T15:13:42.292Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 60,
-            "asset": "TON",
-            "_id": "686e873402272475579c6bcc",
-            "timestamp": "2025-07-09T15:13:56.560Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 63,
-            "asset": "TON",
-            "_id": "686e877b02272475579cec5d",
-            "timestamp": "2025-07-09T15:15:07.362Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 66.15,
-            "asset": "TON",
-            "_id": "686e878902272475579cfa71",
-            "timestamp": "2025-07-09T15:15:21.007Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 69.46,
-            "asset": "TON",
-            "_id": "686e87c802272475579d62b2",
-            "timestamp": "2025-07-09T15:16:24.875Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 72.93,
-            "asset": "TON",
-            "_id": "686e89a90227247557a03e0b",
-            "timestamp": "2025-07-09T15:24:25.058Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 76.58,
-            "asset": "TON",
-            "_id": "686e8ccf0227247557a67208",
-            "timestamp": "2025-07-09T15:37:51.882Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 300,
-            "asset": "TON",
-            "_id": "686e8d3a0227247557a72157",
-            "timestamp": "2025-07-09T15:39:38.860Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 330,
-            "asset": "TON",
-            "_id": "686e95c10227247557c2cae6",
-            "timestamp": "2025-07-09T16:16:01.490Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 346.5,
-            "asset": "TON",
-            "_id": "686e96660227247557c69990",
-            "timestamp": "2025-07-09T16:18:46.004Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 400,
-            "asset": "TON",
-            "_id": "686e97150227247557cc9d93",
-            "timestamp": "2025-07-09T16:21:41.620Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 420,
-            "asset": "TON",
-            "_id": "686e98050227247557df49e2",
-            "timestamp": "2025-07-09T16:25:41.956Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T17:58:23.484Z",
-        "status": "finished",
-        "gift_name": "Gem Signet",
-        "gift_num": 5232,
-        "model": "Brass Zircon (3.5%)",
-        "backdrop": "Black (1%)",
-        "symbol": "Sword (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T14:58:24.853Z",
-        "__v": 0,
-        "winningBid": 420,
-        "winningBidder": 1217246987
-      },
+      "auction": null,
       "export_at": "2025-07-22T18:46:53.000Z",
       "premarketData": {}
     },
@@ -4201,48 +3618,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "RCL5ZAVC",
-      "auction": {
-        "_id": "686fe80b34f3663346773591",
-        "gift_id": 7134724,
-        "seller": 0,
-        "auction_id": "RCL5ZAVC",
-        "startingBid": 333,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 333,
-            "asset": "TON",
-            "_id": "686fec6434f3663346887c69",
-            "timestamp": "2025-07-10T16:37:56.505Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 349.65,
-            "asset": "TON",
-            "_id": "686fef0534f366334690723a",
-            "timestamp": "2025-07-10T16:49:09.507Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 367.13,
-            "asset": "TON",
-            "_id": "686fef8234f3663346922558",
-            "timestamp": "2025-07-10T16:51:14.333Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T17:19:21.328Z",
-        "status": "finished",
-        "gift_name": "Gem Signet",
-        "gift_num": 2545,
-        "model": "Brass Zircon (3.5%)",
-        "backdrop": "Black (1%)",
-        "symbol": "Gift Box (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T16:19:23.262Z",
-        "__v": 0,
-        "winningBid": 367.13,
-        "winningBidder": 1217246987
-      },
+      "auction": null,
       "export_at": "2025-07-24T16:16:24.000Z",
       "premarketData": {}
     }
@@ -5462,6 +4838,26 @@
   ],
   "Green Beryl": [
     {
+      "gift_num": 4718,
+      "customEmojiId": "5375296496025499507",
+      "gift_id": 7273770,
+      "name": "Gem Signet",
+      "model": "Green Beryl (4.2%)",
+      "asset": "TON",
+      "symbol": "Evil Dragon (0.4%)",
+      "backdrop": "Gunmetal (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 130,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:52:22.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3551,
       "customEmojiId": "5375296496025499507",
       "gift_id": 7269386,
@@ -6157,8 +5553,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 910567,
-      "price": 180,
+      "message_in_channel": 910992,
+      "price": 150,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -6952,34 +6348,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "DHQPD6VB",
-      "auction": {
-        "_id": "6876e850aace4cd2f6a31d2b",
-        "gift_id": 7241833,
-        "seller": 0,
-        "auction_id": "DHQPD6VB",
-        "startingBid": 110,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 110,
-            "asset": "TON",
-            "_id": "6877a8ddaace4cd2f6728c12",
-            "timestamp": "2025-07-16T13:27:57.512Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T13:40:28.558Z",
-        "status": "finished",
-        "gift_name": "Gem Signet",
-        "gift_num": 4304,
-        "model": "Death Star (1.5%)",
-        "backdrop": "Raspberry (1.5%)",
-        "symbol": "Tooth (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T12:30:29.830Z",
-        "__v": 0,
-        "winningBid": 110,
-        "winningBidder": 5190442855
-      },
+      "auction": null,
       "export_at": "2025-07-29T23:43:26.000Z",
       "premarketData": {}
     },
@@ -7119,69 +6488,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "UXVPW283",
-      "auction": {
-        "_id": "687697f4aace4cd2f6780778",
-        "gift_id": 7236506,
-        "seller": 0,
-        "auction_id": "UXVPW283",
-        "startingBid": 70,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 80.92,
-            "asset": "TON",
-            "_id": "6876a42baace4cd2f68e5c34",
-            "timestamp": "2025-07-15T18:55:39.769Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 84.97,
-            "asset": "TON",
-            "_id": "6876ab14aace4cd2f6ac283e",
-            "timestamp": "2025-07-15T19:25:08.928Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 90.5,
-            "asset": "TON",
-            "_id": "6876ac6faace4cd2f6aed423",
-            "timestamp": "2025-07-15T19:30:55.335Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 95.03,
-            "asset": "TON",
-            "_id": "6876ac9baace4cd2f6af2138",
-            "timestamp": "2025-07-15T19:31:39.206Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 100.5,
-            "asset": "TON",
-            "_id": "6876ad08aace4cd2f6b00ccd",
-            "timestamp": "2025-07-15T19:33:28.163Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 105.53,
-            "asset": "TON",
-            "_id": "6876b408aace4cd2f6cae6da",
-            "timestamp": "2025-07-15T20:03:20.134Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T20:13:31.585Z",
-        "status": "finished",
-        "gift_name": "Gem Signet",
-        "gift_num": 4304,
-        "model": "Death Star (1.5%)",
-        "backdrop": "Raspberry (1.5%)",
-        "symbol": "Tooth (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T18:03:32.305Z",
-        "__v": 0,
-        "winningBid": 105.53,
-        "winningBidder": 1123909532
-      },
+      "auction": null,
       "export_at": "2025-07-29T18:02:19.000Z",
       "premarketData": {}
     }
@@ -7227,6 +6534,148 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-27T17:02:43.000Z",
+      "premarketData": {}
+    }
+  ],
+  "Arc Reactor": [
+    {
+      "gift_num": 1917,
+      "customEmojiId": "5375549525433807208",
+      "gift_id": 7263559,
+      "name": "Gem Signet",
+      "model": "Arc Reactor (1.2%)",
+      "asset": "TON",
+      "symbol": "Snail (0.4%)",
+      "backdrop": "Electric Indigo (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 910146,
+      "price": 400,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T08:53:36.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 4221,
+      "customEmojiId": "5375549525433807208",
+      "gift_id": 7204115,
+      "name": "Gem Signet",
+      "model": "Arc Reactor (1.2%)",
+      "asset": "TON",
+      "symbol": "Fishing Hook (0.5%)",
+      "backdrop": "Chestnut (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 902924,
+      "price": 220,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T21:43:25.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 1023,
+      "customEmojiId": "5375549525433807208",
+      "gift_id": 7143484,
+      "name": "Gem Signet",
+      "model": "Arc Reactor (1.2%)",
+      "asset": "TON",
+      "symbol": "Kitsune (0.4%)",
+      "backdrop": "Seal Brown (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 895835,
+      "price": 150,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-24T21:22:17.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 4221,
+      "customEmojiId": "5375549525433807208",
+      "gift_id": 6346005,
+      "name": "Gem Signet",
+      "model": "Arc Reactor (1.2%)",
+      "asset": "TON",
+      "symbol": "Fishing Hook (0.5%)",
+      "backdrop": "Chestnut (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 887142,
+      "price": 180,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-27T13:31:43.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 2644,
+      "customEmojiId": "5375549525433807208",
+      "gift_id": 6201321,
+      "name": "Gem Signet",
+      "model": "Arc Reactor (1.2%)",
+      "asset": "TON",
+      "symbol": "Piñata (0.5%)",
+      "backdrop": "Silver Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 885033,
+      "price": 245,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-25T04:48:16.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 229,
+      "customEmojiId": "5375549525433807208",
+      "gift_id": 6939282,
+      "name": "Gem Signet",
+      "model": "Arc Reactor (1.2%)",
+      "asset": "TON",
+      "symbol": "Sakura Flower (0.4%)",
+      "backdrop": "Electric Purple (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 874373,
+      "price": 1000,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-16T16:25:23.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3449,
+      "customEmojiId": "5375549525433807208",
+      "gift_id": 6800396,
+      "name": "Gem Signet",
+      "model": "Arc Reactor (1.2%)",
+      "asset": "TON",
+      "symbol": "Bastet (0.5%)",
+      "backdrop": "Pure Gold (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 859833,
+      "price": 299,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-11T13:30:42.000Z",
       "premarketData": {}
     }
   ],
@@ -7433,6 +6882,26 @@
     }
   ],
   "Old Bronze": [
+    {
+      "gift_num": 5269,
+      "customEmojiId": "5375227368526867792",
+      "gift_id": 7273535,
+      "name": "Gem Signet",
+      "model": "Old Bronze (3.5%)",
+      "asset": "TON",
+      "symbol": "Calm Wolf (0.4%)",
+      "backdrop": "Mint Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 110,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:36:43.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 1193,
       "customEmojiId": "5375227368526867792",
@@ -7670,76 +7139,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "J54T0ZWL",
-      "auction": {
-        "_id": "6872b39a8938e518f11b2587",
-        "gift_id": 7182585,
-        "seller": 0,
-        "auction_id": "J54T0ZWL",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6872b4078938e518f11b5950",
-            "timestamp": "2025-07-12T19:14:15.428Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 36,
-            "asset": "TON",
-            "_id": "6872b5388938e518f11bd6b9",
-            "timestamp": "2025-07-12T19:19:20.836Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 37.8,
-            "asset": "TON",
-            "_id": "6872c8588938e518f1a1e177",
-            "timestamp": "2025-07-12T20:40:56.277Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 60,
-            "asset": "TON",
-            "_id": "6872c8868938e518f1a23ab3",
-            "timestamp": "2025-07-12T20:41:42.064Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 63,
-            "asset": "TON",
-            "_id": "6872c9b98938e518f1a46fdf",
-            "timestamp": "2025-07-12T20:46:49.685Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 85,
-            "asset": "TON",
-            "_id": "6872cc108938e518f1aacfb2",
-            "timestamp": "2025-07-12T20:56:48.595Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 89.25,
-            "asset": "TON",
-            "_id": "6872cda38938e518f1ae5a12",
-            "timestamp": "2025-07-12T21:03:31.890Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T21:22:25.202Z",
-        "status": "finished",
-        "gift_name": "Gem Signet",
-        "gift_num": 5094,
-        "model": "Old Bronze (3.5%)",
-        "backdrop": "Platinum (1.5%)",
-        "symbol": "Scorpion (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T19:12:26.103Z",
-        "__v": 0,
-        "winningBid": 89.25,
-        "winningBidder": 2048992436
-      },
+      "auction": null,
       "export_at": "2025-07-26T19:12:13.000Z",
       "premarketData": {}
     }
