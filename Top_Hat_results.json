@@ -1285,69 +1285,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "M8XK9WZV",
-      "auction": {
-        "_id": "6873c3ee8938e518f12c8ed0",
-        "gift_id": 7194303,
-        "seller": 0,
-        "auction_id": "M8XK9WZV",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 8.3,
-            "asset": "TON",
-            "_id": "6873c43e8938e518f12cef8d",
-            "timestamp": "2025-07-13T14:35:42.154Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.72,
-            "asset": "TON",
-            "_id": "6873c8118938e518f13f73bc",
-            "timestamp": "2025-07-13T14:52:01.204Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.16,
-            "asset": "TON",
-            "_id": "6873cfa88938e518f192cd1e",
-            "timestamp": "2025-07-13T15:24:24.484Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.62,
-            "asset": "TON",
-            "_id": "6873d0bd8938e518f194500c",
-            "timestamp": "2025-07-13T15:29:01.692Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.1,
-            "asset": "TON",
-            "_id": "6873d4148938e518f1997eb3",
-            "timestamp": "2025-07-13T15:43:16.082Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.61,
-            "asset": "TON",
-            "_id": "6873d6678938e518f19beead",
-            "timestamp": "2025-07-13T15:53:11.436Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T16:04:19.819Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 24759,
-        "model": "Performer (1%)",
-        "backdrop": "Mustard (1.5%)",
-        "symbol": "Wizard Hat (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T14:34:22.282Z",
-        "__v": 0,
-        "winningBid": 10.61,
-        "winningBidder": 1360103511
-      },
+      "auction": null,
       "export_at": "2025-07-27T13:02:29.000Z",
       "premarketData": {}
     },
@@ -1624,83 +1562,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "CF2PRDU3",
-      "auction": {
-        "_id": "686f45211fe9e6aa2ccb54a5",
-        "gift_id": 6234881,
-        "seller": 0,
-        "auction_id": "CF2PRDU3",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "686f95a71fe9e6aa2c6cb12c",
-            "timestamp": "2025-07-10T10:27:51.575Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "686f97e71fe9e6aa2c7d4195",
-            "timestamp": "2025-07-10T10:37:27.126Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "686fa63d1fe9e6aa2ca929d6",
-            "timestamp": "2025-07-10T11:38:37.176Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "686fa6491fe9e6aa2ca9644d",
-            "timestamp": "2025-07-10T11:38:49.157Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.5,
-            "asset": "TON",
-            "_id": "686fa66c1fe9e6aa2caa11a7",
-            "timestamp": "2025-07-10T11:39:24.209Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.93,
-            "asset": "TON",
-            "_id": "686fa67b1fe9e6aa2caa2cb0",
-            "timestamp": "2025-07-10T11:39:39.102Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.38,
-            "asset": "TON",
-            "_id": "686fb39e4167be2105c61c07",
-            "timestamp": "2025-07-10T12:35:42.835Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.85,
-            "asset": "TON",
-            "_id": "686fbb78241ecc1b11152686",
-            "timestamp": "2025-07-10T13:09:12.685Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T13:26:04.193Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 24759,
-        "model": "Performer (1%)",
-        "backdrop": "Mustard (1.5%)",
-        "symbol": "Wizard Hat (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T10:16:05.237Z",
-        "__v": 0,
-        "winningBid": 9.85,
-        "winningBidder": 1145407470
-      },
+      "auction": null,
       "export_at": "2025-06-25T14:46:50.000Z",
       "premarketData": {}
     },
@@ -1895,146 +1757,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "XL2SQHWE",
-      "auction": {
-        "_id": "68775450aace4cd2f625720e",
-        "gift_id": 7244638,
-        "seller": 0,
-        "auction_id": "XL2SQHWE",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68775c03aace4cd2f62a871c",
-            "timestamp": "2025-07-16T08:00:03.922Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11,
-            "asset": "TON",
-            "_id": "6877663caace4cd2f64e8696",
-            "timestamp": "2025-07-16T08:43:40.525Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.55,
-            "asset": "TON",
-            "_id": "68777188aace4cd2f6568b5d",
-            "timestamp": "2025-07-16T09:31:52.194Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.13,
-            "asset": "TON",
-            "_id": "68777805aace4cd2f6586267",
-            "timestamp": "2025-07-16T09:59:33.322Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.74,
-            "asset": "TON",
-            "_id": "6877781caace4cd2f65883bc",
-            "timestamp": "2025-07-16T09:59:56.127Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.38,
-            "asset": "TON",
-            "_id": "6877782baace4cd2f6589ce2",
-            "timestamp": "2025-07-16T10:00:11.078Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 14.05,
-            "asset": "TON",
-            "_id": "68777afaaace4cd2f65a949b",
-            "timestamp": "2025-07-16T10:12:10.004Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 14.75,
-            "asset": "TON",
-            "_id": "68777d01aace4cd2f65c17f7",
-            "timestamp": "2025-07-16T10:20:49.737Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15.49,
-            "asset": "TON",
-            "_id": "68777d32aace4cd2f65c4e1c",
-            "timestamp": "2025-07-16T10:21:38.670Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 16.26,
-            "asset": "TON",
-            "_id": "68777d4caace4cd2f65c6a5b",
-            "timestamp": "2025-07-16T10:22:04.798Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "68777d58aace4cd2f65c767e",
-            "timestamp": "2025-07-16T10:22:16.296Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 21,
-            "asset": "TON",
-            "_id": "68777d72aace4cd2f65c838c",
-            "timestamp": "2025-07-16T10:22:42.091Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 25,
-            "asset": "TON",
-            "_id": "68777e88aace4cd2f65fa53a",
-            "timestamp": "2025-07-16T10:27:20.968Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 26.25,
-            "asset": "TON",
-            "_id": "6877826eaace4cd2f66f20f7",
-            "timestamp": "2025-07-16T10:43:58.756Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 29.9,
-            "asset": "TON",
-            "_id": "6877828caace4cd2f66f7f80",
-            "timestamp": "2025-07-16T10:44:28.187Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 31.4,
-            "asset": "TON",
-            "_id": "687782f2aace4cd2f671988b",
-            "timestamp": "2025-07-16T10:46:10.467Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 32.97,
-            "asset": "TON",
-            "_id": "68778343aace4cd2f677256e",
-            "timestamp": "2025-07-16T10:47:31.154Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T11:07:09.945Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 27540,
-        "model": "Megawatt (0.3%)",
-        "backdrop": "Navy Blue (1.5%)",
-        "symbol": "Cowboy Hat (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T07:27:12.352Z",
-        "__v": 0,
-        "winningBid": 32.97,
-        "winningBidder": 6887447488
-      },
+      "auction": null,
       "export_at": "2025-07-30T07:12:15.000Z",
       "premarketData": {}
     },
@@ -2403,26 +2126,6 @@
     {
       "gift_num": 33696,
       "customEmojiId": "5316891619474039834",
-      "gift_id": 7252311,
-      "name": "Top Hat",
-      "model": "Silver Glass (1.5%)",
-      "asset": "TON",
-      "symbol": "Basketball (0.5%)",
-      "backdrop": "Orange (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 19.9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T15:41:25.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 33696,
-      "customEmojiId": "5316891619474039834",
       "gift_id": 592904925372,
       "name": "Top Hat",
       "model": "Silver Glass (1.5%)",
@@ -2705,55 +2408,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "1M4JHPVV",
-      "auction": {
-        "_id": "6869c5d15ea5afa2c476befe",
-        "gift_id": 7020063,
-        "seller": 0,
-        "auction_id": "1M4JHPVV",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "686f98111fe9e6aa2c7d5f93",
-            "timestamp": "2025-07-10T10:38:09.739Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "686fbb2c241ecc1b11144d26",
-            "timestamp": "2025-07-10T13:07:56.000Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.03,
-            "asset": "TON",
-            "_id": "686fbb3f241ecc1b11147767",
-            "timestamp": "2025-07-10T13:08:15.827Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.58,
-            "asset": "TON",
-            "_id": "686fbce334f3663346f6c007",
-            "timestamp": "2025-07-10T13:15:15.013Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T13:34:11.359Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 22894,
-        "model": "Silver Glass (1.5%)",
-        "backdrop": "Indigo Dye (1%)",
-        "symbol": "Scissors (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T10:14:12.477Z",
-        "__v": 0,
-        "winningBid": 11.58,
-        "winningBidder": 843980622
-      },
+      "auction": null,
       "export_at": "2025-07-20T00:38:23.000Z",
       "premarketData": {}
     },
@@ -2922,6 +2577,24 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 27.534,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 682,
+      "customEmojiId": "5316891619474039834",
+      "gift_id": 589763294234,
+      "name": "Top Hat",
+      "model": "Silver Glass (1.5%)",
+      "asset": "TON",
+      "symbol": "Sun Lion (0.5%)",
+      "backdrop": "Copper (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 263.156,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3214,34 +2887,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "7TCUO9ST",
-      "auction": {
-        "_id": "6868596247b4cc454eb6b2e2",
-        "gift_id": 6995800,
-        "seller": 0,
-        "auction_id": "7TCUO9ST",
-        "startingBid": 15,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 15,
-            "asset": "TON",
-            "_id": "686f98491fe9e6aa2c7d871d",
-            "timestamp": "2025-07-10T10:39:05.542Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T10:50:43.869Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 2736,
-        "model": "Witch Doctor (1%)",
-        "backdrop": "Mustard (1.5%)",
-        "symbol": "Fleur-de-lis (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T09:40:44.938Z",
-        "__v": 0,
-        "winningBid": 15,
-        "winningBidder": 1771369046
-      },
+      "auction": null,
       "export_at": "2025-07-18T22:44:24.000Z",
       "premarketData": {}
     },
@@ -3525,6 +3171,24 @@
     }
   ],
   "Starlight": [
+    {
+      "gift_num": 14320,
+      "customEmojiId": "5319094581214603754",
+      "gift_id": 589982861981,
+      "name": "Top Hat",
+      "model": "Starlight (3%)",
+      "asset": "TON",
+      "symbol": "Puzzle (0.4%)",
+      "backdrop": "Mint Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 44.064,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 7829,
       "customEmojiId": "5319094581214603754",
@@ -4040,34 +3704,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "SU7R4O1S",
-      "auction": {
-        "_id": "685ad491e1a971e78bfd4745",
-        "gift_id": 6732915,
-        "seller": 0,
-        "auction_id": "SU7R4O1S",
-        "startingBid": 21,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 21,
-            "asset": "TON",
-            "_id": "6871e0238938e518f1c39247",
-            "timestamp": "2025-07-12T04:10:11.598Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T04:26:38.876Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 6120,
-        "model": "Starlight (3%)",
-        "backdrop": "Onyx Black (1.2%)",
-        "symbol": "Nemean Lion (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T22:16:39.660Z",
-        "__v": 0,
-        "winningBid": 21,
-        "winningBidder": 1307162739
-      },
+      "auction": null,
       "export_at": "2025-07-08T16:36:48.000Z",
       "premarketData": {}
     },
@@ -4109,24 +3746,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T14:02:13.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 31063,
-      "customEmojiId": "5319094581214603754",
-      "gift_id": 592265629368,
-      "name": "Top Hat",
-      "model": "Starlight (3%)",
-      "asset": "TON",
-      "symbol": "Ram of Amun (0.5%)",
-      "backdrop": "Burnt Sienna (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 15.422,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
@@ -4472,34 +4091,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "NOHWK26E",
-      "auction": {
-        "_id": "687431e58938e518f185c6e4",
-        "gift_id": 5916724,
-        "seller": 0,
-        "auction_id": "NOHWK26E",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "687446cd8938e518f18e9e86",
-            "timestamp": "2025-07-13T23:52:45.496Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T01:23:32.035Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 23912,
-        "model": "Elegance (1.5%)",
-        "backdrop": "Khaki Green (1.2%)",
-        "symbol": "Yogi Shaman (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T22:23:33.718Z",
-        "__v": 0,
-        "winningBid": 10,
-        "winningBidder": 6119879713
-      },
+      "auction": null,
       "export_at": "2025-06-23T04:15:39.000Z",
       "premarketData": {}
     },
@@ -5161,6 +4753,26 @@
   ],
   "Hat Toss": [
     {
+      "gift_num": 21940,
+      "customEmojiId": "5318819746257333101",
+      "gift_id": 7273641,
+      "name": "Top Hat",
+      "model": "Hat Toss (0.5%)",
+      "asset": "TON",
+      "symbol": "Glasses (0.4%)",
+      "backdrop": "Feldgrau (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 33,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:44:11.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 14810,
       "customEmojiId": "5318819746257333101",
       "gift_id": 7260797,
@@ -5715,27 +5327,69 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 1661,
-      "customEmojiId": "5318819746257333101",
-      "gift_id": 589787442687,
-      "name": "Top Hat",
-      "model": "Hat Toss (0.5%)",
-      "asset": "TON",
-      "symbol": "Cocktail (0.5%)",
-      "backdrop": "Celtic Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 495.714,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Grandmaster": [
+    {
+      "gift_num": 9303,
+      "customEmojiId": "5316882569977950703",
+      "gift_id": 7104902,
+      "name": "Top Hat",
+      "model": "Grandmaster (3%)",
+      "asset": "TON",
+      "symbol": "Chili Pepper (0.5%)",
+      "backdrop": "French Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-23T14:17:03.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 1052,
+      "customEmojiId": "5316882569977950703",
+      "gift_id": 7271939,
+      "name": "Top Hat",
+      "model": "Grandmaster (3%)",
+      "asset": "TON",
+      "symbol": "Trinity Knot (0.4%)",
+      "backdrop": "Ranger Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T19:23:31.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 11080,
+      "customEmojiId": "5316882569977950703",
+      "gift_id": 7271508,
+      "name": "Top Hat",
+      "model": "Grandmaster (3%)",
+      "asset": "TON",
+      "symbol": "Okami Wolf (0.2%)",
+      "backdrop": "Burnt Sienna (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T18:53:38.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 17065,
       "customEmojiId": "5316882569977950703",
@@ -6249,60 +5903,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 47.672,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 32427,
-      "customEmojiId": "5316882569977950703",
-      "gift_id": 597879788138,
-      "name": "Top Hat",
-      "model": "Grandmaster (3%)",
-      "asset": "TON",
-      "symbol": "Baseball Cap (0.5%)",
-      "backdrop": "Strawberry (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 55.08,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 18092,
-      "customEmojiId": "5316882569977950703",
-      "gift_id": 589797500642,
-      "name": "Top Hat",
-      "model": "Grandmaster (3%)",
-      "asset": "TON",
-      "symbol": "Puzzle (0.4%)",
-      "backdrop": "Raspberry (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 22.032,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 9498,
-      "customEmojiId": "5316882569977950703",
-      "gift_id": 589789427392,
-      "name": "Top Hat",
-      "model": "Grandmaster (3%)",
-      "asset": "TON",
-      "symbol": "Moon Eagle (0.5%)",
-      "backdrop": "Satin Gold (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 55.08,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -8208,7 +7808,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 9,
+      "price": 8,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -8736,34 +8336,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "PBYZD3LR",
-      "auction": {
-        "_id": "686ea6a70227247557557685",
-        "gift_id": 7108928,
-        "seller": 0,
-        "auction_id": "PBYZD3LR",
-        "startingBid": 11.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 11.5,
-            "asset": "TON",
-            "_id": "686eafa90227247557790075",
-            "timestamp": "2025-07-09T18:06:33.547Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T18:28:01.941Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 28869,
-        "model": "Lincoln (2%)",
-        "backdrop": "Roman Silver (1%)",
-        "symbol": "Chest (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T17:28:07.856Z",
-        "__v": 0,
-        "winningBid": 11.5,
-        "winningBidder": 1288441028
-      },
+      "auction": null,
       "export_at": "2025-07-23T17:22:01.000Z",
       "premarketData": {}
     },
@@ -8787,6 +8360,24 @@
     }
   ],
   "Dreamwave": [
+    {
+      "gift_num": 1555,
+      "customEmojiId": "5314533789802719486",
+      "gift_id": 589776900690,
+      "name": "Top Hat",
+      "model": "Dreamwave (3%)",
+      "asset": "TON",
+      "symbol": "Conical Hat (0.4%)",
+      "backdrop": "Midnight Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 137.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 1738,
       "customEmojiId": "5314533789802719486",
@@ -9348,29 +8939,27 @@
       "auction": null,
       "export_at": "2025-07-28T10:45:53.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 7535,
-      "customEmojiId": "5314533789802719486",
-      "gift_id": 7206279,
-      "name": "Top Hat",
-      "model": "Dreamwave (3%)",
-      "asset": "TON",
-      "symbol": "Spider (0.5%)",
-      "backdrop": "Fire Engine (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8.6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T02:01:28.000Z",
-      "premarketData": {}
     }
   ],
   "Burned Brass": [
+    {
+      "gift_num": 10768,
+      "customEmojiId": "5316604586809647504",
+      "gift_id": 589756889149,
+      "name": "Top Hat",
+      "model": "Burned Brass (2%)",
+      "asset": "TON",
+      "symbol": "Bull of Heaven (0.5%)",
+      "backdrop": "French Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 12.096,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 23297,
       "customEmojiId": "5316604586809647504",
@@ -9670,34 +9259,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "Y50KKMM5",
-      "auction": {
-        "_id": "6874d9168938e518f187534d",
-        "gift_id": 7210143,
-        "seller": 0,
-        "auction_id": "Y50KKMM5",
-        "startingBid": 9,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 9,
-            "asset": "TON",
-            "_id": "6874deeb8938e518f18c9f46",
-            "timestamp": "2025-07-14T10:41:47.676Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T11:16:53.230Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 30831,
-        "model": "Burned Brass (2%)",
-        "backdrop": "Cyberpunk (1.5%)",
-        "symbol": "Coconut (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T10:16:54.246Z",
-        "__v": 0,
-        "winningBid": 9,
-        "winningBidder": 5261888707
-      },
+      "auction": null,
       "export_at": "2025-07-28T10:15:59.000Z",
       "premarketData": {}
     },
@@ -9944,24 +9506,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 55.08,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 18247,
-      "customEmojiId": "5316604586809647504",
-      "gift_id": 589985970249,
-      "name": "Top Hat",
-      "model": "Burned Brass (2%)",
-      "asset": "TON",
-      "symbol": "Sauron (0.2%)",
-      "backdrop": "Black (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 550.8,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -11712,6 +11256,26 @@
   ],
   "Solar System": [
     {
+      "gift_num": 14207,
+      "customEmojiId": "5314476860011209119",
+      "gift_id": 7183938,
+      "name": "Top Hat",
+      "model": "Solar System (0.3%)",
+      "asset": "TON",
+      "symbol": "Celtic Cross (0.4%)",
+      "backdrop": "Pine Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 55,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T20:25:09.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 24788,
       "customEmojiId": "5314476860011209119",
       "gift_id": 7256655,
@@ -12276,34 +11840,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "RBV3S8ZU",
-      "auction": {
-        "_id": "686ec7df0227247557ea900c",
-        "gift_id": 7109962,
-        "seller": 0,
-        "auction_id": "RBV3S8ZU",
-        "startingBid": 18,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 18,
-            "asset": "TON",
-            "_id": "686ec97f0227247557ec3f23",
-            "timestamp": "2025-07-09T19:56:47.290Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T20:49:50.984Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 4033,
-        "model": "Edison (0.5%)",
-        "backdrop": "Celtic Blue (1.2%)",
-        "symbol": "Mining Helmet (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T19:49:51.764Z",
-        "__v": 0,
-        "winningBid": 18,
-        "winningBidder": 979675201
-      },
+      "auction": null,
       "export_at": "2025-07-23T18:23:05.000Z",
       "premarketData": {}
     },
@@ -13784,6 +13321,46 @@
   ],
   "Victorian Era": [
     {
+      "gift_num": 8420,
+      "customEmojiId": "5316946534925888275",
+      "gift_id": 7257302,
+      "name": "Top Hat",
+      "model": "Victorian Era (3%)",
+      "asset": "TON",
+      "symbol": "Pomegranate (0.4%)",
+      "backdrop": "Seal Brown (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 12.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T20:33:17.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 28051,
+      "customEmojiId": "5316946534925888275",
+      "gift_id": 7092526,
+      "name": "Top Hat",
+      "model": "Victorian Era (3%)",
+      "asset": "TON",
+      "symbol": "Obon Lantern (0.5%)",
+      "backdrop": "Camo Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-22T21:46:51.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 8415,
       "customEmojiId": "5316946534925888275",
       "gift_id": 7270376,
@@ -14318,45 +13895,47 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 24034,
-      "customEmojiId": "5316946534925888275",
-      "gift_id": 590673175754,
-      "name": "Top Hat",
-      "model": "Victorian Era (3%)",
-      "asset": "TON",
-      "symbol": "Police Badge (0.5%)",
-      "backdrop": "Seal Brown (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 550.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6647,
-      "customEmojiId": "5316946534925888275",
-      "gift_id": 589787013191,
-      "name": "Top Hat",
-      "model": "Victorian Era (3%)",
-      "asset": "TON",
-      "symbol": "Axe (0.5%)",
-      "backdrop": "Rosewood (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 22.032,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Crosswalk": [
+    {
+      "gift_num": 24073,
+      "customEmojiId": "5316846659756388327",
+      "gift_id": 7255008,
+      "name": "Top Hat",
+      "model": "Crosswalk (2%)",
+      "asset": "TON",
+      "symbol": "Fez (0.2%)",
+      "backdrop": "Sky Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 12.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T18:12:22.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 2659,
+      "customEmojiId": "5316846659756388327",
+      "gift_id": 589801594175,
+      "name": "Top Hat",
+      "model": "Crosswalk (2%)",
+      "asset": "TON",
+      "symbol": "Inca Sun (0.4%)",
+      "backdrop": "Caramel (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 110.16,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 6075,
       "customEmojiId": "5316846659756388327",
@@ -14628,48 +14207,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "IDJD1A9W",
-      "auction": {
-        "_id": "687330388938e518f14280da",
-        "gift_id": 7187967,
-        "seller": 0,
-        "auction_id": "IDJD1A9W",
-        "startingBid": 8,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 8.15,
-            "asset": "TON",
-            "_id": "687406bb8938e518f11046a5",
-            "timestamp": "2025-07-13T19:19:23.986Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.02,
-            "asset": "TON",
-            "_id": "6874071e8938e518f1106e21",
-            "timestamp": "2025-07-13T19:21:02.120Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.47,
-            "asset": "TON",
-            "_id": "6874dc348938e518f188ba33",
-            "timestamp": "2025-07-14T10:30:12.321Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T10:43:03.222Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 7245,
-        "model": "Crosswalk (2%)",
-        "backdrop": "Malachite (1.5%)",
-        "symbol": "Mask (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T10:43:04.220Z",
-        "__v": 0,
-        "winningBid": 9.47,
-        "winningBidder": 5336661444
-      },
+      "auction": null,
       "export_at": "2025-07-27T04:03:37.000Z",
       "premarketData": {}
     },
@@ -14933,42 +14471,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-21T22:04:24.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4123,
-      "customEmojiId": "5316846659756388327",
-      "gift_id": 589769875412,
-      "name": "Top Hat",
-      "model": "Crosswalk (2%)",
-      "asset": "TON",
-      "symbol": "Celtic Cross (0.4%)",
-      "backdrop": "Steel Grey (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 550.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 28677,
-      "customEmojiId": "5316846659756388327",
-      "gift_id": 591572416493,
-      "name": "Top Hat",
-      "model": "Crosswalk (2%)",
-      "asset": "TON",
-      "symbol": "Wasp (0.5%)",
-      "backdrop": "Indigo Dye (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 34.425,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
@@ -15510,55 +15012,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "N4LD9USP",
-      "auction": {
-        "_id": "686ec7990227247557e9f88e",
-        "gift_id": 7013517,
-        "seller": 0,
-        "auction_id": "N4LD9USP",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "686ec7fc0227247557eabbd6",
-            "timestamp": "2025-07-09T19:50:20.194Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "686ecf35ac189a72484128cf",
-            "timestamp": "2025-07-09T20:21:09.373Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 21,
-            "asset": "TON",
-            "_id": "686ef1b317ef9a49928b99ed",
-            "timestamp": "2025-07-09T22:48:19.082Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 22.05,
-            "asset": "TON",
-            "_id": "686ef1f417ef9a49928c6a35",
-            "timestamp": "2025-07-09T22:49:24.931Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T23:08:40.166Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 6922,
-        "model": "Limoncello (2%)",
-        "backdrop": "Onyx Black (1.2%)",
-        "symbol": "Aztec Falcon (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T19:48:41.887Z",
-        "__v": 0,
-        "winningBid": 22.05,
-        "winningBidder": 459344310
-      },
+      "auction": null,
       "export_at": "2025-07-19T18:41:26.000Z",
       "premarketData": {}
     },
@@ -15811,41 +15265,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "8KNVXIJU",
-      "auction": {
-        "_id": "6872d0058938e518f1b428a2",
-        "gift_id": 7184846,
-        "seller": 0,
-        "auction_id": "8KNVXIJU",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "6872d38f8938e518f1ca5ee8",
-            "timestamp": "2025-07-12T21:28:47.387Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "6872da4a8938e518f1fb3afe",
-            "timestamp": "2025-07-12T21:57:30.216Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T22:13:40.332Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 14373,
-        "model": "Glam Safari (1%)",
-        "backdrop": "Light Olive (1%)",
-        "symbol": "Hersir (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T21:13:41.480Z",
-        "__v": 0,
-        "winningBid": 10.5,
-        "winningBidder": 7640742162
-      },
+      "auction": null,
       "export_at": "2025-07-26T21:09:20.000Z",
       "premarketData": {}
     },
@@ -18994,6 +18414,46 @@
   ],
   "Bloodline": [
     {
+      "gift_num": 30127,
+      "customEmojiId": "5317025884446680622",
+      "gift_id": 7273730,
+      "name": "Top Hat",
+      "model": "Bloodline (3%)",
+      "asset": "TON",
+      "symbol": "Shooting Star (0.5%)",
+      "backdrop": "Coral Red (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:48:34.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 14637,
+      "customEmojiId": "5317025884446680622",
+      "gift_id": 7273024,
+      "name": "Top Hat",
+      "model": "Bloodline (3%)",
+      "asset": "TON",
+      "symbol": "Hersir (0.5%)",
+      "backdrop": "Steel Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15.1,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T20:55:36.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12464,
       "customEmojiId": "5317025884446680622",
       "gift_id": 589779214819,
@@ -19515,44 +18975,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 29737,
-      "customEmojiId": "5317025884446680622",
-      "gift_id": 591795270320,
-      "name": "Top Hat",
-      "model": "Bloodline (3%)",
-      "asset": "TON",
-      "symbol": "Sharp Sword (0.5%)",
-      "backdrop": "Turquoise (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 20.655,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11873,
-      "customEmojiId": "5317025884446680622",
-      "gift_id": 7136579,
-      "name": "Top Hat",
-      "model": "Bloodline (3%)",
-      "asset": "TON",
-      "symbol": "Oxen of Fire (0.4%)",
-      "backdrop": "Cyberpunk (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T17:21:29.000Z",
       "premarketData": {}
     }
   ],
@@ -20566,7 +19988,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 9,
+      "price": 8,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -21121,6 +20543,24 @@
     }
   ],
   "Graphite": [
+    {
+      "gift_num": 28711,
+      "customEmojiId": "5316797353531825943",
+      "gift_id": 591555047216,
+      "name": "Top Hat",
+      "model": "Graphite (3%)",
+      "asset": "TON",
+      "symbol": "Trinity Knot (0.4%)",
+      "backdrop": "Moonstone (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 55.08,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 28711,
       "customEmojiId": "5316797353531825943",
@@ -21684,45 +21124,25 @@
       "auction": null,
       "export_at": "2025-07-24T01:53:48.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 16318,
-      "customEmojiId": "5316797353531825943",
-      "gift_id": 589748100357,
-      "name": "Top Hat",
-      "model": "Graphite (3%)",
-      "asset": "TON",
-      "symbol": "Toilet (0.5%)",
-      "backdrop": "Tactical Pine (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 14.778,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Blood Veil": [
     {
-      "gift_num": 1197,
+      "gift_num": 30629,
       "customEmojiId": "5316751229878033912",
-      "gift_id": 7269381,
+      "gift_id": 592025036897,
       "name": "Top Hat",
       "model": "Blood Veil (2%)",
       "asset": "TON",
-      "symbol": "Gift Box (0.4%)",
-      "backdrop": "Persimmon (1%)",
+      "symbol": "Baphomet (0.4%)",
+      "backdrop": "Dark Lilac (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9,
+      "price": 20.655,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-31T15:57:56.000Z",
       "premarketData": {}
     },
     {
@@ -23420,46 +22840,6 @@
   ],
   "Chronos": [
     {
-      "gift_num": 19322,
-      "customEmojiId": "5309793146635317038",
-      "gift_id": 7268356,
-      "name": "Top Hat",
-      "model": "Chronos (1.2%)",
-      "asset": "TON",
-      "symbol": "Toilet (0.5%)",
-      "backdrop": "Black (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 80,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T14:34:52.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3388,
-      "customEmojiId": "5309793146635317038",
-      "gift_id": 7264250,
-      "name": "Top Hat",
-      "model": "Chronos (1.2%)",
-      "asset": "TON",
-      "symbol": "Pegasus (0.2%)",
-      "backdrop": "Mint Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 12,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T09:51:18.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 32460,
       "customEmojiId": "5309793146635317038",
       "gift_id": 7188879,
@@ -23982,29 +23362,45 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    }
-  ],
-  "Brainiac": [
+    },
     {
-      "gift_num": 25436,
-      "customEmojiId": "5312512221710935949",
-      "gift_id": 7208648,
+      "gift_num": 28106,
+      "customEmojiId": "5309793146635317038",
+      "gift_id": 591369694466,
       "name": "Top Hat",
-      "model": "Brainiac (0.5%)",
+      "model": "Chronos (1.2%)",
       "asset": "TON",
-      "symbol": "Flying Dragon (0.2%)",
-      "backdrop": "Sky Blue (1.5%)",
+      "symbol": "Flamingo (0.5%)",
+      "backdrop": "Chestnut (1.2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
+      "price": 550.8,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-28T08:16:08.000Z",
       "premarketData": {}
     },
+    {
+      "gift_num": 17669,
+      "customEmojiId": "5309793146635317038",
+      "gift_id": 589749646546,
+      "name": "Top Hat",
+      "model": "Chronos (1.2%)",
+      "asset": "TON",
+      "symbol": "Unicorn Head (0.5%)",
+      "backdrop": "Cobalt Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 165.234,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    }
+  ],
+  "Brainiac": [
     {
       "gift_num": 19082,
       "customEmojiId": "5312512221710935949",
@@ -26026,76 +25422,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "9ULPA5SV",
-      "auction": {
-        "_id": "6872366e8938e518f18d1378",
-        "gift_id": 7158143,
-        "seller": 0,
-        "auction_id": "9ULPA5SV",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "6872e35c8938e518f1ffcc40",
-            "timestamp": "2025-07-12T22:36:12.331Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "6872ee768938e518f115187d",
-            "timestamp": "2025-07-12T23:23:34.305Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.03,
-            "asset": "TON",
-            "_id": "687308b98938e518f1272408",
-            "timestamp": "2025-07-13T01:15:37.517Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.58,
-            "asset": "TON",
-            "_id": "68730a228938e518f12748bc",
-            "timestamp": "2025-07-13T01:21:38.166Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.16,
-            "asset": "TON",
-            "_id": "68730ab78938e518f127663f",
-            "timestamp": "2025-07-13T01:24:07.015Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.77,
-            "asset": "TON",
-            "_id": "68730f0e8938e518f1281420",
-            "timestamp": "2025-07-13T01:42:38.078Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.41,
-            "asset": "TON",
-            "_id": "687310478938e518f1286c6e",
-            "timestamp": "2025-07-13T01:47:51.889Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T02:03:07.735Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 4309,
-        "model": "Antiquity (1%)",
-        "backdrop": "French Violet (1.5%)",
-        "symbol": "Wreath (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T22:23:09.285Z",
-        "__v": 0,
-        "winningBid": 13.41,
-        "winningBidder": 7514474967
-      },
+      "auction": null,
       "export_at": "2025-07-25T15:00:59.000Z",
       "premarketData": {}
     },
@@ -26564,181 +25891,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "ZHWXM7I3",
-      "auction": {
-        "_id": "6873d32f8938e518f1981123",
-        "gift_id": 7183937,
-        "seller": 0,
-        "auction_id": "ZHWXM7I3",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6873d3628938e518f1985a67",
-            "timestamp": "2025-07-13T15:40:18.998Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6873d4318938e518f199b88e",
-            "timestamp": "2025-07-13T15:43:45.688Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.44,
-            "asset": "TON",
-            "_id": "6873d46d8938e518f19a19cd",
-            "timestamp": "2025-07-13T15:44:45.862Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.3,
-            "asset": "TON",
-            "_id": "6873d5178938e518f19b3597",
-            "timestamp": "2025-07-13T15:47:35.733Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.088,
-            "asset": "TON",
-            "_id": "6873d5478938e518f19b80d4",
-            "timestamp": "2025-07-13T15:48:23.939Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11,
-            "asset": "TON",
-            "_id": "6873d5988938e518f19ba620",
-            "timestamp": "2025-07-13T15:49:44.540Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.55,
-            "asset": "TON",
-            "_id": "6873d6318938e518f19bd153",
-            "timestamp": "2025-07-13T15:52:17.757Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.13,
-            "asset": "TON",
-            "_id": "6873d7808938e518f19c601d",
-            "timestamp": "2025-07-13T15:57:52.026Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15,
-            "asset": "TON",
-            "_id": "6873d78e8938e518f19c6ff3",
-            "timestamp": "2025-07-13T15:58:06.078Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15.75,
-            "asset": "TON",
-            "_id": "6873d7a68938e518f19c7899",
-            "timestamp": "2025-07-13T15:58:30.725Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 17.5,
-            "asset": "TON",
-            "_id": "6873d7b48938e518f19c7a6a",
-            "timestamp": "2025-07-13T15:58:44.218Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 18.38,
-            "asset": "TON",
-            "_id": "6873d8d18938e518f19ce6d2",
-            "timestamp": "2025-07-13T16:03:29.157Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 19.3,
-            "asset": "TON",
-            "_id": "6873dc5c8938e518f19eba75",
-            "timestamp": "2025-07-13T16:18:36.633Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 20.27,
-            "asset": "TON",
-            "_id": "6873dca38938e518f19ec783",
-            "timestamp": "2025-07-13T16:19:47.161Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 21.28,
-            "asset": "TON",
-            "_id": "6873dcf38938e518f19ed2b4",
-            "timestamp": "2025-07-13T16:21:07.756Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 22.34,
-            "asset": "TON",
-            "_id": "6873dd258938e518f19ee0a8",
-            "timestamp": "2025-07-13T16:21:57.215Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 23.46,
-            "asset": "TON",
-            "_id": "6873dd598938e518f19ef329",
-            "timestamp": "2025-07-13T16:22:49.382Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 24.63,
-            "asset": "TON",
-            "_id": "6873dd6b8938e518f19ef5eb",
-            "timestamp": "2025-07-13T16:23:07.463Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 25.86,
-            "asset": "TON",
-            "_id": "6873df9c8938e518f19fa2d9",
-            "timestamp": "2025-07-13T16:32:28.173Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 27.15,
-            "asset": "TON",
-            "_id": "6873dfd98938e518f19fb61e",
-            "timestamp": "2025-07-13T16:33:29.585Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 28.51,
-            "asset": "TON",
-            "_id": "6873e1bb8938e518f1c8b05c",
-            "timestamp": "2025-07-13T16:41:31.333Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 29.94,
-            "asset": "TON",
-            "_id": "6873e24a8938e518f1e21b83",
-            "timestamp": "2025-07-13T16:43:54.134Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T16:59:26.486Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 988,
-        "model": "Mr. Whiskers (0.5%)",
-        "backdrop": "Lavender (1.2%)",
-        "symbol": "Arabian Horse (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T15:39:27.161Z",
-        "__v": 0,
-        "winningBid": 29.94,
-        "winningBidder": 5993569810
-      },
+      "auction": null,
       "export_at": "2025-07-26T20:25:02.000Z",
       "premarketData": {}
     },
@@ -27999,34 +27152,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "XVWCVIPL",
-      "auction": {
-        "_id": "68724aa78938e518f12d3d49",
-        "gift_id": 7167017,
-        "seller": 0,
-        "auction_id": "XVWCVIPL",
-        "startingBid": 15,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 15,
-            "asset": "TON",
-            "_id": "6872ba368938e518f11fa4b1",
-            "timestamp": "2025-07-12T19:40:38.843Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T19:51:11.767Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 9689,
-        "model": "Bubble Top (0.5%)",
-        "backdrop": "Lemongrass (1.2%)",
-        "symbol": "Pirate Scull (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T13:51:26.278Z",
-        "__v": 0,
-        "winningBid": 15,
-        "winningBidder": 1181932388
-      },
+      "auction": null,
       "export_at": "2025-07-25T22:50:30.000Z",
       "premarketData": {}
     },
@@ -29319,6 +28445,26 @@
   ],
   "Bull Baron": [
     {
+      "gift_num": 1057,
+      "customEmojiId": "5310214169394441882",
+      "gift_id": 7271929,
+      "name": "Top Hat",
+      "model": "Bull Baron (1.5%)",
+      "asset": "TON",
+      "symbol": "Puzzle (0.4%)",
+      "backdrop": "Celtic Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 12,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T19:22:44.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 23250,
       "customEmojiId": "5310214169394441882",
       "gift_id": 7270634,
@@ -29879,29 +29025,29 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
+    }
+  ],
+  "Submarine": [
     {
-      "gift_num": 10785,
-      "customEmojiId": "5310214169394441882",
-      "gift_id": 6976921,
+      "gift_num": 26242,
+      "customEmojiId": "5319232673003104446",
+      "gift_id": 6135055,
       "name": "Top Hat",
-      "model": "Bull Baron (1.5%)",
+      "model": "Submarine (1%)",
       "asset": "TON",
-      "symbol": "Heraldic Lily (0.5%)",
-      "backdrop": "Gunmetal (1.2%)",
+      "symbol": "Lion King (0.5%)",
+      "backdrop": "Mystic Pearl (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 44,
+      "price": 11.39,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-18T05:48:12.000Z",
+      "export_at": "2025-06-24T13:33:10.000Z",
       "premarketData": {}
-    }
-  ],
-  "Submarine": [
+    },
     {
       "gift_num": 6840,
       "customEmojiId": "5319232673003104446",
@@ -30450,26 +29596,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3669,
-      "customEmojiId": "5319232673003104446",
-      "gift_id": 6870709,
-      "name": "Top Hat",
-      "model": "Submarine (1%)",
-      "asset": "TON",
-      "symbol": "Clover (0.5%)",
-      "backdrop": "Sapphire (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-14T15:08:25.000Z",
       "premarketData": {}
     }
   ],
@@ -31347,26 +30473,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 19943,
-      "customEmojiId": "5312524672821128384",
-      "gift_id": 6784437,
-      "name": "Top Hat",
-      "model": "Uncle Sam (1.5%)",
-      "asset": "TON",
-      "symbol": "Phoenix (0.4%)",
-      "backdrop": "Ranger Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-10T19:19:41.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 531,
       "customEmojiId": "5312524672821128384",
       "gift_id": 7203132,
@@ -31820,6 +30926,24 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-14T15:35:25.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 5973,
+      "customEmojiId": "5312524672821128384",
+      "gift_id": 589753978450,
+      "name": "Top Hat",
+      "model": "Uncle Sam (1.5%)",
+      "asset": "TON",
+      "symbol": "Crusader (0.2%)",
+      "backdrop": "Electric Indigo (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
       "premarketData": {}
     }
   ],
@@ -33149,48 +32273,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "P40E1CY8",
-      "auction": {
-        "_id": "6869141b5ea5afa2c431ae1a",
-        "gift_id": 7004765,
-        "seller": 0,
-        "auction_id": "P40E1CY8",
-        "startingBid": 12,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 12,
-            "asset": "TON",
-            "_id": "6874199c8938e518f1212934",
-            "timestamp": "2025-07-13T20:39:56.781Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.6,
-            "asset": "TON",
-            "_id": "6874b7138938e518f1e054b5",
-            "timestamp": "2025-07-14T07:51:47.167Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.23,
-            "asset": "TON",
-            "_id": "6874b8088938e518f1e254da",
-            "timestamp": "2025-07-14T07:55:52.925Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T08:12:34.365Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 27860,
-        "model": "Mad Hatter (1%)",
-        "backdrop": "Carmine (1.2%)",
-        "symbol": "Two Katanas (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T20:12:35.297Z",
-        "__v": 0,
-        "winningBid": 13.23,
-        "winningBidder": 7249897841
-      },
+      "auction": null,
       "export_at": "2025-07-19T12:01:01.000Z",
       "premarketData": {}
     },
@@ -33915,34 +32998,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "7SAX8VYX",
-      "auction": {
-        "_id": "687424f28938e518f1304147",
-        "gift_id": 7198926,
-        "seller": 0,
-        "auction_id": "7SAX8VYX",
-        "startingBid": 9.94,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 9.94,
-            "asset": "TON",
-            "_id": "68751c7daace4cd2f6b528c5",
-            "timestamp": "2025-07-14T15:04:29.642Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T16:02:39.782Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 27336,
-        "model": "Alabaster (3%)",
-        "backdrop": "Fandango (1.5%)",
-        "symbol": "Viper (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T15:02:40.781Z",
-        "__v": 0,
-        "winningBid": 9.94,
-        "winningBidder": 954997534
-      },
+      "auction": null,
       "export_at": "2025-07-27T17:22:15.000Z",
       "premarketData": {}
     },
@@ -35355,11 +34411,77 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 9,
+      "price": 8,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "export_at": "2025-07-31T18:03:42.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 24250,
+      "customEmojiId": "5318893920342537557",
+      "gift_id": 590650214000,
+      "name": "Top Hat",
+      "model": "White Windsor (3%)",
+      "asset": "TON",
+      "symbol": "Anchor (0.2%)",
+      "backdrop": "Ivory White (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 17.515,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 25690,
+      "customEmojiId": "5318893920342537557",
+      "gift_id": 7239951,
+      "name": "Top Hat",
+      "model": "White Windsor (3%)",
+      "asset": "TON",
+      "symbol": "Viper (0.5%)",
+      "backdrop": "Roman Silver (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "4NR017W4",
+      "auction": {
+        "_id": "6879459faace4cd2f64b4b5c",
+        "gift_id": 7239951,
+        "seller": 0,
+        "auction_id": "4NR017W4",
+        "startingBid": 8,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 8,
+            "asset": "TON",
+            "_id": "68794727aace4cd2f64bb834",
+            "timestamp": "2025-07-17T18:55:35.531Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-17T19:49:04.045Z",
+        "status": "finished",
+        "gift_name": "Top Hat",
+        "gift_num": 25690,
+        "model": "White Windsor (3%)",
+        "backdrop": "Roman Silver (1%)",
+        "symbol": "Viper (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-17T18:49:03.162Z",
+        "__v": 0,
+        "winningBid": 8,
+        "winningBidder": 779799889
+      },
+      "export_at": "2025-07-29T21:14:19.000Z",
       "premarketData": {}
     },
     {
@@ -35801,41 +34923,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "135OIDSH",
-      "auction": {
-        "_id": "687376d28938e518f1040cf3",
-        "gift_id": 7190342,
-        "seller": 0,
-        "auction_id": "135OIDSH",
-        "startingBid": 8.88,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 8.88,
-            "asset": "TON",
-            "_id": "68776020aace4cd2f62e173e",
-            "timestamp": "2025-07-16T08:17:36.839Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.32,
-            "asset": "TON",
-            "_id": "68776cb7aace4cd2f6535760",
-            "timestamp": "2025-07-16T09:11:19.629Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T09:23:45.208Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 243,
-        "model": "White Windsor (3%)",
-        "backdrop": "Fandango (1.5%)",
-        "symbol": "Ring (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T08:13:46.300Z",
-        "__v": 0,
-        "winningBid": 9.32,
-        "winningBidder": 5689202685
-      },
+      "auction": null,
       "export_at": "2025-07-27T09:04:46.000Z",
       "premarketData": {}
     },
@@ -35914,46 +35002,6 @@
       "auction": null,
       "export_at": "2025-07-23T23:26:33.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 1802,
-      "customEmojiId": "5318893920342537557",
-      "gift_id": 7218440,
-      "name": "Top Hat",
-      "model": "White Windsor (3%)",
-      "asset": "TON",
-      "symbol": "Magic Hat (0.5%)",
-      "backdrop": "Azure Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8.9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T18:02:02.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 25321,
-      "customEmojiId": "5318893920342537557",
-      "gift_id": 7206052,
-      "name": "Top Hat",
-      "model": "White Windsor (3%)",
-      "asset": "TON",
-      "symbol": "Tiki Mask (0.2%)",
-      "backdrop": "Electric Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9.3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T01:06:29.000Z",
-      "premarketData": {}
     }
   ],
   "Black Raven": [
@@ -35970,7 +35018,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 10,
+      "price": 12,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -36262,34 +35310,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "445OZ2WP",
-      "auction": {
-        "_id": "684c5824d3c0eab9cdee08db",
-        "gift_id": 6356869,
-        "seller": 0,
-        "auction_id": "445OZ2WP",
-        "startingBid": 9.35,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 9.35,
-            "asset": "TON",
-            "_id": "68756879aace4cd2f6936af3",
-            "timestamp": "2025-07-14T20:28:41.295Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T20:45:50.530Z",
-        "status": "finished",
-        "gift_name": "Top Hat",
-        "gift_num": 9567,
-        "model": "Black Raven (3%)",
-        "backdrop": "Moonstone (1%)",
-        "symbol": "Cocktail (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T19:45:52.223Z",
-        "__v": 0,
-        "winningBid": 9.35,
-        "winningBidder": 5203537078
-      },
+      "auction": null,
       "export_at": "2025-06-27T16:51:35.000Z",
       "premarketData": {}
     },
@@ -36565,6 +35586,26 @@
     }
   ],
   "Maestro": [
+    {
+      "gift_num": 33487,
+      "customEmojiId": "5314399413160929373",
+      "gift_id": 7204786,
+      "name": "Top Hat",
+      "model": "Maestro (3%)",
+      "asset": "TON",
+      "symbol": "Gamepad (0.5%)",
+      "backdrop": "Coral Red (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T22:28:59.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 33833,
       "customEmojiId": "5314399413160929373",
@@ -37119,24 +36160,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-23T17:57:51.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 17896,
-      "customEmojiId": "5314399413160929373",
-      "gift_id": 589995026188,
-      "name": "Top Hat",
-      "model": "Maestro (3%)",
-      "asset": "TON",
-      "symbol": "The Eye (0.2%)",
-      "backdrop": "Strawberry (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 13.77,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
