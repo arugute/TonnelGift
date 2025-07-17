@@ -643,26 +643,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 132343,
-      "customEmojiId": "5222411908149173354",
-      "gift_id": 7239791,
-      "name": "Lunar Snake",
-      "model": "Polarized (1%)",
-      "asset": "TON",
-      "symbol": "Mittens (1.5%)",
-      "backdrop": "French Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.44,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T21:04:28.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 13743,
       "customEmojiId": "5222411908149173354",
       "gift_id": 7265258,
@@ -1200,6 +1180,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-17T14:01:07.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 21021,
+      "customEmojiId": "5222411908149173354",
+      "gift_id": 2297090,
+      "name": "Lunar Snake",
+      "model": "Polarized (1%)",
+      "asset": "TON",
+      "symbol": "Ice Pop (1.8%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 14.95,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-04-08T17:17:08.000Z",
       "premarketData": {}
     }
   ],
@@ -2525,48 +2525,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "V60SYCLA",
-      "auction": {
-        "_id": "6876054daace4cd2f67fc1b9",
-        "gift_id": 7224920,
-        "seller": 0,
-        "auction_id": "V60SYCLA",
-        "startingBid": 2.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.5,
-            "asset": "TON",
-            "_id": "68760c80aace4cd2f6943a9e",
-            "timestamp": "2025-07-15T08:08:32.279Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.7,
-            "asset": "TON",
-            "_id": "68760e10aace4cd2f6993e42",
-            "timestamp": "2025-07-15T08:15:12.695Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.84,
-            "asset": "TON",
-            "_id": "6876135baace4cd2f6a413e4",
-            "timestamp": "2025-07-15T08:37:47.042Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T08:47:48.100Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 51206,
-        "model": "Prismatic (0.5%)",
-        "backdrop": "Sky Blue (1.5%)",
-        "symbol": "Tribal Shield (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T07:37:49.461Z",
-        "__v": 0,
-        "winningBid": 2.84,
-        "winningBidder": 301931246
-      },
+      "auction": null,
       "export_at": "2025-07-29T04:07:44.000Z",
       "premarketData": {}
     },
@@ -2607,48 +2566,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "4MM6BBLE",
-      "auction": {
-        "_id": "68751b84aace4cd2f6b45ac2",
-        "gift_id": 6980861,
-        "seller": 0,
-        "auction_id": "4MM6BBLE",
-        "startingBid": 2.4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.4,
-            "asset": "TON",
-            "_id": "68753759aace4cd2f6e172d2",
-            "timestamp": "2025-07-14T16:59:05.628Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.52,
-            "asset": "TON",
-            "_id": "6875379aaace4cd2f6e1b04a",
-            "timestamp": "2025-07-14T17:00:10.160Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.65,
-            "asset": "TON",
-            "_id": "68753bafaace4cd2f6edecdc",
-            "timestamp": "2025-07-14T17:17:35.571Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T17:28:25.775Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 53120,
-        "model": "Prismatic (0.5%)",
-        "backdrop": "Jade Green (1.5%)",
-        "symbol": "Champagne (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T16:08:26.539Z",
-        "__v": 0,
-        "winningBid": 2.65,
-        "winningBidder": 5115343673
-      },
+      "auction": null,
       "export_at": "2025-07-18T10:35:15.000Z",
       "premarketData": {}
     },
@@ -3074,6 +2992,26 @@
     }
   ],
   "Purple Cap": [
+    {
+      "gift_num": 104031,
+      "customEmojiId": "5215407211626391326",
+      "gift_id": 7273131,
+      "name": "Lunar Snake",
+      "model": "Purple Cap (1.3%)",
+      "asset": "TON",
+      "symbol": "Ornament (1.8%)",
+      "backdrop": "Pine Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:04:59.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 30345,
       "customEmojiId": "5215407211626391326",
@@ -3652,26 +3590,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-25T20:22:14.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 29120,
-      "customEmojiId": "5215407211626391326",
-      "gift_id": 6799658,
-      "name": "Lunar Snake",
-      "model": "Purple Cap (1.3%)",
-      "asset": "TON",
-      "symbol": "Clover (0.5%)",
-      "backdrop": "Chestnut (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-11T12:50:16.000Z",
       "premarketData": {}
     }
   ],
@@ -4279,6 +4197,26 @@
   ],
   "Caustic Moss": [
     {
+      "gift_num": 11763,
+      "customEmojiId": "5208547796667361657",
+      "gift_id": 988065,
+      "name": "Lunar Snake",
+      "model": "Caustic Moss (1.3%)",
+      "asset": "TON",
+      "symbol": "Rudolph (1.8%)",
+      "backdrop": "Chestnut (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 27,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-03-10T15:13:02.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 91729,
       "customEmojiId": "5208547796667361657",
       "gift_id": 7265570,
@@ -4857,29 +4795,29 @@
       "auction": null,
       "export_at": "2025-06-25T13:57:13.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Hot Cherry": [
     {
-      "gift_num": 106335,
-      "customEmojiId": "5208547796667361657",
-      "gift_id": 6814435,
+      "gift_num": 3431,
+      "customEmojiId": "5235812811703085889",
+      "gift_id": 7271699,
       "name": "Lunar Snake",
-      "model": "Caustic Moss (1.3%)",
+      "model": "Hot Cherry (0.3%)",
       "asset": "TON",
-      "symbol": "Snow Angel (1.8%)",
-      "backdrop": "Navy Blue (2%)",
+      "symbol": "Tribal Shield (0.5%)",
+      "backdrop": "Electric Purple (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2,
+      "price": 5,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-12T05:03:17.000Z",
+      "export_at": "2025-07-31T19:06:51.000Z",
       "premarketData": {}
-    }
-  ],
-  "Hot Cherry": [
+    },
     {
       "gift_num": 61731,
       "customEmojiId": "5235812811703085889",
@@ -4958,26 +4896,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T19:34:58.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 49937,
-      "customEmojiId": "5235812811703085889",
-      "gift_id": 7217170,
-      "name": "Lunar Snake",
-      "model": "Hot Cherry (0.3%)",
-      "asset": "TON",
-      "symbol": "Rudolph (1.8%)",
-      "backdrop": "Grape (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T16:45:09.000Z",
       "premarketData": {}
     },
     {
@@ -5340,46 +5258,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-31T12:12:37.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 116240,
-      "customEmojiId": "5208612951321239714",
-      "gift_id": 6350931,
-      "name": "Lunar Snake",
-      "model": "Stone Python (1.3%)",
-      "asset": "TON",
-      "symbol": "Candle (1.5%)",
-      "backdrop": "Cobalt Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-27T15:07:38.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 82490,
-      "customEmojiId": "5208612951321239714",
-      "gift_id": 7071344,
-      "name": "Lunar Snake",
-      "model": "Stone Python (1.3%)",
-      "asset": "TON",
-      "symbol": "Ouroboros (0.5%)",
-      "backdrop": "Midnight Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.35,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-22T04:21:58.000Z",
       "premarketData": {}
     },
     {
@@ -5901,9 +5779,89 @@
       "auction": null,
       "export_at": "2025-07-18T15:36:09.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 129064,
+      "customEmojiId": "5208612951321239714",
+      "gift_id": 7003572,
+      "name": "Lunar Snake",
+      "model": "Stone Python (1.3%)",
+      "asset": "TON",
+      "symbol": "Wolf Rage (0.5%)",
+      "backdrop": "Raspberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-19T11:01:28.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 113568,
+      "customEmojiId": "5208612951321239714",
+      "gift_id": 6845234,
+      "name": "Lunar Snake",
+      "model": "Stone Python (1.3%)",
+      "asset": "TON",
+      "symbol": "Eikthyrnir (1.5%)",
+      "backdrop": "Dark Lilac (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-13T15:38:54.000Z",
+      "premarketData": {}
     }
   ],
   "Tropicool": [
+    {
+      "gift_num": 13036,
+      "customEmojiId": "5233355888546313148",
+      "gift_id": 7115403,
+      "name": "Lunar Snake",
+      "model": "Tropicool (0.8%)",
+      "asset": "TON",
+      "symbol": "Pencil (0.5%)",
+      "backdrop": "Indigo Dye (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-23T22:00:02.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3932,
+      "customEmojiId": "5233355888546313148",
+      "gift_id": 7272406,
+      "name": "Lunar Snake",
+      "model": "Tropicool (0.8%)",
+      "asset": "TON",
+      "symbol": "Ice Skates (1.8%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T20:07:01.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 91020,
       "customEmojiId": "5233355888546313148",
@@ -6162,26 +6120,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-26T08:37:12.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 13036,
-      "customEmojiId": "5233355888546313148",
-      "gift_id": 7115403,
-      "name": "Lunar Snake",
-      "model": "Tropicool (0.8%)",
-      "asset": "TON",
-      "symbol": "Pencil (0.5%)",
-      "backdrop": "Indigo Dye (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T22:00:02.000Z",
       "premarketData": {}
     },
     {
@@ -6482,26 +6420,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-14T16:10:00.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 33501,
-      "customEmojiId": "5233355888546313148",
-      "gift_id": 4605069,
-      "name": "Lunar Snake",
-      "model": "Tropicool (0.8%)",
-      "asset": "TON",
-      "symbol": "Pencil (0.5%)",
-      "backdrop": "Pure Gold (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-23T18:56:11.000Z",
       "premarketData": {}
     }
   ],
@@ -7305,55 +7223,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "ZYUXA12Q",
-      "auction": {
-        "_id": "6874377d8938e518f189008d",
-        "gift_id": 6801654,
-        "seller": 0,
-        "auction_id": "ZYUXA12Q",
-        "startingBid": 2.2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.2,
-            "asset": "TON",
-            "_id": "6876e6b9aace4cd2f6a229a0",
-            "timestamp": "2025-07-15T23:39:37.665Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.31,
-            "asset": "TON",
-            "_id": "6876e81eaace4cd2f6a2ec9b",
-            "timestamp": "2025-07-15T23:45:34.762Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.43,
-            "asset": "TON",
-            "_id": "6876ec35aace4cd2f6a593f6",
-            "timestamp": "2025-07-16T00:03:01.600Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.55,
-            "asset": "TON",
-            "_id": "6876ec64aace4cd2f6a5aff7",
-            "timestamp": "2025-07-16T00:03:48.206Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T00:13:54.336Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 38859,
-        "model": "Fire Dragon (0.5%)",
-        "backdrop": "Hunter Green (1.5%)",
-        "symbol": "Ice Pop (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T23:54:01.278Z",
-        "__v": 0,
-        "winningBid": 2.55,
-        "winningBidder": 5177811725
-      },
+      "auction": null,
       "export_at": "2025-07-11T14:27:27.000Z",
       "premarketData": {}
     },
@@ -8374,7 +8244,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 15,
+      "price": 13,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -9304,26 +9174,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 13073,
-      "customEmojiId": "5219785823410481326",
-      "gift_id": 5658846,
-      "name": "Lunar Snake",
-      "model": "Hong Kong (0.8%)",
-      "asset": "TON",
-      "symbol": "Moon Eagle (0.5%)",
-      "backdrop": "Grape (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-18T11:20:15.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 13933,
       "customEmojiId": "5219785823410481326",
       "gift_id": 6623735,
@@ -9561,6 +9411,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-13T23:12:38.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 18176,
+      "customEmojiId": "5219785823410481326",
+      "gift_id": 5465731,
+      "name": "Lunar Snake",
+      "model": "Hong Kong (0.8%)",
+      "asset": "TON",
+      "symbol": "Sparks (1.2%)",
+      "backdrop": "Moonstone (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 11,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-13T14:45:36.000Z",
       "premarketData": {}
     }
   ],
@@ -11768,34 +11638,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "LNTROWI8",
-      "auction": {
-        "_id": "6872d1218938e518f1b6bc93",
-        "gift_id": 7184942,
-        "seller": 0,
-        "auction_id": "LNTROWI8",
-        "startingBid": 3.6,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.6,
-            "asset": "TON",
-            "_id": "6872def88938e518f1fdd43a",
-            "timestamp": "2025-07-12T22:17:28.397Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T22:28:38.718Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 55842,
-        "model": "Jade Serpent (1.3%)",
-        "backdrop": "Shamrock Green (2%)",
-        "symbol": "Star (1.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T21:18:25.954Z",
-        "__v": 0,
-        "winningBid": 3.6,
-        "winningBidder": 1097334587
-      },
+      "auction": null,
       "export_at": "2025-07-26T21:15:26.000Z",
       "premarketData": {}
     },
@@ -11996,48 +11839,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "W71XK05U",
-      "auction": {
-        "_id": "686c06a702272475570e3122",
-        "gift_id": 7060751,
-        "seller": 0,
-        "auction_id": "W71XK05U",
-        "startingBid": 2.6,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.6,
-            "asset": "TON",
-            "_id": "6872c6948938e518f19e074a",
-            "timestamp": "2025-07-12T20:33:24.463Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.73,
-            "asset": "TON",
-            "_id": "6872c8d18938e518f1a29496",
-            "timestamp": "2025-07-12T20:42:57.734Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.87,
-            "asset": "TON",
-            "_id": "6872ca918938e518f1a70778",
-            "timestamp": "2025-07-12T20:50:25.436Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T21:03:32.385Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 55842,
-        "model": "Jade Serpent (1.3%)",
-        "backdrop": "Shamrock Green (2%)",
-        "symbol": "Star (1.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T19:33:33.467Z",
-        "__v": 0,
-        "winningBid": 2.87,
-        "winningBidder": 1070599192
-      },
+      "auction": null,
       "export_at": "2025-07-21T17:38:05.000Z",
       "premarketData": {}
     }
@@ -12579,34 +12381,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "K77XK4W2",
-      "auction": {
-        "_id": "6878181faace4cd2f626e93c",
-        "gift_id": 6058444,
-        "seller": 0,
-        "auction_id": "K77XK4W2",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687824b1aace4cd2f64b6a55",
-            "timestamp": "2025-07-16T22:16:17.440Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T22:32:38.243Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 32962,
-        "model": "Diamondback (0.5%)",
-        "backdrop": "Pure Gold (1.5%)",
-        "symbol": "Cupcake (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T21:22:39.457Z",
-        "__v": 0,
-        "winningBid": 2,
-        "winningBidder": 1228176957
-      },
+      "auction": null,
       "export_at": "2025-06-23T21:40:14.000Z",
       "premarketData": {}
     }
@@ -13028,148 +12803,50 @@
       "status": "auction",
       "limited": false,
       "auction_id": "LZRDTG20",
-      "auction": {
-        "_id": "6878eda6aace4cd2f6d721ce",
-        "gift_id": 7266428,
-        "seller": 0,
-        "auction_id": "LZRDTG20",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 9.325,
-            "asset": "TON",
-            "_id": "6878eeeaaace4cd2f6d7ac4c",
-            "timestamp": "2025-07-17T12:39:06.084Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.8,
-            "asset": "TON",
-            "_id": "6878f720aace4cd2f6dac3f3",
-            "timestamp": "2025-07-17T13:14:08.308Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.11,
-            "asset": "TON",
-            "_id": "6878f872aace4cd2f6db972c",
-            "timestamp": "2025-07-17T13:19:46.053Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.67,
-            "asset": "TON",
-            "_id": "6878f8d0aace4cd2f6dbdf07",
-            "timestamp": "2025-07-17T13:21:20.063Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.25,
-            "asset": "TON",
-            "_id": "6878f8e4aace4cd2f6dbe64f",
-            "timestamp": "2025-07-17T13:21:40.616Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.86,
-            "asset": "TON",
-            "_id": "6878f90caace4cd2f6dbf715",
-            "timestamp": "2025-07-17T13:22:20.688Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.5,
-            "asset": "TON",
-            "_id": "6878f920aace4cd2f6dbfa4d",
-            "timestamp": "2025-07-17T13:22:40.953Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15,
-            "asset": "TON",
-            "_id": "6878f934aace4cd2f6dc023f",
-            "timestamp": "2025-07-17T13:23:00.638Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "6878f948aace4cd2f6dc0d3a",
-            "timestamp": "2025-07-17T13:23:20.489Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 21,
-            "asset": "TON",
-            "_id": "6878fab7aace4cd2f6dc6ab4",
-            "timestamp": "2025-07-17T13:29:27.819Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 22.05,
-            "asset": "TON",
-            "_id": "6878faeeaace4cd2f6dc78bb",
-            "timestamp": "2025-07-17T13:30:22.974Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 23.15,
-            "asset": "TON",
-            "_id": "6878fb54aace4cd2f6dcb12e",
-            "timestamp": "2025-07-17T13:32:04.105Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 26,
-            "asset": "TON",
-            "_id": "6878fb60aace4cd2f6dcba4c",
-            "timestamp": "2025-07-17T13:32:16.880Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 27.3,
-            "asset": "TON",
-            "_id": "6878fb8caace4cd2f6dcc925",
-            "timestamp": "2025-07-17T13:33:00.546Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T13:43:40.023Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 135032,
-        "model": "Soul Eater (0.5%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Gift Box (1.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T12:33:42.377Z",
-        "__v": 0,
-        "winningBid": 27.3,
-        "winningBidder": 6224118343
-      },
+      "auction": null,
       "export_at": "2025-07-31T12:32:09.000Z",
       "premarketData": {}
     }
   ],
   "Black Mamba": [
     {
-      "gift_num": 112008,
+      "gift_num": 70997,
       "customEmojiId": "5188199590238644276",
-      "gift_id": 7139602,
+      "gift_id": 7008227,
       "name": "Lunar Snake",
       "model": "Black Mamba (1.5%)",
       "asset": "TON",
-      "symbol": "Diamonds (0.5%)",
-      "backdrop": "Ivory White (1%)",
+      "symbol": "Bastet (0.4%)",
+      "backdrop": "Black (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2,
+      "price": 21,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-24T19:08:22.000Z",
+      "export_at": "2025-07-19T14:23:36.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 17071,
+      "customEmojiId": "5188199590238644276",
+      "gift_id": 6448328,
+      "name": "Lunar Snake",
+      "model": "Black Mamba (1.5%)",
+      "asset": "TON",
+      "symbol": "Moon (0.5%)",
+      "backdrop": "Khaki Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-29T15:57:38.000Z",
       "premarketData": {}
     },
     {
@@ -13690,26 +13367,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-22T12:18:08.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 70997,
-      "customEmojiId": "5188199590238644276",
-      "gift_id": 7008227,
-      "name": "Lunar Snake",
-      "model": "Black Mamba (1.5%)",
-      "asset": "TON",
-      "symbol": "Bastet (0.4%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 25,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-19T14:23:36.000Z",
       "premarketData": {}
     },
     {
@@ -14357,6 +14014,46 @@
   ],
   "Aurium": [
     {
+      "gift_num": 119126,
+      "customEmojiId": "5219819083637221366",
+      "gift_id": 7109794,
+      "name": "Lunar Snake",
+      "model": "Aurium (1.3%)",
+      "asset": "TON",
+      "symbol": "Bowtie (1.8%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 12,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-23T18:13:04.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 48643,
+      "customEmojiId": "5219819083637221366",
+      "gift_id": 7269592,
+      "name": "Lunar Snake",
+      "model": "Aurium (1.3%)",
+      "asset": "TON",
+      "symbol": "Turtle (0.4%)",
+      "backdrop": "Satin Gold (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T16:15:22.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 133912,
       "customEmojiId": "5219819083637221366",
       "gift_id": 7247898,
@@ -14773,104 +14470,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "NAXIXDL9",
-      "auction": {
-        "_id": "687121248938e518f1f21853",
-        "gift_id": 7157553,
-        "seller": 0,
-        "auction_id": "NAXIXDL9",
-        "startingBid": 3.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "68715c628938e518f17c0c45",
-            "timestamp": "2025-07-11T18:48:02.852Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.7,
-            "asset": "TON",
-            "_id": "68715da38938e518f183403e",
-            "timestamp": "2025-07-11T18:53:23.853Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.89,
-            "asset": "TON",
-            "_id": "68715e868938e518f187e645",
-            "timestamp": "2025-07-11T18:57:10.055Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.089,
-            "asset": "TON",
-            "_id": "687161008938e518f1976170",
-            "timestamp": "2025-07-11T19:07:44.393Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.29,
-            "asset": "TON",
-            "_id": "6871611d8938e518f19845e9",
-            "timestamp": "2025-07-11T19:08:13.712Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.501,
-            "asset": "TON",
-            "_id": "687163068938e518f1a45bd7",
-            "timestamp": "2025-07-11T19:16:22.063Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.73,
-            "asset": "TON",
-            "_id": "687164de8938e518f1aabd76",
-            "timestamp": "2025-07-11T19:24:14.273Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.97,
-            "asset": "TON",
-            "_id": "687165808938e518f1ade177",
-            "timestamp": "2025-07-11T19:26:56.388Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.22,
-            "asset": "TON",
-            "_id": "6871659c8938e518f1ae929b",
-            "timestamp": "2025-07-11T19:27:24.095Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.48,
-            "asset": "TON",
-            "_id": "687166368938e518f1b0f978",
-            "timestamp": "2025-07-11T19:29:58.289Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.76,
-            "asset": "TON",
-            "_id": "68716a738938e518f1c175e7",
-            "timestamp": "2025-07-11T19:48:03.130Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T19:58:13.197Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 106224,
-        "model": "Aurium (1.3%)",
-        "backdrop": "Onyx Black (1.5%)",
-        "symbol": "Chest (1.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T18:08:14.285Z",
-        "__v": 0,
-        "winningBid": 5.76,
-        "winningBidder": 5505266030
-      },
+      "auction": null,
       "export_at": "2025-07-25T14:34:41.000Z",
       "premarketData": {}
     },
@@ -14892,26 +14492,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-19T22:25:37.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 119126,
-      "customEmojiId": "5219819083637221366",
-      "gift_id": 7109794,
-      "name": "Lunar Snake",
-      "model": "Aurium (1.3%)",
-      "asset": "TON",
-      "symbol": "Bowtie (1.8%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 13.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T18:13:04.000Z",
       "premarketData": {}
     },
     {
@@ -15033,26 +14613,6 @@
       "auction": null,
       "export_at": "2025-07-16T12:25:31.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 42549,
-      "customEmojiId": "5219819083637221366",
-      "gift_id": 6949779,
-      "name": "Lunar Snake",
-      "model": "Aurium (1.3%)",
-      "asset": "TON",
-      "symbol": "Mittens (1.5%)",
-      "backdrop": "Cobalt Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-17T00:04:22.000Z",
-      "premarketData": {}
     }
   ],
   "Rorschach": [
@@ -15134,26 +14694,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T21:18:07.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 48247,
-      "customEmojiId": "5188207389899255388",
-      "gift_id": 5360443,
-      "name": "Lunar Snake",
-      "model": "Rorschach (0.5%)",
-      "asset": "TON",
-      "symbol": "Celtic Cross (0.4%)",
-      "backdrop": "Navy Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-09T22:19:32.000Z",
       "premarketData": {}
     },
     {
@@ -15655,6 +15195,26 @@
       "auction": null,
       "export_at": "2025-06-25T13:58:00.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 94584,
+      "customEmojiId": "5188207389899255388",
+      "gift_id": 5905600,
+      "name": "Lunar Snake",
+      "model": "Rorschach (0.5%)",
+      "asset": "TON",
+      "symbol": "Gift Box (1.2%)",
+      "backdrop": "Cobalt Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-22T21:56:49.000Z",
+      "premarketData": {}
     }
   ],
   "Hissmas Tree": [
@@ -15955,34 +15515,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "PFLAAX0J",
-      "auction": {
-        "_id": "686fc25934f36633460a0920",
-        "gift_id": 7119301,
-        "seller": 0,
-        "auction_id": "PFLAAX0J",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "686fef9834f3663346927586",
-            "timestamp": "2025-07-10T16:51:36.083Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T17:01:39.972Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 132323,
-        "model": "Hissmas Tree (1%)",
-        "backdrop": "Rosewood (2%)",
-        "symbol": "Bowtie (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T15:51:41.547Z",
-        "__v": 0,
-        "winningBid": 2,
-        "winningBidder": 6229407804
-      },
+      "auction": null,
       "export_at": "2025-07-24T03:49:34.000Z",
       "premarketData": {}
     },
@@ -16525,34 +16058,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "7DWUBNMC",
-      "auction": {
-        "_id": "687036e534f3663346e89021",
-        "gift_id": 7143755,
-        "seller": 0,
-        "auction_id": "7DWUBNMC",
-        "startingBid": 3.45,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.45,
-            "asset": "TON",
-            "_id": "6873cc388938e518f17f79e7",
-            "timestamp": "2025-07-13T15:09:44.860Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T15:25:13.293Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 133000,
-        "model": "Python Dev (0.8%)",
-        "backdrop": "Light Olive (1.5%)",
-        "symbol": "Moon Eagle (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T14:15:17.193Z",
-        "__v": 0,
-        "winningBid": 3.45,
-        "winningBidder": 5296695447
-      },
+      "auction": null,
       "export_at": "2025-07-24T21:32:44.000Z",
       "premarketData": {}
     },
@@ -17501,6 +17007,26 @@
   ],
   "Dark Rattle": [
     {
+      "gift_num": 81970,
+      "customEmojiId": "5237899220916134551",
+      "gift_id": 7266916,
+      "name": "Lunar Snake",
+      "model": "Dark Rattle (1.5%)",
+      "asset": "TON",
+      "symbol": "Santa Hat (1.8%)",
+      "backdrop": "Caramel (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T13:10:41.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 134850,
       "customEmojiId": "5237899220916134551",
       "gift_id": 7264944,
@@ -18079,26 +17605,6 @@
       "auction": null,
       "export_at": "2025-06-25T13:27:02.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 60037,
-      "customEmojiId": "5237899220916134551",
-      "gift_id": 6231710,
-      "name": "Lunar Snake",
-      "model": "Dark Rattle (1.5%)",
-      "asset": "TON",
-      "symbol": "Pyramid (0.5%)",
-      "backdrop": "Indigo Dye (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-25T13:53:49.000Z",
-      "premarketData": {}
     }
   ],
   "Hissium": [
@@ -18280,26 +17786,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-28T11:14:04.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 42056,
-      "customEmojiId": "5219675120628427087",
-      "gift_id": 6962351,
-      "name": "Lunar Snake",
-      "model": "Hissium (1.3%)",
-      "asset": "TON",
-      "symbol": "Ladybug (0.4%)",
-      "backdrop": "Sapphire (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-17T14:12:00.000Z",
       "premarketData": {}
     },
     {
@@ -18700,6 +18186,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-29T23:37:30.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 42375,
+      "customEmojiId": "5219675120628427087",
+      "gift_id": 6949755,
+      "name": "Lunar Snake",
+      "model": "Hissium (1.3%)",
+      "asset": "TON",
+      "symbol": "Snowman (1.8%)",
+      "backdrop": "Pine Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-17T00:04:05.000Z",
       "premarketData": {}
     }
   ],
@@ -19643,83 +19149,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "Y59PHW7N",
-      "auction": {
-        "_id": "686f90a01fe9e6aa2cfc37d2",
-        "gift_id": 7110752,
-        "seller": 0,
-        "auction_id": "Y59PHW7N",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 9.4,
-            "asset": "TON",
-            "_id": "686f91031fe9e6aa2c06dffc",
-            "timestamp": "2025-07-10T10:08:03.432Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "686f9c241fe9e6aa2c8519b0",
-            "timestamp": "2025-07-10T10:55:32.874Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13,
-            "asset": "TON",
-            "_id": "686f9c4e1fe9e6aa2c8590e6",
-            "timestamp": "2025-07-10T10:56:14.949Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.65,
-            "asset": "TON",
-            "_id": "686f9d781fe9e6aa2c897851",
-            "timestamp": "2025-07-10T11:01:12.397Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 14.33,
-            "asset": "TON",
-            "_id": "686f9d821fe9e6aa2c89ab6a",
-            "timestamp": "2025-07-10T11:01:22.867Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15.05,
-            "asset": "TON",
-            "_id": "686f9da91fe9e6aa2c8a2714",
-            "timestamp": "2025-07-10T11:02:01.487Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15.8,
-            "asset": "TON",
-            "_id": "686f9f531fe9e6aa2c9099cc",
-            "timestamp": "2025-07-10T11:09:07.985Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 16.59,
-            "asset": "TON",
-            "_id": "686f9f9b1fe9e6aa2c917b0b",
-            "timestamp": "2025-07-10T11:10:19.046Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T11:26:23.067Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 97745,
-        "model": "Gold Rush (0.8%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Anchor (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T10:06:24.073Z",
-        "__v": 0,
-        "winningBid": 16.59,
-        "winningBidder": 1402535177
-      },
+      "auction": null,
       "export_at": "2025-07-23T18:58:17.000Z",
       "premarketData": {}
     },
@@ -21792,26 +21222,6 @@
   ],
   "Limescale": [
     {
-      "gift_num": 96511,
-      "customEmojiId": "5472089592700102094",
-      "gift_id": 7267362,
-      "name": "Lunar Snake",
-      "model": "Limescale (1.5%)",
-      "asset": "TON",
-      "symbol": "Candle (1.5%)",
-      "backdrop": "Ivory White (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T13:39:38.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 135342,
       "customEmojiId": "5472089592700102094",
       "gift_id": 7265670,
@@ -22272,26 +21682,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 116364,
-      "customEmojiId": "5472089592700102094",
-      "gift_id": 7165407,
-      "name": "Lunar Snake",
-      "model": "Limescale (1.5%)",
-      "asset": "TON",
-      "symbol": "Stocking (1.2%)",
-      "backdrop": "Khaki Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T21:26:02.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 16554,
       "customEmojiId": "5472089592700102094",
       "gift_id": 5758539,
@@ -22389,6 +21779,46 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T19:31:36.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 43,
+      "customEmojiId": "5472089592700102094",
+      "gift_id": 7126954,
+      "name": "Lunar Snake",
+      "model": "Limescale (1.5%)",
+      "asset": "TON",
+      "symbol": "Cookie (1.8%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-24T11:11:29.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 120182,
+      "customEmojiId": "5472089592700102094",
+      "gift_id": 7077817,
+      "name": "Lunar Snake",
+      "model": "Limescale (1.5%)",
+      "asset": "TON",
+      "symbol": "Cookie (1.8%)",
+      "backdrop": "Roman Silver (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-22T11:54:06.000Z",
       "premarketData": {}
     }
   ],
@@ -22530,76 +21960,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "6A0TAGHR",
-      "auction": {
-        "_id": "6876289caace4cd2f6f82f5e",
-        "gift_id": 7228014,
-        "seller": 0,
-        "auction_id": "6A0TAGHR",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 7,
-            "asset": "TON",
-            "_id": "68762d47aace4cd2f6fb113b",
-            "timestamp": "2025-07-15T10:28:23.577Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.35,
-            "asset": "TON",
-            "_id": "68763602aace4cd2f615fd95",
-            "timestamp": "2025-07-15T11:05:38.320Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.72,
-            "asset": "TON",
-            "_id": "68764323aace4cd2f61f0b3b",
-            "timestamp": "2025-07-15T12:01:39.981Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.11,
-            "asset": "TON",
-            "_id": "687646b0aace4cd2f64503e7",
-            "timestamp": "2025-07-15T12:16:48.563Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.52,
-            "asset": "TON",
-            "_id": "68764916aace4cd2f646866b",
-            "timestamp": "2025-07-15T12:27:02.728Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9,
-            "asset": "TON",
-            "_id": "6876496aaace4cd2f646c2e6",
-            "timestamp": "2025-07-15T12:28:26.213Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.45,
-            "asset": "TON",
-            "_id": "687649e5aace4cd2f6472064",
-            "timestamp": "2025-07-15T12:30:29.581Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T12:48:27.227Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 21153,
-        "model": "Blue Horizon (1.3%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Ice Pop (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T10:08:28.141Z",
-        "__v": 0,
-        "winningBid": 9.45,
-        "winningBidder": 925158594
-      },
+      "auction": null,
       "export_at": "2025-07-29T09:58:12.000Z",
       "premarketData": {}
     },
@@ -23142,48 +22503,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "GQ3FAMMM",
-      "auction": {
-        "_id": "6877a4a9aace4cd2f6413621",
-        "gift_id": 7249512,
-        "seller": 0,
-        "auction_id": "GQ3FAMMM",
-        "startingBid": 2.2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.2,
-            "asset": "TON",
-            "_id": "68781c00aace4cd2f6418c8a",
-            "timestamp": "2025-07-16T21:39:12.636Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.31,
-            "asset": "TON",
-            "_id": "68781e01aace4cd2f645218c",
-            "timestamp": "2025-07-16T21:47:45.072Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.43,
-            "asset": "TON",
-            "_id": "68781fe5aace4cd2f64757d0",
-            "timestamp": "2025-07-16T21:55:49.045Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T22:11:31.332Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 131253,
-        "model": "Hellspawn (0.5%)",
-        "backdrop": "Persimmon (2%)",
-        "symbol": "Coin (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T20:51:32.707Z",
-        "__v": 0,
-        "winningBid": 2.43,
-        "winningBidder": 1973410815
-      },
+      "auction": null,
       "export_at": "2025-07-30T13:02:37.000Z",
       "premarketData": {}
     },
@@ -23505,26 +22825,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-13T21:34:11.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 20709,
-      "customEmojiId": "5235876132405928314",
-      "gift_id": 6565913,
-      "name": "Lunar Snake",
-      "model": "Hellspawn (0.5%)",
-      "asset": "TON",
-      "symbol": "Manta Ray (0.5%)",
-      "backdrop": "Caramel (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-02T12:18:59.000Z",
       "premarketData": {}
     },
     {
@@ -24252,6 +23552,46 @@
   ],
   "Spring Burst": [
     {
+      "gift_num": 2872,
+      "customEmojiId": "5215314126800185166",
+      "gift_id": 7252693,
+      "name": "Lunar Snake",
+      "model": "Spring Burst (1.3%)",
+      "asset": "TON",
+      "symbol": "Mittens (1.5%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T15:58:52.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 73361,
+      "customEmojiId": "5215314126800185166",
+      "gift_id": 7271969,
+      "name": "Lunar Snake",
+      "model": "Spring Burst (1.3%)",
+      "asset": "TON",
+      "symbol": "Celtic Cross (0.4%)",
+      "backdrop": "Chocolate (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T19:25:56.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 63475,
       "customEmojiId": "5215314126800185166",
       "gift_id": 7270632,
@@ -24289,26 +23629,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-16T12:59:50.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2872,
-      "customEmojiId": "5215314126800185166",
-      "gift_id": 7252693,
-      "name": "Lunar Snake",
-      "model": "Spring Burst (1.3%)",
-      "asset": "TON",
-      "symbol": "Mittens (1.5%)",
-      "backdrop": "Onyx Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T15:58:52.000Z",
       "premarketData": {}
     },
     {
@@ -24829,26 +24149,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-29T22:22:13.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 18087,
-      "customEmojiId": "5215314126800185166",
-      "gift_id": 6949046,
-      "name": "Lunar Snake",
-      "model": "Spring Burst (1.3%)",
-      "asset": "TON",
-      "symbol": "Fireworks (1.8%)",
-      "backdrop": "Desert Sand (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-16T23:32:17.000Z",
       "premarketData": {}
     }
   ],
@@ -25456,6 +24756,26 @@
   ],
   "Bear Paw": [
     {
+      "gift_num": 13497,
+      "customEmojiId": "5208958120662952400",
+      "gift_id": 7210088,
+      "name": "Lunar Snake",
+      "model": "Bear Paw (1%)",
+      "asset": "TON",
+      "symbol": "Scissors (0.5%)",
+      "backdrop": "Pacific Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-28T10:12:34.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 73907,
       "customEmojiId": "5208958120662952400",
       "gift_id": 2245634,
@@ -25533,26 +24853,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-03T12:31:39.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 13497,
-      "customEmojiId": "5208958120662952400",
-      "gift_id": 7210088,
-      "name": "Lunar Snake",
-      "model": "Bear Paw (1%)",
-      "asset": "TON",
-      "symbol": "Scissors (0.5%)",
-      "backdrop": "Pacific Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T10:12:34.000Z",
       "premarketData": {}
     },
     {
@@ -25652,90 +24952,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "ZJI3L321",
-      "auction": {
-        "_id": "6874cf6c8938e518f16831e4",
-        "gift_id": 7207225,
-        "seller": 0,
-        "auction_id": "ZJI3L321",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6874d14d8938e518f1697a2f",
-            "timestamp": "2025-07-14T09:43:41.443Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6874d22e8938e518f17c850f",
-            "timestamp": "2025-07-14T09:47:26.592Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6874d2448938e518f18028c7",
-            "timestamp": "2025-07-14T09:47:48.558Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6874d3648938e518f1808780",
-            "timestamp": "2025-07-14T09:52:36.517Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6874d3728938e518f180891d",
-            "timestamp": "2025-07-14T09:52:50.568Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "6874d3ca8938e518f180af32",
-            "timestamp": "2025-07-14T09:54:18.869Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.3,
-            "asset": "TON",
-            "_id": "6874d4198938e518f180c296",
-            "timestamp": "2025-07-14T09:55:37.922Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7,
-            "asset": "TON",
-            "_id": "6874db6c8938e518f1885d89",
-            "timestamp": "2025-07-14T10:26:52.300Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.35,
-            "asset": "TON",
-            "_id": "6874e6c28938e518f18fdc7d",
-            "timestamp": "2025-07-14T11:15:14.977Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T11:35:38.227Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 43875,
-        "model": "Bear Paw (1%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Stocking (1.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T09:35:40.229Z",
-        "__v": 0,
-        "winningBid": 7.35,
-        "winningBidder": 7301086318
-      },
+      "auction": null,
       "export_at": "2025-07-28T05:49:38.000Z",
       "premarketData": {}
     },
@@ -25956,104 +25173,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "FLTLCU15",
-      "auction": {
-        "_id": "686e9d63022724755708db8b",
-        "gift_id": 7028957,
-        "seller": 0,
-        "auction_id": "FLTLCU15",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "687367c38938e518f1f91521",
-            "timestamp": "2025-07-13T08:01:07.912Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "6873aefa8938e518f1e13b0e",
-            "timestamp": "2025-07-13T13:04:58.597Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "6873df3f8938e518f19f7ba7",
-            "timestamp": "2025-07-13T16:30:55.793Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.48,
-            "asset": "TON",
-            "_id": "687412fd8938e518f1194889",
-            "timestamp": "2025-07-13T20:11:41.107Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "687415a08938e518f11c4fa5",
-            "timestamp": "2025-07-13T20:22:56.488Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.44,
-            "asset": "TON",
-            "_id": "687417e58938e518f11f327a",
-            "timestamp": "2025-07-13T20:32:37.437Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.9,
-            "asset": "TON",
-            "_id": "68742bfb8938e518f172b5af",
-            "timestamp": "2025-07-13T21:58:19.929Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.25,
-            "asset": "TON",
-            "_id": "687494498938e518f1c8d842",
-            "timestamp": "2025-07-14T05:23:21.946Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.61,
-            "asset": "TON",
-            "_id": "687497708938e518f1d7eba0",
-            "timestamp": "2025-07-14T05:36:48.882Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.99,
-            "asset": "TON",
-            "_id": "6874979a8938e518f1d7edb4",
-            "timestamp": "2025-07-14T05:37:30.704Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.39,
-            "asset": "TON",
-            "_id": "687497b48938e518f1d7f6ac",
-            "timestamp": "2025-07-14T05:37:56.558Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T05:48:46.771Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 43875,
-        "model": "Bear Paw (1%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Stocking (1.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T05:28:51.079Z",
-        "__v": 0,
-        "winningBid": 8.39,
-        "winningBidder": 7026344079
-      },
+      "auction": null,
       "export_at": "2025-07-20T13:04:13.000Z",
       "premarketData": {}
     },
@@ -26596,97 +25716,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "GHHG449Q",
-      "auction": {
-        "_id": "686be2320227247557907670",
-        "gift_id": 6998300,
-        "seller": 0,
-        "auction_id": "GHHG449Q",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68723d788938e518f1a34aaa",
-            "timestamp": "2025-07-12T10:48:24.971Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "687241cf8938e518f1c1031c",
-            "timestamp": "2025-07-12T11:06:55.577Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "687246f68938e518f1107a23",
-            "timestamp": "2025-07-12T11:28:54.324Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "687247188938e518f11169a1",
-            "timestamp": "2025-07-12T11:29:28.169Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "687247258938e518f111c3f0",
-            "timestamp": "2025-07-12T11:29:41.072Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "6872473a8938e518f112a30d",
-            "timestamp": "2025-07-12T11:30:02.887Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "6872474a8938e518f1133b20",
-            "timestamp": "2025-07-12T11:30:18.893Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.83,
-            "asset": "TON",
-            "_id": "687247668938e518f1145c1a",
-            "timestamp": "2025-07-12T11:30:46.731Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.97,
-            "asset": "TON",
-            "_id": "687249a28938e518f126674d",
-            "timestamp": "2025-07-12T11:40:18.333Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "687249c68938e518f1270f43",
-            "timestamp": "2025-07-12T11:40:54.189Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T11:50:57.255Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 95212,
-        "model": "Cyber Ruby (0.8%)",
-        "backdrop": "Raspberry (1.5%)",
-        "symbol": "Hot Drink (1.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T10:30:57.915Z",
-        "__v": 0,
-        "winningBid": 3.5,
-        "winningBidder": 5294525311
-      },
+      "auction": null,
       "export_at": "2025-07-19T04:08:44.000Z",
       "premarketData": {}
     },
@@ -26933,26 +25963,6 @@
   ],
   "Sandrift": [
     {
-      "gift_num": 53036,
-      "customEmojiId": "5208709270257820369",
-      "gift_id": 7269287,
-      "name": "Lunar Snake",
-      "model": "Sandrift (1.3%)",
-      "asset": "TON",
-      "symbol": "Key (0.4%)",
-      "backdrop": "Pacific Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T15:51:34.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 116913,
       "customEmojiId": "5208709270257820369",
       "gift_id": 7264209,
@@ -26970,26 +25980,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-31T09:47:14.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 48176,
-      "customEmojiId": "5208709270257820369",
-      "gift_id": 7240655,
-      "name": "Lunar Snake",
-      "model": "Sandrift (1.3%)",
-      "asset": "TON",
-      "symbol": "Snowflake (1.5%)",
-      "backdrop": "Sky Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T21:54:01.000Z",
       "premarketData": {}
     },
     {
@@ -27530,6 +26520,46 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-25T13:49:07.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 80593,
+      "customEmojiId": "5208709270257820369",
+      "gift_id": 6389723,
+      "name": "Lunar Snake",
+      "model": "Sandrift (1.3%)",
+      "asset": "TON",
+      "symbol": "Ice Skates (1.8%)",
+      "backdrop": "Coral Red (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-28T11:14:56.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 109989,
+      "customEmojiId": "5208709270257820369",
+      "gift_id": 6790208,
+      "name": "Lunar Snake",
+      "model": "Sandrift (1.3%)",
+      "asset": "TON",
+      "symbol": "Cupcake (1.8%)",
+      "backdrop": "Carrot Juice (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.6,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-10T23:47:39.000Z",
       "premarketData": {}
     }
   ],
@@ -29904,6 +28934,26 @@
   ],
   "Psychedelic": [
     {
+      "gift_num": 127831,
+      "customEmojiId": "5215375471818074629",
+      "gift_id": 7233925,
+      "name": "Lunar Snake",
+      "model": "Psychedelic (0.5%)",
+      "asset": "TON",
+      "symbol": "Snowflake (1.5%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.17,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T15:46:31.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 132769,
       "customEmojiId": "5215375471818074629",
       "gift_id": 7268679,
@@ -29981,26 +29031,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-16T12:04:31.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 127831,
-      "customEmojiId": "5215375471818074629",
-      "gift_id": 7233925,
-      "name": "Lunar Snake",
-      "model": "Psychedelic (0.5%)",
-      "asset": "TON",
-      "symbol": "Snowflake (1.5%)",
-      "backdrop": "Lemongrass (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.84,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T15:46:31.000Z",
       "premarketData": {}
     },
     {
@@ -30160,41 +29190,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "9VWWC2W3",
-      "auction": {
-        "_id": "68757d34aace4cd2f6bcacb5",
-        "gift_id": 7221980,
-        "seller": 0,
-        "auction_id": "9VWWC2W3",
-        "startingBid": 2.71,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.71,
-            "asset": "TON",
-            "_id": "687630caaace4cd2f6131568",
-            "timestamp": "2025-07-15T10:43:22.927Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.85,
-            "asset": "TON",
-            "_id": "6876328daace4cd2f61366d5",
-            "timestamp": "2025-07-15T10:50:53.186Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T11:08:15.120Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 134455,
-        "model": "Psychedelic (0.5%)",
-        "backdrop": "Satin Gold (1.5%)",
-        "symbol": "Mistletoe (1.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T09:48:15.971Z",
-        "__v": 0,
-        "winningBid": 2.85,
-        "winningBidder": 303779892
-      },
+      "auction": null,
       "export_at": "2025-07-28T21:27:25.000Z",
       "premarketData": {}
     },
@@ -31037,55 +30033,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "AK6M2VYG",
-      "auction": {
-        "_id": "686e8fd20227247557ac5daf",
-        "gift_id": 7103182,
-        "seller": 0,
-        "auction_id": "AK6M2VYG",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 8,
-            "asset": "TON",
-            "_id": "686eb65e022724755795e850",
-            "timestamp": "2025-07-09T18:35:10.993Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.4,
-            "asset": "TON",
-            "_id": "686eb91002272475579f6bac",
-            "timestamp": "2025-07-09T18:46:40.757Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9,
-            "asset": "TON",
-            "_id": "686ebbc40227247557a80f09",
-            "timestamp": "2025-07-09T18:58:12.639Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.45,
-            "asset": "TON",
-            "_id": "686ebfb80227247557baf011",
-            "timestamp": "2025-07-09T19:15:04.341Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T19:29:35.831Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 132259,
-        "model": "Copperhead (1.5%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Ornament (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T18:29:36.801Z",
-        "__v": 0,
-        "winningBid": 9.45,
-        "winningBidder": 1936495050
-      },
+      "auction": null,
       "export_at": "2025-07-23T12:39:43.000Z",
       "premarketData": {}
     },
@@ -31794,6 +30742,26 @@
   ],
   "Golden Coal": [
     {
+      "gift_num": 132521,
+      "customEmojiId": "5226896442416718465",
+      "gift_id": 7133068,
+      "name": "Lunar Snake",
+      "model": "Golden Coal (1.3%)",
+      "asset": "TON",
+      "symbol": "Dessert (1.8%)",
+      "backdrop": "Cappuccino (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-24T15:12:40.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 129846,
       "customEmojiId": "5226896442416718465",
       "gift_id": 7059572,
@@ -32130,125 +31098,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "GFCIZQ45",
-      "auction": {
-        "_id": "686ba2450227247557a32aee",
-        "gift_id": 7026838,
-        "seller": 0,
-        "auction_id": "GFCIZQ45",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "686eb6ed022724755798220f",
-            "timestamp": "2025-07-09T18:37:33.003Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.7,
-            "asset": "TON",
-            "_id": "686eb84302272475579d2688",
-            "timestamp": "2025-07-09T18:43:15.766Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.89,
-            "asset": "TON",
-            "_id": "686eda0417ef9a499241a82d",
-            "timestamp": "2025-07-09T21:07:16.360Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.09,
-            "asset": "TON",
-            "_id": "686eda2717ef9a499241ccf9",
-            "timestamp": "2025-07-09T21:07:51.391Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.3,
-            "asset": "TON",
-            "_id": "686edc2a17ef9a4992443e2e",
-            "timestamp": "2025-07-09T21:16:26.233Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.52,
-            "asset": "TON",
-            "_id": "686edc3d17ef9a4992444eed",
-            "timestamp": "2025-07-09T21:16:45.260Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.75,
-            "asset": "TON",
-            "_id": "686edc4a17ef9a4992445ba1",
-            "timestamp": "2025-07-09T21:16:58.237Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.99,
-            "asset": "TON",
-            "_id": "686edcc517ef9a499244bc1d",
-            "timestamp": "2025-07-09T21:19:01.273Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.24,
-            "asset": "TON",
-            "_id": "686edcd717ef9a499244c326",
-            "timestamp": "2025-07-09T21:19:19.593Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.5,
-            "asset": "TON",
-            "_id": "686edd1717ef9a499244f54a",
-            "timestamp": "2025-07-09T21:20:23.541Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.78,
-            "asset": "TON",
-            "_id": "686edd2117ef9a499244fa2e",
-            "timestamp": "2025-07-09T21:20:33.913Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.07,
-            "asset": "TON",
-            "_id": "686edd3c17ef9a4992451739",
-            "timestamp": "2025-07-09T21:21:00.919Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.37,
-            "asset": "TON",
-            "_id": "686edd4d17ef9a4992452054",
-            "timestamp": "2025-07-09T21:21:17.204Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.69,
-            "asset": "TON",
-            "_id": "686edd6517ef9a499245363f",
-            "timestamp": "2025-07-09T21:21:41.554Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T21:38:13.374Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 93576,
-        "model": "Golden Coal (1.3%)",
-        "backdrop": "Onyx Black (1.5%)",
-        "symbol": "Ornament (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T18:08:14.376Z",
-        "__v": 0,
-        "winningBid": 6.69,
-        "winningBidder": 779155171
-      },
+      "auction": null,
       "export_at": "2025-07-20T11:25:10.000Z",
       "premarketData": {}
     },
@@ -32491,29 +31341,29 @@
       "auction": null,
       "export_at": "2025-06-25T05:30:48.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Sun Serpent": [
     {
-      "gift_num": 37380,
-      "customEmojiId": "5226896442416718465",
-      "gift_id": 6318750,
+      "gift_num": 12883,
+      "customEmojiId": "5222225618237676953",
+      "gift_id": 6158722,
       "name": "Lunar Snake",
-      "model": "Golden Coal (1.3%)",
+      "model": "Sun Serpent (1%)",
       "asset": "TON",
-      "symbol": "Mittens (1.5%)",
-      "backdrop": "Dark Lilac (1.5%)",
+      "symbol": "Cone (0.5%)",
+      "backdrop": "Indigo Dye (1%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2.99,
+      "price": 2.3,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-06-26T22:30:19.000Z",
+      "export_at": "2025-06-24T17:02:31.000Z",
       "premarketData": {}
-    }
-  ],
-  "Sun Serpent": [
+    },
     {
       "gift_num": 23729,
       "customEmojiId": "5222225618237676953",
@@ -32871,69 +31721,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "NCC57771",
-      "auction": {
-        "_id": "686a530a0227247557cd9251",
-        "gift_id": 4523436,
-        "seller": 0,
-        "auction_id": "NCC57771",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 6.7,
-            "asset": "TON",
-            "_id": "68740cf18938e518f114e595",
-            "timestamp": "2025-07-13T19:45:53.088Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.04,
-            "asset": "TON",
-            "_id": "6874150e8938e518f11b4856",
-            "timestamp": "2025-07-13T20:20:30.848Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.39,
-            "asset": "TON",
-            "_id": "687417f28938e518f11f45a1",
-            "timestamp": "2025-07-13T20:32:50.772Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.76,
-            "asset": "TON",
-            "_id": "687418748938e518f11fc4bf",
-            "timestamp": "2025-07-13T20:35:00.405Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.15,
-            "asset": "TON",
-            "_id": "6874187f8938e518f11fccb4",
-            "timestamp": "2025-07-13T20:35:11.066Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.7,
-            "asset": "TON",
-            "_id": "68741b448938e518f1238df2",
-            "timestamp": "2025-07-13T20:47:00.076Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T20:57:09.827Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 113054,
-        "model": "Sun Serpent (1%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Bowtie (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T19:37:10.747Z",
-        "__v": 0,
-        "winningBid": 8.7,
-        "winningBidder": 149061136
-      },
+      "auction": null,
       "export_at": "2025-05-22T19:27:37.000Z",
       "premarketData": {}
     },
@@ -33155,26 +31943,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-13T11:31:08.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 89911,
-      "customEmojiId": "5222225618237676953",
-      "gift_id": 3347490,
-      "name": "Lunar Snake",
-      "model": "Sun Serpent (1%)",
-      "asset": "TON",
-      "symbol": "Cookie (1.8%)",
-      "backdrop": "Sky Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-03T15:23:47.000Z",
       "premarketData": {}
     }
   ],
@@ -33656,139 +32424,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "E7HSG9P8",
-      "auction": {
-        "_id": "686d57a50227247557ed0c0c",
-        "gift_id": 7085446,
-        "seller": 0,
-        "auction_id": "E7HSG9P8",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.2,
-            "asset": "TON",
-            "_id": "686f814f1fe9e6aa2caa6bb0",
-            "timestamp": "2025-07-10T09:01:03.576Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.33,
-            "asset": "TON",
-            "_id": "686f81ea1fe9e6aa2cab1ae2",
-            "timestamp": "2025-07-10T09:03:38.804Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.7,
-            "asset": "TON",
-            "_id": "686f8b6e1fe9e6aa2cb7fa05",
-            "timestamp": "2025-07-10T09:44:14.045Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "686f8bb61fe9e6aa2cb871d2",
-            "timestamp": "2025-07-10T09:45:26.260Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.2,
-            "asset": "TON",
-            "_id": "686f8bfd1fe9e6aa2cb8f886",
-            "timestamp": "2025-07-10T09:46:37.766Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.41,
-            "asset": "TON",
-            "_id": "686f92eb1fe9e6aa2c22ee65",
-            "timestamp": "2025-07-10T10:16:11.244Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.63,
-            "asset": "TON",
-            "_id": "686f930c1fe9e6aa2c233205",
-            "timestamp": "2025-07-10T10:16:44.526Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6,
-            "asset": "TON",
-            "_id": "686f93361fe9e6aa2c2a676a",
-            "timestamp": "2025-07-10T10:17:26.570Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.3,
-            "asset": "TON",
-            "_id": "686f93511fe9e6aa2c2e3681",
-            "timestamp": "2025-07-10T10:17:53.306Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.99,
-            "asset": "TON",
-            "_id": "686f95ef1fe9e6aa2c728a81",
-            "timestamp": "2025-07-10T10:29:03.400Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.34,
-            "asset": "TON",
-            "_id": "686f96021fe9e6aa2c729deb",
-            "timestamp": "2025-07-10T10:29:22.605Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.71,
-            "asset": "TON",
-            "_id": "686f993c1fe9e6aa2c7e8fd1",
-            "timestamp": "2025-07-10T10:43:08.800Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.1,
-            "asset": "TON",
-            "_id": "686f996f1fe9e6aa2c7ee6b9",
-            "timestamp": "2025-07-10T10:43:59.505Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.51,
-            "asset": "TON",
-            "_id": "686f99dc1fe9e6aa2c7fb219",
-            "timestamp": "2025-07-10T10:45:48.168Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9,
-            "asset": "TON",
-            "_id": "686f99f21fe9e6aa2c7fd128",
-            "timestamp": "2025-07-10T10:46:10.096Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.45,
-            "asset": "TON",
-            "_id": "686f99ff1fe9e6aa2c7ff89b",
-            "timestamp": "2025-07-10T10:46:23.516Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T11:04:45.024Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 131908,
-        "model": "Red Reptile (1.5%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Bunny (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T08:44:45.799Z",
-        "__v": 0,
-        "winningBid": 9.45,
-        "winningBidder": 841957742
-      },
+      "auction": null,
       "export_at": "2025-07-22T16:21:39.000Z",
       "premarketData": {}
     },
@@ -34052,26 +32688,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-27T13:46:31.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 56752,
-      "customEmojiId": "5474223654575301310",
-      "gift_id": 6820413,
-      "name": "Lunar Snake",
-      "model": "Green Viper (1.5%)",
-      "asset": "TON",
-      "symbol": "Christmas Tree (1.8%)",
-      "backdrop": "Jade Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-12T12:01:25.000Z",
       "premarketData": {}
     },
     {
@@ -34395,26 +33011,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 114659,
-      "customEmojiId": "5474223654575301310",
-      "gift_id": 7009104,
-      "name": "Lunar Snake",
-      "model": "Green Viper (1.5%)",
-      "asset": "TON",
-      "symbol": "Hand of God (0.5%)",
-      "backdrop": "Cappuccino (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-19T15:03:43.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 104644,
       "customEmojiId": "5474223654575301310",
       "gift_id": 7135291,
@@ -34513,6 +33109,46 @@
       "auction": null,
       "export_at": "2025-07-23T22:14:10.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 21581,
+      "customEmojiId": "5474223654575301310",
+      "gift_id": 7108298,
+      "name": "Lunar Snake",
+      "model": "Green Viper (1.5%)",
+      "asset": "TON",
+      "symbol": "Shooting Star (1.8%)",
+      "backdrop": "Light Olive (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-23T16:47:45.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 82924,
+      "customEmojiId": "5474223654575301310",
+      "gift_id": 7098512,
+      "name": "Lunar Snake",
+      "model": "Green Viper (1.5%)",
+      "asset": "TON",
+      "symbol": "Sparks (1.2%)",
+      "backdrop": "Platinum (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-23T08:22:22.000Z",
+      "premarketData": {}
     }
   ],
   "Hisstagram": [
@@ -34529,11 +33165,31 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 10,
+      "price": 8,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "export_at": "2025-07-29T19:25:26.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 131694,
+      "customEmojiId": "5210697569532928948",
+      "gift_id": 7227603,
+      "name": "Lunar Snake",
+      "model": "Hisstagram (1%)",
+      "asset": "TON",
+      "symbol": "Corn (0.4%)",
+      "backdrop": "Orange (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T09:29:45.000Z",
       "premarketData": {}
     },
     {
@@ -34574,26 +33230,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T17:03:11.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 131694,
-      "customEmojiId": "5210697569532928948",
-      "gift_id": 7227603,
-      "name": "Lunar Snake",
-      "model": "Hisstagram (1%)",
-      "asset": "TON",
-      "symbol": "Corn (0.4%)",
-      "backdrop": "Orange (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T09:29:45.000Z",
       "premarketData": {}
     },
     {
@@ -35977,48 +34613,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "WBJ85ULP",
-      "auction": {
-        "_id": "6870aabc34f3663346ef5a1c",
-        "gift_id": 7142806,
-        "seller": 0,
-        "auction_id": "WBJ85ULP",
-        "startingBid": 2.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.5,
-            "asset": "TON",
-            "_id": "6870d40c34f36633466daeb6",
-            "timestamp": "2025-07-11T09:06:20.586Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.63,
-            "asset": "TON",
-            "_id": "6870d60034f36633466ff0a6",
-            "timestamp": "2025-07-11T09:14:40.642Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.76,
-            "asset": "TON",
-            "_id": "6870d62b34f3663346704a70",
-            "timestamp": "2025-07-11T09:15:23.389Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T09:32:48.331Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 32092,
-        "model": "Xenomorph (0.5%)",
-        "backdrop": "Khaki Green (2%)",
-        "symbol": "Pencil (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T08:12:49.315Z",
-        "__v": 0,
-        "winningBid": 2.76,
-        "winningBidder": 913101664
-      },
+      "auction": null,
       "export_at": "2025-07-24T20:58:11.000Z",
       "premarketData": {}
     },
@@ -37403,76 +35998,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "5HBKI6IO",
-      "auction": {
-        "_id": "68662242bd0eb62ec98bc702",
-        "gift_id": 6815936,
-        "seller": 0,
-        "auction_id": "5HBKI6IO",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6874d7df8938e518f184a2ab",
-            "timestamp": "2025-07-14T10:11:43.707Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6874d98f8938e518f1879aec",
-            "timestamp": "2025-07-14T10:18:55.824Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6874d99e8938e518f187a9e5",
-            "timestamp": "2025-07-14T10:19:10.505Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6874d9aa8938e518f187b340",
-            "timestamp": "2025-07-14T10:19:22.738Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6874d9cb8938e518f187c45b",
-            "timestamp": "2025-07-14T10:19:55.458Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "6874d9e18938e518f187d31b",
-            "timestamp": "2025-07-14T10:20:17.967Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "6874dc378938e518f188ba4c",
-            "timestamp": "2025-07-14T10:30:15.096Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T10:43:12.955Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 21259,
-        "model": "Red Cheddar (0.8%)",
-        "backdrop": "Onyx Black (1.5%)",
-        "symbol": "Nordic Wolf (1.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T04:23:15.169Z",
-        "__v": 0,
-        "winningBid": 2.69,
-        "winningBidder": 837111304
-      },
+      "auction": null,
       "export_at": "2025-07-12T07:49:59.000Z",
       "premarketData": {}
     },
@@ -37638,6 +36164,26 @@
     }
   ],
   "Iron Mine": [
+    {
+      "gift_num": 18206,
+      "customEmojiId": "5201805320782894729",
+      "gift_id": 6584740,
+      "name": "Lunar Snake",
+      "model": "Iron Mine (0.8%)",
+      "asset": "TON",
+      "symbol": "Bowtie (1.8%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-02T21:22:48.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 54332,
       "customEmojiId": "5201805320782894729",
@@ -37835,34 +36381,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "A9ZDL2HX",
-      "auction": {
-        "_id": "687221c48938e518f1693c29",
-        "gift_id": 7167992,
-        "seller": 0,
-        "auction_id": "A9ZDL2HX",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68722be08938e518f1786292",
-            "timestamp": "2025-07-12T09:33:20.456Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T09:50:10.641Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 106453,
-        "model": "Iron Mine (0.8%)",
-        "backdrop": "Orange (2%)",
-        "symbol": "Dessert (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T08:50:12.293Z",
-        "__v": 0,
-        "winningBid": 2,
-        "winningBidder": 6047422584
-      },
+      "auction": null,
       "export_at": "2025-07-26T00:29:43.000Z",
       "premarketData": {}
     },
@@ -37883,34 +36402,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "VLJRKTK5",
-      "auction": {
-        "_id": "686d1d780227247557d65990",
-        "gift_id": 7079933,
-        "seller": 0,
-        "auction_id": "VLJRKTK5",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6871dc3b8938e518f1c278d5",
-            "timestamp": "2025-07-12T03:53:31.207Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T04:06:17.249Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 54332,
-        "model": "Iron Mine (0.8%)",
-        "backdrop": "Steel Grey (1%)",
-        "symbol": "Pickaxe (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T15:56:18.377Z",
-        "__v": 0,
-        "winningBid": 3,
-        "winningBidder": 510629685
-      },
+      "auction": null,
       "export_at": "2025-07-22T13:28:06.000Z",
       "premarketData": {}
     },
@@ -38273,47 +36765,27 @@
       "auction": null,
       "export_at": "2025-06-22T15:30:02.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 42212,
-      "customEmojiId": "5201805320782894729",
-      "gift_id": 5635708,
-      "name": "Lunar Snake",
-      "model": "Iron Mine (0.8%)",
-      "asset": "TON",
-      "symbol": "Magic Wand (1.2%)",
-      "backdrop": "Mint Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 14.3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-17T21:37:41.000Z",
-      "premarketData": {}
     }
   ],
   "Pearl Scales": [
     {
-      "gift_num": 134909,
+      "gift_num": 88023,
       "customEmojiId": "5192668404925883148",
-      "gift_id": 7266910,
+      "gift_id": 7247018,
       "name": "Lunar Snake",
       "model": "Pearl Scales (1%)",
       "asset": "TON",
-      "symbol": "Elephant (0.5%)",
-      "backdrop": "Lavender (2%)",
+      "symbol": "Coin (0.5%)",
+      "backdrop": "Onyx Black (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3,
+      "price": 5.3,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-31T13:10:28.000Z",
+      "export_at": "2025-07-30T10:21:54.000Z",
       "premarketData": {}
     },
     {
@@ -38433,48 +36905,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "21T7O0NE",
-      "auction": {
-        "_id": "68765fe5aace4cd2f6a778aa",
-        "gift_id": 7209889,
-        "seller": 0,
-        "auction_id": "21T7O0NE",
-        "startingBid": 8,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 8,
-            "asset": "TON",
-            "_id": "687679e6aace4cd2f6466f45",
-            "timestamp": "2025-07-15T15:55:18.700Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.4,
-            "asset": "TON",
-            "_id": "68767e2caace4cd2f67da5f5",
-            "timestamp": "2025-07-15T16:13:32.422Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.82,
-            "asset": "TON",
-            "_id": "68768099aace4cd2f683f86d",
-            "timestamp": "2025-07-15T16:23:53.447Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T16:34:21.215Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 109062,
-        "model": "Pearl Scales (1%)",
-        "backdrop": "Black (2%)",
-        "symbol": "White Deer (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T14:04:21.999Z",
-        "__v": 0,
-        "winningBid": 8.82,
-        "winningBidder": 984388640
-      },
+      "auction": null,
       "export_at": "2025-07-28T10:00:17.000Z",
       "premarketData": {}
     },
@@ -39543,6 +37974,26 @@
   ],
   "Saffron": [
     {
+      "gift_num": 122068,
+      "customEmojiId": "5474171857269714947",
+      "gift_id": 7266918,
+      "name": "Lunar Snake",
+      "model": "Saffron (1.5%)",
+      "asset": "TON",
+      "symbol": "Eggplant (0.4%)",
+      "backdrop": "Satin Gold (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T13:10:46.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 73681,
       "customEmojiId": "5474171857269714947",
       "gift_id": 7207206,
@@ -39640,6 +38091,145 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T13:43:25.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 83769,
+      "customEmojiId": "5474171857269714947",
+      "gift_id": 7246082,
+      "name": "Lunar Snake",
+      "model": "Saffron (1.5%)",
+      "asset": "TON",
+      "symbol": "White Deer (1.8%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "QRWMACB5",
+      "auction": {
+        "_id": "6877961daace4cd2f6bca9c6",
+        "gift_id": 7246082,
+        "seller": 0,
+        "auction_id": "QRWMACB5",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68781435aace4cd2f612a855",
+            "timestamp": "2025-07-16T21:05:57.984Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "68787bccaace4cd2f681bca1",
+            "timestamp": "2025-07-17T04:27:56.303Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "6878b174aace4cd2f6c38ed0",
+            "timestamp": "2025-07-17T08:16:52.848Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4,
+            "asset": "TON",
+            "_id": "6878bfa3aace4cd2f6ec73c5",
+            "timestamp": "2025-07-17T09:17:23.275Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.2,
+            "asset": "TON",
+            "_id": "6878bfb4aace4cd2f6ecb758",
+            "timestamp": "2025-07-17T09:17:40.768Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.41,
+            "asset": "TON",
+            "_id": "68793041aace4cd2f640c4a6",
+            "timestamp": "2025-07-17T17:17:53.415Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.63,
+            "asset": "TON",
+            "_id": "68793087aace4cd2f640ed7f",
+            "timestamp": "2025-07-17T17:19:03.440Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.86,
+            "asset": "TON",
+            "_id": "687930a9aace4cd2f641116e",
+            "timestamp": "2025-07-17T17:19:37.836Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.1,
+            "asset": "TON",
+            "_id": "687941b6aace4cd2f649b263",
+            "timestamp": "2025-07-17T18:32:22.597Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.36,
+            "asset": "TON",
+            "_id": "687944a7aace4cd2f64aff6c",
+            "timestamp": "2025-07-17T18:44:55.690Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.63,
+            "asset": "TON",
+            "_id": "68794572aace4cd2f64b4520",
+            "timestamp": "2025-07-17T18:48:18.911Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.91,
+            "asset": "TON",
+            "_id": "687946e7aace4cd2f64ba55d",
+            "timestamp": "2025-07-17T18:54:31.439Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.21,
+            "asset": "TON",
+            "_id": "687960d7aace4cd2f658a06d",
+            "timestamp": "2025-07-17T20:45:11.323Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8,
+            "asset": "TON",
+            "_id": "68796228aace4cd2f65902a4",
+            "timestamp": "2025-07-17T20:50:48.635Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-17T21:01:25.235Z",
+        "status": "finished",
+        "gift_name": "Lunar Snake",
+        "gift_num": 83769,
+        "model": "Saffron (1.5%)",
+        "backdrop": "Black (2%)",
+        "symbol": "White Deer (1.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-16T20:51:26.918Z",
+        "__v": 0,
+        "winningBid": 8,
+        "winningBidder": 1896807972
+      },
+      "export_at": "2025-07-30T09:19:33.000Z",
       "premarketData": {}
     },
     {
@@ -40100,46 +38690,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-10T19:42:40.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 47990,
-      "customEmojiId": "5474171857269714947",
-      "gift_id": 7108835,
-      "name": "Lunar Snake",
-      "model": "Saffron (1.5%)",
-      "asset": "TON",
-      "symbol": "Shooting Star (1.8%)",
-      "backdrop": "Moonstone (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T17:16:16.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 28005,
-      "customEmojiId": "5474171857269714947",
-      "gift_id": 5940798,
-      "name": "Lunar Snake",
-      "model": "Saffron (1.5%)",
-      "asset": "TON",
-      "symbol": "Tulip (0.4%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T10:32:44.000Z",
       "premarketData": {}
     }
   ],
@@ -40983,34 +39533,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "B94T0TZN",
-      "auction": {
-        "_id": "6873c6688938e518f12f37aa",
-        "gift_id": 7195639,
-        "seller": 0,
-        "auction_id": "B94T0TZN",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "6874f3db8938e518f1bf5006",
-            "timestamp": "2025-07-14T12:11:07.640Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T12:22:16.400Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 83340,
-        "model": "Glowbra (1%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Burger (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T11:12:21.200Z",
-        "__v": 0,
-        "winningBid": 10,
-        "winningBidder": 426603724
-      },
+      "auction": null,
       "export_at": "2025-07-27T14:03:23.000Z",
       "premarketData": {}
     },
@@ -41171,34 +39694,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "6WKKSHG4",
-      "auction": {
-        "_id": "686ec6880227247557e55dc0",
-        "gift_id": 7111824,
-        "seller": 0,
-        "auction_id": "6WKKSHG4",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "686ed49017ef9a49923f28e2",
-            "timestamp": "2025-07-09T20:44:00.854Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T20:54:06.409Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 82637,
-        "model": "Glowbra (1%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Ornament (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T19:44:08.474Z",
-        "__v": 0,
-        "winningBid": 10,
-        "winningBidder": 912845903
-      },
+      "auction": null,
       "export_at": "2025-07-23T19:41:04.000Z",
       "premarketData": {}
     },
@@ -41887,6 +40383,26 @@
       "premarketData": {}
     },
     {
+      "gift_num": 128364,
+      "customEmojiId": "5217651787305083149",
+      "gift_id": 6960079,
+      "name": "Lunar Snake",
+      "model": "Fromage (0.8%)",
+      "asset": "TON",
+      "symbol": "Hand of God (0.5%)",
+      "backdrop": "Caramel (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-17T12:49:27.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 42681,
       "customEmojiId": "5217651787305083149",
       "gift_id": 5810838,
@@ -41967,26 +40483,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 128364,
-      "customEmojiId": "5217651787305083149",
-      "gift_id": 6960079,
-      "name": "Lunar Snake",
-      "model": "Fromage (0.8%)",
-      "asset": "TON",
-      "symbol": "Hand of God (0.5%)",
-      "backdrop": "Caramel (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-17T12:49:27.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 113073,
       "customEmojiId": "5217651787305083149",
       "gift_id": 6726285,
@@ -42064,26 +40560,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-26T12:27:31.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 60817,
-      "customEmojiId": "5217651787305083149",
-      "gift_id": 7170175,
-      "name": "Lunar Snake",
-      "model": "Fromage (0.8%)",
-      "asset": "TON",
-      "symbol": "Shooting Star (1.8%)",
-      "backdrop": "Desert Sand (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T06:49:09.000Z",
       "premarketData": {}
     },
     {
@@ -42223,34 +40699,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "MW80JT7J",
-      "auction": {
-        "_id": "686da1f60227247557f2238a",
-        "gift_id": 6797829,
-        "seller": 0,
-        "auction_id": "MW80JT7J",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "686e9d8a022724755709adbd",
-            "timestamp": "2025-07-09T16:49:14.597Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T17:39:39.090Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 98984,
-        "model": "Fromage (0.8%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Monstera (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T16:39:41.367Z",
-        "__v": 0,
-        "winningBid": 10,
-        "winningBidder": 1936495050
-      },
+      "auction": null,
       "export_at": "2025-07-11T11:19:54.000Z",
       "premarketData": {}
     },
@@ -42492,6 +40941,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-28T10:13:50.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 69370,
+      "customEmojiId": "5217651787305083149",
+      "gift_id": 6397659,
+      "name": "Lunar Snake",
+      "model": "Fromage (0.8%)",
+      "asset": "TON",
+      "symbol": "Cocktail (1.8%)",
+      "backdrop": "Pure Gold (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-28T13:55:56.000Z",
       "premarketData": {}
     }
   ],
@@ -42873,90 +41342,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "Q5DOH20C",
-      "auction": {
-        "_id": "68766f39aace4cd2f63c0e13",
-        "gift_id": 6353634,
-        "seller": 0,
-        "auction_id": "Q5DOH20C",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.2,
-            "asset": "TON",
-            "_id": "6876f031aace4cd2f6a6d4db",
-            "timestamp": "2025-07-16T00:20:01.840Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.31,
-            "asset": "TON",
-            "_id": "6877b056aace4cd2f6873e35",
-            "timestamp": "2025-07-16T13:59:50.902Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.43,
-            "asset": "TON",
-            "_id": "6877b9eaaace4cd2f69762ed",
-            "timestamp": "2025-07-16T14:40:42.213Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.55,
-            "asset": "TON",
-            "_id": "6877badfaace4cd2f6992930",
-            "timestamp": "2025-07-16T14:44:47.524Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.68,
-            "asset": "TON",
-            "_id": "6877c002aace4cd2f6a8ce74",
-            "timestamp": "2025-07-16T15:06:42.181Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.87,
-            "asset": "TON",
-            "_id": "6877c01faace4cd2f6a91d8e",
-            "timestamp": "2025-07-16T15:07:11.521Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.1,
-            "asset": "TON",
-            "_id": "6877c07eaace4cd2f6aaa1a1",
-            "timestamp": "2025-07-16T15:08:46.214Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.26,
-            "asset": "TON",
-            "_id": "6877c213aace4cd2f6b69aa5",
-            "timestamp": "2025-07-16T15:15:31.781Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.42,
-            "asset": "TON",
-            "_id": "6877c24caace4cd2f6b790d2",
-            "timestamp": "2025-07-16T15:16:28.533Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T15:29:43.700Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 65734,
-        "model": "Adhesive (0.8%)",
-        "backdrop": "Onyx Black (1.5%)",
-        "symbol": "New Year's Eve (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T15:09:45.075Z",
-        "__v": 0,
-        "winningBid": 3.42,
-        "winningBidder": 5142901290
-      },
+      "auction": null,
       "export_at": "2025-06-27T15:55:23.000Z",
       "premarketData": {}
     },
@@ -43319,34 +41705,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "SAM5XIY4",
-      "auction": {
-        "_id": "6871a56d8938e518f19df3e9",
-        "gift_id": 7167734,
-        "seller": 0,
-        "auction_id": "SAM5XIY4",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.2,
-            "asset": "TON",
-            "_id": "68754970aace4cd2f60bd0af",
-            "timestamp": "2025-07-14T18:16:16.678Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T19:09:14.776Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 108168,
-        "model": "Red Amethyst (0.5%)",
-        "backdrop": "Pure Gold (1.5%)",
-        "symbol": "Manta Ray (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T18:09:15.712Z",
-        "__v": 0,
-        "winningBid": 2.2,
-        "winningBidder": 5939124447
-      },
+      "auction": null,
       "export_at": "2025-07-25T23:58:59.000Z",
       "premarketData": {}
     },
@@ -43447,34 +41806,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "GCY2TBZY",
-      "auction": {
-        "_id": "686b04b70227247557ef0131",
-        "gift_id": 7010485,
-        "seller": 0,
-        "auction_id": "GCY2TBZY",
-        "startingBid": 2.4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.4,
-            "asset": "TON",
-            "_id": "686f7bdd1fe9e6aa2ca2833e",
-            "timestamp": "2025-07-10T08:37:49.102Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T08:47:57.545Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 32329,
-        "model": "Red Amethyst (0.5%)",
-        "backdrop": "Rosewood (2%)",
-        "symbol": "Coin Purse (1.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T06:37:59.543Z",
-        "__v": 0,
-        "winningBid": 2.4,
-        "winningBidder": 432805815
-      },
+      "auction": null,
       "export_at": "2025-07-19T16:14:11.000Z",
       "premarketData": {}
     },
@@ -44500,34 +42832,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "B796VVW9",
-      "auction": {
-        "_id": "68760f38aace4cd2f69cf609",
-        "gift_id": 7155812,
-        "seller": 0,
-        "auction_id": "B796VVW9",
-        "startingBid": 2.4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.4,
-            "asset": "TON",
-            "_id": "68765d93aace4cd2f684b23f",
-            "timestamp": "2025-07-15T13:54:27.901Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T14:20:07.664Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 68051,
-        "model": "Lapis (0.5%)",
-        "backdrop": "Amber (2%)",
-        "symbol": "Diamond (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T08:20:08.636Z",
-        "__v": 0,
-        "winningBid": 2.4,
-        "winningBidder": 122625958
-      },
+      "auction": null,
       "export_at": "2025-07-25T13:04:22.000Z",
       "premarketData": {}
     },
@@ -44887,53 +43192,32 @@
       "status": "auction",
       "limited": false,
       "auction_id": "DVZ65ARH",
-      "auction": {
-        "_id": "6870f68a8938e518f1cf0a0d",
-        "gift_id": 7154103,
-        "seller": 0,
-        "auction_id": "DVZ65ARH",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687102fc8938e518f1f1a06f",
-            "timestamp": "2025-07-11T12:26:36.040Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "687105b68938e518f1f8baad",
-            "timestamp": "2025-07-11T12:38:14.905Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "687108628938e518f1ff7f2f",
-            "timestamp": "2025-07-11T12:49:38.838Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T13:03:28.015Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 68051,
-        "model": "Lapis (0.5%)",
-        "backdrop": "Amber (2%)",
-        "symbol": "Diamond (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T11:33:30.537Z",
-        "__v": 0,
-        "winningBid": 2.21,
-        "winningBidder": 1026905667
-      },
+      "auction": null,
       "export_at": "2025-07-25T11:32:28.000Z",
       "premarketData": {}
     }
   ],
   "Kinder Garter": [
+    {
+      "gift_num": 66293,
+      "customEmojiId": "5215295971973424987",
+      "gift_id": 7272203,
+      "name": "Lunar Snake",
+      "model": "Kinder Garter (1.3%)",
+      "asset": "TON",
+      "symbol": "Celtic Cross (0.4%)",
+      "backdrop": "Shamrock Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T19:47:07.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 135144,
       "customEmojiId": "5215295971973424987",
@@ -45513,26 +43797,6 @@
       "auction": null,
       "export_at": "2025-07-04T09:29:58.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 88554,
-      "customEmojiId": "5215295971973424987",
-      "gift_id": 6564752,
-      "name": "Lunar Snake",
-      "model": "Kinder Garter (1.3%)",
-      "asset": "TON",
-      "symbol": "Star (1.5%)",
-      "backdrop": "Pistachio (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-02T11:48:12.000Z",
-      "premarketData": {}
     }
   ],
   "Frosting": [
@@ -45813,34 +44077,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "659OAR57",
-      "auction": {
-        "_id": "6845e0fd45194e3e49a55551",
-        "gift_id": 4813013,
-        "seller": 0,
-        "auction_id": "659OAR57",
-        "startingBid": 2.1,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6870261634f3663346a7a913",
-            "timestamp": "2025-07-10T20:44:06.813Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T20:55:35.189Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 11718,
-        "model": "Frosting (0.8%)",
-        "backdrop": "Roman Silver (2%)",
-        "symbol": "Festive Wreath (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T18:45:36.434Z",
-        "__v": 0,
-        "winningBid": 2.1,
-        "winningBidder": 1774539933
-      },
+      "auction": null,
       "export_at": "2025-05-27T19:58:44.000Z",
       "premarketData": {}
     },
@@ -46562,34 +44799,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "RNSQ7BY2",
-      "auction": {
-        "_id": "6870c7cf34f3663346fa2e3a",
-        "gift_id": 7150170,
-        "seller": 0,
-        "auction_id": "RNSQ7BY2",
-        "startingBid": 3.333333,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.35,
-            "asset": "TON",
-            "_id": "687166dc8938e518f1b2d31e",
-            "timestamp": "2025-07-11T19:32:44.582Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T19:44:17.476Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 103935,
-        "model": "Ender Snake (0.5%)",
-        "backdrop": "Grape (1.5%)",
-        "symbol": "Scorpion (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T16:34:37.722Z",
-        "__v": 0,
-        "winningBid": 3.35,
-        "winningBidder": 570996091
-      },
+      "auction": null,
       "export_at": "2025-07-25T08:10:56.000Z",
       "premarketData": {}
     }
@@ -47800,6 +46010,26 @@
   ],
   "Purple Mamba": [
     {
+      "gift_num": 127476,
+      "customEmojiId": "5188303695950932127",
+      "gift_id": 7227515,
+      "name": "Lunar Snake",
+      "model": "Purple Mamba (1.5%)",
+      "asset": "TON",
+      "symbol": "Star (1.5%)",
+      "backdrop": "Electric Indigo (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T09:22:15.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 58277,
       "customEmojiId": "5188303695950932127",
       "gift_id": 7240807,
@@ -47897,26 +46127,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T08:40:40.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 127476,
-      "customEmojiId": "5188303695950932127",
-      "gift_id": 7227515,
-      "name": "Lunar Snake",
-      "model": "Purple Mamba (1.5%)",
-      "asset": "TON",
-      "symbol": "Star (1.5%)",
-      "backdrop": "Electric Indigo (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T09:22:15.000Z",
       "premarketData": {}
     },
     {
@@ -48439,26 +46649,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-31T16:35:29.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16627,
-      "customEmojiId": "5219682731310475727",
-      "gift_id": -519316072,
-      "name": "Lunar Snake",
-      "model": "Amethyssst (1.3%)",
-      "asset": "TON",
-      "symbol": "Fireworks (1.8%)",
-      "backdrop": "Platinum (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T06:15:12.000Z",
       "premarketData": {}
     },
     {
@@ -48999,6 +47189,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-05T07:42:05.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 29111,
+      "customEmojiId": "5219682731310475727",
+      "gift_id": 6799657,
+      "name": "Lunar Snake",
+      "model": "Amethyssst (1.3%)",
+      "asset": "TON",
+      "symbol": "Brain (0.5%)",
+      "backdrop": "Desert Sand (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-11T12:50:16.000Z",
       "premarketData": {}
     }
   ],
@@ -50208,6 +48418,26 @@
   ],
   "Yellow Cobra": [
     {
+      "gift_num": 91171,
+      "customEmojiId": "5188598154613776353",
+      "gift_id": 7266907,
+      "name": "Lunar Snake",
+      "model": "Yellow Cobra (1.5%)",
+      "asset": "TON",
+      "symbol": "Rhino Warrior (0.4%)",
+      "backdrop": "Lavender (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T13:10:04.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 39680,
       "customEmojiId": "5188598154613776353",
       "gift_id": 6979381,
@@ -50624,34 +48854,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "COJ20USK",
-      "auction": {
-        "_id": "685f7448b035688945ef341a",
-        "gift_id": 6802258,
-        "seller": 0,
-        "auction_id": "COJ20USK",
-        "startingBid": 3.3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.3,
-            "asset": "TON",
-            "_id": "6874e5c58938e518f18f91cf",
-            "timestamp": "2025-07-14T11:11:01.402Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T11:21:45.966Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 126032,
-        "model": "Yellow Cobra (1.5%)",
-        "backdrop": "Onyx Black (1.5%)",
-        "symbol": "Nordic Wolf (1.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T10:11:48.835Z",
-        "__v": 0,
-        "winningBid": 3.3,
-        "winningBidder": 716584499
-      },
+      "auction": null,
       "export_at": "2025-07-11T14:55:15.000Z",
       "premarketData": {}
     },
@@ -50813,26 +49016,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-28T07:07:12.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 31279,
-      "customEmojiId": "5188598154613776353",
-      "gift_id": 6751227,
-      "name": "Lunar Snake",
-      "model": "Yellow Cobra (1.5%)",
-      "asset": "TON",
-      "symbol": "Rudolph (1.8%)",
-      "backdrop": "Chestnut (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-09T13:10:51.000Z",
       "premarketData": {}
     }
   ],
@@ -52042,6 +50225,26 @@
   ],
   "Blood Adder": [
     {
+      "gift_num": 86333,
+      "customEmojiId": "5240039922810774933",
+      "gift_id": 7114354,
+      "name": "Lunar Snake",
+      "model": "Blood Adder (1.5%)",
+      "asset": "TON",
+      "symbol": "White Deer (1.8%)",
+      "backdrop": "Indigo Dye (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-23T21:17:52.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 39598,
       "customEmojiId": "5240039922810774933",
       "gift_id": 7270526,
@@ -52298,55 +50501,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "EB6U1TTY",
-      "auction": {
-        "_id": "6873b40f8938e518f1e39953",
-        "gift_id": 7194695,
-        "seller": 0,
-        "auction_id": "EB6U1TTY",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687621e6aace4cd2f6f001b1",
-            "timestamp": "2025-07-15T09:39:50.246Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68762473aace4cd2f6f5ba2d",
-            "timestamp": "2025-07-15T09:50:43.449Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "687626e3aace4cd2f6f748de",
-            "timestamp": "2025-07-15T10:01:07.131Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "68762758aace4cd2f6f77c14",
-            "timestamp": "2025-07-15T10:03:04.518Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T10:21:15.277Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 88331,
-        "model": "Blood Adder (1.5%)",
-        "backdrop": "Coral Red (2%)",
-        "symbol": "Bottle (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T08:41:16.328Z",
-        "__v": 0,
-        "winningBid": 2.32,
-        "winningBidder": 1366505330
-      },
+      "auction": null,
       "export_at": "2025-07-27T13:21:05.000Z",
       "premarketData": {}
     },
@@ -52587,34 +50742,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "BNB0HSWQ",
-      "auction": {
-        "_id": "68702ce634f3663346ca42f0",
-        "gift_id": 7111978,
-        "seller": 0,
-        "auction_id": "BNB0HSWQ",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687053c234f36633467ef2ad",
-            "timestamp": "2025-07-10T23:58:58.950Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T00:13:07.838Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 63739,
-        "model": "Blood Adder (1.5%)",
-        "backdrop": "Electric Purple (1.5%)",
-        "symbol": "Cocktail (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T21:13:10.136Z",
-        "__v": 0,
-        "winningBid": 2,
-        "winningBidder": 7907247239
-      },
+      "auction": null,
       "export_at": "2025-07-23T19:48:26.000Z",
       "premarketData": {}
     },
@@ -52635,111 +50763,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "PEKW9KQU",
-      "auction": {
-        "_id": "6872630b8938e518f1a4b96a",
-        "gift_id": 7101494,
-        "seller": 0,
-        "auction_id": "PEKW9KQU",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6872854c8938e518f163882f",
-            "timestamp": "2025-07-12T15:54:52.930Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6872872b8938e518f164c3a2",
-            "timestamp": "2025-07-12T16:02:51.154Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "687289548938e518f16780cb",
-            "timestamp": "2025-07-12T16:12:04.326Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "68728ad88938e518f169bf10",
-            "timestamp": "2025-07-12T16:18:32.542Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "68728b0c8938e518f169e0db",
-            "timestamp": "2025-07-12T16:19:24.131Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "68728b3c8938e518f16a0821",
-            "timestamp": "2025-07-12T16:20:12.367Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "68728dbe8938e518f16c120e",
-            "timestamp": "2025-07-12T16:30:54.954Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.83,
-            "asset": "TON",
-            "_id": "68728e2b8938e518f16c6ae0",
-            "timestamp": "2025-07-12T16:32:43.213Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.97,
-            "asset": "TON",
-            "_id": "6872910a8938e518f16efcf7",
-            "timestamp": "2025-07-12T16:44:58.043Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.12,
-            "asset": "TON",
-            "_id": "687291a08938e518f16f4471",
-            "timestamp": "2025-07-12T16:47:28.370Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.28,
-            "asset": "TON",
-            "_id": "687291c78938e518f16f5d45",
-            "timestamp": "2025-07-12T16:48:07.313Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "687294288938e518f170cde6",
-            "timestamp": "2025-07-12T16:58:16.036Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T17:08:41.947Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 130130,
-        "model": "Blood Adder (1.5%)",
-        "backdrop": "Onyx Black (1.5%)",
-        "symbol": "Champagne (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T13:28:43.247Z",
-        "__v": 0,
-        "winningBid": 3.5,
-        "winningBidder": 5751625517
-      },
+      "auction": null,
       "export_at": "2025-07-23T11:13:58.000Z",
       "premarketData": {}
     },
@@ -52801,26 +50825,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-19T23:54:22.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 9390,
-      "customEmojiId": "5240039922810774933",
-      "gift_id": 6095958,
-      "name": "Lunar Snake",
-      "model": "Blood Adder (1.5%)",
-      "asset": "TON",
-      "symbol": "Bastet (0.4%)",
-      "backdrop": "Rosewood (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T08:11:01.000Z",
       "premarketData": {}
     }
   ],
@@ -55569,83 +53573,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "XZ59A5HW",
-      "auction": {
-        "_id": "6878f7f7aace4cd2f6db3509",
-        "gift_id": 7263133,
-        "seller": 0,
-        "auction_id": "XZ59A5HW",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6878fd95aace4cd2f6dd48d1",
-            "timestamp": "2025-07-17T13:41:41.641Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "687904feaace4cd2f6e00fa9",
-            "timestamp": "2025-07-17T14:13:18.741Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6879075eaace4cd2f6e17a1a",
-            "timestamp": "2025-07-17T14:23:26.526Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "687907b9aace4cd2f6e1a518",
-            "timestamp": "2025-07-17T14:24:57.554Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "687907e6aace4cd2f6e1ca1b",
-            "timestamp": "2025-07-17T14:25:42.732Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "68790935aace4cd2f6e23361",
-            "timestamp": "2025-07-17T14:31:17.542Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "68790956aace4cd2f6e2459a",
-            "timestamp": "2025-07-17T14:31:50.236Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68790c1daace4cd2f6e3751e",
-            "timestamp": "2025-07-17T14:43:41.976Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T14:57:42.350Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 135169,
-        "model": "Arctic Viper (1%)",
-        "backdrop": "French Blue (2%)",
-        "symbol": "Shooting Star (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T13:17:43.196Z",
-        "__v": 0,
-        "winningBid": 3,
-        "winningBidder": 1428751086
-      },
+      "auction": null,
       "export_at": "2025-07-31T08:16:49.000Z",
       "premarketData": {}
     }
@@ -56796,26 +54724,6 @@
   ],
   "Rainbow Scale": [
     {
-      "gift_num": 132336,
-      "customEmojiId": "5215525473550889031",
-      "gift_id": 7113211,
-      "name": "Lunar Snake",
-      "model": "Rainbow Scale (1.3%)",
-      "asset": "TON",
-      "symbol": "Piggy Bank (1.2%)",
-      "backdrop": "Khaki Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T20:32:30.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 67206,
       "customEmojiId": "5215525473550889031",
       "gift_id": 7041880,
@@ -56833,6 +54741,46 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-20T22:26:54.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 22722,
+      "customEmojiId": "5215525473550889031",
+      "gift_id": 6473000,
+      "name": "Lunar Snake",
+      "model": "Rainbow Scale (1.3%)",
+      "asset": "TON",
+      "symbol": "Turtle (0.4%)",
+      "backdrop": "Orange (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-30T05:37:31.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 132336,
+      "customEmojiId": "5215525473550889031",
+      "gift_id": 7113211,
+      "name": "Lunar Snake",
+      "model": "Rainbow Scale (1.3%)",
+      "asset": "TON",
+      "symbol": "Piggy Bank (1.2%)",
+      "backdrop": "Khaki Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-23T20:32:30.000Z",
       "premarketData": {}
     },
     {
@@ -57373,26 +55321,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-04T09:28:32.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 120149,
-      "customEmojiId": "5215525473550889031",
-      "gift_id": 5904870,
-      "name": "Lunar Snake",
-      "model": "Rainbow Scale (1.3%)",
-      "asset": "TON",
-      "symbol": "Festive Wreath (1.8%)",
-      "backdrop": "Aquamarine (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-22T21:45:41.000Z",
       "premarketData": {}
     }
   ],
@@ -58000,6 +55928,26 @@
   ],
   "Night Market": [
     {
+      "gift_num": 134546,
+      "customEmojiId": "5217629771302726560",
+      "gift_id": 7228700,
+      "name": "Lunar Snake",
+      "model": "Night Market (0.8%)",
+      "asset": "TON",
+      "symbol": "New Year's Eve (1.8%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 13,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T10:50:53.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 129551,
       "customEmojiId": "5217629771302726560",
       "gift_id": 7249066,
@@ -58017,26 +55965,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T12:38:23.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 134546,
-      "customEmojiId": "5217629771302726560",
-      "gift_id": 7228700,
-      "name": "Lunar Snake",
-      "model": "Night Market (0.8%)",
-      "asset": "TON",
-      "symbol": "New Year's Eve (1.8%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 12,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T10:50:53.000Z",
       "premarketData": {}
     },
     {
@@ -58601,6 +56529,26 @@
     }
   ],
   "Blue Boa": [
+    {
+      "gift_num": 113730,
+      "customEmojiId": "5188232704436497083",
+      "gift_id": 5403519,
+      "name": "Lunar Snake",
+      "model": "Blue Boa (1.5%)",
+      "asset": "TON",
+      "symbol": "Piggy Bank (1.2%)",
+      "backdrop": "Sapphire (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-11T12:58:28.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 74700,
       "customEmojiId": "5188232704436497083",
@@ -59179,26 +57127,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-07T10:05:54.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 23094,
-      "customEmojiId": "5188232704436497083",
-      "gift_id": 6949801,
-      "name": "Lunar Snake",
-      "model": "Blue Boa (1.5%)",
-      "asset": "TON",
-      "symbol": "Monstera (0.4%)",
-      "backdrop": "Chocolate (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-17T00:04:40.000Z",
       "premarketData": {}
     }
   ],
@@ -60564,34 +58492,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "GL0AT0TU",
-      "auction": {
-        "_id": "68761eb8aace4cd2f6e3f9f4",
-        "gift_id": 7225383,
-        "seller": 0,
-        "auction_id": "GL0AT0TU",
-        "startingBid": 2.21,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.22,
-            "asset": "TON",
-            "_id": "6877f9acaace4cd2f6cae965",
-            "timestamp": "2025-07-16T19:12:44.255Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T19:23:12.544Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 44262,
-        "model": "Cryoshard (0.5%)",
-        "backdrop": "Steel Grey (1%)",
-        "symbol": "Dessert (1.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T18:13:15.987Z",
-        "__v": 0,
-        "winningBid": 2.22,
-        "winningBidder": 7427730171
-      },
+      "auction": null,
       "export_at": "2025-07-29T06:07:16.000Z",
       "premarketData": {}
     },
@@ -60756,26 +58657,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 54709,
-      "customEmojiId": "5220125400704771959",
-      "gift_id": 7163978,
-      "name": "Lunar Snake",
-      "model": "Cryoshard (0.5%)",
-      "asset": "TON",
-      "symbol": "Star (1.5%)",
-      "backdrop": "Pacific Cyan (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T20:16:09.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 83316,
       "customEmojiId": "5220125400704771959",
       "gift_id": 6995176,
@@ -60872,34 +58753,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "Q12MI89H",
-      "auction": {
-        "_id": "686f8a231fe9e6aa2cb59d76",
-        "gift_id": 7122856,
-        "seller": 0,
-        "auction_id": "Q12MI89H",
-        "startingBid": 2.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.5,
-            "asset": "TON",
-            "_id": "68703da434f3663346f0ecc6",
-            "timestamp": "2025-07-10T22:24:36.451Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T22:40:12.479Z",
-        "status": "finished",
-        "gift_name": "Lunar Snake",
-        "gift_num": 54709,
-        "model": "Cryoshard (0.5%)",
-        "backdrop": "Pacific Cyan (2%)",
-        "symbol": "Star (1.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T21:30:15.095Z",
-        "__v": 0,
-        "winningBid": 2.5,
-        "winningBidder": 6717766242
-      },
+      "auction": null,
       "export_at": "2025-07-24T08:33:08.000Z",
       "premarketData": {}
     },
@@ -61061,6 +58915,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-07T00:17:07.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 9889,
+      "customEmojiId": "5220125400704771959",
+      "gift_id": 4452385,
+      "name": "Lunar Snake",
+      "model": "Cryoshard (0.5%)",
+      "asset": "TON",
+      "symbol": "Fleur-de-lis (0.5%)",
+      "backdrop": "Navy Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 515779,
+      "price": 69.99,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-05-20T08:31:27.000Z",
       "premarketData": {}
     }
   ]
