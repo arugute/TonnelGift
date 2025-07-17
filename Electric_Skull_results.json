@@ -1,6 +1,26 @@
 {
   "Polka Dead": [
     {
+      "gift_num": 5528,
+      "customEmojiId": "5323335608016334602",
+      "gift_id": 7064560,
+      "name": "Electric Skull",
+      "model": "Polka Dead (1.5%)",
+      "asset": "TON",
+      "symbol": "Paw (0.4%)",
+      "backdrop": "Pacific Cyan (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 30,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-21T19:53:23.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 756,
       "customEmojiId": "5323335608016334602",
       "gift_id": 6653103,
@@ -825,7 +845,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 43.5,
+      "price": 42,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -2675,6 +2695,26 @@
   ],
   "Sleepy Hollow": [
     {
+      "gift_num": 4411,
+      "customEmojiId": "5323553375743143488",
+      "gift_id": 5940722,
+      "name": "Electric Skull",
+      "model": "Sleepy Hollow (0.5%)",
+      "asset": "TON",
+      "symbol": "Haunted House (0.5%)",
+      "backdrop": "Moonstone (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 95,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-23T10:31:59.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1501,
       "customEmojiId": "5323553375743143488",
       "gift_id": 6522740,
@@ -2692,26 +2732,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-01T08:40:52.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4411,
-      "customEmojiId": "5323553375743143488",
-      "gift_id": 5940722,
-      "name": "Electric Skull",
-      "model": "Sleepy Hollow (0.5%)",
-      "asset": "TON",
-      "symbol": "Haunted House (0.5%)",
-      "backdrop": "Moonstone (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 104.9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T10:31:59.000Z",
       "premarketData": {}
     },
     {
@@ -5587,11 +5607,29 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 37.16,
+      "price": 35.3,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "export_at": "2025-07-31T11:53:30.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 6803,
+      "customEmojiId": "5231299565579168844",
+      "gift_id": 593380946476,
+      "name": "Electric Skull",
+      "model": "Chromatic (3%)",
+      "asset": "TON",
+      "symbol": "Grim Reaper (0.5%)",
+      "backdrop": "Dark Lilac (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 110.16,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
       "premarketData": {}
     },
     {
@@ -5631,55 +5669,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "UHDF5961",
-      "auction": {
-        "_id": "6876432daace4cd2f61f1c9d",
-        "gift_id": 7229828,
-        "seller": 0,
-        "auction_id": "UHDF5961",
-        "startingBid": 25,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 25,
-            "asset": "TON",
-            "_id": "68780363aace4cd2f6e1af6b",
-            "timestamp": "2025-07-16T19:54:11.115Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 26.25,
-            "asset": "TON",
-            "_id": "68780ca3aace4cd2f6eb2c5f",
-            "timestamp": "2025-07-16T20:33:39.449Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 27.56,
-            "asset": "TON",
-            "_id": "68780dc3aace4cd2f6ee26ce",
-            "timestamp": "2025-07-16T20:38:27.667Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 28.94,
-            "asset": "TON",
-            "_id": "6878121faace4cd2f601ac2d",
-            "timestamp": "2025-07-16T20:57:03.341Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T21:08:20.350Z",
-        "status": "finished",
-        "gift_name": "Electric Skull",
-        "gift_num": 2035,
-        "model": "Chromatic (3%)",
-        "backdrop": "Carrot Juice (1%)",
-        "symbol": "Night Bats (1%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T19:38:21.416Z",
-        "__v": 0,
-        "winningBid": 28.94,
-        "winningBidder": 1388465961
-      },
+      "auction": null,
       "export_at": "2025-07-29T12:01:09.000Z",
       "premarketData": {}
     },
@@ -6934,48 +6924,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "SMLHTWRT",
-      "auction": {
-        "_id": "6870f7ba8938e518f1d2c67b",
-        "gift_id": 7154192,
-        "seller": 0,
-        "auction_id": "SMLHTWRT",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6870f8078938e518f1d3a9ba",
-            "timestamp": "2025-07-11T11:39:51.263Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.7,
-            "asset": "TON",
-            "_id": "6870f86a8938e518f1d48a8d",
-            "timestamp": "2025-07-11T11:41:30.601Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 32,
-            "asset": "TON",
-            "_id": "6870fcaa8938e518f1e1cf8e",
-            "timestamp": "2025-07-11T11:59:38.181Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T12:38:33.536Z",
-        "status": "finished",
-        "gift_name": "Electric Skull",
-        "gift_num": 438,
-        "model": "Phantom (2%)",
-        "backdrop": "Desert Sand (1.2%)",
-        "symbol": "Egg (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T11:38:34.334Z",
-        "__v": 0,
-        "winningBid": 32,
-        "winningBidder": 5632638550
-      },
+      "auction": null,
       "export_at": "2025-07-25T11:37:31.000Z",
       "premarketData": {}
     },
@@ -6995,34 +6944,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "I8YMY4T8",
-      "auction": {
-        "_id": "6870dafc34f366334675cd93",
-        "gift_id": 7151715,
-        "seller": 0,
-        "auction_id": "I8YMY4T8",
-        "startingBid": 40,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 40,
-            "asset": "TON",
-            "_id": "6870f46c8938e518f1c8f688",
-            "timestamp": "2025-07-11T11:24:28.286Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T11:35:53.522Z",
-        "status": "finished",
-        "gift_name": "Electric Skull",
-        "gift_num": 438,
-        "model": "Phantom (2%)",
-        "backdrop": "Desert Sand (1.2%)",
-        "symbol": "Egg (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T09:35:56.184Z",
-        "__v": 0,
-        "winningBid": 40,
-        "winningBidder": 1081125151
-      },
+      "auction": null,
       "export_at": "2025-07-25T09:35:38.000Z",
       "premarketData": {}
     }
@@ -8255,7 +8177,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 59,
+      "price": 57,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -8534,26 +8456,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-23T06:38:43.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3916,
-      "customEmojiId": "5226710341483783844",
-      "gift_id": 7013748,
-      "name": "Electric Skull",
-      "model": "Solar Stone (4%)",
-      "asset": "TON",
-      "symbol": "Sun (0.4%)",
-      "backdrop": "Silver Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 33,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-19T18:54:09.000Z",
       "premarketData": {}
     },
     {
@@ -9071,6 +8973,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T13:10:26.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 5774,
+      "customEmojiId": "5226710341483783844",
+      "gift_id": 5963888,
+      "name": "Electric Skull",
+      "model": "Solar Stone (4%)",
+      "asset": "TON",
+      "symbol": "Paper Crane (0.5%)",
+      "backdrop": "Turquoise (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 95,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-23T12:53:01.000Z",
       "premarketData": {}
     }
   ],
@@ -10060,26 +9982,6 @@
   ],
   "Divinity": [
     {
-      "gift_num": 8226,
-      "customEmojiId": "5323558761632129571",
-      "gift_id": 7158884,
-      "name": "Electric Skull",
-      "model": "Divinity (0.5%)",
-      "asset": "TON",
-      "symbol": "Magic Vial (1%)",
-      "backdrop": "Turquoise (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 80,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T15:36:46.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 7227,
       "customEmojiId": "5323558761632129571",
       "gift_id": 6735442,
@@ -10769,6 +10671,26 @@
     }
   ],
   "Dead Apple": [
+    {
+      "gift_num": 7785,
+      "customEmojiId": "5301271733951558054",
+      "gift_id": 7056889,
+      "name": "Electric Skull",
+      "model": "Dead Apple (1%)",
+      "asset": "TON",
+      "symbol": "Crescent (1%)",
+      "backdrop": "Rosewood (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 36,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-21T14:58:47.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 1330,
       "customEmojiId": "5301271733951558054",
@@ -13007,62 +12929,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "K0U7I0RX",
-      "auction": {
-        "_id": "68777930aace4cd2f6595f71",
-        "gift_id": 7246738,
-        "seller": 0,
-        "auction_id": "K0U7I0RX",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68777a61aace4cd2f659f8b6",
-            "timestamp": "2025-07-16T10:09:37.543Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "68778983aace4cd2f68c66b0",
-            "timestamp": "2025-07-16T11:14:11.548Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15,
-            "asset": "TON",
-            "_id": "687791d8aace4cd2f6ae33be",
-            "timestamp": "2025-07-16T11:49:44.631Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 25.56789,
-            "asset": "TON",
-            "_id": "68779fb5aace4cd2f6dd0e39",
-            "timestamp": "2025-07-16T12:48:53.461Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 27.45,
-            "asset": "TON",
-            "_id": "6877ae1caace4cd2f681906b",
-            "timestamp": "2025-07-16T13:50:20.566Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T16:04:30.757Z",
-        "status": "finished",
-        "gift_name": "Electric Skull",
-        "gift_num": 5444,
-        "model": "Frost Wraith (3%)",
-        "backdrop": "English Violet (1.5%)",
-        "symbol": "Magic Wand (1%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T10:04:32.928Z",
-        "__v": 0,
-        "winningBid": 27.45,
-        "winningBidder": 7352255987
-      },
+      "auction": null,
       "export_at": "2025-07-30T10:03:22.000Z",
       "premarketData": {}
     }
@@ -13287,6 +13154,26 @@
     }
   ],
   "Brass Fossil": [
+    {
+      "gift_num": 6900,
+      "customEmojiId": "5237829565136530213",
+      "gift_id": 7094454,
+      "name": "Electric Skull",
+      "model": "Brass Fossil (4%)",
+      "asset": "TON",
+      "symbol": "Magic Elixir (0.5%)",
+      "backdrop": "Rosewood (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 41,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-22T23:20:41.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2004,
       "customEmojiId": "5237829565136530213",
@@ -13843,27 +13730,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T12:52:31.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 486,
-      "customEmojiId": "5237829565136530213",
-      "gift_id": -572857232,
-      "name": "Electric Skull",
-      "model": "Brass Fossil (4%)",
-      "asset": "TON",
-      "symbol": "Black Widow (0.5%)",
-      "backdrop": "Chestnut (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "promoted": true,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-22T16:15:56.000Z",
       "premarketData": {}
     }
   ],
@@ -14497,6 +14363,26 @@
   ],
   "Ruby Eyes": [
     {
+      "gift_num": 2465,
+      "customEmojiId": "5235588562870625501",
+      "gift_id": 7271544,
+      "name": "Electric Skull",
+      "model": "Ruby Eyes (4%)",
+      "asset": "TON",
+      "symbol": "Witch Hat (0.8%)",
+      "backdrop": "Caramel (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 27,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T18:56:14.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1640,
       "customEmojiId": "5235588562870625501",
       "gift_id": 7258620,
@@ -15060,26 +14946,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-19T14:13:08.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5886,
-      "customEmojiId": "5235588562870625501",
-      "gift_id": 5951635,
-      "name": "Electric Skull",
-      "model": "Ruby Eyes (4%)",
-      "asset": "TON",
-      "symbol": "Treats (0.5%)",
-      "backdrop": "Deep Cyan (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 80,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T11:41:58.000Z",
       "premarketData": {}
     }
   ],
