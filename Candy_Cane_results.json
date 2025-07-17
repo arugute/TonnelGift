@@ -1,6 +1,26 @@
 {
   "Silver Frost": [
     {
+      "gift_num": 90804,
+      "customEmojiId": "5339253877801775497",
+      "gift_id": 6896121,
+      "name": "Candy Cane",
+      "model": "Silver Frost (2.6%)",
+      "asset": "TON",
+      "symbol": "Christmas Tree (2.4%)",
+      "backdrop": "Gunship Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-15T07:58:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 65028,
       "customEmojiId": "5339253877801775497",
       "gift_id": 6847580,
@@ -238,26 +258,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-20T15:03:23.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 90804,
-      "customEmojiId": "5339253877801775497",
-      "gift_id": 6896121,
-      "name": "Candy Cane",
-      "model": "Silver Frost (2.6%)",
-      "asset": "TON",
-      "symbol": "Christmas Tree (2.4%)",
-      "backdrop": "Gunship Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-15T07:58:16.000Z",
       "premarketData": {}
     },
     {
@@ -1039,111 +1039,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "IWZEKJNN",
-      "auction": {
-        "_id": "68723a628938e518f196d244",
-        "gift_id": 6979388,
-        "seller": 0,
-        "auction_id": "IWZEKJNN",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6872473d8938e518f112c766",
-            "timestamp": "2025-07-12T11:30:05.860Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6872489e8938e518f11f9f56",
-            "timestamp": "2025-07-12T11:35:58.816Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "687248b18938e518f12014ce",
-            "timestamp": "2025-07-12T11:36:17.886Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "68724bc18938e518f132030f",
-            "timestamp": "2025-07-12T11:49:21.025Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "68724c538938e518f13306f5",
-            "timestamp": "2025-07-12T11:51:47.035Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "68724f598938e518f13c3659",
-            "timestamp": "2025-07-12T12:04:41.428Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "68724ff48938e518f13eb16f",
-            "timestamp": "2025-07-12T12:07:16.819Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.85,
-            "asset": "TON",
-            "_id": "687250988938e518f1427e25",
-            "timestamp": "2025-07-12T12:10:00.736Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.99,
-            "asset": "TON",
-            "_id": "687250b58938e518f14325c2",
-            "timestamp": "2025-07-12T12:10:29.359Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.14,
-            "asset": "TON",
-            "_id": "687250f08938e518f1448249",
-            "timestamp": "2025-07-12T12:11:28.864Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.3,
-            "asset": "TON",
-            "_id": "687251298938e518f1467261",
-            "timestamp": "2025-07-12T12:12:25.636Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.47,
-            "asset": "TON",
-            "_id": "6872514d8938e518f147489d",
-            "timestamp": "2025-07-12T12:13:01.558Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T12:25:13.419Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 113319,
-        "model": "Honeycomb (1%)",
-        "backdrop": "Mustard (1%)",
-        "symbol": "Cookie (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T10:35:14.274Z",
-        "__v": 0,
-        "winningBid": 3.47,
-        "winningBidder": 1070599192
-      },
+      "auction": null,
       "export_at": "2025-07-18T09:09:52.000Z",
       "premarketData": {}
     },
@@ -1164,83 +1060,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "HC6F321B",
-      "auction": {
-        "_id": "6870fa708938e518f1da91ac",
-        "gift_id": 7150713,
-        "seller": 0,
-        "auction_id": "HC6F321B",
-        "startingBid": 2.32,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.33,
-            "asset": "TON",
-            "_id": "687169c48938e518f1be2006",
-            "timestamp": "2025-07-11T19:45:08.344Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.45,
-            "asset": "TON",
-            "_id": "687169e58938e518f1be7d20",
-            "timestamp": "2025-07-11T19:45:41.910Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.58,
-            "asset": "TON",
-            "_id": "68716fa58938e518f1d7d7dc",
-            "timestamp": "2025-07-11T20:10:13.159Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.72,
-            "asset": "TON",
-            "_id": "687170008938e518f1d94895",
-            "timestamp": "2025-07-11T20:11:44.991Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.86,
-            "asset": "TON",
-            "_id": "6871717f8938e518f1de33fe",
-            "timestamp": "2025-07-11T20:18:07.255Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.1,
-            "asset": "TON",
-            "_id": "6871719f8938e518f1dead8d",
-            "timestamp": "2025-07-11T20:18:39.337Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.26,
-            "asset": "TON",
-            "_id": "687171bc8938e518f1df0c0b",
-            "timestamp": "2025-07-11T20:19:08.271Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.43,
-            "asset": "TON",
-            "_id": "687173458938e518f1e2d593",
-            "timestamp": "2025-07-11T20:25:41.194Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T20:41:39.281Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 102025,
-        "model": "Honeycomb (1%)",
-        "backdrop": "Old Gold (1.5%)",
-        "symbol": "Nordic Wolf (2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T18:11:40.293Z",
-        "__v": 0,
-        "winningBid": 3.43,
-        "winningBidder": 7868691420
-      },
+      "auction": null,
       "export_at": "2025-07-25T08:41:38.000Z",
       "premarketData": {}
     },
@@ -1643,41 +1463,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "XV6PWPX8",
-      "auction": {
-        "_id": "6874a9148938e518f14b0254",
-        "gift_id": 7207595,
-        "seller": 0,
-        "auction_id": "XV6PWPX8",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6874b57a8938e518f1dd1852",
-            "timestamp": "2025-07-14T07:44:58.601Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.11,
-            "asset": "TON",
-            "_id": "6874b8f38938e518f1e42372",
-            "timestamp": "2025-07-14T07:59:47.093Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T08:12:03.324Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 34545,
-        "model": "Toxic Treat (1%)",
-        "backdrop": "Pine Green (1.2%)",
-        "symbol": "Coin Purse (2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T06:52:04.660Z",
-        "__v": 0,
-        "winningBid": 2.11,
-        "winningBidder": 1359452837
-      },
+      "auction": null,
       "export_at": "2025-07-28T06:44:21.000Z",
       "premarketData": {}
     },
@@ -1758,62 +1544,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "0Z8JUM7V",
-      "auction": {
-        "_id": "6867cb9edf96de9a5a453122",
-        "gift_id": 6983151,
-        "seller": 0,
-        "auction_id": "0Z8JUM7V",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6872a7e88938e518f1dccba6",
-            "timestamp": "2025-07-12T18:22:32.962Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6872ad0e8938e518f1e4806e",
-            "timestamp": "2025-07-12T18:44:30.026Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6872ae0b8938e518f1e5bf20",
-            "timestamp": "2025-07-12T18:48:43.238Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6872ae408938e518f1e5ef5f",
-            "timestamp": "2025-07-12T18:49:36.693Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6872ae978938e518f1e62d80",
-            "timestamp": "2025-07-12T18:51:03.070Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T19:01:26.206Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 89472,
-        "model": "Toxic Treat (1%)",
-        "backdrop": "Shamrock Green (1%)",
-        "symbol": "Gingerbread (1.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T17:51:26.704Z",
-        "__v": 0,
-        "winningBid": 2.44,
-        "winningBidder": 1121659994
-      },
+      "auction": null,
       "export_at": "2025-07-18T12:39:18.000Z",
       "premarketData": {}
     },
@@ -2079,6 +1810,26 @@
     }
   ],
   "Demonius": [
+    {
+      "gift_num": 36321,
+      "customEmojiId": "5282917633593730120",
+      "gift_id": 5951482,
+      "name": "Candy Cane",
+      "model": "Demonius (2%)",
+      "asset": "TON",
+      "symbol": "White Deer (2%)",
+      "backdrop": "Seal Brown (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-23T11:40:49.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 93779,
       "customEmojiId": "5282917633593730120",
@@ -2456,76 +2207,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "H0BJNQB3",
-      "auction": {
-        "_id": "68750556aace4cd2f65c7964",
-        "gift_id": 7211704,
-        "seller": 0,
-        "auction_id": "H0BJNQB3",
-        "startingBid": 2.32,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "68752165aace4cd2f6b96112",
-            "timestamp": "2025-07-14T15:25:25.571Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "687522c2aace4cd2f6ba86e9",
-            "timestamp": "2025-07-14T15:31:14.253Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "6875236aaace4cd2f6bb122e",
-            "timestamp": "2025-07-14T15:34:02.431Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "68752385aace4cd2f6bb1bcd",
-            "timestamp": "2025-07-14T15:34:29.244Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.9,
-            "asset": "TON",
-            "_id": "687523b0aace4cd2f6bb42b2",
-            "timestamp": "2025-07-14T15:35:12.185Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.05,
-            "asset": "TON",
-            "_id": "687523c3aace4cd2f6bb5ea2",
-            "timestamp": "2025-07-14T15:35:31.080Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.2,
-            "asset": "TON",
-            "_id": "687523d8aace4cd2f6bb67cc",
-            "timestamp": "2025-07-14T15:35:52.842Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T15:55:41.292Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 92491,
-        "model": "Demonius (2%)",
-        "backdrop": "Steel Grey (1.5%)",
-        "symbol": "Mistletoe (2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T13:25:42.928Z",
-        "__v": 0,
-        "winningBid": 3.2,
-        "winningBidder": 495875420
-      },
+      "auction": null,
       "export_at": "2025-07-28T11:57:08.000Z",
       "premarketData": {}
     },
@@ -2626,34 +2308,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "O1STU5FH",
-      "auction": {
-        "_id": "686fea4734f3663346813240",
-        "gift_id": 7108711,
-        "seller": 0,
-        "auction_id": "O1STU5FH",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.01,
-            "asset": "TON",
-            "_id": "68754fffaace4cd2f613bd8f",
-            "timestamp": "2025-07-14T18:44:15.578Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T18:56:39.522Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 29028,
-        "model": "Demonius (2%)",
-        "backdrop": "Emerald (1%)",
-        "symbol": "Snowman (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T17:46:40.710Z",
-        "__v": 0,
-        "winningBid": 2.01,
-        "winningBidder": 6929739879
-      },
+      "auction": null,
       "export_at": "2025-07-23T17:09:46.000Z",
       "premarketData": {}
     },
@@ -2714,167 +2369,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "SMF56Q3Y",
-      "auction": {
-        "_id": "6872dc498938e518f1fca1f4",
-        "gift_id": 7155304,
-        "seller": 0,
-        "auction_id": "SMF56Q3Y",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6872e6a58938e518f1038c5e",
-            "timestamp": "2025-07-12T22:50:13.937Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6872f6078938e518f1220427",
-            "timestamp": "2025-07-12T23:55:51.897Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "687361178938e518f1eb30b1",
-            "timestamp": "2025-07-13T07:32:39.292Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.35,
-            "asset": "TON",
-            "_id": "6873644a8938e518f1f40841",
-            "timestamp": "2025-07-13T07:46:18.102Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.47,
-            "asset": "TON",
-            "_id": "687364688938e518f1f43de9",
-            "timestamp": "2025-07-13T07:46:48.581Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.7,
-            "asset": "TON",
-            "_id": "687365e88938e518f1f7025d",
-            "timestamp": "2025-07-13T07:53:12.565Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.84,
-            "asset": "TON",
-            "_id": "68736f478938e518f1fc0705",
-            "timestamp": "2025-07-13T08:33:11.850Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.98,
-            "asset": "TON",
-            "_id": "687371458938e518f1fc98ec",
-            "timestamp": "2025-07-13T08:41:41.388Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.13,
-            "asset": "TON",
-            "_id": "68737ada8938e518f10a8d0c",
-            "timestamp": "2025-07-13T09:22:34.530Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.29,
-            "asset": "TON",
-            "_id": "68737f388938e518f12a6d39",
-            "timestamp": "2025-07-13T09:41:12.216Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "68737f978938e518f1346c95",
-            "timestamp": "2025-07-13T09:42:47.160Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.68,
-            "asset": "TON",
-            "_id": "68737fc78938e518f13a0874",
-            "timestamp": "2025-07-13T09:43:35.397Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.87,
-            "asset": "TON",
-            "_id": "6873804e8938e518f14b6a70",
-            "timestamp": "2025-07-13T09:45:50.090Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.06,
-            "asset": "TON",
-            "_id": "687382358938e518f1538d9c",
-            "timestamp": "2025-07-13T09:53:57.953Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.277777777,
-            "asset": "TON",
-            "_id": "687382ea8938e518f154d72c",
-            "timestamp": "2025-07-13T09:56:58.600Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.49,
-            "asset": "TON",
-            "_id": "687387f48938e518f1592812",
-            "timestamp": "2025-07-13T10:18:28.712Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.72,
-            "asset": "TON",
-            "_id": "6873896d8938e518f15be789",
-            "timestamp": "2025-07-13T10:24:45.065Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.9611,
-            "asset": "TON",
-            "_id": "68738ac18938e518f1621ae4",
-            "timestamp": "2025-07-13T10:30:25.862Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.21,
-            "asset": "TON",
-            "_id": "68738b118938e518f1625c0a",
-            "timestamp": "2025-07-13T10:31:45.006Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.471,
-            "asset": "TON",
-            "_id": "68738b308938e518f1627bdc",
-            "timestamp": "2025-07-13T10:32:16.211Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T10:42:17.419Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 16206,
-        "model": "Demonius (2%)",
-        "backdrop": "Gunmetal (1.5%)",
-        "symbol": "Cocktail (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T22:22:17.839Z",
-        "__v": 0,
-        "winningBid": 5.471,
-        "winningBidder": 5336661444
-      },
+      "auction": null,
       "export_at": "2025-07-25T12:38:34.000Z",
       "premarketData": {}
     },
@@ -2916,26 +2411,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-25T07:06:30.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 98706,
-      "customEmojiId": "5282917633593730120",
-      "gift_id": 7184185,
-      "name": "Candy Cane",
-      "model": "Demonius (2%)",
-      "asset": "TON",
-      "symbol": "Plume Shako (0.2%)",
-      "backdrop": "Electric Indigo (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T20:34:35.000Z",
       "premarketData": {}
     }
   ],
@@ -4645,26 +4120,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 120162,
-      "customEmojiId": "5341460954121008686",
-      "gift_id": 7068502,
-      "name": "Candy Cane",
-      "model": "Starry Cane (2.6%)",
-      "asset": "TON",
-      "symbol": "White Deer (2%)",
-      "backdrop": "Celtic Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-21T22:50:48.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 121993,
       "customEmojiId": "5341460954121008686",
       "gift_id": 7156970,
@@ -4743,9 +4198,49 @@
       "auction": null,
       "export_at": "2025-07-25T06:50:43.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 70426,
+      "customEmojiId": "5341460954121008686",
+      "gift_id": 7115732,
+      "name": "Candy Cane",
+      "model": "Starry Cane (2.6%)",
+      "asset": "TON",
+      "symbol": "Christmas Tree (2.4%)",
+      "backdrop": "Persimmon (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-23T22:14:19.000Z",
+      "premarketData": {}
     }
   ],
   "Phantom": [
+    {
+      "gift_num": 33589,
+      "customEmojiId": "5278718959464505585",
+      "gift_id": 7273344,
+      "name": "Candy Cane",
+      "model": "Phantom (2.6%)",
+      "asset": "TON",
+      "symbol": "Cookie (2.4%)",
+      "backdrop": "Ranger Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:19:54.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 12643,
       "customEmojiId": "5278718959464505585",
@@ -5203,34 +4698,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "QVW4ZCK3",
-      "auction": {
-        "_id": "6872e1228938e518f1fed93b",
-        "gift_id": 7185999,
-        "seller": 0,
-        "auction_id": "QVW4ZCK3",
-        "startingBid": 2.2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.2,
-            "asset": "TON",
-            "_id": "687475768938e518f1b811fc",
-            "timestamp": "2025-07-14T03:11:50.614Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T03:33:24.559Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 47725,
-        "model": "Phantom (2.6%)",
-        "backdrop": "Deep Cyan (1.5%)",
-        "symbol": "Candy (1.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T21:33:26.751Z",
-        "__v": 0,
-        "winningBid": 2.2,
-        "winningBidder": 5233064626
-      },
+      "auction": null,
       "export_at": "2025-07-26T22:25:09.000Z",
       "premarketData": {}
     },
@@ -5331,34 +4799,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "SHTTK89L",
-      "auction": {
-        "_id": "68727b248938e518f1fc08ca",
-        "gift_id": 7173125,
-        "seller": 0,
-        "auction_id": "SHTTK89L",
-        "startingBid": 2.32,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6872b12e8938e518f1197631",
-            "timestamp": "2025-07-12T19:02:06.118Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T19:12:58.276Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 47725,
-        "model": "Phantom (2.6%)",
-        "backdrop": "Deep Cyan (1.5%)",
-        "symbol": "Candy (1.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T17:12:59.305Z",
-        "__v": 0,
-        "winningBid": 2.32,
-        "winningBidder": 1121659994
-      },
+      "auction": null,
       "export_at": "2025-07-26T10:14:36.000Z",
       "premarketData": {}
     },
@@ -5380,54 +4821,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-26T08:38:19.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 29906,
-      "customEmojiId": "5278718959464505585",
-      "gift_id": 7139047,
-      "name": "Candy Cane",
-      "model": "Phantom (2.6%)",
-      "asset": "TON",
-      "symbol": "Snowman (2.4%)",
-      "backdrop": "Pacific Cyan (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.2,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "N1RPF5MY",
-      "auction": {
-        "_id": "68700b2334f3663346359a78",
-        "gift_id": 7139047,
-        "seller": 0,
-        "auction_id": "N1RPF5MY",
-        "startingBid": 2.2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.2,
-            "asset": "TON",
-            "_id": "6872769c8938e518f1f10d45",
-            "timestamp": "2025-07-12T14:52:12.014Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T15:19:06.887Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 29906,
-        "model": "Phantom (2.6%)",
-        "backdrop": "Pacific Cyan (1%)",
-        "symbol": "Snowman (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T13:19:08.679Z",
-        "__v": 0,
-        "winningBid": 2.2,
-        "winningBidder": 5754596366
-      },
-      "export_at": "2025-07-24T18:47:27.000Z",
       "premarketData": {}
     }
   ],
@@ -5669,34 +5062,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "U16LLQGH",
-      "auction": {
-        "_id": "68765a8baace4cd2f671bb62",
-        "gift_id": 7230680,
-        "seller": 0,
-        "auction_id": "U16LLQGH",
-        "startingBid": 9.1,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 9.1,
-            "asset": "TON",
-            "_id": "6876915faace4cd2f6539de5",
-            "timestamp": "2025-07-15T17:35:27.050Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T17:46:15.531Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 120045,
-        "model": "Lime Twist (2.6%)",
-        "backdrop": "Black (1%)",
-        "symbol": "New Year's Eve (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T16:44:07.335Z",
-        "__v": 0,
-        "winningBid": 9.1,
-        "winningBidder": 7628014496
-      },
+      "auction": null,
       "export_at": "2025-07-29T12:51:04.000Z",
       "premarketData": {}
     },
@@ -6062,26 +5428,6 @@
     }
   ],
   "Hex Pot": [
-    {
-      "gift_num": 105231,
-      "customEmojiId": "5330545737119852562",
-      "gift_id": 7260254,
-      "name": "Candy Cane",
-      "model": "Hex Pot (0.6%)",
-      "asset": "TON",
-      "symbol": "Mittens (2.4%)",
-      "backdrop": "Copper (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T00:24:54.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 124914,
       "customEmojiId": "5330545737119852562",
@@ -6660,6 +6006,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-28T13:01:24.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 86394,
+      "customEmojiId": "5330545737119852562",
+      "gift_id": 7199647,
+      "name": "Candy Cane",
+      "model": "Hex Pot (0.6%)",
+      "asset": "TON",
+      "symbol": "White Deer (2%)",
+      "backdrop": "Burnt Sienna (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T17:57:00.000Z",
       "premarketData": {}
     }
   ],
@@ -7267,43 +6633,43 @@
   ],
   "Grinch": [
     {
-      "gift_num": 91901,
+      "gift_num": 9349,
       "customEmojiId": "5339047259810064655",
-      "gift_id": 7213719,
+      "gift_id": 7099609,
       "name": "Candy Cane",
       "model": "Grinch (1%)",
       "asset": "TON",
-      "symbol": "Sparks (2.4%)",
-      "backdrop": "Coral Red (1.5%)",
+      "symbol": "Shark Knife (0.2%)",
+      "backdrop": "Purple (1%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 6,
+      "price": 7,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-28T13:23:56.000Z",
+      "export_at": "2025-07-23T09:33:05.000Z",
       "premarketData": {}
     },
     {
-      "gift_num": 93139,
+      "gift_num": 19087,
       "customEmojiId": "5339047259810064655",
-      "gift_id": -808080507,
+      "gift_id": 7259794,
       "name": "Candy Cane",
       "model": "Grinch (1%)",
       "asset": "TON",
-      "symbol": "Wreath (0.2%)",
-      "backdrop": "Silver Blue (1.5%)",
+      "symbol": "Bowtie (2.4%)",
+      "backdrop": "Onyx Black (1%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 12,
+      "price": 30,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-31T09:37:12.000Z",
+      "export_at": "2025-07-30T23:20:10.000Z",
       "premarketData": {}
     },
     {
@@ -7757,26 +7123,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 100520,
-      "customEmojiId": "5339047259810064655",
-      "gift_id": 6834021,
-      "name": "Candy Cane",
-      "model": "Grinch (1%)",
-      "asset": "TON",
-      "symbol": "Koala (0.2%)",
-      "backdrop": "Seal Brown (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-13T02:38:06.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 17580,
       "customEmojiId": "5339047259810064655",
       "gift_id": 7181134,
@@ -7935,9 +7281,49 @@
       "auction": null,
       "export_at": "2025-07-15T21:06:40.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 46140,
+      "customEmojiId": "5339047259810064655",
+      "gift_id": 7179092,
+      "name": "Candy Cane",
+      "model": "Grinch (1%)",
+      "asset": "TON",
+      "symbol": "Lion Head (0.2%)",
+      "backdrop": "Strawberry (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T15:50:54.000Z",
+      "premarketData": {}
     }
   ],
   "Tropico": [
+    {
+      "gift_num": 32558,
+      "customEmojiId": "5339431809706913019",
+      "gift_id": 7272545,
+      "name": "Candy Cane",
+      "model": "Tropico (2.6%)",
+      "asset": "TON",
+      "symbol": "Mistletoe (2%)",
+      "backdrop": "Shamrock Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T20:19:27.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 125265,
       "customEmojiId": "5339431809706913019",
@@ -8517,26 +7903,6 @@
       "auction": null,
       "export_at": "2025-07-27T09:45:15.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 114105,
-      "customEmojiId": "5339431809706913019",
-      "gift_id": 6918070,
-      "name": "Candy Cane",
-      "model": "Tropico (2.6%)",
-      "asset": "TON",
-      "symbol": "Twin Peaks (0.2%)",
-      "backdrop": "Strawberry (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-15T20:33:20.000Z",
-      "premarketData": {}
     }
   ],
   "Minty Mirth": [
@@ -8937,34 +8303,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "8H4FEU0Y",
-      "auction": {
-        "_id": "6874e4d88938e518f18f2931",
-        "gift_id": 7210323,
-        "seller": 0,
-        "auction_id": "8H4FEU0Y",
-        "startingBid": 2.32,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6875690caace4cd2f6949f27",
-            "timestamp": "2025-07-14T20:31:08.256Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T20:48:07.960Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 68419,
-        "model": "Minty Mirth (2.6%)",
-        "backdrop": "Pacific Green (1.5%)",
-        "symbol": "Hot Drink (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T19:38:09.983Z",
-        "__v": 0,
-        "winningBid": 2.32,
-        "winningBidder": 1661938153
-      },
+      "auction": null,
       "export_at": "2025-07-28T10:29:28.000Z",
       "premarketData": {}
     },
@@ -9773,6 +9112,46 @@
   ],
   "Final Offer": [
     {
+      "gift_num": 60708,
+      "customEmojiId": "5305253310368867020",
+      "gift_id": 7274204,
+      "name": "Candy Cane",
+      "model": "Final Offer (2.6%)",
+      "asset": "TON",
+      "symbol": "Stocking (2%)",
+      "backdrop": "Shamrock Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T22:30:30.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 15839,
+      "customEmojiId": "5305253310368867020",
+      "gift_id": 7254850,
+      "name": "Candy Cane",
+      "model": "Final Offer (2.6%)",
+      "asset": "TON",
+      "symbol": "Winter House (2.4%)",
+      "backdrop": "Electric Purple (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T18:03:49.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 75062,
       "customEmojiId": "5305253310368867020",
       "gift_id": 7271822,
@@ -9890,26 +9269,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T04:24:05.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15839,
-      "customEmojiId": "5305253310368867020",
-      "gift_id": 7254850,
-      "name": "Candy Cane",
-      "model": "Final Offer (2.6%)",
-      "asset": "TON",
-      "symbol": "Winter House (2.4%)",
-      "backdrop": "Electric Purple (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T18:03:49.000Z",
       "premarketData": {}
     },
     {
@@ -10351,29 +9710,29 @@
       "auction": null,
       "export_at": "2025-07-27T01:02:16.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Lovegood": [
     {
-      "gift_num": 124553,
-      "customEmojiId": "5305253310368867020",
-      "gift_id": 7195390,
+      "gift_num": 101937,
+      "customEmojiId": "5334545983760001883",
+      "gift_id": 7258880,
       "name": "Candy Cane",
-      "model": "Final Offer (2.6%)",
+      "model": "Lovegood (2%)",
       "asset": "TON",
-      "symbol": "Santa Hat (2.4%)",
-      "backdrop": "Electric Purple (1%)",
+      "symbol": "Snowflake (1.6%)",
+      "backdrop": "Aquamarine (1.2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2,
+      "price": 2.13,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-27T13:55:44.000Z",
+      "export_at": "2025-07-30T22:02:58.000Z",
       "premarketData": {}
-    }
-  ],
-  "Lovegood": [
+    },
     {
       "gift_num": 43161,
       "customEmojiId": "5334545983760001883",
@@ -10412,26 +9771,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T04:44:07.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 101937,
-      "customEmojiId": "5334545983760001883",
-      "gift_id": 7258880,
-      "name": "Candy Cane",
-      "model": "Lovegood (2%)",
-      "asset": "TON",
-      "symbol": "Snowflake (1.6%)",
-      "backdrop": "Aquamarine (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T22:02:58.000Z",
       "premarketData": {}
     },
     {
@@ -12055,69 +11394,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "FWFMKNUE",
-      "auction": {
-        "_id": "686ef9681fe9e6aa2c6eb6a2",
-        "gift_id": 7117249,
-        "seller": 0,
-        "auction_id": "FWFMKNUE",
-        "startingBid": 3.85,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.85,
-            "asset": "TON",
-            "_id": "6872ef198938e518f116e767",
-            "timestamp": "2025-07-12T23:26:17.815Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.04,
-            "asset": "TON",
-            "_id": "6872f2a78938e518f11fef27",
-            "timestamp": "2025-07-12T23:41:27.097Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.24,
-            "asset": "TON",
-            "_id": "6872f2f38938e518f1200b9d",
-            "timestamp": "2025-07-12T23:42:43.245Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.45,
-            "asset": "TON",
-            "_id": "6872f3818938e518f1209a4a",
-            "timestamp": "2025-07-12T23:45:05.947Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.67,
-            "asset": "TON",
-            "_id": "6872f6e48938e518f1226b3b",
-            "timestamp": "2025-07-12T23:59:32.076Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.9,
-            "asset": "TON",
-            "_id": "6872f7848938e518f12316e3",
-            "timestamp": "2025-07-13T00:02:12.699Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T00:21:34.470Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 36000,
-        "model": "Violet Berry (2.6%)",
-        "backdrop": "French Violet (1.5%)",
-        "symbol": "Coconut (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T22:41:34.001Z",
-        "__v": 0,
-        "winningBid": 4.9,
-        "winningBidder": 6681853766
-      },
+      "auction": null,
       "export_at": "2025-07-23T23:19:48.000Z",
       "premarketData": {}
     },
@@ -12922,97 +12199,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "XQFO7GD0",
-      "auction": {
-        "_id": "68781926aace4cd2f6387014",
-        "gift_id": 7257412,
-        "seller": 0,
-        "auction_id": "XQFO7GD0",
-        "startingBid": 2.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.5,
-            "asset": "TON",
-            "_id": "6878e9d6aace4cd2f6d6219e",
-            "timestamp": "2025-07-17T12:17:26.217Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.63,
-            "asset": "TON",
-            "_id": "6878eb6faace4cd2f6d6a65f",
-            "timestamp": "2025-07-17T12:24:15.218Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.76,
-            "asset": "TON",
-            "_id": "6878eeedaace4cd2f6d7ac66",
-            "timestamp": "2025-07-17T12:39:09.022Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.9,
-            "asset": "TON",
-            "_id": "6878ef36aace4cd2f6d7d090",
-            "timestamp": "2025-07-17T12:40:22.661Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.05,
-            "asset": "TON",
-            "_id": "6878f2d2aace4cd2f6d96f4b",
-            "timestamp": "2025-07-17T12:55:46.037Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.2,
-            "asset": "TON",
-            "_id": "6878f376aace4cd2f6d9b40c",
-            "timestamp": "2025-07-17T12:58:30.943Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.36,
-            "asset": "TON",
-            "_id": "6878f484aace4cd2f6da22e7",
-            "timestamp": "2025-07-17T13:03:00.923Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.53,
-            "asset": "TON",
-            "_id": "6878f4cdaace4cd2f6da365c",
-            "timestamp": "2025-07-17T13:04:13.924Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.71,
-            "asset": "TON",
-            "_id": "6878f4e8aace4cd2f6da3d60",
-            "timestamp": "2025-07-17T13:04:40.953Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.9,
-            "asset": "TON",
-            "_id": "6878f52caace4cd2f6da4c29",
-            "timestamp": "2025-07-17T13:05:48.027Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T13:19:35.171Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 121411,
-        "model": "Argento (2%)",
-        "backdrop": "Battleship Grey (1%)",
-        "symbol": "Cookie (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T11:25:47.456Z",
-        "__v": 0,
-        "winningBid": 3.9,
-        "winningBidder": 1141689168
-      },
+      "auction": null,
       "export_at": "2025-07-30T20:39:33.000Z",
       "premarketData": {}
     },
@@ -14477,34 +13664,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "WOFQUUDU",
-      "auction": {
-        "_id": "687420dc8938e518f12ada6b",
-        "gift_id": 7203357,
-        "seller": 0,
-        "auction_id": "WOFQUUDU",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687475228938e518f1b7fa39",
-            "timestamp": "2025-07-14T03:10:26.733Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T03:20:51.664Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 47826,
-        "model": "Peppy Pink (2.6%)",
-        "backdrop": "Grape (1.5%)",
-        "symbol": "New Year's Eve (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T21:10:52.424Z",
-        "__v": 0,
-        "winningBid": 2,
-        "winningBidder": 1980028277
-      },
+      "auction": null,
       "export_at": "2025-07-27T21:05:19.000Z",
       "premarketData": {}
     },
@@ -14725,48 +13885,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "2RGF6TNG",
-      "auction": {
-        "_id": "6870b88e34f36633465cfbc3",
-        "gift_id": 6568795,
-        "seller": 0,
-        "auction_id": "2RGF6TNG",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6872a9ec8938e518f1e1f5d9",
-            "timestamp": "2025-07-12T18:31:08.734Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6872aa3e8938e518f1e20fba",
-            "timestamp": "2025-07-12T18:32:30.981Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6872ae5d8938e518f1e6068b",
-            "timestamp": "2025-07-12T18:50:05.063Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T19:09:28.162Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 72474,
-        "model": "Peppy Pink (2.6%)",
-        "backdrop": "Gunmetal (1.5%)",
-        "symbol": "Hot Drink (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T17:59:29.329Z",
-        "__v": 0,
-        "winningBid": 2.32,
-        "winningBidder": 892825721
-      },
+      "auction": null,
       "export_at": "2025-07-02T13:54:59.000Z",
       "premarketData": {}
     },
@@ -15851,34 +14970,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "BKDOFJ58",
-      "auction": {
-        "_id": "687131948938e518f1918fda",
-        "gift_id": 7146956,
-        "seller": 0,
-        "auction_id": "BKDOFJ58",
-        "startingBid": 7,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 7,
-            "asset": "TON",
-            "_id": "6871841e8938e518f11727e9",
-            "timestamp": "2025-07-11T21:37:34.424Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T21:56:53.697Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 117363,
-        "model": "Designer (0.6%)",
-        "backdrop": "Carmine (1.2%)",
-        "symbol": "Ornament (1.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T20:56:55.365Z",
-        "__v": 0,
-        "winningBid": 7,
-        "winningBidder": 2002493222
-      },
+      "auction": null,
       "export_at": "2025-07-25T00:48:11.000Z",
       "premarketData": {}
     },
@@ -16647,6 +15739,26 @@
   ],
   "Polka Pop": [
     {
+      "gift_num": 94806,
+      "customEmojiId": "5341713867565198160",
+      "gift_id": 7197442,
+      "name": "Candy Cane",
+      "model": "Polka Pop (2.6%)",
+      "asset": "TON",
+      "symbol": "Sparks (2.4%)",
+      "backdrop": "Deep Cyan (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T15:47:39.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 126331,
       "customEmojiId": "5341713867565198160",
       "gift_id": 7270058,
@@ -17225,26 +16337,6 @@
       "auction": null,
       "export_at": "2025-06-22T13:02:06.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 37385,
-      "customEmojiId": "5341713867565198160",
-      "gift_id": 7166515,
-      "name": "Candy Cane",
-      "model": "Polka Pop (2.6%)",
-      "asset": "TON",
-      "symbol": "Genie Lamp (0.2%)",
-      "backdrop": "Gunmetal (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T22:20:34.000Z",
-      "premarketData": {}
     }
   ],
   "Hologlow": [
@@ -17585,34 +16677,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "WZL4LZFF",
-      "auction": {
-        "_id": "68758ee8aace4cd2f6d6e96d",
-        "gift_id": 7223295,
-        "seller": 0,
-        "auction_id": "WZL4LZFF",
-        "startingBid": 2.65,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.65,
-            "asset": "TON",
-            "_id": "68766592aace4cd2f61b8b91",
-            "timestamp": "2025-07-15T14:28:34.147Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T14:39:09.762Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 125583,
-        "model": "Hologlow (2%)",
-        "backdrop": "Azure Blue (1%)",
-        "symbol": "White Deer (2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T13:29:10.609Z",
-        "__v": 0,
-        "winningBid": 2.65,
-        "winningBidder": 5394378703
-      },
+      "auction": null,
       "export_at": "2025-07-28T23:10:29.000Z",
       "premarketData": {}
     },
@@ -17813,62 +16878,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "W4V49O5K",
-      "auction": {
-        "_id": "68721a1e8938e518f1620070",
-        "gift_id": 7170743,
-        "seller": 0,
-        "auction_id": "W4V49O5K",
-        "startingBid": 2.32,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6872ce3b8938e518f1afe86f",
-            "timestamp": "2025-07-12T21:06:03.651Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6872d0288938e518f1b47b93",
-            "timestamp": "2025-07-12T21:14:16.099Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "6872d04a8938e518f1b4cd5a",
-            "timestamp": "2025-07-12T21:14:50.112Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.7,
-            "asset": "TON",
-            "_id": "6872d0728938e518f1b523c1",
-            "timestamp": "2025-07-12T21:15:30.763Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.84,
-            "asset": "TON",
-            "_id": "6872d0d18938e518f1b5f5d3",
-            "timestamp": "2025-07-12T21:17:05.002Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T21:33:39.186Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 26856,
-        "model": "Hologlow (2%)",
-        "backdrop": "Celtic Blue (1.2%)",
-        "symbol": "Conch (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T19:13:41.533Z",
-        "__v": 0,
-        "winningBid": 2.84,
-        "winningBidder": 6913620749
-      },
+      "auction": null,
       "export_at": "2025-07-26T07:47:51.000Z",
       "premarketData": {}
     },
@@ -18012,26 +17022,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-10T12:32:09.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 59021,
-      "customEmojiId": "5341336382889551208",
-      "gift_id": 7241242,
-      "name": "Candy Cane",
-      "model": "Neon Wave (2%)",
-      "asset": "TON",
-      "symbol": "Bowtie (2.4%)",
-      "backdrop": "French Violet (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T22:39:54.000Z",
       "premarketData": {}
     },
     {
@@ -18533,27 +17523,47 @@
       "auction": null,
       "export_at": "2025-07-26T18:15:58.000Z",
       "premarketData": {}
-    }
-  ],
-  "New Layer": [
+    },
     {
-      "gift_num": 101598,
-      "customEmojiId": "5339089560942963056",
-      "gift_id": 7008145,
+      "gift_num": 87727,
+      "customEmojiId": "5341336382889551208",
+      "gift_id": 7179079,
       "name": "Candy Cane",
-      "model": "New Layer (2.6%)",
+      "model": "Neon Wave (2%)",
       "asset": "TON",
-      "symbol": "Ice Skates (2.4%)",
-      "backdrop": "Onyx Black (1%)",
+      "symbol": "Cocktail (2.4%)",
+      "backdrop": "Raspberry (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 7.5,
+      "price": 3,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-19T14:20:36.000Z",
+      "export_at": "2025-07-26T15:50:12.000Z",
+      "premarketData": {}
+    }
+  ],
+  "New Layer": [
+    {
+      "gift_num": 394,
+      "customEmojiId": "5339089560942963056",
+      "gift_id": 5871214,
+      "name": "Candy Cane",
+      "model": "New Layer (2.6%)",
+      "asset": "TON",
+      "symbol": "Sparks (2.4%)",
+      "backdrop": "Dark Lilac (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-22T14:54:46.000Z",
       "premarketData": {}
     },
     {
@@ -18574,6 +17584,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-31T19:42:53.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 101598,
+      "customEmojiId": "5339089560942963056",
+      "gift_id": 7008145,
+      "name": "Candy Cane",
+      "model": "New Layer (2.6%)",
+      "asset": "TON",
+      "symbol": "Ice Skates (2.4%)",
+      "backdrop": "Onyx Black (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-19T14:20:36.000Z",
       "premarketData": {}
     },
     {
@@ -18654,26 +17684,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T16:46:34.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6644,
-      "customEmojiId": "5339089560942963056",
-      "gift_id": 7259812,
-      "name": "Candy Cane",
-      "model": "New Layer (2.6%)",
-      "asset": "TON",
-      "symbol": "Bunny (0.2%)",
-      "backdrop": "Mustard (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T23:22:31.000Z",
       "premarketData": {}
     },
     {
@@ -19741,6 +18751,26 @@
   ],
   "Sugar Crush": [
     {
+      "gift_num": 38530,
+      "customEmojiId": "5339318895016702305",
+      "gift_id": 7274207,
+      "name": "Candy Cane",
+      "model": "Sugar Crush (2.6%)",
+      "asset": "TON",
+      "symbol": "Lion Head (0.2%)",
+      "backdrop": "Camo Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T22:30:43.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 122133,
       "customEmojiId": "5339318895016702305",
       "gift_id": 7260053,
@@ -20318,26 +19348,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-17T16:42:35.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 122078,
-      "customEmojiId": "5339318895016702305",
-      "gift_id": 7107634,
-      "name": "Candy Cane",
-      "model": "Sugar Crush (2.6%)",
-      "asset": "TON",
-      "symbol": "Bowtie (2.4%)",
-      "backdrop": "Aquamarine (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T16:18:27.000Z",
       "premarketData": {}
     }
   ],
@@ -25159,6 +24169,26 @@
   ],
   "Goldium": [
     {
+      "gift_num": 124993,
+      "customEmojiId": "5339468866684742229",
+      "gift_id": 7262838,
+      "name": "Candy Cane",
+      "model": "Goldium (1%)",
+      "asset": "TON",
+      "symbol": "New Year's Eve (2.4%)",
+      "backdrop": "Amber (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T07:56:48.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 107976,
       "customEmojiId": "5339468866684742229",
       "gift_id": 7260297,
@@ -25737,29 +24767,29 @@
       "auction": null,
       "export_at": "2025-07-25T00:52:48.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Phoenix": [
     {
-      "gift_num": 122638,
-      "customEmojiId": "5339468866684742229",
-      "gift_id": 7146997,
+      "gift_num": 12364,
+      "customEmojiId": "5339359168925034628",
+      "gift_id": 5706218,
       "name": "Candy Cane",
-      "model": "Goldium (1%)",
+      "model": "Phoenix (2.6%)",
       "asset": "TON",
-      "symbol": "Eikthyrnir (2.4%)",
-      "backdrop": "Indigo Dye (1.2%)",
+      "symbol": "Pomegranate (0.2%)",
+      "backdrop": "Gunmetal (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.55,
+      "price": 4,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-25T00:52:17.000Z",
+      "export_at": "2025-06-18T21:27:35.000Z",
       "premarketData": {}
-    }
-  ],
-  "Phoenix": [
+    },
     {
       "gift_num": 31856,
       "customEmojiId": "5339359168925034628",
@@ -26241,26 +25271,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 12364,
-      "customEmojiId": "5339359168925034628",
-      "gift_id": 5706218,
-      "name": "Candy Cane",
-      "model": "Phoenix (2.6%)",
-      "asset": "TON",
-      "symbol": "Pomegranate (0.2%)",
-      "backdrop": "Gunmetal (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-18T21:27:35.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 116637,
       "customEmojiId": "5339359168925034628",
       "gift_id": 6973876,
@@ -26519,34 +25529,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "OBFNSYX3",
-      "auction": {
-        "_id": "6877d239aace4cd2f6f4307f",
-        "gift_id": 7245995,
-        "seller": 0,
-        "auction_id": "OBFNSYX3",
-        "startingBid": 4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "68786419aace4cd2f67240ac",
-            "timestamp": "2025-07-17T02:46:49.713Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T03:18:56.987Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 63829,
-        "model": "Amber Glitter (2.6%)",
-        "backdrop": "Mexican Pink (1%)",
-        "symbol": "Bowtie (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T02:18:58.217Z",
-        "__v": 0,
-        "winningBid": 4,
-        "winningBidder": 7106813437
-      },
+      "auction": null,
       "export_at": "2025-07-30T09:15:23.000Z",
       "premarketData": {}
     },
@@ -26747,62 +25730,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "U776YGF0",
-      "auction": {
-        "_id": "68769319aace4cd2f658561d",
-        "gift_id": 7236048,
-        "seller": 0,
-        "auction_id": "U776YGF0",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "687764beaace4cd2f64d6c54",
-            "timestamp": "2025-07-16T08:37:18.200Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "68776585aace4cd2f64de880",
-            "timestamp": "2025-07-16T08:40:37.517Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "6877660caace4cd2f64e58e5",
-            "timestamp": "2025-07-16T08:42:52.519Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.48,
-            "asset": "TON",
-            "_id": "687767d2aace4cd2f64fc356",
-            "timestamp": "2025-07-16T08:50:26.848Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.66,
-            "asset": "TON",
-            "_id": "68776930aace4cd2f650a48b",
-            "timestamp": "2025-07-16T08:56:16.313Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T09:13:36.250Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 63829,
-        "model": "Amber Glitter (2.6%)",
-        "backdrop": "Mexican Pink (1%)",
-        "symbol": "Bowtie (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T20:43:41.131Z",
-        "__v": 0,
-        "winningBid": 3.66,
-        "winningBidder": 1696491439
-      },
+      "auction": null,
       "export_at": "2025-07-29T17:41:07.000Z",
       "premarketData": {}
     },
@@ -27048,6 +25976,46 @@
     }
   ],
   "Angelius": [
+    {
+      "gift_num": 90209,
+      "customEmojiId": "5285152201998623459",
+      "gift_id": 6861743,
+      "name": "Candy Cane",
+      "model": "Angelius (2%)",
+      "asset": "TON",
+      "symbol": "Dessert (2.4%)",
+      "backdrop": "Onyx Black (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-14T08:55:02.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 53362,
+      "customEmojiId": "5285152201998623459",
+      "gift_id": 7160460,
+      "name": "Candy Cane",
+      "model": "Angelius (2%)",
+      "asset": "TON",
+      "symbol": "Star (1.6%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.22,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-25T17:14:18.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 60847,
       "customEmojiId": "5285152201998623459",
@@ -27405,34 +26373,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "39RI6391",
-      "auction": {
-        "_id": "68765d40aace4cd2f6816e5b",
-        "gift_id": 7224219,
-        "seller": 0,
-        "auction_id": "39RI6391",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "6876991aaace4cd2f67cae3c",
-            "timestamp": "2025-07-15T18:08:26.392Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T20:03:54.035Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 123065,
-        "model": "Angelius (2%)",
-        "backdrop": "Black (1%)",
-        "symbol": "Fireworks (2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T14:03:56.212Z",
-        "__v": 0,
-        "winningBid": 10,
-        "winningBidder": 924721556
-      },
+      "auction": null,
       "export_at": "2025-07-29T01:10:43.000Z",
       "premarketData": {}
     },
@@ -27633,75 +26574,8 @@
       "status": "auction",
       "limited": false,
       "auction_id": "XNPGATD8",
-      "auction": {
-        "_id": "687382cb8938e518f154a677",
-        "gift_id": 7174400,
-        "seller": 0,
-        "auction_id": "XNPGATD8",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68738e858938e518f1664083",
-            "timestamp": "2025-07-13T10:46:29.664Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T11:06:24.178Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 27955,
-        "model": "Angelius (2%)",
-        "backdrop": "Satin Gold (1.5%)",
-        "symbol": "Jingle Bell (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T09:56:27.181Z",
-        "__v": 0,
-        "winningBid": 2,
-        "winningBidder": 692465372
-      },
+      "auction": null,
       "export_at": "2025-07-26T11:28:58.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 26006,
-      "customEmojiId": "5285152201998623459",
-      "gift_id": 7108910,
-      "name": "Candy Cane",
-      "model": "Angelius (2%)",
-      "asset": "TON",
-      "symbol": "Snow Angel (1.6%)",
-      "backdrop": "Mystic Pearl (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T17:20:55.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 107849,
-      "customEmojiId": "5285152201998623459",
-      "gift_id": 7161876,
-      "name": "Candy Cane",
-      "model": "Angelius (2%)",
-      "asset": "TON",
-      "symbol": "Anubis (0.2%)",
-      "backdrop": "Lavender (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T18:33:11.000Z",
       "premarketData": {}
     }
   ],
@@ -28309,6 +27183,46 @@
   ],
   "Sticky Sweet": [
     {
+      "gift_num": 73847,
+      "customEmojiId": "5339375657304485392",
+      "gift_id": 7269788,
+      "name": "Candy Cane",
+      "model": "Sticky Sweet (2%)",
+      "asset": "TON",
+      "symbol": "Nordic Wolf (2%)",
+      "backdrop": "Desert Sand (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T16:37:33.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 73006,
+      "customEmojiId": "5339375657304485392",
+      "gift_id": 7269743,
+      "name": "Candy Cane",
+      "model": "Sticky Sweet (2%)",
+      "asset": "TON",
+      "symbol": "Dessert (2.4%)",
+      "backdrop": "Seal Brown (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T16:31:51.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 96719,
       "customEmojiId": "5339375657304485392",
       "gift_id": 7272680,
@@ -28866,46 +27780,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T01:39:03.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 40593,
-      "customEmojiId": "5339375657304485392",
-      "gift_id": 7242412,
-      "name": "Candy Cane",
-      "model": "Sticky Sweet (2%)",
-      "asset": "TON",
-      "symbol": "Candy (1.6%)",
-      "backdrop": "Fandango (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.17,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T00:48:53.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 125944,
-      "customEmojiId": "5339375657304485392",
-      "gift_id": 7241566,
-      "name": "Candy Cane",
-      "model": "Sticky Sweet (2%)",
-      "asset": "TON",
-      "symbol": "Ice Skates (2.4%)",
-      "backdrop": "Orange (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T23:15:30.000Z",
       "premarketData": {}
     }
   ],
@@ -31033,34 +29907,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "JAKJPY90",
-      "auction": {
-        "_id": "687754d2aace4cd2f625da43",
-        "gift_id": 7214107,
-        "seller": 0,
-        "auction_id": "JAKJPY90",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687762dfaace4cd2f630748d",
-            "timestamp": "2025-07-16T08:29:19.723Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T08:39:20.601Z",
-        "status": "finished",
-        "gift_name": "Candy Cane",
-        "gift_num": 67673,
-        "model": "Toxicane (2.6%)",
-        "backdrop": "Cyberpunk (1.5%)",
-        "symbol": "Dessert (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T07:29:22.212Z",
-        "__v": 0,
-        "winningBid": 2,
-        "winningBidder": 1635968809
-      },
+      "auction": null,
       "export_at": "2025-07-28T13:41:25.000Z",
       "premarketData": {}
     },
