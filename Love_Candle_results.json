@@ -583,6 +583,26 @@
   ],
   "Twilight": [
     {
+      "gift_num": 9189,
+      "customEmojiId": "5407010384215302133",
+      "gift_id": 7273286,
+      "name": "Love Candle",
+      "model": "Twilight (3%)",
+      "asset": "TON",
+      "symbol": "Blossom (0.4%)",
+      "backdrop": "Malachite (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:16:22.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 10400,
       "customEmojiId": "5407010384215302133",
       "gift_id": 7268859,
@@ -3630,69 +3650,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "ICVYWJ5Z",
-      "auction": {
-        "_id": "6873c5a48938e518f12ed9e8",
-        "gift_id": 7196327,
-        "seller": 0,
-        "auction_id": "ICVYWJ5Z",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6873c72a8938e518f12f91f3",
-            "timestamp": "2025-07-13T14:48:10.279Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6873c8f78938e518f14b183c",
-            "timestamp": "2025-07-13T14:55:51.998Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "6873cc098938e518f17af4fb",
-            "timestamp": "2025-07-13T15:08:57.759Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9,
-            "asset": "TON",
-            "_id": "6873cffa8938e518f1933185",
-            "timestamp": "2025-07-13T15:25:46.873Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.45,
-            "asset": "TON",
-            "_id": "6873d2348938e518f19681e9",
-            "timestamp": "2025-07-13T15:35:16.875Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.92,
-            "asset": "TON",
-            "_id": "6873d2888938e518f19713a0",
-            "timestamp": "2025-07-13T15:36:40.387Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T15:51:38.585Z",
-        "status": "finished",
-        "gift_name": "Love Candle",
-        "gift_num": 11900,
-        "model": "Passion (3%)",
-        "backdrop": "Emerald (1.5%)",
-        "symbol": "Sprout (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T14:41:40.446Z",
-        "__v": 0,
-        "winningBid": 9.92,
-        "winningBidder": 7276905466
-      },
+      "auction": null,
       "export_at": "2025-07-27T14:38:36.000Z",
       "premarketData": {}
     }
@@ -4323,6 +4281,26 @@
   ],
   "Arabian Night": [
     {
+      "gift_num": 9932,
+      "customEmojiId": "5397599097257484348",
+      "gift_id": 7272385,
+      "name": "Love Candle",
+      "model": "Arabian Night (3%)",
+      "asset": "TON",
+      "symbol": "Ghost (0.4%)",
+      "backdrop": "Cyberpunk (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T20:04:58.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 15361,
       "customEmojiId": "5397599097257484348",
       "gift_id": 7269367,
@@ -4900,26 +4878,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-26T17:46:37.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15901,
-      "customEmojiId": "5397599097257484348",
-      "gift_id": 6518298,
-      "name": "Love Candle",
-      "model": "Arabian Night (3%)",
-      "asset": "TON",
-      "symbol": "Piñata (0.5%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-01T03:56:07.000Z",
       "premarketData": {}
     }
   ],
@@ -5805,41 +5763,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "BAODX756",
-      "auction": {
-        "_id": "6877ffb7aace4cd2f6d72d4f",
-        "gift_id": 7255770,
-        "seller": 0,
-        "auction_id": "BAODX756",
-        "startingBid": 9.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 9.5,
-            "asset": "TON",
-            "_id": "68789218aace4cd2f695c7ff",
-            "timestamp": "2025-07-17T06:03:04.719Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.98,
-            "asset": "TON",
-            "_id": "68789478aace4cd2f6963c34",
-            "timestamp": "2025-07-17T06:13:12.514Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T06:24:22.713Z",
-        "status": "finished",
-        "gift_name": "Love Candle",
-        "gift_num": 16885,
-        "model": "Gothic Tears (1.5%)",
-        "backdrop": "Rosewood (1%)",
-        "symbol": "Venetian Mask (0.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T04:04:24.303Z",
-        "__v": 0,
-        "winningBid": 9.98,
-        "winningBidder": 1123647890
-      },
+      "auction": null,
       "export_at": "2025-07-30T18:55:02.000Z",
       "premarketData": {}
     },
@@ -7430,6 +7354,26 @@
   ],
   "Vivid Foam": [
     {
+      "gift_num": 9268,
+      "customEmojiId": "5203975932829788662",
+      "gift_id": 7273766,
+      "name": "Love Candle",
+      "model": "Vivid Foam (0.5%)",
+      "asset": "TON",
+      "symbol": "Gear (0.5%)",
+      "backdrop": "Midnight Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 40,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:51:42.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4087,
       "customEmojiId": "5203975932829788662",
       "gift_id": 7247084,
@@ -7665,195 +7609,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "B6L83R7Z",
-      "auction": {
-        "_id": "68733f2d8938e518f1ad7ff9",
-        "gift_id": 7188240,
-        "seller": 0,
-        "auction_id": "B6L83R7Z",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68734fe58938e518f1b45b84",
-            "timestamp": "2025-07-13T06:19:17.086Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "687350178938e518f1b462d1",
-            "timestamp": "2025-07-13T06:20:07.003Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "687350398938e518f1b469f4",
-            "timestamp": "2025-07-13T06:20:41.118Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "687351178938e518f1b4a108",
-            "timestamp": "2025-07-13T06:24:23.097Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "687351578938e518f1b4a9ea",
-            "timestamp": "2025-07-13T06:25:27.853Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "687351888938e518f1b4c4d7",
-            "timestamp": "2025-07-13T06:26:16.960Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "687351a88938e518f1b4c95d",
-            "timestamp": "2025-07-13T06:26:48.965Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.83,
-            "asset": "TON",
-            "_id": "687353748938e518f1b58ca0",
-            "timestamp": "2025-07-13T06:34:28.581Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.97,
-            "asset": "TON",
-            "_id": "687353938938e518f1b5a886",
-            "timestamp": "2025-07-13T06:34:59.359Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.12,
-            "asset": "TON",
-            "_id": "687353d68938e518f1b5b6b8",
-            "timestamp": "2025-07-13T06:36:06.994Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "687353e48938e518f1b5bdfd",
-            "timestamp": "2025-07-13T06:36:20.192Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "687353fe8938e518f1b5cda4",
-            "timestamp": "2025-07-13T06:36:46.620Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.51,
-            "asset": "TON",
-            "_id": "6873540f8938e518f1b5d4f0",
-            "timestamp": "2025-07-13T06:37:03.926Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.79,
-            "asset": "TON",
-            "_id": "687354238938e518f1b5dcda",
-            "timestamp": "2025-07-13T06:37:23.961Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.08,
-            "asset": "TON",
-            "_id": "687354378938e518f1b5f04f",
-            "timestamp": "2025-07-13T06:37:43.373Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11,
-            "asset": "TON",
-            "_id": "687354508938e518f1b5f7fb",
-            "timestamp": "2025-07-13T06:38:08.912Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.55,
-            "asset": "TON",
-            "_id": "6873561f8938e518f1b69678",
-            "timestamp": "2025-07-13T06:45:51.927Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.13,
-            "asset": "TON",
-            "_id": "687356448938e518f1b69d0f",
-            "timestamp": "2025-07-13T06:46:28.199Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13,
-            "asset": "TON",
-            "_id": "687356d58938e518f1b6c554",
-            "timestamp": "2025-07-13T06:48:53.441Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 16,
-            "asset": "TON",
-            "_id": "687356e58938e518f1b6c7f5",
-            "timestamp": "2025-07-13T06:49:09.310Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 16.8,
-            "asset": "TON",
-            "_id": "68735cae8938e518f1b89e2b",
-            "timestamp": "2025-07-13T07:13:50.211Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 17.64,
-            "asset": "TON",
-            "_id": "68735cba8938e518f1b8aade",
-            "timestamp": "2025-07-13T07:14:02.019Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 19,
-            "asset": "TON",
-            "_id": "68735ccf8938e518f1b8c5c8",
-            "timestamp": "2025-07-13T07:14:23.744Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "68735ce58938e518f1b8e0b3",
-            "timestamp": "2025-07-13T07:14:45.131Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T07:25:33.983Z",
-        "status": "finished",
-        "gift_name": "Love Candle",
-        "gift_num": 5265,
-        "model": "Vivid Foam (0.5%)",
-        "backdrop": "Orange (1.5%)",
-        "symbol": "Bubbles (0.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T06:15:35.049Z",
-        "__v": 0,
-        "winningBid": 20,
-        "winningBidder": 1389103102
-      },
+      "auction": null,
       "export_at": "2025-07-27T05:06:22.000Z",
       "premarketData": {}
     }
@@ -8367,34 +8123,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "IBM85024",
-      "auction": {
-        "_id": "68769257aace4cd2f65440f0",
-        "gift_id": 7233551,
-        "seller": 0,
-        "auction_id": "IBM85024",
-        "startingBid": 10.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "68769e0aaace4cd2f687b7fe",
-            "timestamp": "2025-07-15T18:29:30.171Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T18:39:33.873Z",
-        "status": "finished",
-        "gift_name": "Love Candle",
-        "gift_num": 2913,
-        "model": "White Wax (2%)",
-        "backdrop": "Coral Red (1.5%)",
-        "symbol": "Kitty Cat (0.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T17:39:35.556Z",
-        "__v": 0,
-        "winningBid": 10.5,
-        "winningBidder": 1159474497
-      },
+      "auction": null,
       "export_at": "2025-07-29T15:28:01.000Z",
       "premarketData": {}
     },
@@ -9418,111 +9147,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "CX2H2UM9",
-      "auction": {
-        "_id": "68703fa334f3663346f2f8fa",
-        "gift_id": 7144988,
-        "seller": 0,
-        "auction_id": "CX2H2UM9",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "6870406c34f3663346f3dcbd",
-            "timestamp": "2025-07-10T22:36:28.139Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.68,
-            "asset": "TON",
-            "_id": "687042e834f3663346f7e289",
-            "timestamp": "2025-07-10T22:47:04.014Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.4,
-            "asset": "TON",
-            "_id": "6870433734f3663346f87f4f",
-            "timestamp": "2025-07-10T22:48:23.277Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.62,
-            "asset": "TON",
-            "_id": "687043b534f3663346f94ca5",
-            "timestamp": "2025-07-10T22:50:29.067Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9,
-            "asset": "TON",
-            "_id": "687047f334f3663346fe7ec2",
-            "timestamp": "2025-07-10T23:08:35.175Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.45,
-            "asset": "TON",
-            "_id": "68704a0f34f3663346022f44",
-            "timestamp": "2025-07-10T23:17:35.325Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "68704a7034f366334602c139",
-            "timestamp": "2025-07-10T23:19:12.910Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "68704a8434f366334602e190",
-            "timestamp": "2025-07-10T23:19:32.157Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.03,
-            "asset": "TON",
-            "_id": "68704ab634f366334603032f",
-            "timestamp": "2025-07-10T23:20:22.136Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.58,
-            "asset": "TON",
-            "_id": "68704b3a34f366334603af12",
-            "timestamp": "2025-07-10T23:22:34.985Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.16,
-            "asset": "TON",
-            "_id": "68704bf134f366334604b125",
-            "timestamp": "2025-07-10T23:25:37.326Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.77,
-            "asset": "TON",
-            "_id": "68704c1834f366334604ee74",
-            "timestamp": "2025-07-10T23:26:16.612Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T23:43:06.922Z",
-        "status": "finished",
-        "gift_name": "Love Candle",
-        "gift_num": 9105,
-        "model": "Nectarine (3%)",
-        "backdrop": "Amber (2%)",
-        "symbol": "Flirty Message (1%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T22:33:07.639Z",
-        "__v": 0,
-        "winningBid": 12.77,
-        "winningBidder": 1181932388
-      },
+      "auction": null,
       "export_at": "2025-07-24T22:32:29.000Z",
       "premarketData": {}
     }
@@ -10111,6 +9736,26 @@
   ],
   "Gentle Wind": [
     {
+      "gift_num": 15200,
+      "customEmojiId": "5411123807538667253",
+      "gift_id": 7257534,
+      "name": "Love Candle",
+      "model": "Gentle Wind (3%)",
+      "asset": "TON",
+      "symbol": "Lingerie (1%)",
+      "backdrop": "Pure Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T20:47:29.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3215,
       "customEmojiId": "5411123807538667253",
       "gift_id": 7060637,
@@ -10689,29 +10334,29 @@
       "auction": null,
       "export_at": "2025-06-11T09:42:02.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Dreamscape": [
     {
-      "gift_num": 2418,
-      "customEmojiId": "5411123807538667253",
-      "gift_id": 5792705,
+      "gift_num": 4181,
+      "customEmojiId": "5407034659370458990",
+      "gift_id": 7257145,
       "name": "Love Candle",
-      "model": "Gentle Wind (3%)",
+      "model": "Dreamscape (3%)",
       "asset": "TON",
-      "symbol": "Rain Drop (0.5%)",
-      "backdrop": "Mystic Pearl (2%)",
+      "symbol": "Chili (0.4%)",
+      "backdrop": "Platinum (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 50,
+      "price": 8,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-06-20T19:51:39.000Z",
+      "export_at": "2025-07-30T20:25:06.000Z",
       "premarketData": {}
-    }
-  ],
-  "Dreamscape": [
+    },
     {
       "gift_num": 14755,
       "customEmojiId": "5407034659370458990",
@@ -10730,26 +10375,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-29T12:55:06.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4181,
-      "customEmojiId": "5407034659370458990",
-      "gift_id": 7257145,
-      "name": "Love Candle",
-      "model": "Dreamscape (3%)",
-      "asset": "TON",
-      "symbol": "Chili (0.4%)",
-      "backdrop": "Platinum (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T20:25:06.000Z",
       "premarketData": {}
     },
     {
@@ -13239,139 +12864,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "OZQS0LB1",
-      "auction": {
-        "_id": "68765d83aace4cd2f6838612",
-        "gift_id": 7204089,
-        "seller": 0,
-        "auction_id": "OZQS0LB1",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68765f56aace4cd2f6a5b3cb",
-            "timestamp": "2025-07-15T14:01:58.118Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68766195aace4cd2f6d5c462",
-            "timestamp": "2025-07-15T14:11:33.138Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "687665a5aace4cd2f61b99d7",
-            "timestamp": "2025-07-15T14:28:53.623Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "687665d9aace4cd2f61bd4ae",
-            "timestamp": "2025-07-15T14:29:45.534Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "687665e8aace4cd2f61be383",
-            "timestamp": "2025-07-15T14:30:00.556Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "6876661baace4cd2f61c0c8c",
-            "timestamp": "2025-07-15T14:30:51.090Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6876662faace4cd2f61c1ee8",
-            "timestamp": "2025-07-15T14:31:11.733Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "6876663aaace4cd2f61c2b4c",
-            "timestamp": "2025-07-15T14:31:22.451Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.5,
-            "asset": "TON",
-            "_id": "6876667baace4cd2f61c65a6",
-            "timestamp": "2025-07-15T14:32:27.517Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.93,
-            "asset": "TON",
-            "_id": "68766697aace4cd2f61c8f9b",
-            "timestamp": "2025-07-15T14:32:55.881Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.38,
-            "asset": "TON",
-            "_id": "687666beaace4cd2f61cbd5f",
-            "timestamp": "2025-07-15T14:33:34.936Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.85,
-            "asset": "TON",
-            "_id": "687666d9aace4cd2f61cef61",
-            "timestamp": "2025-07-15T14:34:01.619Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.34,
-            "asset": "TON",
-            "_id": "68766a3eaace4cd2f637d180",
-            "timestamp": "2025-07-15T14:48:30.778Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.86,
-            "asset": "TON",
-            "_id": "68766a4daace4cd2f637dd23",
-            "timestamp": "2025-07-15T14:48:45.880Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.4,
-            "asset": "TON",
-            "_id": "68766ad7aace4cd2f6386278",
-            "timestamp": "2025-07-15T14:51:03.094Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.97,
-            "asset": "TON",
-            "_id": "68766b36aace4cd2f638b3dd",
-            "timestamp": "2025-07-15T14:52:38.133Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T15:04:10.162Z",
-        "status": "finished",
-        "gift_name": "Love Candle",
-        "gift_num": 12913,
-        "model": "North Pole (0.5%)",
-        "backdrop": "Mystic Pearl (2%)",
-        "symbol": "Ring (0.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T13:54:11.240Z",
-        "__v": 0,
-        "winningBid": 11.97,
-        "winningBidder": 5079347562
-      },
+      "auction": null,
       "export_at": "2025-07-27T21:41:24.000Z",
       "premarketData": {}
     },
@@ -14342,6 +13835,26 @@
   ],
   "Gouda Wax": [
     {
+      "gift_num": 10208,
+      "customEmojiId": "5215638688888809439",
+      "gift_id": 7255323,
+      "name": "Love Candle",
+      "model": "Gouda Wax (1%)",
+      "asset": "TON",
+      "symbol": "Moose Head (0.5%)",
+      "backdrop": "Coral Red (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T18:28:49.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5874,
       "customEmojiId": "5215638688888809439",
       "gift_id": 7260292,
@@ -14379,26 +13892,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-26T15:06:37.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 10208,
-      "customEmojiId": "5215638688888809439",
-      "gift_id": 7255323,
-      "name": "Love Candle",
-      "model": "Gouda Wax (1%)",
-      "asset": "TON",
-      "symbol": "Moose Head (0.5%)",
-      "backdrop": "Coral Red (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 13,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T18:28:49.000Z",
       "premarketData": {}
     },
     {
@@ -18687,6 +18180,26 @@
   ],
   "Mykonos": [
     {
+      "gift_num": 7360,
+      "customEmojiId": "5395821629337002586",
+      "gift_id": 7273994,
+      "name": "Love Candle",
+      "model": "Mykonos (3%)",
+      "asset": "TON",
+      "symbol": "Hammerhead (0.4%)",
+      "backdrop": "Raspberry (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 12,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T22:09:57.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 17682,
       "customEmojiId": "5395821629337002586",
       "gift_id": 7251186,
@@ -19264,88 +18777,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-13T19:07:45.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 17113,
-      "customEmojiId": "5395821629337002586",
-      "gift_id": 7137057,
-      "name": "Love Candle",
-      "model": "Mykonos (3%)",
-      "asset": "TON",
-      "symbol": "Chili (0.4%)",
-      "backdrop": "Amber (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 10.71,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "TGBLIDNF",
-      "auction": {
-        "_id": "686ffa6334f3663346093b1c",
-        "gift_id": 7137057,
-        "seller": 0,
-        "auction_id": "TGBLIDNF",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687003b234f36633462a4da1",
-            "timestamp": "2025-07-10T18:17:22.508Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.67,
-            "asset": "TON",
-            "_id": "687003f034f36633462a98f9",
-            "timestamp": "2025-07-10T18:18:24.507Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "6870040034f36633462abd7d",
-            "timestamp": "2025-07-10T18:18:40.671Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.6,
-            "asset": "TON",
-            "_id": "6870050d34f36633462ce228",
-            "timestamp": "2025-07-10T18:23:09.416Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.2,
-            "asset": "TON",
-            "_id": "6870074234f3663346300ca3",
-            "timestamp": "2025-07-10T18:32:34.990Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.71,
-            "asset": "TON",
-            "_id": "6870165534f36633466b0079",
-            "timestamp": "2025-07-10T19:36:53.094Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T19:47:38.877Z",
-        "status": "finished",
-        "gift_name": "Love Candle",
-        "gift_num": 17113,
-        "model": "Mykonos (3%)",
-        "backdrop": "Amber (2%)",
-        "symbol": "Chili (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T17:37:39.818Z",
-        "__v": 0,
-        "winningBid": 10.71,
-        "winningBidder": 2135637046
-      },
-      "export_at": "2025-07-24T17:37:17.000Z",
       "premarketData": {}
     }
   ],
