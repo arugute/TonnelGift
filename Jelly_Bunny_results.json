@@ -2023,34 +2023,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "TZGA7B28",
-      "auction": {
-        "_id": "686f65211fe9e6aa2c2ddf9c",
-        "gift_id": 7120384,
-        "seller": 0,
-        "auction_id": "TZGA7B28",
-        "startingBid": 9,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 9,
-            "asset": "TON",
-            "_id": "68700c1c34f366334637b8e2",
-            "timestamp": "2025-07-10T18:53:16.837Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T19:18:04.711Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 28601,
-        "model": "Radioactive (1.5%)",
-        "backdrop": "Onyx Black (2%)",
-        "symbol": "Bug (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T18:18:05.064Z",
-        "__v": 0,
-        "winningBid": 9,
-        "winningBidder": 809942974
-      },
+      "auction": null,
       "export_at": "2025-07-24T05:50:26.000Z",
       "premarketData": {}
     },
@@ -2955,34 +2928,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "PS2A2A1C",
-      "auction": {
-        "_id": "6871905e8938e518f13e5ad1",
-        "gift_id": 7143465,
-        "seller": 0,
-        "auction_id": "PS2A2A1C",
-        "startingBid": 5.9,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5.9,
-            "asset": "TON",
-            "_id": "6871f8888938e518f1010775",
-            "timestamp": "2025-07-12T05:54:16.911Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T07:08:50.602Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 13850,
-        "model": "Noble (0.5%)",
-        "backdrop": "Onyx Black (2%)",
-        "symbol": "Bell Pepper (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T05:08:52.037Z",
-        "__v": 0,
-        "winningBid": 5.9,
-        "winningBidder": 5061717844
-      },
+      "auction": null,
       "export_at": "2025-07-24T21:21:55.000Z",
       "premarketData": {}
     },
@@ -3063,34 +3009,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "QRQ1TGMJ",
-      "auction": {
-        "_id": "6871ed298938e518f1c74172",
-        "gift_id": 7146410,
-        "seller": 0,
-        "auction_id": "QRQ1TGMJ",
-        "startingBid": 6,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 6,
-            "asset": "TON",
-            "_id": "6871f8768938e518f100e5cc",
-            "timestamp": "2025-07-12T05:53:58.701Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T06:05:44.405Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 22585,
-        "model": "Noble (0.5%)",
-        "backdrop": "Onyx Black (2%)",
-        "symbol": "Mask (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T05:05:45.458Z",
-        "__v": 0,
-        "winningBid": 6,
-        "winningBidder": 5061717844
-      },
+      "auction": null,
       "export_at": "2025-07-24T23:33:23.000Z",
       "premarketData": {}
     },
@@ -3393,34 +3312,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "KP6AI2T7",
-      "auction": {
-        "_id": "687670b1aace4cd2f63db65e",
-        "gift_id": 7233326,
-        "seller": 0,
-        "auction_id": "KP6AI2T7",
-        "startingBid": 6.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 6.5,
-            "asset": "TON",
-            "_id": "6876a31caace4cd2f68cbfb3",
-            "timestamp": "2025-07-15T18:51:08.248Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T19:35:28.363Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 73203,
-        "model": "Tropic Twist (0.5%)",
-        "backdrop": "Onyx Black (2%)",
-        "symbol": "Flipper (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T18:35:31.284Z",
-        "__v": 0,
-        "winningBid": 6.5,
-        "winningBidder": 1377526415
-      },
+      "auction": null,
       "export_at": "2025-07-29T15:15:48.000Z",
       "premarketData": {}
     },
@@ -3441,69 +3333,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "LAZEZUY0",
-      "auction": {
-        "_id": "68766da9aace4cd2f63abe5a",
-        "gift_id": 7233101,
-        "seller": 0,
-        "auction_id": "LAZEZUY0",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68768ce6aace4cd2f64e7a64",
-            "timestamp": "2025-07-15T17:16:22.656Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "68768e7baace4cd2f650fb0a",
-            "timestamp": "2025-07-15T17:23:07.286Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "68769493aace4cd2f665b6d6",
-            "timestamp": "2025-07-15T17:49:07.434Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.48,
-            "asset": "TON",
-            "_id": "687694abaace4cd2f666346e",
-            "timestamp": "2025-07-15T17:49:31.494Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.66,
-            "asset": "TON",
-            "_id": "687694c4aace4cd2f666ee8a",
-            "timestamp": "2025-07-15T17:49:56.084Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.84,
-            "asset": "TON",
-            "_id": "68769536aace4cd2f66a52ba",
-            "timestamp": "2025-07-15T17:51:50.789Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T18:13:55.831Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 54677,
-        "model": "Tropic Twist (0.5%)",
-        "backdrop": "Shamrock Green (2%)",
-        "symbol": "Cherry (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T17:13:53.663Z",
-        "__v": 0,
-        "winningBid": 3.84,
-        "winningBidder": 706598354
-      },
+      "auction": null,
       "export_at": "2025-07-29T15:02:40.000Z",
       "premarketData": {}
     },
@@ -3524,34 +3354,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "0OS30EWX",
-      "auction": {
-        "_id": "685994f81d00f75e1c16b3d7",
-        "gift_id": 6711730,
-        "seller": 0,
-        "auction_id": "0OS30EWX",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6877bb6aaace4cd2f69a6556",
-            "timestamp": "2025-07-16T14:47:06.142Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T15:02:05.316Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 39350,
-        "model": "Tropic Twist (0.5%)",
-        "backdrop": "Malachite (1.5%)",
-        "symbol": "Crab (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T08:52:06.571Z",
-        "__v": 0,
-        "winningBid": 5,
-        "winningBidder": 927257415
-      },
+      "auction": null,
       "export_at": "2025-07-07T17:37:54.000Z",
       "premarketData": {}
     },
@@ -3612,90 +3415,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "3GCQRZXS",
-      "auction": {
-        "_id": "687297c48938e518f173c9a6",
-        "gift_id": 7180601,
-        "seller": 0,
-        "auction_id": "3GCQRZXS",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687399d08938e518f16f324f",
-            "timestamp": "2025-07-13T11:34:40.243Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68739b568938e518f1708218",
-            "timestamp": "2025-07-13T11:41:10.496Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.5,
-            "asset": "TON",
-            "_id": "68739b698938e518f1708e58",
-            "timestamp": "2025-07-13T11:41:29.478Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68739b9a8938e518f170c5a3",
-            "timestamp": "2025-07-13T11:42:18.864Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.49,
-            "asset": "TON",
-            "_id": "68739baf8938e518f170e918",
-            "timestamp": "2025-07-13T11:42:39.878Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "68739c028938e518f171a348",
-            "timestamp": "2025-07-13T11:44:02.392Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.2,
-            "asset": "TON",
-            "_id": "6873a4118938e518f1db805b",
-            "timestamp": "2025-07-13T12:18:25.187Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.41,
-            "asset": "TON",
-            "_id": "6873a41e8938e518f1db9320",
-            "timestamp": "2025-07-13T12:18:38.445Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.63,
-            "asset": "TON",
-            "_id": "6873a4328938e518f1dbaa05",
-            "timestamp": "2025-07-13T12:18:58.088Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T12:29:58.459Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 27773,
-        "model": "Tropic Twist (0.5%)",
-        "backdrop": "Malachite (1.5%)",
-        "symbol": "Light Bulb (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T11:19:59.435Z",
-        "__v": 0,
-        "winningBid": 4.63,
-        "winningBidder": 1880858444
-      },
+      "auction": null,
       "export_at": "2025-07-26T17:13:00.000Z",
       "premarketData": {}
     },
@@ -3736,48 +3456,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "148MNMSA",
-      "auction": {
-        "_id": "6872c1688938e518f1425e94",
-        "gift_id": 7183637,
-        "seller": 0,
-        "auction_id": "148MNMSA",
-        "startingBid": 3.6,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.6,
-            "asset": "TON",
-            "_id": "6872cd548938e518f1ada20b",
-            "timestamp": "2025-07-12T21:02:12.517Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.78,
-            "asset": "TON",
-            "_id": "6872cee88938e518f1b162ac",
-            "timestamp": "2025-07-12T21:08:56.620Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.97,
-            "asset": "TON",
-            "_id": "6872d1848938e518f1b7be0e",
-            "timestamp": "2025-07-12T21:20:04.770Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T21:31:13.177Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 63510,
-        "model": "Tropic Twist (0.5%)",
-        "backdrop": "Burgundy (2%)",
-        "symbol": "Grenade (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T20:11:20.270Z",
-        "__v": 0,
-        "winningBid": 3.97,
-        "winningBidder": 5128716553
-      },
+      "auction": null,
       "export_at": "2025-07-26T20:08:17.000Z",
       "premarketData": {}
     },
@@ -4339,125 +4018,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "1WPF8NOF",
-      "auction": {
-        "_id": "686e97af0227247557d817bf",
-        "gift_id": 7107598,
-        "seller": 0,
-        "auction_id": "1WPF8NOF",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "686e97c40227247557da2118",
-            "timestamp": "2025-07-09T16:24:36.783Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.8,
-            "asset": "TON",
-            "_id": "686e99900227247557f26fac",
-            "timestamp": "2025-07-09T16:32:16.081Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.99,
-            "asset": "TON",
-            "_id": "686e99a70227247557f31609",
-            "timestamp": "2025-07-09T16:32:39.688Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.5,
-            "asset": "TON",
-            "_id": "686e9b370227247557fba00d",
-            "timestamp": "2025-07-09T16:39:19.114Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.08,
-            "asset": "TON",
-            "_id": "686e9d760227247557093bd3",
-            "timestamp": "2025-07-09T16:48:54.998Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 14,
-            "asset": "TON",
-            "_id": "686e9d8c022724755709bf32",
-            "timestamp": "2025-07-09T16:49:16.263Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 16,
-            "asset": "TON",
-            "_id": "686e9da402272475570a3890",
-            "timestamp": "2025-07-09T16:49:40.744Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 16.8,
-            "asset": "TON",
-            "_id": "686e9ef9022724755714eabb",
-            "timestamp": "2025-07-09T16:55:21.968Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "686ea19a02272475573f5d22",
-            "timestamp": "2025-07-09T17:06:34.840Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 21,
-            "asset": "TON",
-            "_id": "686ea34a02272475574734d7",
-            "timestamp": "2025-07-09T17:13:46.631Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 23,
-            "asset": "TON",
-            "_id": "686ea36a022724755747bf2a",
-            "timestamp": "2025-07-09T17:14:18.793Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 24.15,
-            "asset": "TON",
-            "_id": "686ea37c0227247557481333",
-            "timestamp": "2025-07-09T17:14:36.766Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 25.36,
-            "asset": "TON",
-            "_id": "686ea6a30227247557556d04",
-            "timestamp": "2025-07-09T17:28:03.056Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 26.63,
-            "asset": "TON",
-            "_id": "686ea6be022724755755df99",
-            "timestamp": "2025-07-09T17:28:30.314Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T17:44:13.872Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 74820,
-        "model": "Blue Swirl (0.5%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Crusader (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T16:24:15.068Z",
-        "__v": 0,
-        "winningBid": 26.63,
-        "winningBidder": 7106842138
-      },
+      "auction": null,
       "export_at": "2025-07-23T16:17:08.000Z",
       "premarketData": {}
     }
@@ -4686,6 +4247,26 @@
   ],
   "Snowman": [
     {
+      "gift_num": 12312,
+      "customEmojiId": "5429261067882620393",
+      "gift_id": 7246261,
+      "name": "Jelly Bunny",
+      "model": "Snowman (1.5%)",
+      "asset": "TON",
+      "symbol": "Bunny (0.5%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T09:30:48.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 35576,
       "customEmojiId": "5429261067882620393",
       "gift_id": 6011872,
@@ -4723,26 +4304,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-31T17:31:31.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 12312,
-      "customEmojiId": "5429261067882620393",
-      "gift_id": 7246261,
-      "name": "Jelly Bunny",
-      "model": "Snowman (1.5%)",
-      "asset": "TON",
-      "symbol": "Bunny (0.5%)",
-      "backdrop": "Rosewood (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T09:30:48.000Z",
       "premarketData": {}
     },
     {
@@ -5603,41 +5164,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "WWRGT5G7",
-      "auction": {
-        "_id": "68768502aace4cd2f638aafd",
-        "gift_id": 7234894,
-        "seller": 0,
-        "auction_id": "WWRGT5G7",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "687685a0aace4cd2f63beb9d",
-            "timestamp": "2025-07-15T16:45:20.604Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "68768ac4aace4cd2f64a8c24",
-            "timestamp": "2025-07-15T17:07:16.766Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T17:42:41.183Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 15330,
-        "model": "Indigo Fruit (0.5%)",
-        "backdrop": "Burgundy (2%)",
-        "symbol": "Coin (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T16:42:42.369Z",
-        "__v": 0,
-        "winningBid": 3.15,
-        "winningBidder": 1739472579
-      },
+      "auction": null,
       "export_at": "2025-07-29T16:39:10.000Z",
       "premarketData": {}
     },
@@ -5657,104 +5184,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "NP3PYV8C",
-      "auction": {
-        "_id": "687661ebaace4cd2f6e46c1e",
-        "gift_id": 7232165,
-        "seller": 0,
-        "auction_id": "NP3PYV8C",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6876628caace4cd2f6e77bf5",
-            "timestamp": "2025-07-15T14:15:40.901Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "687662fbaace4cd2f6f4aa56",
-            "timestamp": "2025-07-15T14:17:31.910Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "68766310aace4cd2f6f84ed8",
-            "timestamp": "2025-07-15T14:17:52.101Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "68766508aace4cd2f61b010a",
-            "timestamp": "2025-07-15T14:26:16.098Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.6,
-            "asset": "TON",
-            "_id": "68766531aace4cd2f61b2ca5",
-            "timestamp": "2025-07-15T14:26:57.907Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.73,
-            "asset": "TON",
-            "_id": "6876658eaace4cd2f61b8b55",
-            "timestamp": "2025-07-15T14:28:30.115Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.87,
-            "asset": "TON",
-            "_id": "6876661eaace4cd2f61c10e9",
-            "timestamp": "2025-07-15T14:30:54.111Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.2,
-            "asset": "TON",
-            "_id": "68766637aace4cd2f61c25c7",
-            "timestamp": "2025-07-15T14:31:19.393Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.49,
-            "asset": "TON",
-            "_id": "68766778aace4cd2f61dc384",
-            "timestamp": "2025-07-15T14:36:40.221Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.8,
-            "asset": "TON",
-            "_id": "6876695baace4cd2f63696e2",
-            "timestamp": "2025-07-15T14:44:43.446Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.49,
-            "asset": "TON",
-            "_id": "6876696eaace4cd2f636b27c",
-            "timestamp": "2025-07-15T14:45:02.670Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T15:12:59.261Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 31211,
-        "model": "Indigo Fruit (0.5%)",
-        "backdrop": "French Blue (2%)",
-        "symbol": "Like (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T14:12:59.927Z",
-        "__v": 0,
-        "winningBid": 4.49,
-        "winningBidder": 952362821
-      },
+      "auction": null,
       "export_at": "2025-07-29T14:10:59.000Z",
       "premarketData": {}
     }
@@ -5917,34 +5347,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "XPJ9Z4LC",
-      "auction": {
-        "_id": "6876de62aace4cd2f69ae7b8",
-        "gift_id": 7225532,
-        "seller": 0,
-        "auction_id": "XPJ9Z4LC",
-        "startingBid": 4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "687786cfaace4cd2f68375a3",
-            "timestamp": "2025-07-16T11:02:39.099Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T11:14:00.983Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 30516,
-        "model": "Ballistics Gel (2%)",
-        "backdrop": "Carrot Juice (1%)",
-        "symbol": "Shield (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T23:04:02.940Z",
-        "__v": 0,
-        "winningBid": 4,
-        "winningBidder": 1385602839
-      },
+      "auction": null,
       "export_at": "2025-07-29T06:29:27.000Z",
       "premarketData": {}
     },
@@ -6447,90 +5850,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "U07M81EF",
-      "auction": {
-        "_id": "6878e176aace4cd2f6d3eb4e",
-        "gift_id": 7265616,
-        "seller": 0,
-        "auction_id": "U07M81EF",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.9,
-            "asset": "TON",
-            "_id": "6878fbdaaace4cd2f6dcd453",
-            "timestamp": "2025-07-17T13:34:18.359Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.05,
-            "asset": "TON",
-            "_id": "687902b1aace4cd2f6df1621",
-            "timestamp": "2025-07-17T14:03:29.252Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.7,
-            "asset": "TON",
-            "_id": "687902edaace4cd2f6df2ce3",
-            "timestamp": "2025-07-17T14:04:29.595Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.89,
-            "asset": "TON",
-            "_id": "687908aeaace4cd2f6e20ad5",
-            "timestamp": "2025-07-17T14:29:02.754Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.09,
-            "asset": "TON",
-            "_id": "68790919aace4cd2f6e22451",
-            "timestamp": "2025-07-17T14:30:49.162Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.31,
-            "asset": "TON",
-            "_id": "68790949aace4cd2f6e24004",
-            "timestamp": "2025-07-17T14:31:37.861Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.53,
-            "asset": "TON",
-            "_id": "68790b43aace4cd2f6e31491",
-            "timestamp": "2025-07-17T14:40:03.198Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.76,
-            "asset": "TON",
-            "_id": "68790e3eaace4cd2f6e4423e",
-            "timestamp": "2025-07-17T14:52:46.741Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "68790e8faace4cd2f6e467e6",
-            "timestamp": "2025-07-17T14:54:07.185Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T15:13:10.485Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 58665,
-        "model": "Liquid Metal (1.5%)",
-        "backdrop": "Steel Grey (2%)",
-        "symbol": "Love Lock (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T13:33:11.210Z",
-        "__v": 0,
-        "winningBid": 5,
-        "winningBidder": 399553113
-      },
+      "auction": null,
       "export_at": "2025-07-31T11:35:42.000Z",
       "premarketData": {}
     },
@@ -7233,34 +6553,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "8F05XXFN",
-      "auction": {
-        "_id": "68774504aace4cd2f6fd5ede",
-        "gift_id": 7222817,
-        "seller": 0,
-        "auction_id": "8F05XXFN",
-        "startingBid": 3.8,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.8,
-            "asset": "TON",
-            "_id": "687751d3aace4cd2f624315a",
-            "timestamp": "2025-07-16T07:16:35.760Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T07:31:55.391Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 60716,
-        "model": "Party Hard (1.5%)",
-        "backdrop": "Moonstone (1.5%)",
-        "symbol": "Maple (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T06:21:56.278Z",
-        "__v": 0,
-        "winningBid": 3.8,
-        "winningBidder": 1430844212
-      },
+      "auction": null,
       "export_at": "2025-07-28T22:26:05.000Z",
       "premarketData": {}
     },
@@ -7381,90 +6674,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "QQOUNTO1",
-      "auction": {
-        "_id": "6872b2ce8938e518f11aa1b3",
-        "gift_id": 7170481,
-        "seller": 0,
-        "auction_id": "QQOUNTO1",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6872b5bb8938e518f11c1485",
-            "timestamp": "2025-07-12T19:21:31.979Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6872b5e98938e518f11c2311",
-            "timestamp": "2025-07-12T19:22:17.976Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "6872b75e8938e518f11d2d99",
-            "timestamp": "2025-07-12T19:28:30.503Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "6872bb2a8938e518f1255d2b",
-            "timestamp": "2025-07-12T19:44:42.071Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "6872bb7d8938e518f127995e",
-            "timestamp": "2025-07-12T19:46:05.438Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.68,
-            "asset": "TON",
-            "_id": "6872bca98938e518f129a318",
-            "timestamp": "2025-07-12T19:51:05.835Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.9,
-            "asset": "TON",
-            "_id": "6872bcda8938e518f129ec22",
-            "timestamp": "2025-07-12T19:51:54.227Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.1,
-            "asset": "TON",
-            "_id": "6872bd518938e518f12a87dc",
-            "timestamp": "2025-07-12T19:53:53.783Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.31,
-            "asset": "TON",
-            "_id": "6872c0cf8938e518f138a283",
-            "timestamp": "2025-07-12T20:08:47.074Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T20:19:00.098Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 62076,
-        "model": "Party Hard (1.5%)",
-        "backdrop": "Carrot Juice (1%)",
-        "symbol": "Wolf Rage (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T19:09:02.857Z",
-        "__v": 0,
-        "winningBid": 4.31,
-        "winningBidder": 6366124738
-      },
+      "auction": null,
       "export_at": "2025-07-26T07:24:08.000Z",
       "premarketData": {}
     },
@@ -8790,83 +8000,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "0WT7UVPI",
-      "auction": {
-        "_id": "6877dfa4aace4cd2f6443559",
-        "gift_id": 7254065,
-        "seller": 0,
-        "auction_id": "0WT7UVPI",
-        "startingBid": 3.69,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.7,
-            "asset": "TON",
-            "_id": "6877ff0baace4cd2f6d4217b",
-            "timestamp": "2025-07-16T19:35:39.758Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.89,
-            "asset": "TON",
-            "_id": "68780074aace4cd2f6d9fbd8",
-            "timestamp": "2025-07-16T19:41:40.191Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.09,
-            "asset": "TON",
-            "_id": "687802aaaace4cd2f6e04c7b",
-            "timestamp": "2025-07-16T19:51:06.366Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.3,
-            "asset": "TON",
-            "_id": "687802e4aace4cd2f6e0cbcd",
-            "timestamp": "2025-07-16T19:52:04.840Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.52,
-            "asset": "TON",
-            "_id": "687802f2aace4cd2f6e0e72a",
-            "timestamp": "2025-07-16T19:52:18.767Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.75,
-            "asset": "TON",
-            "_id": "6878031baace4cd2f6e130e0",
-            "timestamp": "2025-07-16T19:52:59.743Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.99,
-            "asset": "TON",
-            "_id": "68780333aace4cd2f6e15656",
-            "timestamp": "2025-07-16T19:53:23.937Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.24,
-            "asset": "TON",
-            "_id": "687805daaace4cd2f6e45762",
-            "timestamp": "2025-07-16T20:04:42.069Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T20:15:49.135Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 74407,
-        "model": "Gentle Touch (0.5%)",
-        "backdrop": "Platinum (2%)",
-        "symbol": "Star (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T18:35:49.950Z",
-        "__v": 0,
-        "winningBid": 5.24,
-        "winningBidder": 1346604191
-      },
+      "auction": null,
       "export_at": "2025-07-30T17:20:02.000Z",
       "premarketData": {}
     },
@@ -8886,55 +8020,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "2EK6TODR",
-      "auction": {
-        "_id": "687130098938e518f17172e6",
-        "gift_id": 7158869,
-        "seller": 0,
-        "auction_id": "2EK6TODR",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687132218938e518f197bf6d",
-            "timestamp": "2025-07-11T15:47:45.033Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.05,
-            "asset": "TON",
-            "_id": "6871382a8938e518f1e74362",
-            "timestamp": "2025-07-11T16:13:30.289Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.2,
-            "asset": "TON",
-            "_id": "68713d9e8938e518f138f7c2",
-            "timestamp": "2025-07-11T16:36:46.899Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.36,
-            "asset": "TON",
-            "_id": "6871406a8938e518f1894037",
-            "timestamp": "2025-07-11T16:48:42.459Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T16:58:46.380Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 77019,
-        "model": "Gentle Touch (0.5%)",
-        "backdrop": "Cyberpunk (1.5%)",
-        "symbol": "Toilet Paper (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T15:38:49.154Z",
-        "__v": 0,
-        "winningBid": 3.36,
-        "winningBidder": 6309052281
-      },
+      "auction": null,
       "export_at": "2025-07-25T15:36:12.000Z",
       "premarketData": {}
     }
@@ -9157,48 +8243,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "XJFJQ2NQ",
-      "auction": {
-        "_id": "6871d3788938e518f1bdd527",
-        "gift_id": 7159881,
-        "seller": 0,
-        "auction_id": "XJFJQ2NQ",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.1,
-            "asset": "TON",
-            "_id": "6871d43e8938e518f1be7ee6",
-            "timestamp": "2025-07-12T03:19:26.610Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.26,
-            "asset": "TON",
-            "_id": "6871dab38938e518f1c22a93",
-            "timestamp": "2025-07-12T03:46:59.588Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.42,
-            "asset": "TON",
-            "_id": "6871ee3c8938e518f1d40b5d",
-            "timestamp": "2025-07-12T05:10:20.664Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T05:26:06.201Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 69635,
-        "model": "Dad Joke (1.5%)",
-        "backdrop": "Indigo Dye (2%)",
-        "symbol": "Paw (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T03:16:08.355Z",
-        "__v": 0,
-        "winningBid": 3.42,
-        "winningBidder": 6589377438
-      },
+      "auction": null,
       "export_at": "2025-07-25T16:39:53.000Z",
       "premarketData": {}
     },
@@ -9585,6 +8630,26 @@
     }
   ],
   "Sir Wobbleton": [
+    {
+      "gift_num": 42820,
+      "customEmojiId": "5429283852684124412",
+      "gift_id": 7273282,
+      "name": "Jelly Bunny",
+      "model": "Sir Wobbleton (1.5%)",
+      "asset": "TON",
+      "symbol": "Dessert (0.5%)",
+      "backdrop": "Sky Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:16:08.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 75496,
       "customEmojiId": "5429283852684124412",
@@ -10164,29 +9229,29 @@
       "auction": null,
       "export_at": "2025-07-27T18:41:51.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Tender Pink": [
     {
-      "gift_num": 23682,
-      "customEmojiId": "5429283852684124412",
-      "gift_id": 7198231,
+      "gift_num": 77036,
+      "customEmojiId": "5397724789475400162",
+      "gift_id": 7215250,
       "name": "Jelly Bunny",
-      "model": "Sir Wobbleton (1.5%)",
+      "model": "Tender Pink (0.5%)",
       "asset": "TON",
-      "symbol": "Axe (0.5%)",
-      "backdrop": "Jade Green (1%)",
+      "symbol": "Crown (0.5%)",
+      "backdrop": "Black (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 6,
+      "price": 17,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-27T16:38:33.000Z",
+      "export_at": "2025-07-28T14:50:27.000Z",
       "premarketData": {}
-    }
-  ],
-  "Tender Pink": [
+    },
     {
       "gift_num": 7857,
       "customEmojiId": "5397724789475400162",
@@ -10606,34 +9671,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "E13FTCS6",
-      "auction": {
-        "_id": "686d5b830227247557f83ce9",
-        "gift_id": 7087505,
-        "seller": 0,
-        "auction_id": "E13FTCS6",
-        "startingBid": 4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "686f7d331fe9e6aa2ca4aa17",
-            "timestamp": "2025-07-10T08:43:31.635Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T09:05:40.953Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 75297,
-        "model": "Barbie (0.5%)",
-        "backdrop": "Carrot Juice (1%)",
-        "symbol": "Toy Bucket (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T08:05:41.813Z",
-        "__v": 0,
-        "winningBid": 4,
-        "winningBidder": 1280056437
-      },
+      "auction": null,
       "export_at": "2025-07-22T17:54:43.000Z",
       "premarketData": {}
     },
@@ -10792,7 +9830,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.85,
+      "price": 3.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -10816,34 +9854,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "ACIKUXTA",
-      "auction": {
-        "_id": "68777ad4aace4cd2f65a8bff",
-        "gift_id": 7245663,
-        "seller": 0,
-        "auction_id": "ACIKUXTA",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.1,
-            "asset": "TON",
-            "_id": "687819c3aace4cd2f63a917a",
-            "timestamp": "2025-07-16T21:29:39.560Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T21:48:06.343Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 77887,
-        "model": "Red Hot (2%)",
-        "backdrop": "Emerald (2%)",
-        "symbol": "Sumerian Bird (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T20:38:07.417Z",
-        "__v": 0,
-        "winningBid": 3.1,
-        "winningBidder": 7352255987
-      },
+      "auction": null,
       "export_at": "2025-07-30T08:48:56.000Z",
       "premarketData": {}
     },
@@ -11410,6 +10421,26 @@
   ],
   "Jingle Jells": [
     {
+      "gift_num": 4175,
+      "customEmojiId": "5429278793212650375",
+      "gift_id": 7263996,
+      "name": "Jelly Bunny",
+      "model": "Jingle Jells (1.5%)",
+      "asset": "TON",
+      "symbol": "Fish Skeleton (0.3%)",
+      "backdrop": "Pistachio (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T09:30:04.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 65654,
       "customEmojiId": "5429278793212650375",
       "gift_id": 7259693,
@@ -11446,97 +10477,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "HKHW7D5P",
-      "auction": {
-        "_id": "6878afceaace4cd2f6bf39ae",
-        "gift_id": 7230719,
-        "seller": 0,
-        "auction_id": "HKHW7D5P",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6878afdaaace4cd2f6bf54be",
-            "timestamp": "2025-07-17T08:10:02.151Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6878b040aace4cd2f6c06f9b",
-            "timestamp": "2025-07-17T08:11:44.670Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6878b43aaace4cd2f6ca0ea4",
-            "timestamp": "2025-07-17T08:28:42.778Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6878b6c0aace4cd2f6d0b30f",
-            "timestamp": "2025-07-17T08:39:28.869Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.7,
-            "asset": "TON",
-            "_id": "6878b94eaace4cd2f6db444c",
-            "timestamp": "2025-07-17T08:50:22.264Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.84,
-            "asset": "TON",
-            "_id": "6878ba24aace4cd2f6dd40a4",
-            "timestamp": "2025-07-17T08:53:56.159Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.98,
-            "asset": "TON",
-            "_id": "6878bb76aace4cd2f6df1875",
-            "timestamp": "2025-07-17T08:59:34.376Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.13,
-            "asset": "TON",
-            "_id": "6878bcacaace4cd2f6e29c06",
-            "timestamp": "2025-07-17T09:04:44.565Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.29,
-            "asset": "TON",
-            "_id": "6878bce9aace4cd2f6e33404",
-            "timestamp": "2025-07-17T09:05:45.686Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.46,
-            "asset": "TON",
-            "_id": "6878bf78aace4cd2f6ebdf48",
-            "timestamp": "2025-07-17T09:16:40.496Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T09:29:46.964Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 4175,
-        "model": "Jingle Jells (1.5%)",
-        "backdrop": "Pistachio (2%)",
-        "symbol": "Fish Skeleton (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T08:09:50.065Z",
-        "__v": 0,
-        "winningBid": 3.46,
-        "winningBidder": 1896294579
-      },
+      "auction": null,
       "export_at": "2025-07-29T12:52:21.000Z",
       "premarketData": {}
     },
@@ -11797,83 +10738,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "B1L89HD8",
-      "auction": {
-        "_id": "6872b2568938e518f11a6295",
-        "gift_id": 7148308,
-        "seller": 0,
-        "auction_id": "B1L89HD8",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6872b4ab8938e518f11b853a",
-            "timestamp": "2025-07-12T19:16:59.109Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6872b88c8938e518f11e2005",
-            "timestamp": "2025-07-12T19:33:32.445Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6872ba5c8938e518f11fef4f",
-            "timestamp": "2025-07-12T19:41:16.634Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.55,
-            "asset": "TON",
-            "_id": "6872ba858938e518f120cf7c",
-            "timestamp": "2025-07-12T19:41:57.554Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.68,
-            "asset": "TON",
-            "_id": "6872baab8938e518f122073f",
-            "timestamp": "2025-07-12T19:42:35.385Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.82,
-            "asset": "TON",
-            "_id": "6872bb908938e518f127dfd0",
-            "timestamp": "2025-07-12T19:46:24.308Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.96,
-            "asset": "TON",
-            "_id": "6872bcb78938e518f129b86c",
-            "timestamp": "2025-07-12T19:51:19.042Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.11,
-            "asset": "TON",
-            "_id": "6872bd058938e518f12a2bae",
-            "timestamp": "2025-07-12T19:52:37.358Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T20:07:00.044Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 15252,
-        "model": "Jingle Jells (1.5%)",
-        "backdrop": "Ivory White (1%)",
-        "symbol": "Fish (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T19:07:02.868Z",
-        "__v": 0,
-        "winningBid": 3.11,
-        "winningBidder": 122625958
-      },
+      "auction": null,
       "export_at": "2025-07-25T05:27:02.000Z",
       "premarketData": {}
     },
@@ -12155,26 +11020,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-07T06:54:40.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5862,
-      "customEmojiId": "5429278793212650375",
-      "gift_id": 2854797,
-      "name": "Jelly Bunny",
-      "model": "Jingle Jells (1.5%)",
-      "asset": "TON",
-      "symbol": "Rain Drop (0.5%)",
-      "backdrop": "Pure Gold (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 499003,
-      "price": 26.1,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-04-22T19:19:56.000Z",
       "premarketData": {}
     }
   ],
@@ -12635,41 +11480,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "2APGVARJ",
-      "auction": {
-        "_id": "686f70c41fe9e6aa2c81762d",
-        "gift_id": 7121939,
-        "seller": 0,
-        "auction_id": "2APGVARJ",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.6,
-            "asset": "TON",
-            "_id": "686f81a41fe9e6aa2caad19a",
-            "timestamp": "2025-07-10T09:02:28.501Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.78,
-            "asset": "TON",
-            "_id": "686f89f71fe9e6aa2cb51906",
-            "timestamp": "2025-07-10T09:37:59.720Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T09:50:53.236Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 10762,
-        "model": "Melted Ice (0.5%)",
-        "backdrop": "Desert Sand (2%)",
-        "symbol": "Brain (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T08:40:54.933Z",
-        "__v": 0,
-        "winningBid": 3.78,
-        "winningBidder": 1444518835
-      },
+      "auction": null,
       "export_at": "2025-07-24T07:49:20.000Z",
       "premarketData": {}
     },
@@ -12689,90 +11500,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "9BSGXRD8",
-      "auction": {
-        "_id": "68721fac8938e518f1661f83",
-        "gift_id": 2981300,
-        "seller": 0,
-        "auction_id": "9BSGXRD8",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687220f08938e518f168229f",
-            "timestamp": "2025-07-12T08:46:40.885Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6872212c8938e518f1685e7d",
-            "timestamp": "2025-07-12T08:47:40.080Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6872213d8938e518f1687f88",
-            "timestamp": "2025-07-12T08:47:57.468Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6872216d8938e518f168b17f",
-            "timestamp": "2025-07-12T08:48:45.834Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.1,
-            "asset": "TON",
-            "_id": "687223218938e518f16bc62d",
-            "timestamp": "2025-07-12T08:56:01.812Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.26,
-            "asset": "TON",
-            "_id": "687229e38938e518f1764876",
-            "timestamp": "2025-07-12T09:24:51.142Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.42,
-            "asset": "TON",
-            "_id": "68722caf8938e518f179cf26",
-            "timestamp": "2025-07-12T09:36:47.794Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.59,
-            "asset": "TON",
-            "_id": "68722f568938e518f17df48a",
-            "timestamp": "2025-07-12T09:48:06.753Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.77,
-            "asset": "TON",
-            "_id": "6872301e8938e518f17f0dab",
-            "timestamp": "2025-07-12T09:51:26.783Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T10:11:15.333Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 13660,
-        "model": "Melted Ice (0.5%)",
-        "backdrop": "Shamrock Green (2%)",
-        "symbol": "Toilet (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T08:41:16.199Z",
-        "__v": 0,
-        "winningBid": 3.77,
-        "winningBidder": 692375244
-      },
+      "auction": null,
       "export_at": "2025-04-25T19:23:15.000Z",
       "premarketData": {}
     }
@@ -13316,69 +12044,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "68GCFVL1",
-      "auction": {
-        "_id": "6874e8778938e518f190666f",
-        "gift_id": 7208948,
-        "seller": 0,
-        "auction_id": "68GCFVL1",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6874e9388938e518f190c6b9",
-            "timestamp": "2025-07-14T11:25:44.248Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "6874ec098938e518f19611af",
-            "timestamp": "2025-07-14T11:37:45.926Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.32,
-            "asset": "TON",
-            "_id": "6874ec4a8938e518f196a93a",
-            "timestamp": "2025-07-14T11:38:50.043Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "6874f1508938e518f1a0840a",
-            "timestamp": "2025-07-14T12:00:16.957Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.68,
-            "asset": "TON",
-            "_id": "6874f62a8938e518f1e34072",
-            "timestamp": "2025-07-14T12:20:58.167Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.9,
-            "asset": "TON",
-            "_id": "6874f8988938e518f1ee01cd",
-            "timestamp": "2025-07-14T12:31:20.756Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T12:42:27.454Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 77455,
-        "model": "Frosted (0.5%)",
-        "backdrop": "Sapphire (2%)",
-        "symbol": "Hand of God (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T11:22:31.309Z",
-        "__v": 0,
-        "winningBid": 3.9,
-        "winningBidder": 6377949510
-      },
+      "auction": null,
       "export_at": "2025-07-28T08:44:46.000Z",
       "premarketData": {}
     }
@@ -13401,216 +12067,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "FO98WPGN",
-      "auction": {
-        "_id": "6878e162aace4cd2f6d3e09d",
-        "gift_id": 7265689,
-        "seller": 0,
-        "auction_id": "FO98WPGN",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "687909b8aace4cd2f6e27364",
-            "timestamp": "2025-07-17T14:33:28.861Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "68790a13aace4cd2f6e28457",
-            "timestamp": "2025-07-17T14:34:59.545Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68790bd6aace4cd2f6e36546",
-            "timestamp": "2025-07-17T14:42:30.964Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "68790c8aaace4cd2f6e39e42",
-            "timestamp": "2025-07-17T14:45:30.937Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "68790d2faace4cd2f6e3d8d2",
-            "timestamp": "2025-07-17T14:48:15.308Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.51,
-            "asset": "TON",
-            "_id": "68790e50aace4cd2f6e447c6",
-            "timestamp": "2025-07-17T14:53:04.525Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6,
-            "asset": "TON",
-            "_id": "68790f8baace4cd2f6e4ac69",
-            "timestamp": "2025-07-17T14:58:19.076Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.3,
-            "asset": "TON",
-            "_id": "68791131aace4cd2f6e50780",
-            "timestamp": "2025-07-17T15:05:21.562Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.62,
-            "asset": "TON",
-            "_id": "68791156aace4cd2f6e51013",
-            "timestamp": "2025-07-17T15:05:58.644Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.95,
-            "asset": "TON",
-            "_id": "687911c2aace4cd2f6e5322b",
-            "timestamp": "2025-07-17T15:07:46.962Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.3,
-            "asset": "TON",
-            "_id": "687911ceaace4cd2f6e5334c",
-            "timestamp": "2025-07-17T15:07:58.772Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.67,
-            "asset": "TON",
-            "_id": "687912cdaace4cd2f6e551df",
-            "timestamp": "2025-07-17T15:12:13.804Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.05,
-            "asset": "TON",
-            "_id": "687912f0aace4cd2f6e55f3d",
-            "timestamp": "2025-07-17T15:12:48.924Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.45,
-            "asset": "TON",
-            "_id": "6879131caace4cd2f6e56bc8",
-            "timestamp": "2025-07-17T15:13:32.707Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.87,
-            "asset": "TON",
-            "_id": "687913baaace4cd2f6e58dba",
-            "timestamp": "2025-07-17T15:16:10.351Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.31,
-            "asset": "TON",
-            "_id": "687913cfaace4cd2f6e59528",
-            "timestamp": "2025-07-17T15:16:31.420Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.78,
-            "asset": "TON",
-            "_id": "6879146daace4cd2f6eeff7a",
-            "timestamp": "2025-07-17T15:19:09.920Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.27,
-            "asset": "TON",
-            "_id": "687915caaace4cd2f6faacf9",
-            "timestamp": "2025-07-17T15:24:58.906Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.78,
-            "asset": "TON",
-            "_id": "6879164baace4cd2f6fad08b",
-            "timestamp": "2025-07-17T15:27:07.504Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.32,
-            "asset": "TON",
-            "_id": "68791681aace4cd2f6faf16e",
-            "timestamp": "2025-07-17T15:28:01.149Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.89,
-            "asset": "TON",
-            "_id": "687916c1aace4cd2f6fb0676",
-            "timestamp": "2025-07-17T15:29:05.483Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.48,
-            "asset": "TON",
-            "_id": "68791700aace4cd2f6fb2180",
-            "timestamp": "2025-07-17T15:30:08.732Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.1,
-            "asset": "TON",
-            "_id": "687917b5aace4cd2f60102e2",
-            "timestamp": "2025-07-17T15:33:09.345Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 14.5,
-            "asset": "TON",
-            "_id": "6879182aaace4cd2f604c56f",
-            "timestamp": "2025-07-17T15:35:06.211Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15.23,
-            "asset": "TON",
-            "_id": "6879186faace4cd2f608e9e9",
-            "timestamp": "2025-07-17T15:36:15.224Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15.99,
-            "asset": "TON",
-            "_id": "687918b9aace4cd2f60b6012",
-            "timestamp": "2025-07-17T15:37:29.658Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 16.79,
-            "asset": "TON",
-            "_id": "687918fcaace4cd2f60b84df",
-            "timestamp": "2025-07-17T15:38:36.694Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T15:51:43.659Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 77761,
-        "model": "Grass Gel (0.5%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Pawn (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T14:31:45.046Z",
-        "__v": 0,
-        "winningBid": 16.79,
-        "winningBidder": 592714545
-      },
+      "auction": null,
       "export_at": "2025-07-31T11:40:34.000Z",
       "premarketData": {}
     },
@@ -13953,83 +12410,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "W3T3OP35",
-      "auction": {
-        "_id": "6876c558aace4cd2f63eddf4",
-        "gift_id": 7239967,
-        "seller": 0,
-        "auction_id": "W3T3OP35",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.1,
-            "asset": "TON",
-            "_id": "6876d70eaace4cd2f6712da9",
-            "timestamp": "2025-07-15T22:32:46.859Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.27,
-            "asset": "TON",
-            "_id": "6876d8ceaace4cd2f69011ec",
-            "timestamp": "2025-07-15T22:40:14.079Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.431,
-            "asset": "TON",
-            "_id": "6876d997aace4cd2f6951784",
-            "timestamp": "2025-07-15T22:43:35.560Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.6,
-            "asset": "TON",
-            "_id": "6876dbe7aace4cd2f6972f36",
-            "timestamp": "2025-07-15T22:53:27.641Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.78,
-            "asset": "TON",
-            "_id": "6876e1c4aace4cd2f69fa0be",
-            "timestamp": "2025-07-15T23:18:28.113Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.97,
-            "asset": "TON",
-            "_id": "6876e514aace4cd2f6a11914",
-            "timestamp": "2025-07-15T23:32:36.274Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.17,
-            "asset": "TON",
-            "_id": "6876e7baaace4cd2f6a2b5b1",
-            "timestamp": "2025-07-15T23:43:54.493Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.38,
-            "asset": "TON",
-            "_id": "6876e81baace4cd2f6a2ec76",
-            "timestamp": "2025-07-15T23:45:31.504Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T00:05:28.758Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 24947,
-        "model": "Smoothy (0.5%)",
-        "backdrop": "Lavender (1.5%)",
-        "symbol": "Fire (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T22:25:27.997Z",
-        "__v": 0,
-        "winningBid": 4.38,
-        "winningBidder": 853471904
-      },
+      "auction": null,
       "export_at": "2025-07-29T21:15:08.000Z",
       "premarketData": {}
     },
@@ -15638,34 +14019,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "FO0XHQOP",
-      "auction": {
-        "_id": "687395718938e518f16c7b99",
-        "gift_id": 7192418,
-        "seller": 0,
-        "auction_id": "FO0XHQOP",
-        "startingBid": 4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "68739d678938e518f18aa2fb",
-            "timestamp": "2025-07-13T11:49:59.643Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T12:15:59.878Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 47248,
-        "model": "Blue Glaze (0.5%)",
-        "backdrop": "Shamrock Green (2%)",
-        "symbol": "Fire (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T11:16:01.956Z",
-        "__v": 0,
-        "winningBid": 4,
-        "winningBidder": 1714520557
-      },
+      "auction": null,
       "export_at": "2025-07-27T11:14:03.000Z",
       "premarketData": {}
     },
@@ -15804,7 +14158,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 4.04,
+      "price": 3.84,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -16073,6 +14427,26 @@
     }
   ],
   "Outline": [
+    {
+      "gift_num": 5228,
+      "customEmojiId": "5424780038308388924",
+      "gift_id": -411324908,
+      "name": "Jelly Bunny",
+      "model": "Outline (1%)",
+      "asset": "TON",
+      "symbol": "Leaf (0.4%)",
+      "backdrop": "Ivory White (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 80,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-13T16:54:14.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 6680,
       "customEmojiId": "5424780038308388924",
@@ -16652,26 +15026,6 @@
       "auction": null,
       "export_at": "2025-05-12T08:53:17.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 62626,
-      "customEmojiId": "5424780038308388924",
-      "gift_id": 3916360,
-      "name": "Jelly Bunny",
-      "model": "Outline (1%)",
-      "asset": "TON",
-      "symbol": "Bottlenose (0.5%)",
-      "backdrop": "French Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 497810,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-11T09:44:38.000Z",
-      "premarketData": {}
     }
   ],
   "Reindeer": [
@@ -16972,48 +15326,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "A4XLND87",
-      "auction": {
-        "_id": "686ebbf30227247557a8c289",
-        "gift_id": 7110240,
-        "seller": 0,
-        "auction_id": "A4XLND87",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "686ebe460227247557b20227",
-            "timestamp": "2025-07-09T19:08:54.223Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.7,
-            "asset": "TON",
-            "_id": "686ec1cb0227247557c8da92",
-            "timestamp": "2025-07-09T19:23:55.746Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.89,
-            "asset": "TON",
-            "_id": "686ec2910227247557cdd340",
-            "timestamp": "2025-07-09T19:27:13.770Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T20:58:58.023Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 71909,
-        "model": "Reindeer (1.5%)",
-        "backdrop": "Azure Blue (1.5%)",
-        "symbol": "Glasses (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T18:58:59.760Z",
-        "__v": 0,
-        "winningBid": 3.89,
-        "winningBidder": 7746597769
-      },
+      "auction": null,
       "export_at": "2025-07-23T18:38:49.000Z",
       "premarketData": {}
     },
@@ -17114,34 +15427,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "EPT4H9AF",
-      "auction": {
-        "_id": "6863d149b035688945ae42c7",
-        "gift_id": 6894215,
-        "seller": 0,
-        "auction_id": "EPT4H9AF",
-        "startingBid": 3.7,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.7,
-            "asset": "TON",
-            "_id": "686eb66f0227247557961085",
-            "timestamp": "2025-07-09T18:35:27.311Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T19:01:45.398Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 43133,
-        "model": "Reindeer (1.5%)",
-        "backdrop": "Desert Sand (2%)",
-        "symbol": "Guitar (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-08T19:01:47.080Z",
-        "__v": 0,
-        "winningBid": 3.7,
-        "winningBidder": 6791957882
-      },
+      "auction": null,
       "export_at": "2025-07-15T05:57:26.000Z",
       "premarketData": {}
     },
@@ -17242,34 +15528,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "50CHZHPD",
-      "auction": {
-        "_id": "685a985c1d00f75e1cfcd831",
-        "gift_id": 6152644,
-        "seller": 0,
-        "auction_id": "50CHZHPD",
-        "startingBid": 7,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 7,
-            "asset": "TON",
-            "_id": "6874dc288938e518f188b5dd",
-            "timestamp": "2025-07-14T10:30:00.674Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T10:40:23.765Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 20892,
-        "model": "Reindeer (1.5%)",
-        "backdrop": "Sapphire (2%)",
-        "symbol": "Lemon Slice (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T07:40:26.175Z",
-        "__v": 0,
-        "winningBid": 7,
-        "winningBidder": 1121659994
-      },
+      "auction": null,
       "export_at": "2025-06-24T16:04:21.000Z",
       "premarketData": {}
     },
@@ -17973,34 +16232,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "1JC7PEHM",
-      "auction": {
-        "_id": "686f0c1c1fe9e6aa2c93ab80",
-        "gift_id": 7118077,
-        "seller": 0,
-        "auction_id": "1JC7PEHM",
-        "startingBid": 5.1,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5.1,
-            "asset": "TON",
-            "_id": "686f33db1fe9e6aa2cc1fc50",
-            "timestamp": "2025-07-10T03:30:35.874Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T03:40:56.731Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 69627,
-        "model": "Violetta (0.5%)",
-        "backdrop": "Neon Blue (1%)",
-        "symbol": "Yogi Shaman (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T00:41:00.027Z",
-        "__v": 0,
-        "winningBid": 5.1,
-        "winningBidder": 864177878
-      },
+      "auction": null,
       "export_at": "2025-07-24T00:39:24.000Z",
       "premarketData": {}
     }
@@ -18123,69 +16355,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "KYU8DD9N",
-      "auction": {
-        "_id": "687498968938e518f1d8631c",
-        "gift_id": 7207165,
-        "seller": 0,
-        "auction_id": "KYU8DD9N",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68790ce4aace4cd2f6e3c230",
-            "timestamp": "2025-07-17T14:47:00.852Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.7,
-            "asset": "TON",
-            "_id": "68790cf8aace4cd2f6e3c5aa",
-            "timestamp": "2025-07-17T14:47:20.118Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.84,
-            "asset": "TON",
-            "_id": "68791976aace4cd2f613916c",
-            "timestamp": "2025-07-17T15:40:38.402Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.98,
-            "asset": "TON",
-            "_id": "68791a5faace4cd2f61c0b65",
-            "timestamp": "2025-07-17T15:44:31.895Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.13,
-            "asset": "TON",
-            "_id": "68791efcaace4cd2f63617c4",
-            "timestamp": "2025-07-17T16:04:12.470Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.29,
-            "asset": "TON",
-            "_id": "687920d6aace4cd2f63ab4a7",
-            "timestamp": "2025-07-17T16:12:06.204Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T16:24:19.543Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 74131,
-        "model": "Mint Fudge (0.5%)",
-        "backdrop": "Shamrock Green (2%)",
-        "symbol": "Cap (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T14:44:20.722Z",
-        "__v": 0,
-        "winningBid": 3.29,
-        "winningBidder": 1885268161
-      },
+      "auction": null,
       "export_at": "2025-07-28T05:40:10.000Z",
       "premarketData": {}
     },
@@ -18332,6 +16502,26 @@
   ],
   "Jellyfish": [
     {
+      "gift_num": 28034,
+      "customEmojiId": "5427145074934834751",
+      "gift_id": 7142555,
+      "name": "Jelly Bunny",
+      "model": "Jellyfish (1.5%)",
+      "asset": "TON",
+      "symbol": "Bee (0.4%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 17,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-24T20:48:23.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 64723,
       "customEmojiId": "5427145074934834751",
       "gift_id": 7105375,
@@ -18472,26 +16662,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 28034,
-      "customEmojiId": "5427145074934834751",
-      "gift_id": 7142555,
-      "name": "Jelly Bunny",
-      "model": "Jellyfish (1.5%)",
-      "asset": "TON",
-      "symbol": "Bee (0.4%)",
-      "backdrop": "Onyx Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 18,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T20:48:23.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 12013,
       "customEmojiId": "5427145074934834751",
       "gift_id": 6656554,
@@ -18528,83 +16698,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "OZD5HRL3",
-      "auction": {
-        "_id": "687435ea8938e518f1885bc9",
-        "gift_id": 7204929,
-        "seller": 0,
-        "auction_id": "OZD5HRL3",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687690efaace4cd2f6535258",
-            "timestamp": "2025-07-15T17:33:35.779Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "687693d0aace4cd2f65fab79",
-            "timestamp": "2025-07-15T17:45:52.636Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68769421aace4cd2f6623d93",
-            "timestamp": "2025-07-15T17:47:13.505Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "68769591aace4cd2f66cb7cc",
-            "timestamp": "2025-07-15T17:53:21.490Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "6876961caace4cd2f66f4496",
-            "timestamp": "2025-07-15T17:55:40.852Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.48,
-            "asset": "TON",
-            "_id": "68769636aace4cd2f66fc8e1",
-            "timestamp": "2025-07-15T17:56:06.114Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.66,
-            "asset": "TON",
-            "_id": "68769646aace4cd2f66ff410",
-            "timestamp": "2025-07-15T17:56:22.952Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.84,
-            "asset": "TON",
-            "_id": "68769712aace4cd2f673ef9b",
-            "timestamp": "2025-07-15T17:59:46.618Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T18:25:58.545Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 64906,
-        "model": "Jellyfish (1.5%)",
-        "backdrop": "Steel Grey (2%)",
-        "symbol": "Fish (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T17:26:00.135Z",
-        "__v": 0,
-        "winningBid": 3.84,
-        "winningBidder": 7079951368
-      },
+      "auction": null,
       "export_at": "2025-07-27T22:40:25.000Z",
       "premarketData": {}
     },
@@ -18984,41 +17078,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "XHFB095O",
-      "auction": {
-        "_id": "68713ea28938e518f160bb7d",
-        "gift_id": 7158745,
-        "seller": 0,
-        "auction_id": "XHFB095O",
-        "startingBid": 4.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4.5,
-            "asset": "TON",
-            "_id": "68717e3a8938e518f10cd50f",
-            "timestamp": "2025-07-11T21:12:26.420Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.73,
-            "asset": "TON",
-            "_id": "687189198938e518f126edc3",
-            "timestamp": "2025-07-11T21:58:49.279Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T22:09:11.959Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 44873,
-        "model": "Jellyfish (1.5%)",
-        "backdrop": "Pacific Cyan (1.5%)",
-        "symbol": "Coffee Bean (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T21:09:18.629Z",
-        "__v": 0,
-        "winningBid": 4.73,
-        "winningBidder": 1271975797
-      },
+      "auction": null,
       "export_at": "2025-07-25T15:30:07.000Z",
       "premarketData": {}
     }
@@ -19449,6 +17509,26 @@
   ],
   "Mutated": [
     {
+      "gift_num": 57873,
+      "customEmojiId": "5429158486883721784",
+      "gift_id": 7238810,
+      "name": "Jelly Bunny",
+      "model": "Mutated (1.5%)",
+      "asset": "TON",
+      "symbol": "Lemon (0.4%)",
+      "backdrop": "Midnight Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T20:06:10.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4157,
       "customEmojiId": "5429158486883721784",
       "gift_id": 7266888,
@@ -19586,26 +17666,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T03:14:27.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 57873,
-      "customEmojiId": "5429158486883721784",
-      "gift_id": 7238810,
-      "name": "Jelly Bunny",
-      "model": "Mutated (1.5%)",
-      "asset": "TON",
-      "symbol": "Lemon (0.4%)",
-      "backdrop": "Midnight Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T20:06:10.000Z",
       "premarketData": {}
     },
     {
@@ -20509,41 +18569,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "RQBYT4TV",
-      "auction": {
-        "_id": "6848539aa6dabbe64336a6eb",
-        "gift_id": 2147652,
-        "seller": 0,
-        "auction_id": "RQBYT4TV",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "68747ae58938e518f1ba1418",
-            "timestamp": "2025-07-14T03:35:01.239Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "6874859c8938e518f1bf3669",
-            "timestamp": "2025-07-14T04:20:44.507Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T04:33:21.414Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 33807,
-        "model": "Seaweed (0.5%)",
-        "backdrop": "Onyx Black (2%)",
-        "symbol": "Moon Eagle (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T16:23:22.638Z",
-        "__v": 0,
-        "winningBid": 5.25,
-        "winningBidder": 7494122884
-      },
+      "auction": null,
       "export_at": "2025-04-05T16:11:25.000Z",
       "premarketData": {}
     },
@@ -21108,55 +19134,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "KIB8BBU0",
-      "auction": {
-        "_id": "6872aa7d8938e518f1e22c89",
-        "gift_id": 7145449,
-        "seller": 0,
-        "auction_id": "KIB8BBU0",
-        "startingBid": 3.8,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.8,
-            "asset": "TON",
-            "_id": "6872afd78938e518f1f6d947",
-            "timestamp": "2025-07-12T18:56:23.095Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.99,
-            "asset": "TON",
-            "_id": "6872b7c68938e518f11d7267",
-            "timestamp": "2025-07-12T19:30:14.662Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.19,
-            "asset": "TON",
-            "_id": "6872b82a8938e518f11dc78f",
-            "timestamp": "2025-07-12T19:31:54.397Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.4,
-            "asset": "TON",
-            "_id": "6872bace8938e518f122ffc2",
-            "timestamp": "2025-07-12T19:43:10.862Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T19:53:30.907Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 26862,
-        "model": "Juicy Blue (0.5%)",
-        "backdrop": "Hunter Green (1.5%)",
-        "symbol": "Paw (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T18:33:33.832Z",
-        "__v": 0,
-        "winningBid": 4.4,
-        "winningBidder": 806104583
-      },
+      "auction": null,
       "export_at": "2025-07-24T22:45:41.000Z",
       "premarketData": {}
     },
@@ -21177,41 +19155,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "VOUF9Q0V",
-      "auction": {
-        "_id": "686d59860227247557f37489",
-        "gift_id": 7086638,
-        "seller": 0,
-        "auction_id": "VOUF9Q0V",
-        "startingBid": 4.3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4.3,
-            "asset": "TON",
-            "_id": "686eab6b022724755769076a",
-            "timestamp": "2025-07-09T17:48:27.526Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.52,
-            "asset": "TON",
-            "_id": "686eadda02272475577338d5",
-            "timestamp": "2025-07-09T17:58:50.394Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T18:08:50.496Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 35982,
-        "model": "Juicy Blue (0.5%)",
-        "backdrop": "Shamrock Green (2%)",
-        "symbol": "Chest (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T16:48:51.944Z",
-        "__v": 0,
-        "winningBid": 4.52,
-        "winningBidder": 6371124198
-      },
+      "auction": null,
       "export_at": "2025-07-22T17:15:41.000Z",
       "premarketData": {}
     },
@@ -21291,34 +19235,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "M9PL67WG",
-      "auction": {
-        "_id": "686eb83d02272475579d132f",
-        "gift_id": 7110242,
-        "seller": 0,
-        "auction_id": "M9PL67WG",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.62,
-            "asset": "TON",
-            "_id": "686ec1f50227247557c9d44e",
-            "timestamp": "2025-07-09T19:24:37.637Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T20:58:30.800Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 35982,
-        "model": "Juicy Blue (0.5%)",
-        "backdrop": "Shamrock Green (2%)",
-        "symbol": "Chest (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T18:58:31.771Z",
-        "__v": 0,
-        "winningBid": 3.62,
-        "winningBidder": 6791957882
-      },
+      "auction": null,
       "export_at": "2025-07-23T18:38:59.000Z",
       "premarketData": {}
     }
@@ -22827,62 +20744,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "KZQOB73E",
-      "auction": {
-        "_id": "687830afaace4cd2f6611902",
-        "gift_id": 7220430,
-        "seller": 0,
-        "auction_id": "KZQOB73E",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68783622aace4cd2f667ac4b",
-            "timestamp": "2025-07-16T23:30:42.399Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.3,
-            "asset": "TON",
-            "_id": "6878376baace4cd2f6684084",
-            "timestamp": "2025-07-16T23:36:11.951Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.42,
-            "asset": "TON",
-            "_id": "68783b00aace4cd2f66a377e",
-            "timestamp": "2025-07-16T23:51:28.317Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.74,
-            "asset": "TON",
-            "_id": "68783b45aace4cd2f66a4944",
-            "timestamp": "2025-07-16T23:52:37.374Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.88,
-            "asset": "TON",
-            "_id": "68783e52aace4cd2f66b0843",
-            "timestamp": "2025-07-17T00:05:38.704Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T00:22:10.104Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 3046,
-        "model": "Light Creme (0.5%)",
-        "backdrop": "Pine Green (2%)",
-        "symbol": "Ladybug (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T23:22:10.703Z",
-        "__v": 0,
-        "winningBid": 2.88,
-        "winningBidder": 5502157717
-      },
+      "auction": null,
       "export_at": "2025-07-28T19:53:17.000Z",
       "premarketData": {}
     },
@@ -24167,34 +22029,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "0NXK14U5",
-      "auction": {
-        "_id": "6875342baace4cd2f6dc81b2",
-        "gift_id": 7155188,
-        "seller": 0,
-        "auction_id": "0NXK14U5",
-        "startingBid": 20,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "68753f52aace4cd2f6f4e46a",
-            "timestamp": "2025-07-14T17:33:06.276Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T17:45:29.011Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 40125,
-        "model": "Pale Squish (1.5%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Axe (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T16:45:31.060Z",
-        "__v": 0,
-        "winningBid": 20,
-        "winningBidder": 612543774
-      },
+      "auction": null,
       "export_at": "2025-07-25T12:31:58.000Z",
       "premarketData": {}
     },
@@ -25681,55 +23516,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "JDWFJC17",
-      "auction": {
-        "_id": "6874cd758938e518f16768d5",
-        "gift_id": 7203229,
-        "seller": 0,
-        "auction_id": "JDWFJC17",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6874cfa58938e518f1686690",
-            "timestamp": "2025-07-14T09:36:37.378Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.25,
-            "asset": "TON",
-            "_id": "6874d3798938e518f1808a76",
-            "timestamp": "2025-07-14T09:52:57.293Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.41,
-            "asset": "TON",
-            "_id": "6874d6cb8938e518f1827b45",
-            "timestamp": "2025-07-14T10:07:07.254Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.58,
-            "asset": "TON",
-            "_id": "6874d85d8938e518f185d9b4",
-            "timestamp": "2025-07-14T10:13:49.730Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T10:27:16.906Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 14957,
-        "model": "Ghost (1.5%)",
-        "backdrop": "Chocolate (1.5%)",
-        "symbol": "Gold (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T09:27:17.981Z",
-        "__v": 0,
-        "winningBid": 3.58,
-        "winningBidder": 7451758195
-      },
+      "auction": null,
       "export_at": "2025-07-27T20:56:01.000Z",
       "premarketData": {}
     },
@@ -25750,111 +23537,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "9VQ2ETQP",
-      "auction": {
-        "_id": "6874cd6e8938e518f1675f49",
-        "gift_id": 7175167,
-        "seller": 0,
-        "auction_id": "9VQ2ETQP",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6874cf0f8938e518f16819f6",
-            "timestamp": "2025-07-14T09:34:07.859Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.6,
-            "asset": "TON",
-            "_id": "6874d1598938e518f16983d5",
-            "timestamp": "2025-07-14T09:43:53.479Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.8,
-            "asset": "TON",
-            "_id": "6874d1d28938e518f169d32f",
-            "timestamp": "2025-07-14T09:45:54.294Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.94,
-            "asset": "TON",
-            "_id": "6874d20e8938e518f177fce9",
-            "timestamp": "2025-07-14T09:46:54.894Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.09,
-            "asset": "TON",
-            "_id": "6874d2668938e518f1804c60",
-            "timestamp": "2025-07-14T09:48:22.117Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.28,
-            "asset": "TON",
-            "_id": "6874d3658938e518f180878f",
-            "timestamp": "2025-07-14T09:52:37.728Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.45,
-            "asset": "TON",
-            "_id": "6874d5c78938e518f1813e23",
-            "timestamp": "2025-07-14T10:02:47.988Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.62,
-            "asset": "TON",
-            "_id": "6874da1f8938e518f187ffd9",
-            "timestamp": "2025-07-14T10:21:19.145Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.8,
-            "asset": "TON",
-            "_id": "6874dd7d8938e518f1895de1",
-            "timestamp": "2025-07-14T10:35:41.539Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.99,
-            "asset": "TON",
-            "_id": "6874dd978938e518f1896d63",
-            "timestamp": "2025-07-14T10:36:07.878Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.19,
-            "asset": "TON",
-            "_id": "6874dde78938e518f189ad1d",
-            "timestamp": "2025-07-14T10:37:27.052Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.4,
-            "asset": "TON",
-            "_id": "6874e02b8938e518f18d190c",
-            "timestamp": "2025-07-14T10:47:07.049Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T10:57:09.782Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 67660,
-        "model": "Ghost (1.5%)",
-        "backdrop": "Pacific Green (2%)",
-        "symbol": "Ink Pen (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T09:27:10.497Z",
-        "__v": 0,
-        "winningBid": 4.4,
-        "winningBidder": 661534478
-      },
+      "auction": null,
       "export_at": "2025-07-26T12:13:02.000Z",
       "premarketData": {}
     },
@@ -26201,6 +23884,26 @@
   ],
   "Majestic": [
     {
+      "gift_num": 44225,
+      "customEmojiId": "5426970871061309365",
+      "gift_id": 7262644,
+      "name": "Jelly Bunny",
+      "model": "Majestic (1.5%)",
+      "asset": "TON",
+      "symbol": "Hammerhead (0.3%)",
+      "backdrop": "Dark Lilac (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T07:34:53.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 55304,
       "customEmojiId": "5426970871061309365",
       "gift_id": 7235876,
@@ -26218,26 +23921,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-29T17:34:10.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 44225,
-      "customEmojiId": "5426970871061309365",
-      "gift_id": 7262644,
-      "name": "Jelly Bunny",
-      "model": "Majestic (1.5%)",
-      "asset": "TON",
-      "symbol": "Hammerhead (0.3%)",
-      "backdrop": "Dark Lilac (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5.6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T07:34:53.000Z",
       "premarketData": {}
     },
     {
@@ -26497,90 +24180,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "PYSM0W6I",
-      "auction": {
-        "_id": "6877c1d3aace4cd2f6b5824f",
-        "gift_id": 7204814,
-        "seller": 0,
-        "auction_id": "PYSM0W6I",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6877e063aace4cd2f644bc1d",
-            "timestamp": "2025-07-16T17:24:51.127Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6877e07faace4cd2f644d340",
-            "timestamp": "2025-07-16T17:25:19.913Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "6877e463aace4cd2f6997483",
-            "timestamp": "2025-07-16T17:41:55.751Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "6877e6a8aace4cd2f6a6a91f",
-            "timestamp": "2025-07-16T17:51:36.884Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.48,
-            "asset": "TON",
-            "_id": "6877e78daace4cd2f6a9e882",
-            "timestamp": "2025-07-16T17:55:25.584Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "6877e7e5aace4cd2f6ab22dd",
-            "timestamp": "2025-07-16T17:56:53.550Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.4,
-            "asset": "TON",
-            "_id": "6877e816aace4cd2f6abd9a2",
-            "timestamp": "2025-07-16T17:57:42.010Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.62,
-            "asset": "TON",
-            "_id": "6877e820aace4cd2f6ac08db",
-            "timestamp": "2025-07-16T17:57:52.252Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.85,
-            "asset": "TON",
-            "_id": "6877e9d5aace4cd2f6b5d242",
-            "timestamp": "2025-07-16T18:05:09.928Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T18:24:24.108Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 3541,
-        "model": "Majestic (1.5%)",
-        "backdrop": "Lavender (1.5%)",
-        "symbol": "Flower Tulip (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T15:14:27.020Z",
-        "__v": 0,
-        "winningBid": 4.85,
-        "winningBidder": 5493604889
-      },
+      "auction": null,
       "export_at": "2025-07-27T22:30:24.000Z",
       "premarketData": {}
     },
@@ -26801,132 +24401,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "4SLM9A7W",
-      "auction": {
-        "_id": "686e444902272475570aeadd",
-        "gift_id": 5785758,
-        "seller": 0,
-        "auction_id": "4SLM9A7W",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687250d88938e518f14402bc",
-            "timestamp": "2025-07-12T12:11:04.768Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "687250ee8938e518f1448175",
-            "timestamp": "2025-07-12T12:11:26.521Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.1,
-            "asset": "TON",
-            "_id": "6872514b8938e518f14741fa",
-            "timestamp": "2025-07-12T12:12:59.435Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.26,
-            "asset": "TON",
-            "_id": "6872516e8938e518f1480583",
-            "timestamp": "2025-07-12T12:13:34.467Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.42,
-            "asset": "TON",
-            "_id": "687254748938e518f1502d1c",
-            "timestamp": "2025-07-12T12:26:28.210Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.59,
-            "asset": "TON",
-            "_id": "6872552f8938e518f1508fa9",
-            "timestamp": "2025-07-12T12:29:35.914Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.77,
-            "asset": "TON",
-            "_id": "687258fc8938e518f153c29c",
-            "timestamp": "2025-07-12T12:45:48.634Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.16,
-            "asset": "TON",
-            "_id": "687259778938e518f154872b",
-            "timestamp": "2025-07-12T12:47:51.067Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.37,
-            "asset": "TON",
-            "_id": "687259a68938e518f1651161",
-            "timestamp": "2025-07-12T12:48:38.549Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.59,
-            "asset": "TON",
-            "_id": "687259e68938e518f1776d83",
-            "timestamp": "2025-07-12T12:49:42.139Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.82,
-            "asset": "TON",
-            "_id": "68725a5d8938e518f1983011",
-            "timestamp": "2025-07-12T12:51:41.867Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.06,
-            "asset": "TON",
-            "_id": "68725d848938e518f1a115b4",
-            "timestamp": "2025-07-12T13:05:08.942Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.31,
-            "asset": "TON",
-            "_id": "6872607f8938e518f1a3654c",
-            "timestamp": "2025-07-12T13:17:51.576Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.58,
-            "asset": "TON",
-            "_id": "687262518938e518f1a4294a",
-            "timestamp": "2025-07-12T13:25:37.873Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.86,
-            "asset": "TON",
-            "_id": "6872625f8938e518f1a42bde",
-            "timestamp": "2025-07-12T13:25:51.847Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T13:40:31.560Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 47953,
-        "model": "Majestic (1.5%)",
-        "backdrop": "Purple (2%)",
-        "symbol": "Moon (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T12:00:34.363Z",
-        "__v": 0,
-        "winningBid": 5.86,
-        "winningBidder": 1008207772
-      },
+      "auction": null,
       "export_at": "2025-06-20T17:03:49.000Z",
       "premarketData": {}
     },
@@ -28757,41 +26232,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "IF0MLD1D",
-      "auction": {
-        "_id": "6870029f34f366334627d84b",
-        "gift_id": 7073155,
-        "seller": 0,
-        "auction_id": "IF0MLD1D",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68709f9e34f3663346bb4917",
-            "timestamp": "2025-07-11T05:22:38.839Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.2,
-            "asset": "TON",
-            "_id": "6870aa0334f3663346e99a56",
-            "timestamp": "2025-07-11T06:06:59.758Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T06:22:46.748Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 69377,
-        "model": "Zombie (1.5%)",
-        "backdrop": "Emerald (2%)",
-        "symbol": "Gift Box (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T18:12:47.898Z",
-        "__v": 0,
-        "winningBid": 3.2,
-        "winningBidder": 6791957882
-      },
+      "auction": null,
       "export_at": "2025-07-22T07:37:24.000Z",
       "premarketData": {}
     },
@@ -29098,26 +26539,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 32911,
-      "customEmojiId": "5400074978399904312",
-      "gift_id": 6097913,
-      "name": "Jelly Bunny",
-      "model": "Spring Day (0.5%)",
-      "asset": "TON",
-      "symbol": "Candle (0.5%)",
-      "backdrop": "Navy Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T08:33:25.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 73699,
       "customEmojiId": "5400074978399904312",
       "gift_id": 7216111,
@@ -29134,41 +26555,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "RNWVNFRP",
-      "auction": {
-        "_id": "6876ad7caace4cd2f6b18a3b",
-        "gift_id": 7216111,
-        "seller": 0,
-        "auction_id": "RNWVNFRP",
-        "startingBid": 3.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "68790a2baace4cd2f6e28c28",
-            "timestamp": "2025-07-17T14:35:23.066Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.68,
-            "asset": "TON",
-            "_id": "68790b15aace4cd2f6e2f851",
-            "timestamp": "2025-07-17T14:39:17.540Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T14:59:02.347Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 73699,
-        "model": "Spring Day (0.5%)",
-        "backdrop": "Emerald (2%)",
-        "symbol": "Lemon Slice (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T13:49:43.719Z",
-        "__v": 0,
-        "winningBid": 3.68,
-        "winningBidder": 399553113
-      },
+      "auction": null,
       "export_at": "2025-07-28T15:42:36.000Z",
       "premarketData": {}
     },
@@ -29328,104 +26715,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "AJ3AD8U3",
-      "auction": {
-        "_id": "686ed46d17ef9a49923f206c",
-        "gift_id": 7113509,
-        "seller": 0,
-        "auction_id": "AJ3AD8U3",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "686edb7017ef9a4992431fdf",
-            "timestamp": "2025-07-09T21:13:20.453Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "686edcff17ef9a499244e255",
-            "timestamp": "2025-07-09T21:19:59.663Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "686edd3617ef9a4992450c26",
-            "timestamp": "2025-07-09T21:20:54.565Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "686edd4c17ef9a4992451de1",
-            "timestamp": "2025-07-09T21:21:16.150Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.8,
-            "asset": "TON",
-            "_id": "686edd5f17ef9a4992452e75",
-            "timestamp": "2025-07-09T21:21:35.731Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.94,
-            "asset": "TON",
-            "_id": "686edd7417ef9a4992454eb3",
-            "timestamp": "2025-07-09T21:21:56.597Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.09,
-            "asset": "TON",
-            "_id": "686edeea17ef9a4992486cab",
-            "timestamp": "2025-07-09T21:28:10.121Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.25,
-            "asset": "TON",
-            "_id": "686edf1317ef9a499248a72f",
-            "timestamp": "2025-07-09T21:28:51.537Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.41,
-            "asset": "TON",
-            "_id": "686ee0f417ef9a49924b4cc5",
-            "timestamp": "2025-07-09T21:36:52.766Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.58,
-            "asset": "TON",
-            "_id": "686ee32117ef9a49924fe132",
-            "timestamp": "2025-07-09T21:46:09.069Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.76,
-            "asset": "TON",
-            "_id": "686ee3ce17ef9a49925188f4",
-            "timestamp": "2025-07-09T21:49:02.469Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-09T22:03:21.718Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 38745,
-        "model": "Spring Day (0.5%)",
-        "backdrop": "Purple (2%)",
-        "symbol": "Lily (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-09T20:43:25.292Z",
-        "__v": 0,
-        "winningBid": 3.76,
-        "winningBidder": 122625958
-      },
+      "auction": null,
       "export_at": "2025-07-23T20:42:47.000Z",
       "premarketData": {}
     }
@@ -29568,34 +26858,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "IBWF1Z22",
-      "auction": {
-        "_id": "6878bb3aaace4cd2f6deee58",
-        "gift_id": 7257698,
-        "seller": 0,
-        "auction_id": "IBWF1Z22",
-        "startingBid": 3.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "68791f45aace4cd2f636b321",
-            "timestamp": "2025-07-17T16:05:25.349Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T16:15:32.763Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 71611,
-        "model": "Kawaii (1.5%)",
-        "backdrop": "Pine Green (2%)",
-        "symbol": "Plume (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T14:05:34.435Z",
-        "__v": 0,
-        "winningBid": 3.5,
-        "winningBidder": 1726929084
-      },
+      "auction": null,
       "export_at": "2025-07-30T20:58:54.000Z",
       "premarketData": {}
     },
@@ -29696,34 +26959,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "U77814WI",
-      "auction": {
-        "_id": "6874fae98938e518f1f8f5b3",
-        "gift_id": 7212645,
-        "seller": 0,
-        "auction_id": "U77814WI",
-        "startingBid": 4.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4.5,
-            "asset": "TON",
-            "_id": "68768f8caace4cd2f6526167",
-            "timestamp": "2025-07-15T17:27:40.648Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T17:38:43.008Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 71611,
-        "model": "Kawaii (1.5%)",
-        "backdrop": "Pine Green (2%)",
-        "symbol": "Plume (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T16:28:46.493Z",
-        "__v": 0,
-        "winningBid": 4.5,
-        "winningBidder": 7142285217
-      },
+      "auction": null,
       "export_at": "2025-07-28T12:39:22.000Z",
       "premarketData": {}
     },
@@ -29804,34 +27040,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "RMOBU7IA",
-      "auction": {
-        "_id": "6873e0ea8938e518f1b68dd9",
-        "gift_id": 7198168,
-        "seller": 0,
-        "auction_id": "RMOBU7IA",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6877ae1caace4cd2f681905f",
-            "timestamp": "2025-07-16T13:50:20.395Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T14:12:22.973Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 56028,
-        "model": "Kawaii (1.5%)",
-        "backdrop": "Roman Silver (1.5%)",
-        "symbol": "Beetle (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T13:12:24.231Z",
-        "__v": 0,
-        "winningBid": 5,
-        "winningBidder": 7352858926
-      },
+      "auction": null,
       "export_at": "2025-07-27T16:35:34.000Z",
       "premarketData": {}
     },
@@ -30936,34 +28145,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "5A77L9ZS",
-      "auction": {
-        "_id": "6875064faace4cd2f65d9a1f",
-        "gift_id": 7213807,
-        "seller": 0,
-        "auction_id": "5A77L9ZS",
-        "startingBid": 3.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "68753df9aace4cd2f6f0c42e",
-            "timestamp": "2025-07-14T17:27:21.511Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T18:50:18.570Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 21860,
-        "model": "Spreadable (1.5%)",
-        "backdrop": "Caramel (2%)",
-        "symbol": "Fire (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T16:50:19.957Z",
-        "__v": 0,
-        "winningBid": 3.5,
-        "winningBidder": 1815062115
-      },
+      "auction": null,
       "export_at": "2025-07-28T13:27:16.000Z",
       "premarketData": {}
     },
@@ -31532,6 +28714,26 @@
   ],
   "Guava Gel": [
     {
+      "gift_num": 75497,
+      "customEmojiId": "5397969314848464913",
+      "gift_id": 7273614,
+      "name": "Jelly Bunny",
+      "model": "Guava Gel (0.5%)",
+      "asset": "TON",
+      "symbol": "Bottlenose (0.5%)",
+      "backdrop": "Strawberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:42:36.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 42389,
       "customEmojiId": "5397969314848464913",
       "gift_id": 7167753,
@@ -31544,7 +28746,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 5.9,
+      "price": 5.7,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -32996,41 +30198,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "E6Q7KZFA",
-      "auction": {
-        "_id": "687410548938e518f11748e5",
-        "gift_id": 7202143,
-        "seller": 0,
-        "auction_id": "E6Q7KZFA",
-        "startingBid": 3.33,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.33,
-            "asset": "TON",
-            "_id": "6875d0e2aace4cd2f6435576",
-            "timestamp": "2025-07-15T03:54:10.120Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.5,
-            "asset": "TON",
-            "_id": "6875d9acaace4cd2f646e3c1",
-            "timestamp": "2025-07-15T04:31:40.573Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T04:44:36.952Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 77540,
-        "model": "Spooky (2%)",
-        "backdrop": "Strawberry (1.5%)",
-        "symbol": "Yogi Shaman (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T03:44:37.990Z",
-        "__v": 0,
-        "winningBid": 3.5,
-        "winningBidder": 6279192968
-      },
+      "auction": null,
       "export_at": "2025-07-27T19:58:46.000Z",
       "premarketData": {}
     },
@@ -33376,6 +30544,26 @@
     }
   ],
   "Corporate": [
+    {
+      "gift_num": 16041,
+      "customEmojiId": "5427100682152860879",
+      "gift_id": 7273280,
+      "name": "Jelly Bunny",
+      "model": "Corporate (1.5%)",
+      "asset": "TON",
+      "symbol": "Glasses (0.5%)",
+      "backdrop": "Azure Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:16:08.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 57558,
       "customEmojiId": "5427100682152860879",
@@ -33955,29 +31143,29 @@
       "auction": null,
       "export_at": "2025-07-11T15:46:17.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Gelatin Girl": [
     {
-      "gift_num": 44489,
-      "customEmojiId": "5427100682152860879",
-      "gift_id": 7122802,
+      "gift_num": 76804,
+      "customEmojiId": "5429496067018219471",
+      "gift_id": 7257956,
       "name": "Jelly Bunny",
-      "model": "Corporate (1.5%)",
+      "model": "Gelatin Girl (1.5%)",
       "asset": "TON",
-      "symbol": "Kite (0.4%)",
-      "backdrop": "Khaki Green (2%)",
+      "symbol": "Clubs (0.2%)",
+      "backdrop": "Emerald (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 4.7,
+      "price": 4,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-24T08:31:09.000Z",
+      "export_at": "2025-07-30T21:15:17.000Z",
       "premarketData": {}
-    }
-  ],
-  "Gelatin Girl": [
+    },
     {
       "gift_num": 7767,
       "customEmojiId": "5429496067018219471",
@@ -34016,26 +31204,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-31T15:24:06.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 76804,
-      "customEmojiId": "5429496067018219471",
-      "gift_id": 7257956,
-      "name": "Jelly Bunny",
-      "model": "Gelatin Girl (1.5%)",
-      "asset": "TON",
-      "symbol": "Clubs (0.2%)",
-      "backdrop": "Emerald (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T21:15:17.000Z",
       "premarketData": {}
     },
     {
@@ -34738,41 +31906,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "C46KWB4R",
-      "auction": {
-        "_id": "6870902934f3663346abb678",
-        "gift_id": 7145992,
-        "seller": 0,
-        "auction_id": "C46KWB4R",
-        "startingBid": 4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "68709da034f3663346b87b70",
-            "timestamp": "2025-07-11T05:14:08.682Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.2,
-            "asset": "TON",
-            "_id": "68709f8234f3663346bb3f52",
-            "timestamp": "2025-07-11T05:22:10.134Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-11T05:36:39.415Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 50805,
-        "model": "Violet Swirl (0.5%)",
-        "backdrop": "Dark Lilac (1.5%)",
-        "symbol": "Rain Drop (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T04:16:41.183Z",
-        "__v": 0,
-        "winningBid": 4.2,
-        "winningBidder": 1317041936
-      },
+      "auction": null,
       "export_at": "2025-07-24T22:59:42.000Z",
       "premarketData": {}
     },
@@ -34972,6 +32106,26 @@
     }
   ],
   "First Bite": [
+    {
+      "gift_num": 26409,
+      "customEmojiId": "5415804106415561729",
+      "gift_id": 7273616,
+      "name": "Jelly Bunny",
+      "model": "First Bite (1.5%)",
+      "asset": "TON",
+      "symbol": "White Deer (0.5%)",
+      "backdrop": "Battleship Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:42:43.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 70225,
       "customEmojiId": "5415804106415561729",
@@ -35551,26 +32705,6 @@
       "auction": null,
       "export_at": "2025-06-28T13:48:14.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 54065,
-      "customEmojiId": "5415804106415561729",
-      "gift_id": 6646693,
-      "name": "Jelly Bunny",
-      "model": "First Bite (1.5%)",
-      "asset": "TON",
-      "symbol": "Top Hat (0.5%)",
-      "backdrop": "Rosewood (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-05T01:33:14.000Z",
-      "premarketData": {}
     }
   ],
   "Jaxy-Boy": [
@@ -35711,111 +32845,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "QV6EE6FU",
-      "auction": {
-        "_id": "6873de658938e518f19f4238",
-        "gift_id": 7197977,
-        "seller": 0,
-        "auction_id": "QV6EE6FU",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6878c12aaace4cd2f6efdde6",
-            "timestamp": "2025-07-17T09:23:54.530Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6878c31eaace4cd2f6f4895b",
-            "timestamp": "2025-07-17T09:32:14.144Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6878c5e5aace4cd2f6f5f160",
-            "timestamp": "2025-07-17T09:44:05.292Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6878c667aace4cd2f6f62152",
-            "timestamp": "2025-07-17T09:46:15.392Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "6878c68eaace4cd2f6f632e5",
-            "timestamp": "2025-07-17T09:46:54.571Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "6878c6dbaace4cd2f6f6597a",
-            "timestamp": "2025-07-17T09:48:11.240Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.85,
-            "asset": "TON",
-            "_id": "6878c7edaace4cd2f6f6efdf",
-            "timestamp": "2025-07-17T09:52:45.364Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.99,
-            "asset": "TON",
-            "_id": "6878c966aace4cd2f6fa14f1",
-            "timestamp": "2025-07-17T09:59:02.014Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.14,
-            "asset": "TON",
-            "_id": "6878cb1eaace4cd2f6fcea36",
-            "timestamp": "2025-07-17T10:06:22.811Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.3,
-            "asset": "TON",
-            "_id": "6878cb61aace4cd2f6fd1ec4",
-            "timestamp": "2025-07-17T10:07:29.208Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.47,
-            "asset": "TON",
-            "_id": "6878cd45aace4cd2f62a5363",
-            "timestamp": "2025-07-17T10:15:33.892Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.65,
-            "asset": "TON",
-            "_id": "6878cd82aace4cd2f6356602",
-            "timestamp": "2025-07-17T10:16:34.617Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T10:31:30.581Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 5095,
-        "model": "Jaxy-Boy (1.5%)",
-        "backdrop": "Midnight Blue (1%)",
-        "symbol": "Shell (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T09:21:31.624Z",
-        "__v": 0,
-        "winningBid": 3.65,
-        "winningBidder": 5023481279
-      },
+      "auction": null,
       "export_at": "2025-07-27T16:23:58.000Z",
       "premarketData": {}
     },
@@ -35896,153 +32926,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "AOFGX4G4",
-      "auction": {
-        "_id": "6873f15e8938e518f1032c51",
-        "gift_id": 7198573,
-        "seller": 0,
-        "auction_id": "AOFGX4G4",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6874be928938e518f1218ce2",
-            "timestamp": "2025-07-14T08:23:46.764Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6874bedd8938e518f1219990",
-            "timestamp": "2025-07-14T08:25:01.764Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6874bef88938e518f1219a81",
-            "timestamp": "2025-07-14T08:25:28.827Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6874bf598938e518f121b60f",
-            "timestamp": "2025-07-14T08:27:05.868Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6874bf6e8938e518f121c590",
-            "timestamp": "2025-07-14T08:27:26.262Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "6874c0bf8938e518f1223055",
-            "timestamp": "2025-07-14T08:33:03.368Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "6874c0d68938e518f122327b",
-            "timestamp": "2025-07-14T08:33:26.714Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.85,
-            "asset": "TON",
-            "_id": "6874c11f8938e518f1225ce7",
-            "timestamp": "2025-07-14T08:34:39.550Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.99,
-            "asset": "TON",
-            "_id": "6874c13d8938e518f12273f7",
-            "timestamp": "2025-07-14T08:35:09.552Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.14,
-            "asset": "TON",
-            "_id": "6874c1618938e518f122811a",
-            "timestamp": "2025-07-14T08:35:45.488Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6874c20e8938e518f122d6f4",
-            "timestamp": "2025-07-14T08:38:38.107Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "6874c8fc8938e518f124e681",
-            "timestamp": "2025-07-14T09:08:12.339Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6,
-            "asset": "TON",
-            "_id": "6874c9108938e518f124ee55",
-            "timestamp": "2025-07-14T09:08:32.604Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.3,
-            "asset": "TON",
-            "_id": "6874ca9b8938e518f12999df",
-            "timestamp": "2025-07-14T09:15:07.677Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7,
-            "asset": "TON",
-            "_id": "6874caaf8938e518f129a910",
-            "timestamp": "2025-07-14T09:15:27.384Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.35,
-            "asset": "TON",
-            "_id": "6874cb188938e518f12c2962",
-            "timestamp": "2025-07-14T09:17:12.511Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8,
-            "asset": "TON",
-            "_id": "6874cc4c8938e518f1534d7d",
-            "timestamp": "2025-07-14T09:22:20.777Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.4,
-            "asset": "TON",
-            "_id": "6874ce9f8938e518f167e9e9",
-            "timestamp": "2025-07-14T09:32:15.002Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T09:42:31.170Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 74454,
-        "model": "Jaxy-Boy (1.5%)",
-        "backdrop": "Onyx Black (2%)",
-        "symbol": "Strawberry (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T08:22:31.851Z",
-        "__v": 0,
-        "winningBid": 8.4,
-        "winningBidder": 1338764052
-      },
+      "auction": null,
       "export_at": "2025-07-27T17:02:36.000Z",
       "premarketData": {}
     },
@@ -36083,139 +32967,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "BYOIJA91",
-      "auction": {
-        "_id": "6873c26f8938e518f12ab11f",
-        "gift_id": 7195883,
-        "seller": 0,
-        "auction_id": "BYOIJA91",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6873c34e8938e518f12bb42b",
-            "timestamp": "2025-07-13T14:31:42.186Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6873c3e88938e518f12c8a68",
-            "timestamp": "2025-07-13T14:34:16.233Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.3,
-            "asset": "TON",
-            "_id": "6873c4218938e518f12ccec1",
-            "timestamp": "2025-07-13T14:35:13.841Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.8,
-            "asset": "TON",
-            "_id": "6873c8ae8938e518f146db83",
-            "timestamp": "2025-07-13T14:54:38.635Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.94,
-            "asset": "TON",
-            "_id": "6873cabc8938e518f165b3d8",
-            "timestamp": "2025-07-13T15:03:24.456Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.09,
-            "asset": "TON",
-            "_id": "6873cd4a8938e518f1900ca4",
-            "timestamp": "2025-07-13T15:14:18.385Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.25,
-            "asset": "TON",
-            "_id": "6873cd618938e518f1901f1b",
-            "timestamp": "2025-07-13T15:14:41.252Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.41,
-            "asset": "TON",
-            "_id": "6873cd808938e518f1902d70",
-            "timestamp": "2025-07-13T15:15:12.580Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.58,
-            "asset": "TON",
-            "_id": "6873ce548938e518f1912c58",
-            "timestamp": "2025-07-13T15:18:44.571Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.76,
-            "asset": "TON",
-            "_id": "6873cf118938e518f191fc5e",
-            "timestamp": "2025-07-13T15:21:53.733Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "6873cf4f8938e518f1926225",
-            "timestamp": "2025-07-13T15:22:55.062Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.2,
-            "asset": "TON",
-            "_id": "6873cf8a8938e518f192a9ef",
-            "timestamp": "2025-07-13T15:23:54.860Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.41,
-            "asset": "TON",
-            "_id": "6873d0b98938e518f1944761",
-            "timestamp": "2025-07-13T15:28:57.693Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.63,
-            "asset": "TON",
-            "_id": "6873d0e98938e518f1948d7c",
-            "timestamp": "2025-07-13T15:29:45.963Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.86,
-            "asset": "TON",
-            "_id": "6873d10e8938e518f194b559",
-            "timestamp": "2025-07-13T15:30:22.787Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.1,
-            "asset": "TON",
-            "_id": "6873d1228938e518f194d2a2",
-            "timestamp": "2025-07-13T15:30:42.715Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T15:47:59.251Z",
-        "status": "finished",
-        "gift_name": "Jelly Bunny",
-        "gift_num": 5095,
-        "model": "Jaxy-Boy (1.5%)",
-        "backdrop": "Midnight Blue (1%)",
-        "symbol": "Shell (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T14:27:59.492Z",
-        "__v": 0,
-        "winningBid": 5.1,
-        "winningBidder": 5756989844
-      },
+      "auction": null,
       "export_at": "2025-07-27T14:15:06.000Z",
       "premarketData": {}
     },
@@ -37164,6 +33916,26 @@
   ],
   "Stiches": [
     {
+      "gift_num": 74976,
+      "customEmojiId": "5418218895943164473",
+      "gift_id": 7211301,
+      "name": "Jelly Bunny",
+      "model": "Stiches (1.5%)",
+      "asset": "TON",
+      "symbol": "Koala (0.5%)",
+      "backdrop": "Lemongrass (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-28T11:32:12.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 77245,
       "customEmojiId": "5418218895943164473",
       "gift_id": 7178427,
@@ -37401,26 +34173,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-28T18:14:04.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 74976,
-      "customEmojiId": "5418218895943164473",
-      "gift_id": 7211301,
-      "name": "Jelly Bunny",
-      "model": "Stiches (1.5%)",
-      "asset": "TON",
-      "symbol": "Koala (0.5%)",
-      "backdrop": "Lemongrass (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T11:32:12.000Z",
       "premarketData": {}
     },
     {
