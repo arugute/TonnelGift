@@ -565,6 +565,26 @@
   ],
   "Shadow": [
     {
+      "gift_num": 44704,
+      "customEmojiId": "5327798611612822762",
+      "gift_id": 5906803,
+      "name": "Tama Gadget",
+      "model": "Shadow (2%)",
+      "asset": "TON",
+      "symbol": "Melon (0.4%)",
+      "backdrop": "Amber (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-22T22:20:18.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 74313,
       "customEmojiId": "5327798611612822762",
       "gift_id": 597636449035,
@@ -855,62 +875,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "MK5C6NV6",
-      "auction": {
-        "_id": "685e5d68b03568894513acbd",
-        "gift_id": 6794873,
-        "seller": 0,
-        "auction_id": "MK5C6NV6",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6877a44aaace4cd2f63184cd",
-            "timestamp": "2025-07-16T13:08:26.981Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6877a85aaace4cd2f67136c3",
-            "timestamp": "2025-07-16T13:25:46.633Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6877a8c7aace4cd2f6726480",
-            "timestamp": "2025-07-16T13:27:35.008Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6877a8d7aace4cd2f6728373",
-            "timestamp": "2025-07-16T13:27:51.460Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6877a937aace4cd2f67339c4",
-            "timestamp": "2025-07-16T13:29:27.867Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T13:43:49.731Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 26583,
-        "model": "Shadow (2%)",
-        "backdrop": "Aquamarine (1%)",
-        "symbol": "Beer (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T12:33:50.496Z",
-        "__v": 0,
-        "winningBid": 3,
-        "winningBidder": 6864890970
-      },
+      "auction": null,
       "export_at": "2025-07-11T08:41:25.000Z",
       "premarketData": {}
     },
@@ -1175,26 +1140,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 21316,
-      "customEmojiId": "5327798611612822762",
-      "gift_id": 7174694,
-      "name": "Tama Gadget",
-      "model": "Shadow (2%)",
-      "asset": "TON",
-      "symbol": "Divine Falcon (0.4%)",
-      "backdrop": "Fandango (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T11:45:13.000Z",
-      "premarketData": {}
     }
   ],
   "Verdant": [
@@ -1212,9 +1157,37 @@
       "backdropData": {},
       "message_in_channel": 0,
       "price": 2,
-      "status": "forsale",
+      "status": "auction",
       "limited": false,
-      "auction": null,
+      "auction_id": "F0T4XLU7",
+      "auction": {
+        "_id": "687968fdaace4cd2f6602e48",
+        "gift_id": 7270746,
+        "seller": 0,
+        "auction_id": "F0T4XLU7",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68797557aace4cd2f675c510",
+            "timestamp": "2025-07-17T22:12:39.379Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-17T22:29:55.589Z",
+        "status": "finished",
+        "gift_name": "Tama Gadget",
+        "gift_num": 2094,
+        "model": "Verdant (2%)",
+        "backdrop": "French Blue (1.2%)",
+        "symbol": "Bascinet (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-17T21:19:57.522Z",
+        "__v": 0,
+        "winningBid": 2,
+        "winningBidder": 7352255987
+      },
       "export_at": "2025-07-31T17:43:27.000Z",
       "premarketData": {}
     },
@@ -1763,6 +1736,24 @@
   ],
   "Icy Zebra": [
     {
+      "gift_num": 72013,
+      "customEmojiId": "5328079579783393550",
+      "gift_id": 594932122448,
+      "name": "Tama Gadget",
+      "model": "Icy Zebra (1.1%)",
+      "asset": "TON",
+      "symbol": "Fire (0.4%)",
+      "backdrop": "Aquamarine (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 165.24,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 21661,
       "customEmojiId": "5328079579783393550",
       "gift_id": 593387085702,
@@ -2079,34 +2070,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "HM6HV0Y8",
-      "auction": {
-        "_id": "6873fde38938e518f10e1daa",
-        "gift_id": 7137993,
-        "seller": 0,
-        "auction_id": "HM6HV0Y8",
-        "startingBid": 2.8,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.8,
-            "asset": "TON",
-            "_id": "6876bdd2aace4cd2f60b49be",
-            "timestamp": "2025-07-15T20:45:06.596Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T20:58:47.984Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 72021,
-        "model": "Icy Zebra (1.1%)",
-        "backdrop": "Ivory White (1.2%)",
-        "symbol": "Red Deer (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T19:48:50.240Z",
-        "__v": 0,
-        "winningBid": 2.8,
-        "winningBidder": 5115343673
-      },
+      "auction": null,
       "export_at": "2025-07-24T18:10:09.000Z",
       "premarketData": {}
     },
@@ -2327,27 +2291,27 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
+    }
+  ],
+  "Pixel Pink": [
     {
-      "gift_num": 30563,
-      "customEmojiId": "5328079579783393550",
-      "gift_id": 593594474211,
+      "gift_num": 3441,
+      "customEmojiId": "5323710099099771734",
+      "gift_id": 593405000870,
       "name": "Tama Gadget",
-      "model": "Icy Zebra (1.1%)",
+      "model": "Pixel Pink (0.5%)",
       "asset": "TON",
-      "symbol": "Propeller Cap (0.4%)",
-      "backdrop": "Chestnut (1%)",
+      "symbol": "Lightning (0.5%)",
+      "backdrop": "Camo Green (1.2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 7.711,
+      "price": 550.8,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "premarketData": {}
-    }
-  ],
-  "Pixel Pink": [
+    },
     {
       "gift_num": 52083,
       "customEmojiId": "5323710099099771734",
@@ -2833,6 +2797,24 @@
   ],
   "Cherry Milk": [
     {
+      "gift_num": 41305,
+      "customEmojiId": "5255853966624842429",
+      "gift_id": 596092388965,
+      "name": "Tama Gadget",
+      "model": "Cherry Milk (2%)",
+      "asset": "TON",
+      "symbol": "Polar Bear (0.5%)",
+      "backdrop": "Tomato (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 16.524,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 36775,
       "customEmojiId": "5255853966624842429",
       "gift_id": 594493475290,
@@ -2926,26 +2908,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 34913,
-      "customEmojiId": "5255853966624842429",
-      "gift_id": 5908497,
-      "name": "Tama Gadget",
-      "model": "Cherry Milk (2%)",
-      "asset": "TON",
-      "symbol": "Flower Tulip (0.5%)",
-      "backdrop": "Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-22T22:50:07.000Z",
       "premarketData": {}
     },
     {
@@ -3402,6 +3364,44 @@
     }
   ],
   "Bronze": [
+    {
+      "gift_num": 51759,
+      "customEmojiId": "5255970166965035482",
+      "gift_id": 7270860,
+      "name": "Tama Gadget",
+      "model": "Bronze (2%)",
+      "asset": "TON",
+      "symbol": "Diamonds (0.1%)",
+      "backdrop": "Lavender (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T17:58:56.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 46791,
+      "customEmojiId": "5255970166965035482",
+      "gift_id": 598757855118,
+      "name": "Tama Gadget",
+      "model": "Bronze (2%)",
+      "asset": "TON",
+      "symbol": "Gua Pi Mao (0.3%)",
+      "backdrop": "Indigo Dye (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 5.508,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 43494,
       "customEmojiId": "5255970166965035482",
@@ -3891,26 +3891,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 33581,
-      "customEmojiId": "5255970166965035482",
-      "gift_id": 7109828,
-      "name": "Tama Gadget",
-      "model": "Bronze (2%)",
-      "asset": "TON",
-      "symbol": "Drug (0.4%)",
-      "backdrop": "Chocolate (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T18:14:38.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 64218,
       "customEmojiId": "5255970166965035482",
       "gift_id": 587053488986,
@@ -3945,47 +3925,9 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 71942,
-      "customEmojiId": "5255970166965035482",
-      "gift_id": 594722051732,
-      "name": "Tama Gadget",
-      "model": "Bronze (2%)",
-      "asset": "TON",
-      "symbol": "Viking Shield (0.5%)",
-      "backdrop": "French Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 4.131,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Golden Sun": [
-    {
-      "gift_num": 43355,
-      "customEmojiId": "5301127418755443601",
-      "gift_id": 7053240,
-      "name": "Tama Gadget",
-      "model": "Golden Sun (1.1%)",
-      "asset": "TON",
-      "symbol": "Beetle (0.3%)",
-      "backdrop": "Marine Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-21T12:27:16.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 55610,
       "customEmojiId": "5301127418755443601",
@@ -4115,62 +4057,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "E4PG3SNC",
-      "auction": {
-        "_id": "6877619faace4cd2f62f7307",
-        "gift_id": 7243747,
-        "seller": 0,
-        "auction_id": "E4PG3SNC",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68776d0baace4cd2f653a4b4",
-            "timestamp": "2025-07-16T09:12:43.339Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68776ec8aace4cd2f6555ac8",
-            "timestamp": "2025-07-16T09:20:08.698Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "687770daaace4cd2f6562f66",
-            "timestamp": "2025-07-16T09:28:58.782Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "687771fdaace4cd2f656b594",
-            "timestamp": "2025-07-16T09:33:49.783Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "68777430aace4cd2f6574140",
-            "timestamp": "2025-07-16T09:43:12.268Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T09:53:59.131Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 36732,
-        "model": "Golden Sun (1.1%)",
-        "backdrop": "Desert Sand (1.5%)",
-        "symbol": "Candy (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T08:23:59.815Z",
-        "__v": 0,
-        "winningBid": 2.44,
-        "winningBidder": 7821993649
-      },
+      "auction": null,
       "export_at": "2025-07-30T05:27:53.000Z",
       "premarketData": {}
     },
@@ -4587,6 +4474,24 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
+    },
+    {
+      "gift_num": 30859,
+      "customEmojiId": "5301127418755443601",
+      "gift_id": 593810130961,
+      "name": "Tama Gadget",
+      "model": "Golden Sun (1.1%)",
+      "asset": "TON",
+      "symbol": "Straw Hat (0.4%)",
+      "backdrop": "Persimmon (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 44.064,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
     }
   ],
   "Funky Stitch": [
@@ -4603,7 +4508,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 28,
+      "price": 30,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -5085,34 +4990,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "X5OZ8MMW",
-      "auction": {
-        "_id": "686f17881fe9e6aa2c980022",
-        "gift_id": 4596074,
-        "seller": 0,
-        "auction_id": "X5OZ8MMW",
-        "startingBid": 3.7,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.7,
-            "asset": "TON",
-            "_id": "686f3aee1fe9e6aa2cc5b889",
-            "timestamp": "2025-07-10T04:00:46.935Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T04:29:43.865Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 59624,
-        "model": "Funky Stitch (0.5%)",
-        "backdrop": "Chocolate (1.2%)",
-        "symbol": "Ribeye Steak (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T01:29:44.939Z",
-        "__v": 0,
-        "winningBid": 3.7,
-        "winningBidder": 466743769
-      },
+      "auction": null,
       "export_at": "2025-05-30T13:46:57.000Z",
       "premarketData": {}
     },
@@ -6323,6 +6201,24 @@
   ],
   "Green Candy": [
     {
+      "gift_num": 32614,
+      "customEmojiId": "5327817702742452599",
+      "gift_id": 593816834117,
+      "name": "Tama Gadget",
+      "model": "Green Candy (1.1%)",
+      "asset": "TON",
+      "symbol": "Propeller Cap (0.4%)",
+      "backdrop": "Grape (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 8.262,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 17873,
       "customEmojiId": "5327817702742452599",
       "gift_id": 593377617017,
@@ -6655,76 +6551,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "MUB2HHEA",
-      "auction": {
-        "_id": "68756c75aace4cd2f69e75e8",
-        "gift_id": 7212160,
-        "seller": 0,
-        "auction_id": "MUB2HHEA",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "687635faaace4cd2f615f51b",
-            "timestamp": "2025-07-15T11:05:30.925Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68764935aace4cd2f6469b2b",
-            "timestamp": "2025-07-15T12:27:33.087Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "68764c7caace4cd2f648e806",
-            "timestamp": "2025-07-15T12:41:32.381Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "68764e70aace4cd2f64ab734",
-            "timestamp": "2025-07-15T12:49:52.932Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6876509daace4cd2f64c80c4",
-            "timestamp": "2025-07-15T12:59:09.908Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "687652f7aace4cd2f64e65ff",
-            "timestamp": "2025-07-15T13:09:11.900Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "68765338aace4cd2f64ec5d8",
-            "timestamp": "2025-07-15T13:10:16.709Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T13:21:50.377Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 32297,
-        "model": "Green Candy (1.1%)",
-        "backdrop": "Turquoise (1%)",
-        "symbol": "Kitsune (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T09:51:50.974Z",
-        "__v": 0,
-        "winningBid": 2.69,
-        "winningBidder": 5795589878
-      },
+      "auction": null,
       "export_at": "2025-07-28T12:20:51.000Z",
       "premarketData": {}
     },
@@ -6935,27 +6762,57 @@
       "auction": null,
       "export_at": "2025-07-22T04:57:01.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 2293,
-      "customEmojiId": "5327817702742452599",
-      "gift_id": 593385384895,
-      "name": "Tama Gadget",
-      "model": "Green Candy (1.1%)",
-      "asset": "TON",
-      "symbol": "Grape (0.5%)",
-      "backdrop": "Rifle Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 5.26,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Pastel Thread": [
+    {
+      "gift_num": 44069,
+      "customEmojiId": "5296693504972450164",
+      "gift_id": 6783413,
+      "name": "Tama Gadget",
+      "model": "Pastel Thread (0.5%)",
+      "asset": "TON",
+      "symbol": "Smartphone (0.5%)",
+      "backdrop": "Strawberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.3,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "S1WYI6FX",
+      "auction": {
+        "_id": "687959f7aace4cd2f656b95f",
+        "gift_id": 6783413,
+        "seller": 0,
+        "auction_id": "S1WYI6FX",
+        "startingBid": 3.3,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 3.3,
+            "asset": "TON",
+            "_id": "687967e1aace4cd2f65a13f1",
+            "timestamp": "2025-07-17T21:15:13.574Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-17T21:25:47.607Z",
+        "status": "finished",
+        "gift_name": "Tama Gadget",
+        "gift_num": 44069,
+        "model": "Pastel Thread (0.5%)",
+        "backdrop": "Strawberry (1.5%)",
+        "symbol": "Smartphone (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-17T20:15:51.382Z",
+        "__v": 0,
+        "winningBid": 3.3,
+        "winningBidder": 1316152640
+      },
+      "export_at": "2025-07-10T18:38:33.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 54334,
       "customEmojiId": "5296693504972450164",
@@ -7510,26 +7367,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-05T15:47:29.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 40477,
-      "customEmojiId": "5296693504972450164",
-      "gift_id": 3337761,
-      "name": "Tama Gadget",
-      "model": "Pastel Thread (0.5%)",
-      "asset": "TON",
-      "symbol": "Candle (0.5%)",
-      "backdrop": "Steel Grey (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 579517,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-03T12:14:53.000Z",
       "premarketData": {}
     }
   ],
@@ -8275,34 +8112,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "NE15X4WL",
-      "auction": {
-        "_id": "687528d6aace4cd2f6c41b88",
-        "gift_id": 7197493,
-        "seller": 0,
-        "auction_id": "NE15X4WL",
-        "startingBid": 3.7,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.7,
-            "asset": "TON",
-            "_id": "68776227aace4cd2f62fe89c",
-            "timestamp": "2025-07-16T08:26:15.321Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T08:44:29.289Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 6452,
-        "model": "Tangerine (2%)",
-        "backdrop": "Tomato (1%)",
-        "symbol": "Steampunk Hat (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T07:44:30.378Z",
-        "__v": 0,
-        "winningBid": 3.7,
-        "winningBidder": 1468912330
-      },
+      "auction": null,
       "export_at": "2025-07-27T15:51:38.000Z",
       "premarketData": {}
     },
@@ -9800,34 +9610,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "4NJWCH3U",
-      "auction": {
-        "_id": "686ec7170227247557e795cf",
-        "gift_id": 6971115,
-        "seller": 0,
-        "auction_id": "4NJWCH3U",
-        "startingBid": 55,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 55,
-            "asset": "TON",
-            "_id": "686f8cac1fe9e6aa2cba44b9",
-            "timestamp": "2025-07-10T09:49:32.049Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T10:02:34.595Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 70402,
-        "model": "Pepe Feels (0.3%)",
-        "backdrop": "Electric Indigo (1.2%)",
-        "symbol": "Wontons (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T07:02:38.193Z",
-        "__v": 0,
-        "winningBid": 55,
-        "winningBidder": 432805815
-      },
+      "auction": null,
       "export_at": "2025-07-17T20:09:45.000Z",
       "premarketData": {}
     },
@@ -10027,6 +9810,26 @@
     }
   ],
   "Lush Stripe": [
+    {
+      "gift_num": 3462,
+      "customEmojiId": "5328059470746512005",
+      "gift_id": 7273646,
+      "name": "Tama Gadget",
+      "model": "Lush Stripe (1.1%)",
+      "asset": "TON",
+      "symbol": "Lily (0.5%)",
+      "backdrop": "Battleship Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:44:24.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 70512,
       "customEmojiId": "5328059470746512005",
@@ -10484,55 +10287,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "FD9VIQ35",
-      "auction": {
-        "_id": "687434c98938e518f187a2fa",
-        "gift_id": 7204863,
-        "seller": 0,
-        "auction_id": "FD9VIQ35",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6876058aaace4cd2f6805911",
-            "timestamp": "2025-07-15T07:38:50.668Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.3,
-            "asset": "TON",
-            "_id": "687605acaace4cd2f680a94c",
-            "timestamp": "2025-07-15T07:39:24.594Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.42,
-            "asset": "TON",
-            "_id": "687605b6aace4cd2f680bea1",
-            "timestamp": "2025-07-15T07:39:34.895Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.54,
-            "asset": "TON",
-            "_id": "687610b8aace4cd2f69e7dfe",
-            "timestamp": "2025-07-15T08:26:32.536Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T08:38:17.478Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 55723,
-        "model": "Lush Stripe (1.1%)",
-        "backdrop": "Khaki Green (1.2%)",
-        "symbol": "Wolf Rage (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T07:38:18.511Z",
-        "__v": 0,
-        "winningBid": 2.54,
-        "winningBidder": 1498410984
-      },
+      "auction": null,
       "export_at": "2025-07-27T22:34:03.000Z",
       "premarketData": {}
     },
@@ -10627,27 +10382,27 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
+    }
+  ],
+  "Tropic Wave": [
     {
-      "gift_num": 71102,
-      "customEmojiId": "5328059470746512005",
-      "gift_id": 594048619328,
+      "gift_num": 58844,
+      "customEmojiId": "5328308858022554166",
+      "gift_id": 582326277470,
       "name": "Tama Gadget",
-      "model": "Lush Stripe (1.1%)",
+      "model": "Tropic Wave (1.1%)",
       "asset": "TON",
-      "symbol": "Rocket (0.5%)",
-      "backdrop": "Carrot Juice (1.5%)",
+      "symbol": "Ribeye Steak (0.5%)",
+      "backdrop": "Burgundy (1.2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 11.016,
+      "price": 19.278,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "premarketData": {}
-    }
-  ],
-  "Tropic Wave": [
+    },
     {
       "gift_num": 60598,
       "customEmojiId": "5328308858022554166",
@@ -10826,118 +10581,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "YENDDQZO",
-      "auction": {
-        "_id": "68789f4eaace4cd2f6a99f7b",
-        "gift_id": 7258632,
-        "seller": 0,
-        "auction_id": "YENDDQZO",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6878c279aace4cd2f6f386db",
-            "timestamp": "2025-07-17T09:29:29.657Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "6878d400aace4cd2f6927bb5",
-            "timestamp": "2025-07-17T10:44:16.466Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.51,
-            "asset": "TON",
-            "_id": "6878e03aaace4cd2f6d37a9c",
-            "timestamp": "2025-07-17T11:36:26.667Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.79,
-            "asset": "TON",
-            "_id": "6878e06aaace4cd2f6d384a3",
-            "timestamp": "2025-07-17T11:37:14.650Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.08,
-            "asset": "TON",
-            "_id": "6878e07eaace4cd2f6d38af0",
-            "timestamp": "2025-07-17T11:37:34.673Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.38,
-            "asset": "TON",
-            "_id": "6878e0b2aace4cd2f6d39ab4",
-            "timestamp": "2025-07-17T11:38:26.739Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.7,
-            "asset": "TON",
-            "_id": "6878e0caaace4cd2f6d3a77c",
-            "timestamp": "2025-07-17T11:38:50.295Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.04,
-            "asset": "TON",
-            "_id": "6878e0eaaace4cd2f6d3b033",
-            "timestamp": "2025-07-17T11:39:22.311Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.39,
-            "asset": "TON",
-            "_id": "6878e0feaace4cd2f6d3b4d5",
-            "timestamp": "2025-07-17T11:39:42.107Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.76,
-            "asset": "TON",
-            "_id": "6878e113aace4cd2f6d3b674",
-            "timestamp": "2025-07-17T11:40:03.983Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.15,
-            "asset": "TON",
-            "_id": "6878e127aace4cd2f6d3be8c",
-            "timestamp": "2025-07-17T11:40:23.124Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.56,
-            "asset": "TON",
-            "_id": "6878e132aace4cd2f6d3c344",
-            "timestamp": "2025-07-17T11:40:34.043Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "6878e145aace4cd2f6d3cfe5",
-            "timestamp": "2025-07-17T11:40:53.839Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T12:03:45.767Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 48543,
-        "model": "Tropic Wave (1.1%)",
-        "backdrop": "Black (1.5%)",
-        "symbol": "Kitsune (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T09:03:46.661Z",
-        "__v": 0,
-        "winningBid": 10,
-        "winningBidder": 854594511
-      },
+      "auction": null,
       "export_at": "2025-07-30T21:49:12.000Z",
       "premarketData": {}
     },
@@ -11410,24 +11054,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 11221,
-      "customEmojiId": "5328308858022554166",
-      "gift_id": 593396416518,
-      "name": "Tama Gadget",
-      "model": "Tropic Wave (1.1%)",
-      "asset": "TON",
-      "symbol": "Maple Leaf (0.5%)",
-      "backdrop": "Deep Cyan (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 6.119,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Alien Attack": [
@@ -11820,34 +11446,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "JIAA761J",
-      "auction": {
-        "_id": "686cf6e30227247557ac09ba",
-        "gift_id": 7044035,
-        "seller": 0,
-        "auction_id": "JIAA761J",
-        "startingBid": 8,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 9.1,
-            "asset": "TON",
-            "_id": "68700c5934f3663346382049",
-            "timestamp": "2025-07-10T18:54:17.307Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T19:12:55.042Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 71574,
-        "model": "Alien Attack (0.3%)",
-        "backdrop": "Mexican Pink (1%)",
-        "symbol": "Arabian Horse (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T18:02:56.300Z",
-        "__v": 0,
-        "winningBid": 9.1,
-        "winningBidder": 5168465585
-      },
+      "auction": null,
       "export_at": "2025-07-21T00:40:44.000Z",
       "premarketData": {}
     },
@@ -11868,111 +11467,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "UTLBW7G0",
-      "auction": {
-        "_id": "686fe45334f366334662bd6b",
-        "gift_id": 7098906,
-        "seller": 0,
-        "auction_id": "UTLBW7G0",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "686ff7a634f3663346f6da24",
-            "timestamp": "2025-07-10T17:25:58.521Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.2,
-            "asset": "TON",
-            "_id": "686ffd9534f3663346141f22",
-            "timestamp": "2025-07-10T17:51:17.430Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.41,
-            "asset": "TON",
-            "_id": "6870008234f366334622ad8d",
-            "timestamp": "2025-07-10T18:03:46.053Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.63,
-            "asset": "TON",
-            "_id": "687001f234f366334626706b",
-            "timestamp": "2025-07-10T18:09:54.989Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.86666663,
-            "asset": "TON",
-            "_id": "687002cd34f3663346289398",
-            "timestamp": "2025-07-10T18:13:33.448Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.5,
-            "asset": "TON",
-            "_id": "687002dd34f366334628c563",
-            "timestamp": "2025-07-10T18:13:49.849Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.78,
-            "asset": "TON",
-            "_id": "687002fc34f366334628f933",
-            "timestamp": "2025-07-10T18:14:20.583Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.07,
-            "asset": "TON",
-            "_id": "6870030834f36633462915ff",
-            "timestamp": "2025-07-10T18:14:32.936Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.37,
-            "asset": "TON",
-            "_id": "6870031e34f36633462932c7",
-            "timestamp": "2025-07-10T18:14:54.047Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.69,
-            "asset": "TON",
-            "_id": "6870064734f36633462eb75f",
-            "timestamp": "2025-07-10T18:28:23.038Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.5,
-            "asset": "TON",
-            "_id": "6870099334f3663346333270",
-            "timestamp": "2025-07-10T18:42:27.422Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.93,
-            "asset": "TON",
-            "_id": "68700be834f3663346375470",
-            "timestamp": "2025-07-10T18:52:24.094Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T19:02:33.305Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 54855,
-        "model": "Alien Attack (0.3%)",
-        "backdrop": "Deep Cyan (1.5%)",
-        "symbol": "Beer (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T17:12:35.101Z",
-        "__v": 0,
-        "winningBid": 8.93,
-        "winningBidder": 1098710246
-      },
+      "auction": null,
       "export_at": "2025-07-23T08:47:51.000Z",
       "premarketData": {}
     },
@@ -12663,24 +12158,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 70580,
-      "customEmojiId": "5276369663893200427",
-      "gift_id": 593595371000,
-      "name": "Tama Gadget",
-      "model": "Inferno (2%)",
-      "asset": "TON",
-      "symbol": "Kitsune (0.5%)",
-      "backdrop": "Strawberry (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 2.754,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
       "gift_num": 67116,
       "customEmojiId": "5276369663893200427",
       "gift_id": 590893861482,
@@ -12955,34 +12432,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "K8H4O9YE",
-      "auction": {
-        "_id": "68764a99aace4cd2f6478425",
-        "gift_id": 7204093,
-        "seller": 0,
-        "auction_id": "K8H4O9YE",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6876f20caace4cd2f6a797e3",
-            "timestamp": "2025-07-16T00:27:56.763Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T00:43:28.335Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 26917,
-        "model": "Inferno (2%)",
-        "backdrop": "Neon Blue (1%)",
-        "symbol": "Cupcake (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T12:33:29.549Z",
-        "__v": 0,
-        "winningBid": 3,
-        "winningBidder": 818625552
-      },
+      "auction": null,
       "export_at": "2025-07-27T21:41:56.000Z",
       "premarketData": {}
     },
@@ -13224,6 +12674,24 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-27T19:44:21.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3443,
+      "customEmojiId": "5276369663893200427",
+      "gift_id": 593404479890,
+      "name": "Tama Gadget",
+      "model": "Inferno (2%)",
+      "asset": "TON",
+      "symbol": "Battle Axe (0.4%)",
+      "backdrop": "Pacific Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.119,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
       "premarketData": {}
     }
   ],
@@ -13793,6 +13261,26 @@
   ],
   "Yang": [
     {
+      "gift_num": 74307,
+      "customEmojiId": "5327971574240796257",
+      "gift_id": 7273415,
+      "name": "Tama Gadget",
+      "model": "Yang (2%)",
+      "asset": "TON",
+      "symbol": "Tetsubin (0.2%)",
+      "backdrop": "Feldgrau (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.1,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:23:24.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 68964,
       "customEmojiId": "5327971574240796257",
       "gift_id": 7257240,
@@ -13983,34 +13471,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "J30YDI3P",
-      "auction": {
-        "_id": "6876d431aace4cd2f66c8397",
-        "gift_id": 7239963,
-        "seller": 0,
-        "auction_id": "J30YDI3P",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6877749faace4cd2f6576fb4",
-            "timestamp": "2025-07-16T09:45:03.887Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T10:00:49.091Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 25971,
-        "model": "Yang (2%)",
-        "backdrop": "Steel Grey (1.2%)",
-        "symbol": "Calm Wolf (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T09:00:50.220Z",
-        "__v": 0,
-        "winningBid": 3,
-        "winningBidder": 401273811
-      },
+      "auction": null,
       "export_at": "2025-07-29T21:15:00.000Z",
       "premarketData": {}
     },
@@ -14049,34 +13510,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "3HGFTS9Q",
-      "auction": {
-        "_id": "687688efaace4cd2f64858f1",
-        "gift_id": 7235203,
-        "seller": 0,
-        "auction_id": "3HGFTS9Q",
-        "startingBid": 4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "6876d0f1aace4cd2f65e92db",
-            "timestamp": "2025-07-15T22:06:41.247Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T22:31:56.486Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 63210,
-        "model": "Yang (2%)",
-        "backdrop": "Ivory White (1.2%)",
-        "symbol": "Fez (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T21:31:57.765Z",
-        "__v": 0,
-        "winningBid": 4,
-        "winningBidder": 1211821926
-      },
+      "auction": null,
       "export_at": "2025-07-29T16:58:45.000Z",
       "premarketData": {}
     },
@@ -14401,27 +13835,29 @@
       "auction": null,
       "export_at": "2025-07-27T12:09:39.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 58595,
-      "customEmojiId": "5327971574240796257",
-      "gift_id": 581892724573,
-      "name": "Tama Gadget",
-      "model": "Yang (2%)",
-      "asset": "TON",
-      "symbol": "Champagne (0.5%)",
-      "backdrop": "Camo Green (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 3.69,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Clover": [
+    {
+      "gift_num": 382,
+      "customEmojiId": "5276444980439703862",
+      "gift_id": 7247782,
+      "name": "Tama Gadget",
+      "model": "Clover (2%)",
+      "asset": "TON",
+      "symbol": "Heater Shield (0.3%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T11:15:23.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 36884,
       "customEmojiId": "5276444980439703862",
@@ -14763,34 +14199,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "BJ9RRXN1",
-      "auction": {
-        "_id": "68752088aace4cd2f6b8d07e",
-        "gift_id": 7215765,
-        "seller": 0,
-        "auction_id": "BJ9RRXN1",
-        "startingBid": 3.9,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.9,
-            "asset": "TON",
-            "_id": "6877408faace4cd2f6da0dd9",
-            "timestamp": "2025-07-16T06:02:55.398Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T10:00:55.364Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 382,
-        "model": "Clover (2%)",
-        "backdrop": "Lemongrass (1.5%)",
-        "symbol": "Heater Shield (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T22:00:56.634Z",
-        "__v": 0,
-        "winningBid": 3.9,
-        "winningBidder": 5018528989
-      },
+      "auction": null,
       "export_at": "2025-07-28T15:19:23.000Z",
       "premarketData": {}
     },
@@ -14996,26 +14405,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-21T17:11:01.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 73381,
-      "customEmojiId": "5276444980439703862",
-      "gift_id": 7201788,
-      "name": "Tama Gadget",
-      "model": "Clover (2%)",
-      "asset": "TON",
-      "symbol": "Baphomet (0.4%)",
-      "backdrop": "Lavender (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T19:41:29.000Z",
       "premarketData": {}
     }
   ],
@@ -15277,90 +14666,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "OS8P57VK",
-      "auction": {
-        "_id": "6877c310aace4cd2f6baacc8",
-        "gift_id": 7251897,
-        "seller": 0,
-        "auction_id": "OS8P57VK",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68782235aace4cd2f64a10a6",
-            "timestamp": "2025-07-16T22:05:41.641Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68782252aace4cd2f64a22ed",
-            "timestamp": "2025-07-16T22:06:10.281Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "687825caaace4cd2f64c16ed",
-            "timestamp": "2025-07-16T22:20:58.219Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6878273baace4cd2f64cf44c",
-            "timestamp": "2025-07-16T22:27:07.573Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6878275aaace4cd2f64cfc20",
-            "timestamp": "2025-07-16T22:27:38.650Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.6,
-            "asset": "TON",
-            "_id": "6878276aaace4cd2f64cfca7",
-            "timestamp": "2025-07-16T22:27:54.503Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.73,
-            "asset": "TON",
-            "_id": "68782b78aace4cd2f655b29b",
-            "timestamp": "2025-07-16T22:45:12.978Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68782bafaace4cd2f6563c1f",
-            "timestamp": "2025-07-16T22:46:07.187Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "68782bcdaace4cd2f6568ca8",
-            "timestamp": "2025-07-16T22:46:37.710Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T23:06:13.661Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 72347,
-        "model": "Sunrise (2%)",
-        "backdrop": "Caramel (1.2%)",
-        "symbol": "Inguz Rune (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T21:36:08.318Z",
-        "__v": 0,
-        "winningBid": 3.15,
-        "winningBidder": 5363378871
-      },
+      "auction": null,
       "export_at": "2025-07-30T15:15:56.000Z",
       "premarketData": {}
     },
@@ -15625,34 +14931,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "2AOMV0DY",
-      "auction": {
-        "_id": "6875a022aace4cd2f6fa694c",
-        "gift_id": 7223980,
-        "seller": 0,
-        "auction_id": "2AOMV0DY",
-        "startingBid": 11.76,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 11.76,
-            "asset": "TON",
-            "_id": "68766edcaace4cd2f63bbd81",
-            "timestamp": "2025-07-15T15:08:12.526Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T15:41:09.701Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 72940,
-        "model": "Sunrise (2%)",
-        "backdrop": "Black (1.5%)",
-        "symbol": "Old Candle (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T14:41:17.033Z",
-        "__v": 0,
-        "winningBid": 11.76,
-        "winningBidder": 924721556
-      },
+      "auction": null,
       "export_at": "2025-07-29T00:23:23.000Z",
       "premarketData": {}
     },
@@ -15793,41 +15072,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "C8D09PWL",
-      "auction": {
-        "_id": "6878b231aace4cd2f6c549cc",
-        "gift_id": 7263131,
-        "seller": 0,
-        "auction_id": "C8D09PWL",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6878e5dcaace4cd2f6d4f54e",
-            "timestamp": "2025-07-17T12:00:28.376Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6878e8a9aace4cd2f6d5d9a6",
-            "timestamp": "2025-07-17T12:12:25.028Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T12:46:11.665Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 31775,
-        "model": "Lime Chip (1.1%)",
-        "backdrop": "Strawberry (1.5%)",
-        "symbol": "Pirate Hat (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T11:46:15.222Z",
-        "__v": 0,
-        "winningBid": 2.1,
-        "winningBidder": 1781466433
-      },
+      "auction": null,
       "export_at": "2025-07-31T08:16:44.000Z",
       "premarketData": {}
     },
@@ -16112,55 +15357,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "BP1XNJLP",
-      "auction": {
-        "_id": "68750fcaaace4cd2f6a12d6a",
-        "gift_id": 7117685,
-        "seller": 0,
-        "auction_id": "BP1XNJLP",
-        "startingBid": 2.2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.2,
-            "asset": "TON",
-            "_id": "6875568eaace4cd2f61a42e9",
-            "timestamp": "2025-07-14T19:12:14.094Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.31,
-            "asset": "TON",
-            "_id": "687557f7aace4cd2f61d0894",
-            "timestamp": "2025-07-14T19:18:15.761Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.43,
-            "asset": "TON",
-            "_id": "68755b2baace4cd2f65b0afb",
-            "timestamp": "2025-07-14T19:31:55.000Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.55,
-            "asset": "TON",
-            "_id": "68755bfbaace4cd2f664f8a6",
-            "timestamp": "2025-07-14T19:35:23.784Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T19:52:17.259Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 39955,
-        "model": "Lime Chip (1.1%)",
-        "backdrop": "Strawberry (1.5%)",
-        "symbol": "Divine Falcon (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T18:12:18.096Z",
-        "__v": 0,
-        "winningBid": 2.55,
-        "winningBidder": 1024595873
-      },
+      "auction": null,
       "export_at": "2025-07-23T23:55:57.000Z",
       "premarketData": {}
     },
@@ -16931,6 +16128,44 @@
   ],
   "Lime Shock": [
     {
+      "gift_num": 45897,
+      "customEmojiId": "5255878877435158820",
+      "gift_id": 598327693098,
+      "name": "Tama Gadget",
+      "model": "Lime Shock (2%)",
+      "asset": "TON",
+      "symbol": "Turban (0.4%)",
+      "backdrop": "Coral Red (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 3.58,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 74365,
+      "customEmojiId": "5255878877435158820",
+      "gift_id": 7273295,
+      "name": "Tama Gadget",
+      "model": "Lime Shock (2%)",
+      "asset": "TON",
+      "symbol": "Anchor (0.2%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:16:43.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 74396,
       "customEmojiId": "5255878877435158820",
       "gift_id": 597664143414,
@@ -17458,44 +16693,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-15T18:18:15.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 32466,
-      "customEmojiId": "5255878877435158820",
-      "gift_id": 594046256237,
-      "name": "Tama Gadget",
-      "model": "Lime Shock (2%)",
-      "asset": "TON",
-      "symbol": "Bucket Hat (0.4%)",
-      "backdrop": "Turquoise (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 3.442,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 54617,
-      "customEmojiId": "5255878877435158820",
-      "gift_id": 7066046,
-      "name": "Tama Gadget",
-      "model": "Lime Shock (2%)",
-      "asset": "TON",
-      "symbol": "Spirit Impala (0.4%)",
-      "backdrop": "Copper (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-21T20:50:19.000Z",
       "premarketData": {}
     }
   ],
@@ -19479,41 +18676,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "OWPEZXVR",
-      "auction": {
-        "_id": "68715a978938e518f168ac0d",
-        "gift_id": 7161908,
-        "seller": 0,
-        "auction_id": "OWPEZXVR",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6878ce4eaace4cd2f63cb679",
-            "timestamp": "2025-07-17T10:19:58.553Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6878d147aace4cd2f642f76d",
-            "timestamp": "2025-07-17T10:32:39.220Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T10:45:27.068Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 26065,
-        "model": "Winter (2%)",
-        "backdrop": "Midnight Blue (1%)",
-        "symbol": "Sword Fight (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T09:45:28.048Z",
-        "__v": 0,
-        "winningBid": 2.1,
-        "winningBidder": 5863001126
-      },
+      "auction": null,
       "export_at": "2025-07-25T18:35:14.000Z",
       "premarketData": {}
     },
@@ -20973,6 +20136,24 @@
   ],
   "Stone Kitty": [
     {
+      "gift_num": 67649,
+      "customEmojiId": "5328206702225420036",
+      "gift_id": 591548332464,
+      "name": "Tama Gadget",
+      "model": "Stone Kitty (0.5%)",
+      "asset": "TON",
+      "symbol": "Heart (0.4%)",
+      "backdrop": "Strawberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 12.393,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 47958,
       "customEmojiId": "5328206702225420036",
       "gift_id": 7236311,
@@ -22033,34 +21214,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "2DQRGULV",
-      "auction": {
-        "_id": "687369e18938e518f1f9fd48",
-        "gift_id": 7104337,
-        "seller": 0,
-        "auction_id": "2DQRGULV",
-        "startingBid": 2.4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.4,
-            "asset": "TON",
-            "_id": "687767eaaace4cd2f64fc92b",
-            "timestamp": "2025-07-16T08:50:50.108Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T09:01:23.892Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 72379,
-        "model": "Ruby Glaze (1.1%)",
-        "backdrop": "French Violet (1.2%)",
-        "symbol": "Nordic Wolf (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T08:01:24.852Z",
-        "__v": 0,
-        "winningBid": 2.4,
-        "winningBidder": 1696491439
-      },
+      "auction": null,
       "export_at": "2025-07-23T13:44:07.000Z",
       "premarketData": {}
     },
@@ -22119,34 +21273,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "29PLC1F3",
-      "auction": {
-        "_id": "6876b9c4aace4cd2f6e79bc8",
-        "gift_id": 7239211,
-        "seller": 0,
-        "auction_id": "29PLC1F3",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6878e5e8aace4cd2f6d4f5c0",
-            "timestamp": "2025-07-17T12:00:40.643Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T12:54:15.827Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 56865,
-        "model": "Ruby Glaze (1.1%)",
-        "backdrop": "Lemongrass (1.5%)",
-        "symbol": "Alarm (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T11:54:22.887Z",
-        "__v": 0,
-        "winningBid": 2,
-        "winningBidder": 7352255987
-      },
+      "auction": null,
       "export_at": "2025-07-29T20:26:31.000Z",
       "premarketData": {}
     },
@@ -22167,34 +21294,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "UJI2OE6O",
-      "auction": {
-        "_id": "6876b83daace4cd2f6e2e7cc",
-        "gift_id": 7238645,
-        "seller": 0,
-        "auction_id": "UJI2OE6O",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6878e5f7aace4cd2f6d4f8b3",
-            "timestamp": "2025-07-17T12:00:55.481Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T12:55:21.909Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 71527,
-        "model": "Ruby Glaze (1.1%)",
-        "backdrop": "Battleship Grey (1.5%)",
-        "symbol": "Spirit Impala (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T11:55:23.873Z",
-        "__v": 0,
-        "winningBid": 2,
-        "winningBidder": 7352255987
-      },
+      "auction": null,
       "export_at": "2025-07-29T19:58:44.000Z",
       "premarketData": {}
     },
@@ -22323,55 +21423,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "QRBV4I5X",
-      "auction": {
-        "_id": "6874109c8938e518f1176d06",
-        "gift_id": 7202127,
-        "seller": 0,
-        "auction_id": "QRBV4I5X",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6876a651aace4cd2f690b410",
-            "timestamp": "2025-07-15T19:04:49.854Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6876ad76aace4cd2f6b177be",
-            "timestamp": "2025-07-15T19:35:18.168Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6876adefaace4cd2f6b2ed3b",
-            "timestamp": "2025-07-15T19:37:19.776Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6876ae7aaace4cd2f6b42050",
-            "timestamp": "2025-07-15T19:39:38.688Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T19:56:48.059Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 71527,
-        "model": "Ruby Glaze (1.1%)",
-        "backdrop": "Battleship Grey (1.5%)",
-        "symbol": "Spirit Impala (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T18:46:49.877Z",
-        "__v": 0,
-        "winningBid": 2.32,
-        "winningBidder": 894417928
-      },
+      "auction": null,
       "export_at": "2025-07-27T19:58:07.000Z",
       "premarketData": {}
     },
@@ -22520,132 +21572,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "3H9MK8RR",
-      "auction": {
-        "_id": "6872945c8938e518f170efca",
-        "gift_id": 7180286,
-        "seller": 0,
-        "auction_id": "3H9MK8RR",
-        "startingBid": 4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "6872a0fe8938e518f1b6ff1e",
-            "timestamp": "2025-07-12T17:53:02.416Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.2,
-            "asset": "TON",
-            "_id": "6872a2648938e518f1bc9853",
-            "timestamp": "2025-07-12T17:59:00.404Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.41,
-            "asset": "TON",
-            "_id": "6872a2ee8938e518f1c01102",
-            "timestamp": "2025-07-12T18:01:18.163Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.63,
-            "asset": "TON",
-            "_id": "6872a7488938e518f1d9b695",
-            "timestamp": "2025-07-12T18:19:52.465Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.86,
-            "asset": "TON",
-            "_id": "6872a9258938e518f1e18083",
-            "timestamp": "2025-07-12T18:27:49.387Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.1,
-            "asset": "TON",
-            "_id": "6872ab5e8938e518f1e2bbd2",
-            "timestamp": "2025-07-12T18:37:18.322Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.36,
-            "asset": "TON",
-            "_id": "6872ac3a8938e518f1e38766",
-            "timestamp": "2025-07-12T18:40:58.626Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.63,
-            "asset": "TON",
-            "_id": "6872ae9a8938e518f1e63229",
-            "timestamp": "2025-07-12T18:51:06.470Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.91,
-            "asset": "TON",
-            "_id": "6872aeb88938e518f1e65032",
-            "timestamp": "2025-07-12T18:51:36.187Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.21,
-            "asset": "TON",
-            "_id": "6872aed28938e518f1e6684c",
-            "timestamp": "2025-07-12T18:52:02.510Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.52,
-            "asset": "TON",
-            "_id": "6872aee48938e518f1e67a03",
-            "timestamp": "2025-07-12T18:52:20.484Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.85,
-            "asset": "TON",
-            "_id": "6872aef38938e518f1e68649",
-            "timestamp": "2025-07-12T18:52:35.755Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.19,
-            "asset": "TON",
-            "_id": "6872afcc8938e518f1f50767",
-            "timestamp": "2025-07-12T18:56:12.985Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.55,
-            "asset": "TON",
-            "_id": "6872afd78938e518f1f6d95d",
-            "timestamp": "2025-07-12T18:56:23.818Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.93,
-            "asset": "TON",
-            "_id": "6872b01c8938e518f1fcfa71",
-            "timestamp": "2025-07-12T18:57:32.241Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T19:09:58.577Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 70569,
-        "model": "Ruby Glaze (1.1%)",
-        "backdrop": "Carmine (1.5%)",
-        "symbol": "Wizard Hat (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T16:59:08.393Z",
-        "__v": 0,
-        "winningBid": 7.93,
-        "winningBidder": 5050120069
-      },
+      "auction": null,
       "export_at": "2025-07-26T16:56:23.000Z",
       "premarketData": {}
     },
@@ -22952,34 +21879,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "J32XMI43",
-      "auction": {
-        "_id": "68761e15aace4cd2f6e1c6f4",
-        "gift_id": 7189043,
-        "seller": 0,
-        "auction_id": "J32XMI43",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6878e5d2aace4cd2f6d4f31a",
-            "timestamp": "2025-07-17T12:00:18.005Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T12:45:58.965Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 56595,
-        "model": "Tinky Winky (1.1%)",
-        "backdrop": "Fire Engine (1.5%)",
-        "symbol": "Thunderbird (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T11:46:01.683Z",
-        "__v": 0,
-        "winningBid": 2,
-        "winningBidder": 7352255987
-      },
+      "auction": null,
       "export_at": "2025-07-27T07:02:54.000Z",
       "premarketData": {}
     },
@@ -23581,97 +22481,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "83Z7KGD0",
-      "auction": {
-        "_id": "68781b4aaace4cd2f63f88ba",
-        "gift_id": 7258357,
-        "seller": 0,
-        "auction_id": "83Z7KGD0",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "687820daaace4cd2f648602e",
-            "timestamp": "2025-07-16T21:59:54.829Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "687820e8aace4cd2f6487cc6",
-            "timestamp": "2025-07-16T22:00:08.302Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.03,
-            "asset": "TON",
-            "_id": "687820f4aace4cd2f6487fc8",
-            "timestamp": "2025-07-16T22:00:20.307Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.58,
-            "asset": "TON",
-            "_id": "6878212eaace4cd2f648cb6b",
-            "timestamp": "2025-07-16T22:01:18.872Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.16,
-            "asset": "TON",
-            "_id": "6878213baace4cd2f648dba6",
-            "timestamp": "2025-07-16T22:01:31.208Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.77,
-            "asset": "TON",
-            "_id": "68782147aace4cd2f648ebaa",
-            "timestamp": "2025-07-16T22:01:43.389Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.41,
-            "asset": "TON",
-            "_id": "68782156aace4cd2f648ed95",
-            "timestamp": "2025-07-16T22:01:58.308Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 14.08,
-            "asset": "TON",
-            "_id": "68782189aace4cd2f64973f6",
-            "timestamp": "2025-07-16T22:02:49.816Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 14.78,
-            "asset": "TON",
-            "_id": "68782250aace4cd2f64a22cd",
-            "timestamp": "2025-07-16T22:06:08.472Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 15.52,
-            "asset": "TON",
-            "_id": "6878248baace4cd2f64b6615",
-            "timestamp": "2025-07-16T22:15:39.655Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T22:36:09.143Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 39130,
-        "model": "Nyan Cat (0.3%)",
-        "backdrop": "Rosewood (1%)",
-        "symbol": "Hard Hat (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T21:36:10.317Z",
-        "__v": 0,
-        "winningBid": 15.52,
-        "winningBidder": 582007994
-      },
+      "auction": null,
       "export_at": "2025-07-30T21:35:54.000Z",
       "premarketData": {}
     }
@@ -24740,125 +23550,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "2BISG018",
-      "auction": {
-        "_id": "687170218938e518f1d995f5",
-        "gift_id": 7163893,
-        "seller": 0,
-        "auction_id": "2BISG018",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6872b1ea8938e518f11a2003",
-            "timestamp": "2025-07-12T19:05:14.377Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6872b1f48938e518f11a269e",
-            "timestamp": "2025-07-12T19:05:24.689Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6872b2208938e518f11a4582",
-            "timestamp": "2025-07-12T19:06:08.295Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6872b22b8938e518f11a4912",
-            "timestamp": "2025-07-12T19:06:19.144Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "6872b2788938e518f11a7829",
-            "timestamp": "2025-07-12T19:07:36.861Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.2,
-            "asset": "TON",
-            "_id": "6872b2878938e518f11a7d70",
-            "timestamp": "2025-07-12T19:07:51.820Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6872b2a48938e518f11a8c4d",
-            "timestamp": "2025-07-12T19:08:20.539Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "6872b2ba8938e518f11a952b",
-            "timestamp": "2025-07-12T19:08:42.182Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.51,
-            "asset": "TON",
-            "_id": "6872b7c68938e518f11d726b",
-            "timestamp": "2025-07-12T19:30:14.682Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.79,
-            "asset": "TON",
-            "_id": "6872b7de8938e518f11d9a91",
-            "timestamp": "2025-07-12T19:30:38.951Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.08,
-            "asset": "TON",
-            "_id": "6872b7f88938e518f11da0d1",
-            "timestamp": "2025-07-12T19:31:04.344Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.38,
-            "asset": "TON",
-            "_id": "6872b8058938e518f11dae17",
-            "timestamp": "2025-07-12T19:31:17.236Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.7,
-            "asset": "TON",
-            "_id": "6872ba5d8938e518f11ffa47",
-            "timestamp": "2025-07-12T19:41:17.920Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.04,
-            "asset": "TON",
-            "_id": "6872ba6b8938e518f120339a",
-            "timestamp": "2025-07-12T19:41:31.644Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T19:59:05.488Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 12845,
-        "model": "Spectrum (1.1%)",
-        "backdrop": "Onyx Black (1%)",
-        "symbol": "Tooth (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T18:59:09.736Z",
-        "__v": 0,
-        "winningBid": 7.04,
-        "winningBidder": 810321941
-      },
+      "auction": null,
       "export_at": "2025-07-25T20:11:57.000Z",
       "premarketData": {}
     },
@@ -24935,41 +23627,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "4LITDFWD",
-      "auction": {
-        "_id": "686ecd11ac189a72483edb99",
-        "gift_id": 7112556,
-        "seller": 0,
-        "auction_id": "4LITDFWD",
-        "startingBid": 2.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.5,
-            "asset": "TON",
-            "_id": "687197988938e518f14e4902",
-            "timestamp": "2025-07-11T23:00:40.175Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.63,
-            "asset": "TON",
-            "_id": "6871a4d48938e518f19d4590",
-            "timestamp": "2025-07-11T23:57:08.060Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T00:10:04.619Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 43098,
-        "model": "Spectrum (1.1%)",
-        "backdrop": "Chestnut (1%)",
-        "symbol": "Bow Tie (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-11T23:00:06.332Z",
-        "__v": 0,
-        "winningBid": 2.63,
-        "winningBidder": 915493902
-      },
+      "auction": null,
       "export_at": "2025-07-23T20:10:40.000Z",
       "premarketData": {}
     },
@@ -25250,41 +23908,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "CG697QWV",
-      "auction": {
-        "_id": "687630d5aace4cd2f61315f2",
-        "gift_id": 7227405,
-        "seller": 0,
-        "auction_id": "CG697QWV",
-        "startingBid": 6,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 6,
-            "asset": "TON",
-            "_id": "68774ea7aace4cd2f61ba3af",
-            "timestamp": "2025-07-16T07:03:03.333Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.3,
-            "asset": "TON",
-            "_id": "687757e8aace4cd2f627e000",
-            "timestamp": "2025-07-16T07:42:32.266Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T08:07:39.836Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 36210,
-        "model": "Toxic Glitch (0.3%)",
-        "backdrop": "Shamrock Green (1.2%)",
-        "symbol": "Sauron (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T05:07:41.517Z",
-        "__v": 0,
-        "winningBid": 6.3,
-        "winningBidder": 1001469749
-      },
+      "auction": null,
       "export_at": "2025-07-29T09:15:37.000Z",
       "premarketData": {}
     },
@@ -25305,34 +23929,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "95XGTTAP",
-      "auction": {
-        "_id": "6873f2d28938e518f1059613",
-        "gift_id": 7199584,
-        "seller": 0,
-        "auction_id": "95XGTTAP",
-        "startingBid": 7.39,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 7.39,
-            "asset": "TON",
-            "_id": "687616b9aace4cd2f6b6bfa2",
-            "timestamp": "2025-07-15T08:52:09.721Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T09:10:38.712Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 36210,
-        "model": "Toxic Glitch (0.3%)",
-        "backdrop": "Shamrock Green (1.2%)",
-        "symbol": "Sauron (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T08:00:39.665Z",
-        "__v": 0,
-        "winningBid": 7.39,
-        "winningBidder": 1134158575
-      },
+      "auction": null,
       "export_at": "2025-07-27T17:53:34.000Z",
       "premarketData": {}
     },
@@ -27851,69 +26448,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "NFPBYPOC",
-      "auction": {
-        "_id": "6872c0878938e518f13828f7",
-        "gift_id": 7183589,
-        "seller": 0,
-        "auction_id": "NFPBYPOC",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6872c1e78938e518f15358b1",
-            "timestamp": "2025-07-12T20:13:27.850Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.3,
-            "asset": "TON",
-            "_id": "6872c2848938e518f170fb2c",
-            "timestamp": "2025-07-12T20:16:04.745Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.42,
-            "asset": "TON",
-            "_id": "6872c29d8938e518f1750381",
-            "timestamp": "2025-07-12T20:16:29.528Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6872c4658938e518f199abc0",
-            "timestamp": "2025-07-12T20:24:05.296Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "6872c49b8938e518f19a1141",
-            "timestamp": "2025-07-12T20:24:59.323Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "6872c98d8938e518f1a3d45b",
-            "timestamp": "2025-07-12T20:46:05.596Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-12T21:07:34.771Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 61008,
-        "model": "Laa-Laa-Lag (1%)",
-        "backdrop": "Satin Gold (1%)",
-        "symbol": "Clover (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-12T20:07:35.518Z",
-        "__v": 0,
-        "winningBid": 3.31,
-        "winningBidder": 919206738
-      },
+      "auction": null,
       "export_at": "2025-07-26T20:06:23.000Z",
       "premarketData": {}
     },
@@ -28328,34 +26863,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "BI1YLJ8C",
-      "auction": {
-        "_id": "686c7cc102272475574e50ba",
-        "gift_id": 7070536,
-        "seller": 0,
-        "auction_id": "BI1YLJ8C",
-        "startingBid": 4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "687423e18938e518f12d9a5d",
-            "timestamp": "2025-07-13T21:23:45.296Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T21:34:04.195Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 55298,
-        "model": "Error-Po (1%)",
-        "backdrop": "Pure Gold (1.2%)",
-        "symbol": "Smartphone (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T09:24:05.261Z",
-        "__v": 0,
-        "winningBid": 4,
-        "winningBidder": 5093835653
-      },
+      "auction": null,
       "export_at": "2025-07-22T02:04:22.000Z",
       "premarketData": {}
     },
@@ -29740,6 +28248,26 @@
   ],
   "Shiny Pearl": [
     {
+      "gift_num": 15053,
+      "customEmojiId": "5328312006233583453",
+      "gift_id": 7274056,
+      "name": "Tama Gadget",
+      "model": "Shiny Pearl (1.1%)",
+      "asset": "TON",
+      "symbol": "Jörmungandr (0.5%)",
+      "backdrop": "Dark Lilac (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.85,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T22:15:49.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2881,
       "customEmojiId": "5328312006233583453",
       "gift_id": 7262117,
@@ -30284,27 +28812,29 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 67133,
-      "customEmojiId": "5328312006233583453",
-      "gift_id": 590907083538,
-      "name": "Tama Gadget",
-      "model": "Shiny Pearl (1.1%)",
-      "asset": "TON",
-      "symbol": "Sun Mountain (0.5%)",
-      "backdrop": "Dark Lilac (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 12.239,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Wish Granted": [
+    {
+      "gift_num": 74175,
+      "customEmojiId": "5328178930966880851",
+      "gift_id": 7264869,
+      "name": "Tama Gadget",
+      "model": "Wish Granted (0.8%)",
+      "asset": "TON",
+      "symbol": "Calm Wolf (0.5%)",
+      "backdrop": "Seal Brown (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T10:46:48.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 18101,
       "customEmojiId": "5328178930966880851",
@@ -30360,34 +28890,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "WSS7ZIYT",
-      "auction": {
-        "_id": "68780e84aace4cd2f6f19dc9",
-        "gift_id": 7257383,
-        "seller": 0,
-        "auction_id": "WSS7ZIYT",
-        "startingBid": 2.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.5,
-            "asset": "TON",
-            "_id": "68781b98aace4cd2f6406f76",
-            "timestamp": "2025-07-16T21:37:28.588Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T21:51:39.378Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 57135,
-        "model": "Wish Granted (0.8%)",
-        "backdrop": "Battleship Grey (1.5%)",
-        "symbol": "Dessert (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T20:41:40.261Z",
-        "__v": 0,
-        "winningBid": 2.5,
-        "winningBidder": 827124888
-      },
+      "auction": null,
       "export_at": "2025-07-30T20:38:14.000Z",
       "premarketData": {}
     },
@@ -30877,26 +29380,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 71044,
-      "customEmojiId": "5328178930966880851",
-      "gift_id": 7173801,
-      "name": "Tama Gadget",
-      "model": "Wish Granted (0.8%)",
-      "asset": "TON",
-      "symbol": "Shinto Shrine (0.3%)",
-      "backdrop": "Malachite (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T10:54:35.000Z",
       "premarketData": {}
     }
   ],
@@ -31618,69 +30101,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "E17DLMZR",
-      "auction": {
-        "_id": "6877cac7aace4cd2f6d7f938",
-        "gift_id": 7252507,
-        "seller": 0,
-        "auction_id": "E17DLMZR",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6877d07aaace4cd2f6ebf03c",
-            "timestamp": "2025-07-16T16:16:58.250Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6877d7d6aace4cd2f61e610b",
-            "timestamp": "2025-07-16T16:48:22.760Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6877d7f2aace4cd2f61ed778",
-            "timestamp": "2025-07-16T16:48:50.617Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6877d812aace4cd2f61f39c9",
-            "timestamp": "2025-07-16T16:49:22.045Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6877db23aace4cd2f638ec30",
-            "timestamp": "2025-07-16T17:02:27.999Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "6877db68aace4cd2f639ecf3",
-            "timestamp": "2025-07-16T17:03:36.290Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T17:22:38.138Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 16428,
-        "model": "Dipsy (1%)",
-        "backdrop": "Jade Green (1.5%)",
-        "symbol": "Pawn (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T15:52:39.333Z",
-        "__v": 0,
-        "winningBid": 2.56,
-        "winningBidder": 5023481279
-      },
+      "auction": null,
       "export_at": "2025-07-30T15:50:28.000Z",
       "premarketData": {}
     },
@@ -31963,34 +30384,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "L5FEAVTS",
-      "auction": {
-        "_id": "6872e4708938e518f100d5a7",
-        "gift_id": 7186171,
-        "seller": 0,
-        "auction_id": "L5FEAVTS",
-        "startingBid": 4.2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6873e75d8938e518f1f78e9a",
-            "timestamp": "2025-07-13T17:05:33.400Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T17:16:14.637Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 29581,
-        "model": "Dipsy (1%)",
-        "backdrop": "Malachite (1.5%)",
-        "symbol": "Sprout (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T16:06:18.018Z",
-        "__v": 0,
-        "winningBid": 5,
-        "winningBidder": 5134384162
-      },
+      "auction": null,
       "export_at": "2025-07-26T22:39:26.000Z",
       "premarketData": {}
     },
@@ -33202,104 +31596,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "P1790K5L",
-      "auction": {
-        "_id": "6874ea668938e518f191db8e",
-        "gift_id": 7211268,
-        "seller": 0,
-        "auction_id": "P1790K5L",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6874ed698938e518f199377c",
-            "timestamp": "2025-07-14T11:43:37.179Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6874f1228938e518f1a032cc",
-            "timestamp": "2025-07-14T11:59:30.348Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.4,
-            "asset": "TON",
-            "_id": "6874f1e68938e518f1a1e60a",
-            "timestamp": "2025-07-14T12:02:46.078Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "6874f6de8938e518f1e63a41",
-            "timestamp": "2025-07-14T12:23:58.915Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.2,
-            "asset": "TON",
-            "_id": "6874f6f38938e518f1e69137",
-            "timestamp": "2025-07-14T12:24:19.433Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6874f6fd8938e518f1e6af95",
-            "timestamp": "2025-07-14T12:24:29.758Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "6874fac88938e518f1f6e1cd",
-            "timestamp": "2025-07-14T12:40:40.056Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.51,
-            "asset": "TON",
-            "_id": "6874fad68938e518f1f7b781",
-            "timestamp": "2025-07-14T12:40:54.888Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.79,
-            "asset": "TON",
-            "_id": "6874fbea8938e518f1fdad31",
-            "timestamp": "2025-07-14T12:45:30.759Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.08,
-            "asset": "TON",
-            "_id": "6874fbfe8938e518f1fdf033",
-            "timestamp": "2025-07-14T12:45:50.696Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.38,
-            "asset": "TON",
-            "_id": "6874fcb48938e518f1ff1b77",
-            "timestamp": "2025-07-14T12:48:52.750Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-14T13:00:42.977Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 20692,
-        "model": "Water Rings (0.3%)",
-        "backdrop": "Rifle Green (1%)",
-        "symbol": "Arcane Mirror (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-14T11:30:46.377Z",
-        "__v": 0,
-        "winningBid": 6.38,
-        "winningBidder": 1340661095
-      },
+      "auction": null,
       "export_at": "2025-07-28T11:30:11.000Z",
       "premarketData": {}
     }
@@ -33402,34 +31699,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "6D62DA7C",
-      "auction": {
-        "_id": "68780560aace4cd2f6e42865",
-        "gift_id": 7256794,
-        "seller": 0,
-        "auction_id": "6D62DA7C",
-        "startingBid": 6,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 6,
-            "asset": "TON",
-            "_id": "6878adb9aace4cd2f6b944bf",
-            "timestamp": "2025-07-17T08:00:57.279Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T08:19:14.159Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 5496,
-        "model": "Lazy Egg (0.3%)",
-        "backdrop": "Sky Blue (1.2%)",
-        "symbol": "Flower Tulip (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T07:19:15.168Z",
-        "__v": 0,
-        "winningBid": 6,
-        "winningBidder": 5080979582
-      },
+      "auction": null,
       "export_at": "2025-07-30T20:01:44.000Z",
       "premarketData": {}
     },
@@ -33905,6 +32175,24 @@
     }
   ],
   "Vivid Sky": [
+    {
+      "gift_num": 13670,
+      "customEmojiId": "5255959257748103208",
+      "gift_id": 593400602394,
+      "name": "Tama Gadget",
+      "model": "Vivid Sky (2%)",
+      "asset": "TON",
+      "symbol": "Feather (0.5%)",
+      "backdrop": "Burgundy (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 8.262,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 11095,
       "customEmojiId": "5255959257748103208",
@@ -34450,24 +32738,6 @@
       "auction": null,
       "export_at": "2025-07-21T01:37:43.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 72841,
-      "customEmojiId": "5255959257748103208",
-      "gift_id": 595383608551,
-      "name": "Tama Gadget",
-      "model": "Vivid Sky (2%)",
-      "asset": "TON",
-      "symbol": "Smartphone (0.5%)",
-      "backdrop": "Electric Indigo (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 3.58,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "BMO": [
@@ -34568,139 +32838,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "H82Q08VO",
-      "auction": {
-        "_id": "68782a6eaace4cd2f654e696",
-        "gift_id": 7259277,
-        "seller": 0,
-        "auction_id": "H82Q08VO",
-        "startingBid": 2.22,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.22,
-            "asset": "TON",
-            "_id": "68782c86aace4cd2f6580458",
-            "timestamp": "2025-07-16T22:49:42.047Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.33,
-            "asset": "TON",
-            "_id": "68782e62aace4cd2f65c9f2d",
-            "timestamp": "2025-07-16T22:57:38.991Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.45,
-            "asset": "TON",
-            "_id": "6878301aaace4cd2f65fe9b3",
-            "timestamp": "2025-07-16T23:04:58.305Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.58,
-            "asset": "TON",
-            "_id": "687830bbaace4cd2f66131b3",
-            "timestamp": "2025-07-16T23:07:39.068Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.71,
-            "asset": "TON",
-            "_id": "687830cdaace4cd2f6614d4c",
-            "timestamp": "2025-07-16T23:07:57.622Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.85,
-            "asset": "TON",
-            "_id": "687830deaace4cd2f6616b99",
-            "timestamp": "2025-07-16T23:08:14.203Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "68783128aace4cd2f6620a20",
-            "timestamp": "2025-07-16T23:09:28.803Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.2,
-            "asset": "TON",
-            "_id": "6878319baace4cd2f663024f",
-            "timestamp": "2025-07-16T23:11:23.733Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.5,
-            "asset": "TON",
-            "_id": "687831c2aace4cd2f6635a62",
-            "timestamp": "2025-07-16T23:12:02.984Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.73,
-            "asset": "TON",
-            "_id": "68783280aace4cd2f664fdf8",
-            "timestamp": "2025-07-16T23:15:12.216Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "68783296aace4cd2f6653076",
-            "timestamp": "2025-07-16T23:15:34.500Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "687832b5aace4cd2f665590d",
-            "timestamp": "2025-07-16T23:16:05.074Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.51,
-            "asset": "TON",
-            "_id": "687832f2aace4cd2f665d6c2",
-            "timestamp": "2025-07-16T23:17:06.472Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.79,
-            "asset": "TON",
-            "_id": "687834a4aace4cd2f667767d",
-            "timestamp": "2025-07-16T23:24:20.383Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.08,
-            "asset": "TON",
-            "_id": "68783767aace4cd2f6684056",
-            "timestamp": "2025-07-16T23:36:07.736Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.38,
-            "asset": "TON",
-            "_id": "68783b6faace4cd2f66a70cb",
-            "timestamp": "2025-07-16T23:53:19.618Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T00:04:00.781Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 56827,
-        "model": "BMO (0.5%)",
-        "backdrop": "Jade Green (1.5%)",
-        "symbol": "Narcissus (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T22:44:01.520Z",
-        "__v": 0,
-        "winningBid": 6.38,
-        "winningBidder": 192038621
-      },
+      "auction": null,
       "export_at": "2025-07-30T22:35:25.000Z",
       "premarketData": {}
     },
@@ -34855,125 +32993,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "MN8SYK90",
-      "auction": {
-        "_id": "687401e58938e518f10ebf1c",
-        "gift_id": 7200779,
-        "seller": 0,
-        "auction_id": "MN8SYK90",
-        "startingBid": 6,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 6,
-            "asset": "TON",
-            "_id": "687401f48938e518f10ec174",
-            "timestamp": "2025-07-13T18:59:00.498Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.3,
-            "asset": "TON",
-            "_id": "687409c08938e518f1126410",
-            "timestamp": "2025-07-13T19:32:16.843Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.62,
-            "asset": "TON",
-            "_id": "687409e18938e518f112722d",
-            "timestamp": "2025-07-13T19:32:49.281Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.95,
-            "asset": "TON",
-            "_id": "68740a368938e518f112a1be",
-            "timestamp": "2025-07-13T19:34:14.292Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.3,
-            "asset": "TON",
-            "_id": "68740a428938e518f112a8e1",
-            "timestamp": "2025-07-13T19:34:26.497Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.67,
-            "asset": "TON",
-            "_id": "68740abb8938e518f113054f",
-            "timestamp": "2025-07-13T19:36:27.256Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.05,
-            "asset": "TON",
-            "_id": "68740acc8938e518f1131ab5",
-            "timestamp": "2025-07-13T19:36:44.506Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.45,
-            "asset": "TON",
-            "_id": "68740ad98938e518f113274d",
-            "timestamp": "2025-07-13T19:36:57.316Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.87,
-            "asset": "TON",
-            "_id": "68740ce38938e518f114e15d",
-            "timestamp": "2025-07-13T19:45:39.013Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.31,
-            "asset": "TON",
-            "_id": "68740def8938e518f115e233",
-            "timestamp": "2025-07-13T19:50:07.013Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.78,
-            "asset": "TON",
-            "_id": "68740dfe8938e518f115eb2f",
-            "timestamp": "2025-07-13T19:50:22.637Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.27,
-            "asset": "TON",
-            "_id": "68740fec8938e518f117245f",
-            "timestamp": "2025-07-13T19:58:36.889Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11,
-            "asset": "TON",
-            "_id": "68740fff8938e518f11730c8",
-            "timestamp": "2025-07-13T19:58:55.497Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.55,
-            "asset": "TON",
-            "_id": "6874100f8938e518f11732e1",
-            "timestamp": "2025-07-13T19:59:11.602Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-13T20:18:45.939Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 68780,
-        "model": "BMO (0.5%)",
-        "backdrop": "Pine Green (1.5%)",
-        "symbol": "Serpent (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-13T18:58:45.443Z",
-        "__v": 0,
-        "winningBid": 11.55,
-        "winningBidder": 6585080227
-      },
+      "auction": null,
       "export_at": "2025-07-27T18:53:21.000Z",
       "premarketData": {}
     },
@@ -35307,6 +33327,24 @@
     }
   ],
   "Crystal View": [
+    {
+      "gift_num": 9957,
+      "customEmojiId": "5296419331440141338",
+      "gift_id": 593402127966,
+      "name": "Tama Gadget",
+      "model": "Crystal View (1.1%)",
+      "asset": "TON",
+      "symbol": "Bascinet (0.4%)",
+      "backdrop": "Indigo Dye (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 32.415,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 12869,
       "customEmojiId": "5296419331440141338",
@@ -35857,26 +33895,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4938,
-      "customEmojiId": "5296419331440141338",
-      "gift_id": 7176697,
-      "name": "Tama Gadget",
-      "model": "Crystal View (1.1%)",
-      "asset": "TON",
-      "symbol": "Novus Ordo (0.4%)",
-      "backdrop": "Seal Brown (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T13:23:06.000Z",
       "premarketData": {}
     }
   ],
@@ -36448,6 +34466,26 @@
     {
       "gift_num": 60163,
       "customEmojiId": "5255890095889736793",
+      "gift_id": 7273348,
+      "name": "Tama Gadget",
+      "model": "Melon Pop (2%)",
+      "asset": "TON",
+      "symbol": "Kite (0.5%)",
+      "backdrop": "Pine Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:20:06.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 60163,
+      "customEmojiId": "5255890095889736793",
       "gift_id": 7272982,
       "name": "Tama Gadget",
       "model": "Melon Pop (2%)",
@@ -36990,24 +35028,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 10292,
-      "customEmojiId": "5255890095889736793",
-      "gift_id": 593362888715,
-      "name": "Tama Gadget",
-      "model": "Melon Pop (2%)",
-      "asset": "TON",
-      "symbol": "Omusubi (0.5%)",
-      "backdrop": "Cyberpunk (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 3.823,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Strawberry": [
@@ -37196,34 +35216,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "9WCS950P",
-      "auction": {
-        "_id": "68777675aace4cd2f657dbb6",
-        "gift_id": 7233350,
-        "seller": 0,
-        "auction_id": "9WCS950P",
-        "startingBid": 4.3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 4.3,
-            "asset": "TON",
-            "_id": "6877ede2aace4cd2f6c0668b",
-            "timestamp": "2025-07-16T18:22:26.242Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T18:32:37.298Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 71696,
-        "model": "Strawberry (1.1%)",
-        "backdrop": "Fire Engine (1.5%)",
-        "symbol": "Planet (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T17:22:41.375Z",
-        "__v": 0,
-        "winningBid": 4.3,
-        "winningBidder": 7615752137
-      },
+      "auction": null,
       "export_at": "2025-07-29T15:16:39.000Z",
       "premarketData": {}
     },
@@ -37376,34 +35369,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "GNVUR16V",
-      "auction": {
-        "_id": "68752c00aace4cd2f6cae9ea",
-        "gift_id": 7170409,
-        "seller": 0,
-        "auction_id": "GNVUR16V",
-        "startingBid": 3.9,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3.94,
-            "asset": "TON",
-            "_id": "68766b6aaace4cd2f638e856",
-            "timestamp": "2025-07-15T14:53:30.670Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T15:04:00.566Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 71696,
-        "model": "Strawberry (1.1%)",
-        "backdrop": "Fire Engine (1.5%)",
-        "symbol": "Planet (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T12:53:37.530Z",
-        "__v": 0,
-        "winningBid": 3.94,
-        "winningBidder": 7246949862
-      },
+      "auction": null,
       "export_at": "2025-07-26T07:17:11.000Z",
       "premarketData": {}
     },
@@ -38004,55 +35970,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "7KOL4C4D",
-      "auction": {
-        "_id": "686d594f0227247557f32ad1",
-        "gift_id": 6386765,
-        "seller": 0,
-        "auction_id": "7KOL4C4D",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68700a5934f36633463446ad",
-            "timestamp": "2025-07-10T18:45:45.125Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68700abf34f366334634c7af",
-            "timestamp": "2025-07-10T18:47:27.958Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.7,
-            "asset": "TON",
-            "_id": "68700b5a34f366334636052a",
-            "timestamp": "2025-07-10T18:50:02.210Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.89,
-            "asset": "TON",
-            "_id": "68700bd734f3663346371b07",
-            "timestamp": "2025-07-10T18:52:07.737Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T19:04:28.586Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 33823,
-        "model": "Wooden Dog (0.5%)",
-        "backdrop": "Cobalt Blue (1.5%)",
-        "symbol": "Tiki Mask (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T17:54:29.514Z",
-        "__v": 0,
-        "winningBid": 3.89,
-        "winningBidder": 1313811539
-      },
+      "auction": null,
       "export_at": "2025-06-28T10:11:37.000Z",
       "premarketData": {}
     },
@@ -38248,6 +36166,46 @@
     }
   ],
   "Puck Man": [
+    {
+      "gift_num": 74378,
+      "customEmojiId": "5328294233658914260",
+      "gift_id": 7274213,
+      "name": "Tama Gadget",
+      "model": "Puck Man (0.3%)",
+      "asset": "TON",
+      "symbol": "Grape (0.5%)",
+      "backdrop": "Pistachio (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T22:31:37.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 71069,
+      "customEmojiId": "5328294233658914260",
+      "gift_id": 7112277,
+      "name": "Tama Gadget",
+      "model": "Puck Man (0.3%)",
+      "asset": "TON",
+      "symbol": "Earflap Hat (0.4%)",
+      "backdrop": "Shamrock Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 11.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-23T20:01:32.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 39238,
       "customEmojiId": "5328294233658914260",
@@ -38832,104 +36790,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "26DFTPT1",
-      "auction": {
-        "_id": "6877aa1caace4cd2f674d5a3",
-        "gift_id": 7247910,
-        "seller": 0,
-        "auction_id": "26DFTPT1",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "6877aa38aace4cd2f674fbd5",
-            "timestamp": "2025-07-16T13:33:44.765Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 21,
-            "asset": "TON",
-            "_id": "6877aab5aace4cd2f6765f64",
-            "timestamp": "2025-07-16T13:35:49.149Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 22.05,
-            "asset": "TON",
-            "_id": "6877aad1aace4cd2f676babf",
-            "timestamp": "2025-07-16T13:36:17.964Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 23.15,
-            "asset": "TON",
-            "_id": "6877aaddaace4cd2f676df21",
-            "timestamp": "2025-07-16T13:36:29.878Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 25,
-            "asset": "TON",
-            "_id": "6877ab1caace4cd2f67793e3",
-            "timestamp": "2025-07-16T13:37:32.484Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 26.25,
-            "asset": "TON",
-            "_id": "6877b5a7aace4cd2f690823b",
-            "timestamp": "2025-07-16T14:22:31.573Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 27.56,
-            "asset": "TON",
-            "_id": "6877b614aace4cd2f6914e9d",
-            "timestamp": "2025-07-16T14:24:20.403Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 28.94,
-            "asset": "TON",
-            "_id": "6877b6ccaace4cd2f69273ec",
-            "timestamp": "2025-07-16T14:27:24.936Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 30.39,
-            "asset": "TON",
-            "_id": "6877b6ecaace4cd2f692d980",
-            "timestamp": "2025-07-16T14:27:56.370Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 31.91,
-            "asset": "TON",
-            "_id": "6877ba3caace4cd2f697ef7c",
-            "timestamp": "2025-07-16T14:42:04.733Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 33.51,
-            "asset": "TON",
-            "_id": "6877ba5caace4cd2f6983dbd",
-            "timestamp": "2025-07-16T14:42:36.071Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T14:53:14.853Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 37625,
-        "model": "Doom (0.3%)",
-        "backdrop": "Mustard (1%)",
-        "symbol": "Anchor (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T13:33:16.927Z",
-        "__v": 0,
-        "winningBid": 33.51,
-        "winningBidder": 583237233
-      },
+      "auction": null,
       "export_at": "2025-07-30T11:23:04.000Z",
       "premarketData": {}
     },
@@ -39341,216 +37202,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "4IR9J5JH",
-      "auction": {
-        "_id": "68777485aace4cd2f6575804",
-        "gift_id": 7246450,
-        "seller": 0,
-        "auction_id": "4IR9J5JH",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68777499aace4cd2f6576e61",
-            "timestamp": "2025-07-16T09:44:57.082Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "687774faaace4cd2f6579995",
-            "timestamp": "2025-07-16T09:46:34.478Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "68777505aace4cd2f6579a11",
-            "timestamp": "2025-07-16T09:46:45.531Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "68777517aace4cd2f6579d61",
-            "timestamp": "2025-07-16T09:47:03.695Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6877752caace4cd2f6579f21",
-            "timestamp": "2025-07-16T09:47:24.933Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "6877753baace4cd2f657a103",
-            "timestamp": "2025-07-16T09:47:39.861Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "6877754eaace4cd2f657a35b",
-            "timestamp": "2025-07-16T09:47:58.517Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "68777586aace4cd2f657a5ff",
-            "timestamp": "2025-07-16T09:48:54.489Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "687775b4aace4cd2f657aafd",
-            "timestamp": "2025-07-16T09:49:40.864Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "687775ebaace4cd2f657b8ac",
-            "timestamp": "2025-07-16T09:50:35.134Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.48,
-            "asset": "TON",
-            "_id": "687775f7aace4cd2f657b985",
-            "timestamp": "2025-07-16T09:50:47.408Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.7,
-            "asset": "TON",
-            "_id": "68777607aace4cd2f657bcf3",
-            "timestamp": "2025-07-16T09:51:03.613Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.1,
-            "asset": "TON",
-            "_id": "68777617aace4cd2f657be0a",
-            "timestamp": "2025-07-16T09:51:19.454Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.56,
-            "asset": "TON",
-            "_id": "6877769caace4cd2f657dfef",
-            "timestamp": "2025-07-16T09:53:32.999Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.04,
-            "asset": "TON",
-            "_id": "6877779faace4cd2f6582b8a",
-            "timestamp": "2025-07-16T09:57:51.698Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.57,
-            "asset": "TON",
-            "_id": "68777944aace4cd2f659646e",
-            "timestamp": "2025-07-16T10:04:52.994Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.2,
-            "asset": "TON",
-            "_id": "68777b13aace4cd2f65a9a7b",
-            "timestamp": "2025-07-16T10:12:35.833Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.86,
-            "asset": "TON",
-            "_id": "68777b2caace4cd2f65a9ff8",
-            "timestamp": "2025-07-16T10:13:00.640Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 14.55,
-            "asset": "TON",
-            "_id": "68777dd1aace4cd2f65d75f1",
-            "timestamp": "2025-07-16T10:24:17.914Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "68777e01aace4cd2f65e067b",
-            "timestamp": "2025-07-16T10:25:05.338Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 21,
-            "asset": "TON",
-            "_id": "68777f63aace4cd2f6627273",
-            "timestamp": "2025-07-16T10:30:59.618Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 22.05,
-            "asset": "TON",
-            "_id": "68777f94aace4cd2f663132e",
-            "timestamp": "2025-07-16T10:31:48.966Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 23.15,
-            "asset": "TON",
-            "_id": "6877807daace4cd2f665754a",
-            "timestamp": "2025-07-16T10:35:41.867Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 24.31,
-            "asset": "TON",
-            "_id": "687780a9aace4cd2f665c97d",
-            "timestamp": "2025-07-16T10:36:25.346Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 25.53,
-            "asset": "TON",
-            "_id": "68778426aace4cd2f67add40",
-            "timestamp": "2025-07-16T10:51:18.646Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 26.81,
-            "asset": "TON",
-            "_id": "687785eeaace4cd2f6802e16",
-            "timestamp": "2025-07-16T10:58:54.298Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 35,
-            "asset": "TON",
-            "_id": "68778610aace4cd2f680dcde",
-            "timestamp": "2025-07-16T10:59:28.033Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T11:14:35.477Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 37625,
-        "model": "Doom (0.3%)",
-        "backdrop": "Mustard (1%)",
-        "symbol": "Anchor (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T09:44:37.874Z",
-        "__v": 0,
-        "winningBid": 35,
-        "winningBidder": 7864910824
-      },
+      "auction": null,
       "export_at": "2025-07-30T09:44:26.000Z",
       "premarketData": {}
     }
@@ -39614,26 +37266,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-31T10:26:15.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11198,
-      "customEmojiId": "5325987067421813682",
-      "gift_id": 7227449,
-      "name": "Tama Gadget",
-      "model": "Poo Byte (0.3%)",
-      "asset": "TON",
-      "symbol": "Breeze (0.4%)",
-      "backdrop": "Silver Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 12.25,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T09:17:39.000Z",
       "premarketData": {}
     },
     {
@@ -39709,62 +37341,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "541VOG3O",
-      "auction": {
-        "_id": "68751d5eaace4cd2f6b5cd42",
-        "gift_id": 7215584,
-        "seller": 0,
-        "auction_id": "541VOG3O",
-        "startingBid": 11,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 11,
-            "asset": "TON",
-            "_id": "687678feaace4cd2f64550d4",
-            "timestamp": "2025-07-15T15:51:26.071Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.55,
-            "asset": "TON",
-            "_id": "6876a756aace4cd2f692598c",
-            "timestamp": "2025-07-15T19:09:10.455Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.13,
-            "asset": "TON",
-            "_id": "6876a818aace4cd2f6938987",
-            "timestamp": "2025-07-15T19:12:24.106Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.74,
-            "asset": "TON",
-            "_id": "6876a824aace4cd2f69394ca",
-            "timestamp": "2025-07-15T19:12:36.964Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 13.38,
-            "asset": "TON",
-            "_id": "6876a899aace4cd2f6942992",
-            "timestamp": "2025-07-15T19:14:33.017Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T19:34:02.877Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 72906,
-        "model": "Poo Byte (0.3%)",
-        "backdrop": "Satin Gold (1%)",
-        "symbol": "Birthday Cake (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T13:24:04.176Z",
-        "__v": 0,
-        "winningBid": 13.38,
-        "winningBidder": 2054417091
-      },
+      "auction": null,
       "export_at": "2025-07-28T15:08:01.000Z",
       "premarketData": {}
     },
@@ -39957,125 +37534,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "RD24MP7P",
-      "auction": {
-        "_id": "6878b2eeaace4cd2f6c6f529",
-        "gift_id": 6652839,
-        "seller": 0,
-        "auction_id": "RD24MP7P",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6878b328aace4cd2f6c78a6a",
-            "timestamp": "2025-07-17T08:24:08.728Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6878b465aace4cd2f6ca7920",
-            "timestamp": "2025-07-17T08:29:25.387Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.3,
-            "asset": "TON",
-            "_id": "6878b4edaace4cd2f6cb979f",
-            "timestamp": "2025-07-17T08:31:41.429Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.57,
-            "asset": "TON",
-            "_id": "6878bb3baace4cd2f6def086",
-            "timestamp": "2025-07-17T08:58:35.633Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8,
-            "asset": "TON",
-            "_id": "6878bb82aace4cd2f6df2265",
-            "timestamp": "2025-07-17T08:59:46.702Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.4,
-            "asset": "TON",
-            "_id": "6878bc48aace4cd2f6e14b00",
-            "timestamp": "2025-07-17T09:03:04.386Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9,
-            "asset": "TON",
-            "_id": "6878bc7eaace4cd2f6e20db7",
-            "timestamp": "2025-07-17T09:03:58.311Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.45,
-            "asset": "TON",
-            "_id": "6878bd6caace4cd2f6e530ff",
-            "timestamp": "2025-07-17T09:07:56.998Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "6878bdccaace4cd2f6e66552",
-            "timestamp": "2025-07-17T09:09:32.349Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "6878c08daace4cd2f6ef3761",
-            "timestamp": "2025-07-17T09:21:17.662Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.03,
-            "asset": "TON",
-            "_id": "6878c11caace4cd2f6efc213",
-            "timestamp": "2025-07-17T09:23:40.544Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.58,
-            "asset": "TON",
-            "_id": "6878c1e5aace4cd2f6f1214c",
-            "timestamp": "2025-07-17T09:27:01.363Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.16,
-            "asset": "TON",
-            "_id": "6878c1f5aace4cd2f6f1658d",
-            "timestamp": "2025-07-17T09:27:17.754Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.77,
-            "asset": "TON",
-            "_id": "6878c200aace4cd2f6f18990",
-            "timestamp": "2025-07-17T09:27:28.925Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-17T09:43:09.125Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 58036,
-        "model": "Poo Byte (0.3%)",
-        "backdrop": "Copper (1.2%)",
-        "symbol": "Fez (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-17T08:23:10.132Z",
-        "__v": 0,
-        "winningBid": 12.77,
-        "winningBidder": 448392001
-      },
+      "auction": null,
       "export_at": "2025-07-05T10:58:48.000Z",
       "premarketData": {}
     },
@@ -40241,6 +37700,42 @@
     }
   ],
   "Malachite": [
+    {
+      "gift_num": 14200,
+      "customEmojiId": "5256214975805939446",
+      "gift_id": 593384821825,
+      "name": "Tama Gadget",
+      "model": "Malachite (2%)",
+      "asset": "TON",
+      "symbol": "Mannaz Rune (0.3%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 5.502,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 50548,
+      "customEmojiId": "5256214975805939446",
+      "gift_id": 601455954432,
+      "name": "Tama Gadget",
+      "model": "Malachite (2%)",
+      "asset": "TON",
+      "symbol": "Blood Drop (0.3%)",
+      "backdrop": "Cyberpunk (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 15448,
       "customEmojiId": "5256214975805939446",
@@ -40766,44 +38261,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 5604,
-      "customEmojiId": "5256214975805939446",
-      "gift_id": 593392708244,
-      "name": "Tama Gadget",
-      "model": "Malachite (2%)",
-      "asset": "TON",
-      "symbol": "Deerstalker (0.5%)",
-      "backdrop": "Orange (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 3.801,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 24740,
-      "customEmojiId": "5256214975805939446",
-      "gift_id": 6989317,
-      "name": "Tama Gadget",
-      "model": "Malachite (2%)",
-      "asset": "TON",
-      "symbol": "Dolphin (0.4%)",
-      "backdrop": "Rosewood (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-18T17:53:51.000Z",
-      "premarketData": {}
     }
   ],
   "Lucky Wish": [
@@ -40900,55 +38357,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "VS7LJ6HX",
-      "auction": {
-        "_id": "6877b679aace4cd2f691f78a",
-        "gift_id": 7133798,
-        "seller": 0,
-        "auction_id": "VS7LJ6HX",
-        "startingBid": 2.4,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.4,
-            "asset": "TON",
-            "_id": "6877c2daaace4cd2f6b9f480",
-            "timestamp": "2025-07-16T15:18:50.201Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.52,
-            "asset": "TON",
-            "_id": "6877c653aace4cd2f6c8b70e",
-            "timestamp": "2025-07-16T15:33:39.783Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.65,
-            "asset": "TON",
-            "_id": "6877c803aace4cd2f6cf04d7",
-            "timestamp": "2025-07-16T15:40:51.405Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.78,
-            "asset": "TON",
-            "_id": "6877c80eaace4cd2f6cf409b",
-            "timestamp": "2025-07-16T15:41:02.147Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T15:55:59.137Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 72687,
-        "model": "Lucky Wish (0.8%)",
-        "backdrop": "Emerald (1%)",
-        "symbol": "Candy (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T14:26:01.282Z",
-        "__v": 0,
-        "winningBid": 2.78,
-        "winningBidder": 1632157816
-      },
+      "auction": null,
       "export_at": "2025-07-24T15:42:13.000Z",
       "premarketData": {}
     },
@@ -41021,24 +38430,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 11.016,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 44275,
-      "customEmojiId": "5264735636870425533",
-      "gift_id": 597195175935,
-      "name": "Tama Gadget",
-      "model": "Lucky Wish (0.8%)",
-      "asset": "TON",
-      "symbol": "Sun Mountain (0.5%)",
-      "backdrop": "Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 3.305,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -41417,6 +38808,24 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
+    },
+    {
+      "gift_num": 4237,
+      "customEmojiId": "5264735636870425533",
+      "gift_id": 593372006501,
+      "name": "Tama Gadget",
+      "model": "Lucky Wish (0.8%)",
+      "asset": "TON",
+      "symbol": "Leprechaun (0.4%)",
+      "backdrop": "Pacific Cyan (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 27.54,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
     }
   ],
   "Health Wish": [
@@ -41615,83 +39024,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "47PQ0TD3",
-      "auction": {
-        "_id": "6876c5a2aace4cd2f63fbdcf",
-        "gift_id": 7172451,
-        "seller": 0,
-        "auction_id": "47PQ0TD3",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6876c6adaace4cd2f642cd43",
-            "timestamp": "2025-07-15T21:22:53.697Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6876c86faace4cd2f649a7a3",
-            "timestamp": "2025-07-15T21:30:23.517Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6876cc3aaace4cd2f653e1d6",
-            "timestamp": "2025-07-15T21:46:34.389Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6876d0e3aace4cd2f65e622b",
-            "timestamp": "2025-07-15T22:06:27.051Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "6876d12eaace4cd2f65f12d0",
-            "timestamp": "2025-07-15T22:07:42.483Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "6876d20aaace4cd2f664269c",
-            "timestamp": "2025-07-15T22:11:22.128Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "6876d228aace4cd2f66668d4",
-            "timestamp": "2025-07-15T22:11:52.286Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.9,
-            "asset": "TON",
-            "_id": "6876d5a5aace4cd2f66e9ef5",
-            "timestamp": "2025-07-15T22:26:45.086Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T22:38:23.897Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 45188,
-        "model": "Health Wish (0.8%)",
-        "backdrop": "Platinum (1%)",
-        "symbol": "Trophy (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T21:18:26.839Z",
-        "__v": 0,
-        "winningBid": 2.9,
-        "winningBidder": 1646822078
-      },
+      "auction": null,
       "export_at": "2025-07-26T09:31:42.000Z",
       "premarketData": {}
     },
@@ -43146,76 +40479,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "8ZB26HB8",
-      "auction": {
-        "_id": "6876dc9faace4cd2f6980fc0",
-        "gift_id": 7241422,
-        "seller": 0,
-        "auction_id": "8ZB26HB8",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68775c94aace4cd2f62b1829",
-            "timestamp": "2025-07-16T08:02:28.164Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68777df9aace4cd2f65df264",
-            "timestamp": "2025-07-16T10:24:57.937Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.22,
-            "asset": "TON",
-            "_id": "68778454aace4cd2f67b7ee4",
-            "timestamp": "2025-07-16T10:52:04.456Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.33,
-            "asset": "TON",
-            "_id": "6877846aaace4cd2f67bc68a",
-            "timestamp": "2025-07-16T10:52:26.099Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.45,
-            "asset": "TON",
-            "_id": "687788f8aace4cd2f68aab19",
-            "timestamp": "2025-07-16T11:11:52.950Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.6,
-            "asset": "TON",
-            "_id": "68778a2eaace4cd2f68e9914",
-            "timestamp": "2025-07-16T11:17:02.531Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.73,
-            "asset": "TON",
-            "_id": "68778b8baace4cd2f693ee23",
-            "timestamp": "2025-07-16T11:22:51.202Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T11:42:06.048Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 63947,
-        "model": "Dino Egg (1.1%)",
-        "backdrop": "Gunmetal (1%)",
-        "symbol": "Fish (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T08:02:07.007Z",
-        "__v": 0,
-        "winningBid": 2.73,
-        "winningBidder": 1401768084
-      },
+      "auction": null,
       "export_at": "2025-07-29T22:56:12.000Z",
       "premarketData": {}
     },
@@ -45280,6 +42544,24 @@
   ],
   "Orchid": [
     {
+      "gift_num": 74224,
+      "customEmojiId": "5274207212284179510",
+      "gift_id": 597211437969,
+      "name": "Tama Gadget",
+      "model": "Orchid (2%)",
+      "asset": "TON",
+      "symbol": "Shooting Star (0.4%)",
+      "backdrop": "Cappuccino (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 3.239,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 47146,
       "customEmojiId": "5274207212284179510",
       "gift_id": 7267407,
@@ -45833,24 +43115,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-27T16:50:08.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 29687,
-      "customEmojiId": "5274207212284179510",
-      "gift_id": 593850617900,
-      "name": "Tama Gadget",
-      "model": "Orchid (2%)",
-      "asset": "TON",
-      "symbol": "Turban (0.4%)",
-      "backdrop": "Persimmon (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 6.059,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
@@ -46420,6 +43684,26 @@
     {
       "gift_num": 61764,
       "customEmojiId": "5256205647136977039",
+      "gift_id": 7273186,
+      "name": "Tama Gadget",
+      "model": "Ocean (2%)",
+      "asset": "TON",
+      "symbol": "Jörmungandr (0.5%)",
+      "backdrop": "Khaki Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.1,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T21:08:48.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 61764,
+      "customEmojiId": "5256205647136977039",
       "gift_id": 584848405532,
       "name": "Tama Gadget",
       "model": "Ocean (2%)",
@@ -46957,26 +44241,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-20T15:54:26.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 18579,
-      "customEmojiId": "5256205647136977039",
-      "gift_id": 7216031,
-      "name": "Tama Gadget",
-      "model": "Ocean (2%)",
-      "asset": "TON",
-      "symbol": "Chili Pepper (0.4%)",
-      "backdrop": "Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T15:36:30.000Z",
       "premarketData": {}
     }
   ],
@@ -47810,41 +45074,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "5RV07UKK",
-      "auction": {
-        "_id": "6870273634f3663346afd1c9",
-        "gift_id": 7066630,
-        "seller": 0,
-        "auction_id": "5RV07UKK",
-        "startingBid": 8,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 8,
-            "asset": "TON",
-            "_id": "6870303d34f3663346d98d1c",
-            "timestamp": "2025-07-10T21:27:25.761Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.4,
-            "asset": "TON",
-            "_id": "6870348b34f3663346e4b5e9",
-            "timestamp": "2025-07-10T21:45:47.737Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-10T21:58:53.099Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 34664,
-        "model": "Mecha Fight (0.3%)",
-        "backdrop": "Carmine (1.5%)",
-        "symbol": "Khinkali (0.3%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-10T20:48:54.692Z",
-        "__v": 0,
-        "winningBid": 8.4,
-        "winningBidder": 2002493222
-      },
+      "auction": null,
       "export_at": "2025-07-21T21:16:54.000Z",
       "premarketData": {}
     },
@@ -48082,118 +45312,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "O512JO3Z",
-      "auction": {
-        "_id": "68769c78aace4cd2f6855268",
-        "gift_id": 7236937,
-        "seller": 0,
-        "auction_id": "O512JO3Z",
-        "startingBid": 5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6876a0c2aace4cd2f68a7b8b",
-            "timestamp": "2025-07-15T18:41:06.195Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "6876a4b2aace4cd2f68e978c",
-            "timestamp": "2025-07-15T18:57:54.925Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.51001,
-            "asset": "TON",
-            "_id": "6876a4efaace4cd2f68ec5a5",
-            "timestamp": "2025-07-15T18:58:55.379Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6,
-            "asset": "TON",
-            "_id": "6876a75caace4cd2f6926f05",
-            "timestamp": "2025-07-15T19:09:16.828Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.30010000001,
-            "asset": "TON",
-            "_id": "6876a798aace4cd2f692f210",
-            "timestamp": "2025-07-15T19:10:16.803Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.62,
-            "asset": "TON",
-            "_id": "6876a88faace4cd2f694234b",
-            "timestamp": "2025-07-15T19:14:23.554Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.95,
-            "asset": "TON",
-            "_id": "6876a8b6aace4cd2f694e546",
-            "timestamp": "2025-07-15T19:15:02.841Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.3,
-            "asset": "TON",
-            "_id": "6876a8e8aace4cd2f6980a24",
-            "timestamp": "2025-07-15T19:15:52.083Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8,
-            "asset": "TON",
-            "_id": "6876a8fcaace4cd2f6982713",
-            "timestamp": "2025-07-15T19:16:12.859Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.4,
-            "asset": "TON",
-            "_id": "6876ad85aace4cd2f6b19ffd",
-            "timestamp": "2025-07-15T19:35:33.762Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.82,
-            "asset": "TON",
-            "_id": "6876ad98aace4cd2f6b1e146",
-            "timestamp": "2025-07-15T19:35:52.653Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.26,
-            "asset": "TON",
-            "_id": "6876ada6aace4cd2f6b2109c",
-            "timestamp": "2025-07-15T19:36:06.887Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.72,
-            "asset": "TON",
-            "_id": "6876adb9aace4cd2f6b249f7",
-            "timestamp": "2025-07-15T19:36:25.406Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-15T19:56:01.953Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 73813,
-        "model": "Mecha Fight (0.3%)",
-        "backdrop": "Neon Blue (1%)",
-        "symbol": "Feather (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-15T18:26:03.217Z",
-        "__v": 0,
-        "winningBid": 9.72,
-        "winningBidder": 5296695447
-      },
+      "auction": null,
       "export_at": "2025-07-29T18:21:49.000Z",
       "premarketData": {}
     }
@@ -50730,7 +47849,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 5,
+      "price": 3.8,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -51280,6 +48399,26 @@
   ],
   "Yin": [
     {
+      "gift_num": 65212,
+      "customEmojiId": "5328051537941916119",
+      "gift_id": 7168898,
+      "name": "Tama Gadget",
+      "model": "Yin (2%)",
+      "asset": "TON",
+      "symbol": "Shooting Star (0.4%)",
+      "backdrop": "Ivory White (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T02:59:01.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 69007,
       "customEmojiId": "5328051537941916119",
       "gift_id": 592455475083,
@@ -51562,34 +48701,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "6W1PC7UN",
-      "auction": {
-        "_id": "6877b2c1aace4cd2f68a59f5",
-        "gift_id": 7250765,
-        "seller": 0,
-        "auction_id": "6W1PC7UN",
-        "startingBid": 2.2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.2,
-            "asset": "TON",
-            "_id": "6877bf20aace4cd2f6a55e80",
-            "timestamp": "2025-07-16T15:02:56.002Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-16T15:20:07.779Z",
-        "status": "finished",
-        "gift_name": "Tama Gadget",
-        "gift_num": 4922,
-        "model": "Yin (2%)",
-        "backdrop": "Carmine (1.5%)",
-        "symbol": "Golden Scarab (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-16T14:10:09.016Z",
-        "__v": 0,
-        "winningBid": 2.2,
-        "winningBidder": 7615752137
-      },
+      "auction": null,
       "export_at": "2025-07-30T14:05:58.000Z",
       "premarketData": {}
     },
@@ -51854,27 +48966,29 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 46223,
-      "customEmojiId": "5328051537941916119",
-      "gift_id": 598568719361,
-      "name": "Tama Gadget",
-      "model": "Yin (2%)",
-      "asset": "TON",
-      "symbol": "Melon (0.4%)",
-      "backdrop": "Lemongrass (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 8.262,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Grayscale": [
+    {
+      "gift_num": 74265,
+      "customEmojiId": "5256087578486007312",
+      "gift_id": 7261911,
+      "name": "Tama Gadget",
+      "model": "Grayscale (2%)",
+      "asset": "TON",
+      "symbol": "Leprechaun (0.4%)",
+      "backdrop": "Ranger Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T06:23:33.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 44348,
       "customEmojiId": "5256087578486007312",
@@ -51891,26 +49005,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 74265,
-      "customEmojiId": "5256087578486007312",
-      "gift_id": 7261911,
-      "name": "Tama Gadget",
-      "model": "Grayscale (2%)",
-      "asset": "TON",
-      "symbol": "Leprechaun (0.4%)",
-      "backdrop": "Ranger Green (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.24,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T06:23:33.000Z",
       "premarketData": {}
     },
     {
@@ -52019,26 +49113,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 72190,
-      "customEmojiId": "5256087578486007312",
-      "gift_id": 7185469,
-      "name": "Tama Gadget",
-      "model": "Grayscale (2%)",
-      "asset": "TON",
-      "symbol": "Earflap Hat (0.4%)",
-      "backdrop": "Caramel (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.81,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T21:49:27.000Z",
       "premarketData": {}
     },
     {
@@ -52443,6 +49517,24 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-31T18:21:30.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 73552,
+      "customEmojiId": "5256087578486007312",
+      "gift_id": 596288229595,
+      "name": "Tama Gadget",
+      "model": "Grayscale (2%)",
+      "asset": "TON",
+      "symbol": "Bastet (0.3%)",
+      "backdrop": "Fandango (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 183.598,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
       "premarketData": {}
     }
   ]
