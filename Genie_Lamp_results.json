@@ -255,7 +255,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 78,
+      "price": 70,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -1924,26 +1924,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 2755,
-      "customEmojiId": "5235458464016262756",
-      "gift_id": 6759898,
-      "name": "Genie Lamp",
-      "model": "Inflated (1.5%)",
-      "asset": "TON",
-      "symbol": "Monstera (0.2%)",
-      "backdrop": "Carrot Juice (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 140,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-09T18:46:52.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 5643,
       "customEmojiId": "5235458464016262756",
       "gift_id": 6439692,
@@ -2067,6 +2047,75 @@
     }
   ],
   "Golden Flame": [
+    {
+      "gift_num": 5921,
+      "customEmojiId": "5228897991665936286",
+      "gift_id": 7286488,
+      "name": "Genie Lamp",
+      "model": "Golden Flame (3.5%)",
+      "asset": "TON",
+      "symbol": "Tie (1%)",
+      "backdrop": "Mystic Pearl (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 42.83,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "LY5YQW43",
+      "auction": {
+        "_id": "687aa224aace4cd2f693987f",
+        "gift_id": 7286488,
+        "seller": 0,
+        "auction_id": "LY5YQW43",
+        "startingBid": 37,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 37,
+            "asset": "TON",
+            "_id": "687aade8aace4cd2f6b4dc21",
+            "timestamp": "2025-07-18T20:26:16.016Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 38.85,
+            "asset": "TON",
+            "_id": "687abd00aace4cd2f6162fcc",
+            "timestamp": "2025-07-18T21:30:40.298Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 40.79,
+            "asset": "TON",
+            "_id": "687abf6faace4cd2f63c6e2a",
+            "timestamp": "2025-07-18T21:41:03.543Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 42.83,
+            "asset": "TON",
+            "_id": "687abf99aace4cd2f63cae3f",
+            "timestamp": "2025-07-18T21:41:45.100Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-18T21:56:02.091Z",
+        "status": "finished",
+        "gift_name": "Genie Lamp",
+        "gift_num": 5921,
+        "model": "Golden Flame (3.5%)",
+        "backdrop": "Mystic Pearl (2%)",
+        "symbol": "Tie (1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-18T19:36:04.535Z",
+        "__v": 0,
+        "winningBid": 42.83,
+        "winningBidder": 459618257
+      },
+      "export_at": "2025-08-01T18:18:50.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2495,
       "customEmojiId": "5228897991665936286",
@@ -2333,6 +2382,26 @@
   ],
   "Blue Neon": [
     {
+      "gift_num": 3828,
+      "customEmojiId": "5228988800159476198",
+      "gift_id": 7183774,
+      "name": "Genie Lamp",
+      "model": "Blue Neon (2%)",
+      "asset": "TON",
+      "symbol": "Mountain Goat (0.5%)",
+      "backdrop": "Azure Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 60,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T20:16:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3993,
       "customEmojiId": "5228988800159476198",
       "gift_id": 7220641,
@@ -2410,26 +2479,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-29T05:31:24.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3828,
-      "customEmojiId": "5228988800159476198",
-      "gift_id": 7183774,
-      "name": "Genie Lamp",
-      "model": "Blue Neon (2%)",
-      "asset": "TON",
-      "symbol": "Mountain Goat (0.5%)",
-      "backdrop": "Azure Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 90,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T20:16:16.000Z",
       "premarketData": {}
     },
     {
@@ -4235,26 +4284,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 82,
-      "customEmojiId": "5231074071206192943",
-      "gift_id": 7273750,
-      "name": "Genie Lamp",
-      "model": "Copper Pot (3%)",
-      "asset": "TON",
-      "symbol": "Inca Sun (0.8%)",
-      "backdrop": "Navy Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 58,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T21:50:08.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2713,
       "customEmojiId": "5231074071206192943",
       "gift_id": 7262911,
@@ -4863,6 +4892,26 @@
     }
   ],
   "Star Power": [
+    {
+      "gift_num": 3906,
+      "customEmojiId": "5228781112720910656",
+      "gift_id": 7288898,
+      "name": "Genie Lamp",
+      "model": "Star Power (2%)",
+      "asset": "TON",
+      "symbol": "Knight (0.5%)",
+      "backdrop": "Pine Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 44.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-01T21:01:41.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3601,
       "customEmojiId": "5228781112720910656",
