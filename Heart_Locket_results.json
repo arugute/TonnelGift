@@ -486,8 +486,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 907863,
-      "price": 5000,
+      "message_in_channel": 912148,
+      "price": 2000,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -514,6 +514,28 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-18T19:27:13.000Z",
+      "premarketData": {}
+    }
+  ],
+  "Sakura": [
+    {
+      "gift_num": 1808,
+      "customEmojiId": "5224697981801884838",
+      "gift_id": 7283658,
+      "name": "Heart Locket",
+      "model": "Sakura (2%)",
+      "asset": "TON",
+      "symbol": "Horseshoe (0.2%)",
+      "backdrop": "Seal Brown (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 912157,
+      "price": 1100,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-01T15:05:01.000Z",
       "premarketData": {}
     }
   ]
