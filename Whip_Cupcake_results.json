@@ -3179,26 +3179,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 35444,
-      "customEmojiId": "5276280874034293757",
-      "gift_id": 76668598733,
-      "name": "Whip Cupcake",
-      "model": "Paradise (2.5%)",
-      "asset": "TON",
-      "symbol": "Hammerhead (0.7%)",
-      "backdrop": "Raspberry (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 2.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
       "gift_num": 34260,
       "customEmojiId": "5276280874034293757",
       "gift_id": 833078299167,
@@ -3733,6 +3713,26 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 2.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 59403,
+      "customEmojiId": "5276280874034293757",
+      "gift_id": 143959065907,
+      "name": "Whip Cupcake",
+      "model": "Paradise (2.5%)",
+      "asset": "TON",
+      "symbol": "Coat of Arms (0.7%)",
+      "backdrop": "Camo Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2.35,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -6875,6 +6875,32 @@
   ],
   "Spiritwood": [
     {
+      "gift_num": 88574,
+      "customEmojiId": "5293997884713239147",
+      "gift_id": 656400761428,
+      "name": "Whip Cupcake",
+      "model": "Spiritwood (2.5%)",
+      "asset": "TON",
+      "symbol": "Onigiri (0.7%)",
+      "backdrop": "Burnt Sienna (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2.23,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 0.4,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 2.12,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-08T01:09:02.289Z"
+      }
+    },
+    {
       "gift_num": 60178,
       "customEmojiId": "5293997884713239147",
       "gift_id": 260137222862,
@@ -7494,32 +7520,6 @@
         "premarketLastSaleAmountPlusFee": 2.4379999999999997,
         "premarketLastSaleAsset": "TON",
         "premarketExecutionDeadline": "2025-07-31T01:19:22.017Z"
-      }
-    },
-    {
-      "gift_num": 32110,
-      "customEmojiId": "5293997884713239147",
-      "gift_id": 672711648376,
-      "name": "Whip Cupcake",
-      "model": "Spiritwood (2.5%)",
-      "asset": "TON",
-      "symbol": "Turkey (0.4%)",
-      "backdrop": "Gunship Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 2.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 0.5,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 2.6500000000000004,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-07-26T15:00:19.942Z"
       }
     }
   ],
@@ -20203,6 +20203,26 @@
   ],
   "Demoman": [
     {
+      "gift_num": 37299,
+      "customEmojiId": "5303128229270286917",
+      "gift_id": 965404968855,
+      "name": "Whip Cupcake",
+      "model": "Demoman (1.5%)",
+      "asset": "TON",
+      "symbol": "Yin-Yang (0.7%)",
+      "backdrop": "Carmine (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 59868,
       "customEmojiId": "5303128229270286917",
       "gift_id": 284253467064,
@@ -22812,6 +22832,26 @@
     }
   ],
   "Toncoin": [
+    {
+      "gift_num": 37257,
+      "customEmojiId": "5188367828402598047",
+      "gift_id": 388273752176,
+      "name": "Whip Cupcake",
+      "model": "Toncoin (1%)",
+      "asset": "TON",
+      "symbol": "Earth (0.5%)",
+      "backdrop": "Tomato (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
     {
       "gift_num": 24772,
       "customEmojiId": "5188367828402598047",
