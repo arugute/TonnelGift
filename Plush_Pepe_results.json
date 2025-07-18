@@ -47,26 +47,6 @@
     {
       "gift_num": 213,
       "customEmojiId": "5422563216708365247",
-      "gift_id": 7254727,
-      "name": "Plush Pepe",
-      "model": "Sketchy (2%)",
-      "asset": "TON",
-      "symbol": "Shell (0.3%)",
-      "backdrop": "Hunter Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 908941,
-      "price": 4600,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T17:57:37.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 213,
-      "customEmojiId": "5422563216708365247",
       "gift_id": 7095574,
       "name": "Plush Pepe",
       "model": "Sketchy (2%)",
@@ -237,6 +217,28 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-28T22:43:10.000Z",
+      "premarketData": {}
+    }
+  ],
+  "X-Ray": [
+    {
+      "gift_num": 249,
+      "customEmojiId": "5424897213606159288",
+      "gift_id": 7282724,
+      "name": "Plush Pepe",
+      "model": "X-Ray (2%)",
+      "asset": "TON",
+      "symbol": "Genie Lamp (0.4%)",
+      "backdrop": "Chocolate (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 911975,
+      "price": 4700,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-01T14:02:25.000Z",
       "premarketData": {}
     }
   ],
