@@ -965,26 +965,6 @@
   ],
   "Silversage": [
     {
-      "gift_num": 2127,
-      "customEmojiId": "5416123085046703907",
-      "gift_id": 6981031,
-      "name": "Skull Flower",
-      "model": "Silversage (3%)",
-      "asset": "TON",
-      "symbol": "Severed Hand (1%)",
-      "backdrop": "Raspberry (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5.79,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-18T10:44:59.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 16473,
       "customEmojiId": "5416123085046703907",
       "gift_id": 7265296,
@@ -9891,6 +9871,102 @@
       "auction": null,
       "export_at": "2025-05-24T20:23:22.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 14798,
+      "customEmojiId": "5413661484670543222",
+      "gift_id": 7288850,
+      "name": "Skull Flower",
+      "model": "Neon Pink (2%)",
+      "asset": "TON",
+      "symbol": "Nordic Wolf (0.2%)",
+      "backdrop": "Khaki Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.41,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "M6S98F0D",
+      "auction": {
+        "_id": "687ab54aaace4cd2f6c1ac41",
+        "gift_id": 7288850,
+        "seller": 0,
+        "auction_id": "M6S98F0D",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "687acd16aace4cd2f646ca05",
+            "timestamp": "2025-07-18T22:39:18.819Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "687ace1baace4cd2f6477360",
+            "timestamp": "2025-07-18T22:43:39.341Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "687acea8aace4cd2f647a6c8",
+            "timestamp": "2025-07-18T22:46:00.384Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4,
+            "asset": "TON",
+            "_id": "687aceb2aace4cd2f647a723",
+            "timestamp": "2025-07-18T22:46:10.838Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.2,
+            "asset": "TON",
+            "_id": "687acfe5aace4cd2f6486b36",
+            "timestamp": "2025-07-18T22:51:17.778Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.5,
+            "asset": "TON",
+            "_id": "687ad24aaace4cd2f6493d53",
+            "timestamp": "2025-07-18T23:01:30.555Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.1,
+            "asset": "TON",
+            "_id": "687ad292aace4cd2f6495697",
+            "timestamp": "2025-07-18T23:02:42.195Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.41,
+            "asset": "TON",
+            "_id": "687ad5a5aace4cd2f64af1c2",
+            "timestamp": "2025-07-18T23:15:49.056Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-18T23:37:36.149Z",
+        "status": "finished",
+        "gift_name": "Skull Flower",
+        "gift_num": 14798,
+        "model": "Neon Pink (2%)",
+        "backdrop": "Khaki Green (1.5%)",
+        "symbol": "Nordic Wolf (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-18T22:37:37.835Z",
+        "__v": 0,
+        "winningBid": 6.41,
+        "winningBidder": 1119841858
+      },
+      "export_at": "2025-08-01T20:57:03.000Z",
+      "premarketData": {}
     }
   ],
   "Royal Azure": [
@@ -17254,26 +17330,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T16:34:44.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 19477,
-      "customEmojiId": "5433828181486362172",
-      "gift_id": 6835027,
-      "name": "Skull Flower",
-      "model": "Joyful Duck (1.5%)",
-      "asset": "TON",
-      "symbol": "Apple (0.4%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 868454,
-      "price": 200,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-13T06:05:52.000Z",
       "premarketData": {}
     },
     {
