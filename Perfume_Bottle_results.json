@@ -1716,6 +1716,24 @@
   ],
   "Azure Plum": [
     {
+      "gift_num": 3907,
+      "customEmojiId": "5411303186847785028",
+      "gift_id": 603077929504,
+      "name": "Perfume Bottle",
+      "model": "Azure Plum (4%)",
+      "asset": "TON",
+      "symbol": "Bubble Tea (0.4%)",
+      "backdrop": "Midnight Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 2041,
       "customEmojiId": "5411303186847785028",
       "gift_id": 7254020,
@@ -4628,9 +4646,97 @@
       "auction": null,
       "export_at": "2025-06-16T19:26:14.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 1212,
+      "customEmojiId": "5411307876952071659",
+      "gift_id": 7294204,
+      "name": "Perfume Bottle",
+      "model": "Ruby Steel (2%)",
+      "asset": "TON",
+      "symbol": "Sea Jelly (0.2%)",
+      "backdrop": "Amber (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 73.3,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "EECF7IVO",
+      "auction": {
+        "_id": "687b6c50aace4cd2f68064a3",
+        "gift_id": 7294204,
+        "seller": 0,
+        "auction_id": "EECF7IVO",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "687b6d9eaace4cd2f6815b35",
+            "timestamp": "2025-07-19T10:04:14.597Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 61,
+            "asset": "TON",
+            "_id": "687b7025aace4cd2f6828c1b",
+            "timestamp": "2025-07-19T10:15:01.039Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 68,
+            "asset": "TON",
+            "_id": "687b7650aace4cd2f69ad6e5",
+            "timestamp": "2025-07-19T10:41:20.372Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 73.3,
+            "asset": "TON",
+            "_id": "687b986aaace4cd2f6123c52",
+            "timestamp": "2025-07-19T13:06:50.663Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-19T15:58:39.442Z",
+        "status": "finished",
+        "gift_name": "Perfume Bottle",
+        "gift_num": 1212,
+        "model": "Ruby Steel (2%)",
+        "backdrop": "Amber (1.5%)",
+        "symbol": "Sea Jelly (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-19T09:58:40.731Z",
+        "__v": 0,
+        "winningBid": 73.3,
+        "winningBidder": 6834858656
+      },
+      "export_at": "2025-08-02T09:58:16.000Z",
+      "premarketData": {}
     }
   ],
   "Orchard Glow": [
+    {
+      "gift_num": 1733,
+      "customEmojiId": "5411559308632546634",
+      "gift_id": 7299066,
+      "name": "Perfume Bottle",
+      "model": "Orchard Glow (4%)",
+      "asset": "TON",
+      "symbol": "Monstera (0.4%)",
+      "backdrop": "Shamrock Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 78,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T15:54:26.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2378,
       "customEmojiId": "5411559308632546634",
@@ -4709,6 +4815,54 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-25T23:51:29.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 1733,
+      "customEmojiId": "5411559308632546634",
+      "gift_id": 7065024,
+      "name": "Perfume Bottle",
+      "model": "Orchard Glow (4%)",
+      "asset": "TON",
+      "symbol": "Monstera (0.4%)",
+      "backdrop": "Shamrock Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 75,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "U1KOD7FT",
+      "auction": {
+        "_id": "687a69f9aace4cd2f6affdab",
+        "gift_id": 7065024,
+        "seller": 0,
+        "auction_id": "U1KOD7FT",
+        "startingBid": 75,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 75,
+            "asset": "TON",
+            "_id": "687a78d0aace4cd2f61975d8",
+            "timestamp": "2025-07-18T16:39:44.596Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-19T15:36:24.704Z",
+        "status": "finished",
+        "gift_name": "Perfume Bottle",
+        "gift_num": 1733,
+        "model": "Orchard Glow (4%)",
+        "backdrop": "Shamrock Green (2%)",
+        "symbol": "Monstera (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-18T15:36:25.045Z",
+        "__v": 0,
+        "winningBid": 75,
+        "winningBidder": 1876463369
+      },
+      "export_at": "2025-07-21T20:11:08.000Z",
       "premarketData": {}
     },
     {
@@ -5257,6 +5411,26 @@
     }
   ],
   "Misty Smoke": [
+    {
+      "gift_num": 3075,
+      "customEmojiId": "5409113595340415462",
+      "gift_id": 7298793,
+      "name": "Perfume Bottle",
+      "model": "Misty Smoke (0.5%)",
+      "asset": "TON",
+      "symbol": "Bastet (0.4%)",
+      "backdrop": "Shamrock Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 913786,
+      "price": 639,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T15:32:32.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2922,
       "customEmojiId": "5409113595340415462",
