@@ -1082,6 +1082,102 @@
       "auction": null,
       "export_at": "2025-06-22T16:57:11.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 2859,
+      "customEmojiId": "5397720447263464396",
+      "gift_id": 7288249,
+      "name": "Precious Peach",
+      "model": "Malachite (1.5%)",
+      "asset": "TON",
+      "symbol": "Ghost (0.2%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 422.12,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "IUQLRZVX",
+      "auction": {
+        "_id": "687aacf6aace4cd2f6ae85cd",
+        "gift_id": 7288249,
+        "seller": 0,
+        "auction_id": "IUQLRZVX",
+        "startingBid": 300,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 300,
+            "asset": "TON",
+            "_id": "687bb983aace4cd2f641630f",
+            "timestamp": "2025-07-19T15:28:03.424Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 315,
+            "asset": "TON",
+            "_id": "687bcba7aace4cd2f67caadc",
+            "timestamp": "2025-07-19T16:45:27.365Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 330.75,
+            "asset": "TON",
+            "_id": "687bcc17aace4cd2f67d3260",
+            "timestamp": "2025-07-19T16:47:19.822Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 347.29,
+            "asset": "TON",
+            "_id": "687bccb7aace4cd2f67ddf99",
+            "timestamp": "2025-07-19T16:49:59.972Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 364.65,
+            "asset": "TON",
+            "_id": "687bcd17aace4cd2f67e2052",
+            "timestamp": "2025-07-19T16:51:35.016Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 382.88,
+            "asset": "TON",
+            "_id": "687bcea7aace4cd2f67fbe77",
+            "timestamp": "2025-07-19T16:58:15.623Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 402.02,
+            "asset": "TON",
+            "_id": "687bcf59aace4cd2f6810fff",
+            "timestamp": "2025-07-19T17:01:13.060Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 422.12,
+            "asset": "TON",
+            "_id": "687bcf6baace4cd2f68120d3",
+            "timestamp": "2025-07-19T17:01:31.418Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-19T17:14:49.229Z",
+        "status": "finished",
+        "gift_name": "Precious Peach",
+        "gift_num": 2859,
+        "model": "Malachite (1.5%)",
+        "backdrop": "Onyx Black (2%)",
+        "symbol": "Ghost (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-19T13:54:50.253Z",
+        "__v": 0,
+        "winningBid": 422.12,
+        "winningBidder": 1039379907
+      },
+      "export_at": "2025-08-01T20:21:38.000Z",
+      "premarketData": {}
     }
   ],
   "Fuzzy Lilac": [
@@ -1187,6 +1283,48 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    }
+  ],
+  "Neptune": [
+    {
+      "gift_num": 958,
+      "customEmojiId": "5375259808414853615",
+      "gift_id": 7223567,
+      "name": "Precious Peach",
+      "model": "Neptune (2%)",
+      "asset": "TON",
+      "symbol": "Carambola (0.4%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 905796,
+      "price": 270,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-28T23:43:42.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 866,
+      "customEmojiId": "5375259808414853615",
+      "gift_id": 7220240,
+      "name": "Precious Peach",
+      "model": "Neptune (2%)",
+      "asset": "TON",
+      "symbol": "Nordic Wolf (0.5%)",
+      "backdrop": "Mystic Pearl (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 905071,
+      "price": 280,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-28T19:43:38.000Z",
       "premarketData": {}
     }
   ],
@@ -2077,6 +2215,28 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T12:21:13.000Z",
+      "premarketData": {}
+    }
+  ],
+  "Cutie Pink": [
+    {
+      "gift_num": 1087,
+      "customEmojiId": "5402206355920543502",
+      "gift_id": 7252447,
+      "name": "Precious Peach",
+      "model": "Cutie Pink (1.5%)",
+      "asset": "TON",
+      "symbol": "Shooting Star (0.6%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 913827,
+      "price": 600,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T15:48:16.000Z",
       "premarketData": {}
     }
   ],
