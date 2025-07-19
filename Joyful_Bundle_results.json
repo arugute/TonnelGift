@@ -1129,6 +1129,26 @@
   ],
   "Ollie Squirrel": [
     {
+      "gift_num": 4279,
+      "customEmojiId": "5310186080308332539",
+      "gift_id": 960924163011,
+      "name": "Joyful Bundle",
+      "model": "Ollie Squirrel (1.5%)",
+      "asset": "TON",
+      "symbol": "Puffball (0.7%)",
+      "backdrop": "Emerald (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 6553,
       "customEmojiId": "5310186080308332539",
       "gift_id": 117909041181,
@@ -2716,7 +2736,7 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 4.99,
+      "price": 4.45,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3681,6 +3701,32 @@
   ],
   "Strawberry": [
     {
+      "gift_num": 2635,
+      "customEmojiId": "5312441870146629158",
+      "gift_id": 820919113439,
+      "name": "Joyful Bundle",
+      "model": "Strawberry (3%)",
+      "asset": "TON",
+      "symbol": "Bunny Ears (0.5%)",
+      "backdrop": "Persimmon (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 0.8,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 4.24,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-02T16:24:59.666Z"
+      }
+    },
+    {
       "gift_num": 7323,
       "customEmojiId": "5312441870146629158",
       "gift_id": 714488621733,
@@ -3699,32 +3745,6 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
-    {
-      "gift_num": 2635,
-      "customEmojiId": "5312441870146629158",
-      "gift_id": 820919113439,
-      "name": "Joyful Bundle",
-      "model": "Strawberry (3%)",
-      "asset": "TON",
-      "symbol": "Bunny Ears (0.5%)",
-      "backdrop": "Persimmon (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 5.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 0.8,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 4.24,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-08-02T16:24:59.666Z"
-      }
     },
     {
       "gift_num": 19189,
