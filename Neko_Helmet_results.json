@@ -1,6 +1,26 @@
 {
   "Grey Shark": [
     {
+      "gift_num": 8701,
+      "customEmojiId": "5350729317452113907",
+      "gift_id": 6230876,
+      "name": "Neko Helmet",
+      "model": "Grey Shark (1.5%)",
+      "asset": "TON",
+      "symbol": "Pixel Heart (0.4%)",
+      "backdrop": "Dark Lilac (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 29,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-25T13:41:31.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12139,
       "customEmojiId": "5350729317452113907",
       "gift_id": 7275412,
@@ -466,6 +486,26 @@
     }
   ],
   "Shockwave": [
+    {
+      "gift_num": 7529,
+      "customEmojiId": "5352914218855196914",
+      "gift_id": 7317787,
+      "name": "Neko Helmet",
+      "model": "Shockwave (2.7%)",
+      "asset": "TON",
+      "symbol": "Panty (0.2%)",
+      "backdrop": "Cyberpunk (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 26,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-03T21:42:09.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3630,
       "customEmojiId": "5352914218855196914",
@@ -6282,6 +6322,24 @@
   ],
   "Jade Breeze": [
     {
+      "gift_num": 698,
+      "customEmojiId": "5350612283888267222",
+      "gift_id": 593604755504,
+      "name": "Neko Helmet",
+      "model": "Jade Breeze (2.5%)",
+      "asset": "TON",
+      "symbol": "Carrot (0.2%)",
+      "backdrop": "Mexican Pink (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 49.572,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 9045,
       "customEmojiId": "5350612283888267222",
       "gift_id": 593807432004,
@@ -6431,6 +6489,68 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 12210,
+      "customEmojiId": "5350612283888267222",
+      "gift_id": 7266531,
+      "name": "Neko Helmet",
+      "model": "Jade Breeze (2.5%)",
+      "asset": "TON",
+      "symbol": "Handcuffs (0.5%)",
+      "backdrop": "Carmine (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 22.61,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "QFNBOM1K",
+      "auction": {
+        "_id": "687be05daace4cd2f62dccd6",
+        "gift_id": 7266531,
+        "seller": 0,
+        "auction_id": "QFNBOM1K",
+        "startingBid": 20,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 20.5,
+            "asset": "TON",
+            "_id": "687d2b3daace4cd2f6efcc96",
+            "timestamp": "2025-07-20T17:45:33.598Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 21.53,
+            "asset": "TON",
+            "_id": "687d3af3aace4cd2f6fa2397",
+            "timestamp": "2025-07-20T18:52:35.975Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 22.61,
+            "asset": "TON",
+            "_id": "687d509faace4cd2f60dcc3d",
+            "timestamp": "2025-07-20T20:25:03.142Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-20T21:15:13.800Z",
+        "status": "finished",
+        "gift_name": "Neko Helmet",
+        "gift_num": 12210,
+        "model": "Jade Breeze (2.5%)",
+        "backdrop": "Carmine (1.5%)",
+        "symbol": "Handcuffs (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-20T15:15:14.671Z",
+        "__v": 0,
+        "winningBid": 22.61,
+        "winningBidder": 7352255987
+      },
+      "export_at": "2025-07-31T12:39:04.000Z",
       "premarketData": {}
     },
     {
@@ -6803,44 +6923,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-25T18:40:18.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4004,
-      "customEmojiId": "5350612283888267222",
-      "gift_id": 593609890566,
-      "name": "Neko Helmet",
-      "model": "Jade Breeze (2.5%)",
-      "asset": "TON",
-      "symbol": "Mailbox (0.5%)",
-      "backdrop": "Chestnut (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 247.86,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 14169,
-      "customEmojiId": "5350612283888267222",
-      "gift_id": 7149476,
-      "name": "Neko Helmet",
-      "model": "Jade Breeze (2.5%)",
-      "asset": "TON",
-      "symbol": "Nigiri (0.4%)",
-      "backdrop": "Strawberry (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 21,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T07:23:23.000Z",
       "premarketData": {}
     }
   ],
@@ -7769,6 +7851,26 @@
     }
   ],
   "Sky Diver": [
+    {
+      "gift_num": 11429,
+      "customEmojiId": "5336912291696767358",
+      "gift_id": 7316461,
+      "name": "Neko Helmet",
+      "model": "Sky Diver (0.5%)",
+      "asset": "TON",
+      "symbol": "Jewel (0.5%)",
+      "backdrop": "Chestnut (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 55,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-03T19:52:00.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 5783,
       "customEmojiId": "5336912291696767358",
@@ -10073,6 +10175,24 @@
     }
   ],
   "Starry Sky": [
+    {
+      "gift_num": 1623,
+      "customEmojiId": "5355135275292976964",
+      "gift_id": 593590060702,
+      "name": "Neko Helmet",
+      "model": "Starry Sky (1.5%)",
+      "asset": "TON",
+      "symbol": "Pencil (0.4%)",
+      "backdrop": "Emerald (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 192.78,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 15020,
       "customEmojiId": "5355135275292976964",
@@ -14355,26 +14475,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 8894,
-      "customEmojiId": "5357143258403201559",
-      "gift_id": 6936405,
-      "name": "Neko Helmet",
-      "model": "Strawberry (2%)",
-      "asset": "TON",
-      "symbol": "Kitsune Mask (0.5%)",
-      "backdrop": "Black (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 881493,
-      "price": 250,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-16T14:20:32.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 13503,
       "customEmojiId": "5357143258403201559",
       "gift_id": 596982280848,
@@ -14510,6 +14610,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-25T19:56:28.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 6943,
+      "customEmojiId": "5357143258403201559",
+      "gift_id": 1647018,
+      "name": "Neko Helmet",
+      "model": "Strawberry (2%)",
+      "asset": "TON",
+      "symbol": "Conch (0.5%)",
+      "backdrop": "English Violet (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 100,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-03-29T15:08:19.000Z",
       "premarketData": {}
     }
   ],
@@ -17313,6 +17433,24 @@
   ],
   "Solar Glare": [
     {
+      "gift_num": 11318,
+      "customEmojiId": "5352943635086210017",
+      "gift_id": 594028672641,
+      "name": "Neko Helmet",
+      "model": "Solar Glare (2.7%)",
+      "asset": "TON",
+      "symbol": "Oxen of Fire (0.5%)",
+      "backdrop": "Camo Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 44.064,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 6119,
       "customEmojiId": "5352943635086210017",
       "gift_id": 593829773135,
@@ -17865,24 +18003,6 @@
       "auction": null,
       "export_at": "2025-03-29T10:04:46.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 82,
-      "customEmojiId": "5352943635086210017",
-      "gift_id": 593397474369,
-      "name": "Neko Helmet",
-      "model": "Solar Glare (2.7%)",
-      "asset": "TON",
-      "symbol": "Hammerhead (0.4%)",
-      "backdrop": "Navy Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 99.144,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Princess": [
@@ -18143,6 +18263,26 @@
     }
   ],
   "Biker Girl": [
+    {
+      "gift_num": 14708,
+      "customEmojiId": "5352620885473782014",
+      "gift_id": 7317769,
+      "name": "Neko Helmet",
+      "model": "Biker Girl (2%)",
+      "asset": "TON",
+      "symbol": "Monarch (0.4%)",
+      "backdrop": "Midnight Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 39,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-03T21:40:34.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3135,
       "customEmojiId": "5352620885473782014",
@@ -18703,26 +18843,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-29T07:51:08.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 12057,
-      "customEmojiId": "5352620885473782014",
-      "gift_id": 6584194,
-      "name": "Neko Helmet",
-      "model": "Biker Girl (2%)",
-      "asset": "TON",
-      "symbol": "Love Scene (0.5%)",
-      "backdrop": "Dark Lilac (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 64,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-02T21:01:31.000Z",
       "premarketData": {}
     }
   ],
