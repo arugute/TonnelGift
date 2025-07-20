@@ -684,6 +684,26 @@
     {
       "gift_num": 3382,
       "customEmojiId": "5400290499858817167",
+      "gift_id": 7317193,
+      "name": "Ion Gem",
+      "model": "Chaos Emerald (2%)",
+      "asset": "TON",
+      "symbol": "Love Letter (0.4%)",
+      "backdrop": "Hunter Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 100,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-03T20:49:39.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3382,
+      "customEmojiId": "5400290499858817167",
       "gift_id": 1943608,
       "name": "Ion Gem",
       "model": "Chaos Emerald (2%)",
@@ -920,6 +940,60 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-18T10:42:46.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3382,
+      "customEmojiId": "5400290499858817167",
+      "gift_id": 7312225,
+      "name": "Ion Gem",
+      "model": "Chaos Emerald (2%)",
+      "asset": "TON",
+      "symbol": "Love Letter (0.4%)",
+      "backdrop": "Hunter Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 66.68,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "A95AY6FM",
+      "auction": {
+        "_id": "687cfd5eaace4cd2f67642d5",
+        "gift_id": 7312225,
+        "seller": 0,
+        "auction_id": "A95AY6FM",
+        "startingBid": 5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 63.5,
+            "asset": "TON",
+            "_id": "687d0130aace4cd2f68292e0",
+            "timestamp": "2025-07-20T14:46:08.842Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 66.68,
+            "asset": "TON",
+            "_id": "687d3f87aace4cd2f6fd5158",
+            "timestamp": "2025-07-20T19:12:07.810Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-20T20:29:49.303Z",
+        "status": "finished",
+        "gift_name": "Ion Gem",
+        "gift_num": 3382,
+        "model": "Chaos Emerald (2%)",
+        "backdrop": "Hunter Green (1.5%)",
+        "symbol": "Love Letter (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-20T14:29:50.469Z",
+        "__v": 0,
+        "winningBid": 66.68,
+        "winningBidder": 1478465649
+      },
+      "export_at": "2025-08-03T14:28:49.000Z",
       "premarketData": {}
     }
   ],
@@ -1280,26 +1354,6 @@
     }
   ],
   "Ultraviolet": [
-    {
-      "gift_num": 1110,
-      "customEmojiId": "5429110297350663181",
-      "gift_id": 7303494,
-      "name": "Ion Gem",
-      "model": "Ultraviolet (2%)",
-      "asset": "TON",
-      "symbol": "Car (0.5%)",
-      "backdrop": "Sapphire (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 70,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T21:26:28.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 3294,
       "customEmojiId": "5429110297350663181",
@@ -5779,7 +5833,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 80,
+      "price": 76,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -7314,6 +7368,26 @@
     }
   ],
   "Redwood": [
+    {
+      "gift_num": 1881,
+      "customEmojiId": "5438502871135970265",
+      "gift_id": 7316888,
+      "name": "Ion Gem",
+      "model": "Redwood (2%)",
+      "asset": "TON",
+      "symbol": "Sword (0.5%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 915849,
+      "price": 180,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-03T20:27:08.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3508,
       "customEmojiId": "5438502871135970265",
