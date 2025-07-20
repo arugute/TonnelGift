@@ -1,6 +1,26 @@
 {
   "Midnight Rose": [
     {
+      "gift_num": 11802,
+      "customEmojiId": "5406694983291920649",
+      "gift_id": 7310923,
+      "name": "Love Candle",
+      "model": "Midnight Rose (3%)",
+      "asset": "TON",
+      "symbol": "Palette (0.4%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 27,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-03T12:56:19.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 10933,
       "customEmojiId": "5406694983291920649",
       "gift_id": 7301131,
@@ -13,31 +33,11 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 8.94,
+      "price": 8.49,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "export_at": "2025-08-02T18:20:56.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7135,
-      "customEmojiId": "5406694983291920649",
-      "gift_id": 7307063,
-      "name": "Love Candle",
-      "model": "Midnight Rose (3%)",
-      "asset": "TON",
-      "symbol": "Amour Scoops (0.6%)",
-      "backdrop": "Silver Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-03T06:19:15.000Z",
       "premarketData": {}
     },
     {
@@ -4213,6 +4213,131 @@
   ],
   "Blue Vapor": [
     {
+      "gift_num": 17744,
+      "customEmojiId": "5215493703677795648",
+      "gift_id": 7300794,
+      "name": "Love Candle",
+      "model": "Blue Vapor (1.5%)",
+      "asset": "TON",
+      "symbol": "Sun Lion (0.4%)",
+      "backdrop": "Indigo Dye (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9.17,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ZCOL2SKI",
+      "auction": {
+        "_id": "687bdcf7aace4cd2f629db3d",
+        "gift_id": 7300794,
+        "seller": 0,
+        "auction_id": "ZCOL2SKI",
+        "startingBid": 5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "687cc750aace4cd2f6bcd416",
+            "timestamp": "2025-07-20T10:39:12.313Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "687ccd13aace4cd2f6c6384d",
+            "timestamp": "2025-07-20T11:03:47.215Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.51,
+            "asset": "TON",
+            "_id": "687ccd31aace4cd2f6c8ae98",
+            "timestamp": "2025-07-20T11:04:17.570Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.79,
+            "asset": "TON",
+            "_id": "687cce17aace4cd2f6df0d66",
+            "timestamp": "2025-07-20T11:08:07.759Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.5,
+            "asset": "TON",
+            "_id": "687ccf77aace4cd2f6fa5468",
+            "timestamp": "2025-07-20T11:13:59.457Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.83,
+            "asset": "TON",
+            "_id": "687ccfa6aace4cd2f6faa602",
+            "timestamp": "2025-07-20T11:14:46.966Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.17,
+            "asset": "TON",
+            "_id": "687cd193aace4cd2f6fc21e5",
+            "timestamp": "2025-07-20T11:22:59.894Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.53,
+            "asset": "TON",
+            "_id": "687cd1e6aace4cd2f6fc5064",
+            "timestamp": "2025-07-20T11:24:22.160Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.91,
+            "asset": "TON",
+            "_id": "687cd21eaace4cd2f6fc7d0d",
+            "timestamp": "2025-07-20T11:25:18.362Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.31,
+            "asset": "TON",
+            "_id": "687cd2bfaace4cd2f6fcd3cf",
+            "timestamp": "2025-07-20T11:27:59.582Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.73,
+            "asset": "TON",
+            "_id": "687cd41daace4cd2f6ff05ed",
+            "timestamp": "2025-07-20T11:33:49.692Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.17,
+            "asset": "TON",
+            "_id": "687cd493aace4cd2f60000b3",
+            "timestamp": "2025-07-20T11:35:47.605Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-20T11:46:55.015Z",
+        "status": "finished",
+        "gift_name": "Love Candle",
+        "gift_num": 17744,
+        "model": "Blue Vapor (1.5%)",
+        "backdrop": "Indigo Dye (2%)",
+        "symbol": "Sun Lion (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-20T10:36:55.789Z",
+        "__v": 0,
+        "winningBid": 9.17,
+        "winningBidder": 6198558202
+      },
+      "export_at": "2025-08-02T17:59:09.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12428,
       "customEmojiId": "5215493703677795648",
       "gift_id": 5470924,
@@ -4514,6 +4639,54 @@
     }
   ],
   "Celebrity": [
+    {
+      "gift_num": 7613,
+      "customEmojiId": "5213167807088320378",
+      "gift_id": 7295138,
+      "name": "Love Candle",
+      "model": "Celebrity (1.5%)",
+      "asset": "TON",
+      "symbol": "Flower (0.6%)",
+      "backdrop": "Satin Gold (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "E14KXTJX",
+      "auction": {
+        "_id": "687cca8daace4cd2f6bed0e3",
+        "gift_id": 7295138,
+        "seller": 0,
+        "auction_id": "E14KXTJX",
+        "startingBid": 7,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 7,
+            "asset": "TON",
+            "_id": "687ccdfaaace4cd2f6da64ec",
+            "timestamp": "2025-07-20T11:07:38.558Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-20T11:53:00.632Z",
+        "status": "finished",
+        "gift_name": "Love Candle",
+        "gift_num": 7613,
+        "model": "Celebrity (1.5%)",
+        "backdrop": "Satin Gold (1.5%)",
+        "symbol": "Flower (0.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-20T10:53:01.453Z",
+        "__v": 0,
+        "winningBid": 7,
+        "winningBidder": 6198558202
+      },
+      "export_at": "2025-08-02T11:04:16.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 14705,
       "customEmojiId": "5213167807088320378",
@@ -7970,6 +8143,26 @@
   ],
   "Vivid Foam": [
     {
+      "gift_num": 16796,
+      "customEmojiId": "5203975932829788662",
+      "gift_id": 7120231,
+      "name": "Love Candle",
+      "model": "Vivid Foam (0.5%)",
+      "asset": "TON",
+      "symbol": "Lovely Key (0.6%)",
+      "backdrop": "Purple (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 25,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-24T05:38:49.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3528,
       "customEmojiId": "5203975932829788662",
       "gift_id": 2081009,
@@ -8167,26 +8360,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-04T09:10:47.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16796,
-      "customEmojiId": "5203975932829788662",
-      "gift_id": 7120231,
-      "name": "Love Candle",
-      "model": "Vivid Foam (0.5%)",
-      "asset": "TON",
-      "symbol": "Lovely Key (0.6%)",
-      "backdrop": "Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T05:38:49.000Z",
       "premarketData": {}
     },
     {
@@ -10097,26 +10270,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 15300,
-      "customEmojiId": "5406696585314722701",
-      "gift_id": 7309341,
-      "name": "Love Candle",
-      "model": "Silver Temple (3%)",
-      "asset": "TON",
-      "symbol": "Aubergine (0.4%)",
-      "backdrop": "Dark Lilac (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-03T10:48:51.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 14935,
       "customEmojiId": "5406696585314722701",
       "gift_id": 7173473,
@@ -10659,6 +10812,26 @@
   ],
   "Gentle Wind": [
     {
+      "gift_num": 15788,
+      "customEmojiId": "5411123807538667253",
+      "gift_id": 7294142,
+      "name": "Love Candle",
+      "model": "Gentle Wind (3%)",
+      "asset": "TON",
+      "symbol": "High Heels (0.6%)",
+      "backdrop": "Desert Sand (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6.84,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T09:52:56.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 9562,
       "customEmojiId": "5411123807538667253",
       "gift_id": 7308147,
@@ -10676,26 +10849,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-03T08:50:25.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15788,
-      "customEmojiId": "5411123807538667253",
-      "gift_id": 7294142,
-      "name": "Love Candle",
-      "model": "Gentle Wind (3%)",
-      "asset": "TON",
-      "symbol": "High Heels (0.6%)",
-      "backdrop": "Desert Sand (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T09:52:56.000Z",
       "premarketData": {}
     },
     {
@@ -11863,6 +12016,26 @@
   ],
   "Surprise": [
     {
+      "gift_num": 5142,
+      "customEmojiId": "5449722562663702081",
+      "gift_id": 7310526,
+      "name": "Love Candle",
+      "model": "Surprise (1.5%)",
+      "asset": "TON",
+      "symbol": "Turtle (0.4%)",
+      "backdrop": "Grape (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-03T12:22:24.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 17591,
       "customEmojiId": "5449722562663702081",
       "gift_id": 7210223,
@@ -12440,26 +12613,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-07T14:47:15.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 151,
-      "customEmojiId": "5449722562663702081",
-      "gift_id": 5796485,
-      "name": "Love Candle",
-      "model": "Surprise (1.5%)",
-      "asset": "TON",
-      "symbol": "Moon (1%)",
-      "backdrop": "Dark Lilac (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 41,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-20T21:18:20.000Z",
       "premarketData": {}
     }
   ],
@@ -13209,6 +13362,26 @@
   ],
   "Crystal Dream": [
     {
+      "gift_num": 15918,
+      "customEmojiId": "5411343920317620175",
+      "gift_id": 7263811,
+      "name": "Love Candle",
+      "model": "Crystal Dream (3%)",
+      "asset": "TON",
+      "symbol": "Cocktail (1%)",
+      "backdrop": "Desert Sand (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T09:16:33.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 17337,
       "customEmojiId": "5411343920317620175",
       "gift_id": 7308571,
@@ -13246,26 +13419,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T13:08:29.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15918,
-      "customEmojiId": "5411343920317620175",
-      "gift_id": 7263811,
-      "name": "Love Candle",
-      "model": "Crystal Dream (3%)",
-      "asset": "TON",
-      "symbol": "Cocktail (1%)",
-      "backdrop": "Desert Sand (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T09:16:33.000Z",
       "premarketData": {}
     },
     {
@@ -17569,7 +17722,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 7.6,
+      "price": 7,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -18233,7 +18386,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 8.25,
+      "price": 8,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -18845,6 +18998,26 @@
   ],
   "Ocean Breeze": [
     {
+      "gift_num": 5268,
+      "customEmojiId": "5393619651143950996",
+      "gift_id": 7295306,
+      "name": "Love Candle",
+      "model": "Ocean Breeze (3%)",
+      "asset": "TON",
+      "symbol": "Boat (0.4%)",
+      "backdrop": "Light Olive (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T11:15:04.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12563,
       "customEmojiId": "5393619651143950996",
       "gift_id": 7279924,
@@ -18902,26 +19075,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-16T21:44:43.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5268,
-      "customEmojiId": "5393619651143950996",
-      "gift_id": 7295306,
-      "name": "Love Candle",
-      "model": "Ocean Breeze (3%)",
-      "asset": "TON",
-      "symbol": "Boat (0.4%)",
-      "backdrop": "Light Olive (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T11:15:04.000Z",
       "premarketData": {}
     },
     {
@@ -20982,7 +21135,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 7.7,
+      "price": 7.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
