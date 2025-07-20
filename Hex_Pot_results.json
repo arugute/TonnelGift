@@ -1325,6 +1325,102 @@
       "auction": null,
       "export_at": "2025-04-28T23:18:19.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 13555,
+      "customEmojiId": "5431712021034852692",
+      "gift_id": 7292711,
+      "name": "Hex Pot",
+      "model": "Hypnosis (0.8%)",
+      "asset": "TON",
+      "symbol": "Viking (0.2%)",
+      "backdrop": "Rosewood (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2.83,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "9OGSDN7A",
+      "auction": {
+        "_id": "687b4c48aace4cd2f6484fe3",
+        "gift_id": 7292711,
+        "seller": 0,
+        "auction_id": "9OGSDN7A",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "687c09e7aace4cd2f6152393",
+            "timestamp": "2025-07-19T21:11:03.641Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "687c1678aace4cd2f61dd6c5",
+            "timestamp": "2025-07-19T22:04:40.893Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "687c1726aace4cd2f61f2103",
+            "timestamp": "2025-07-19T22:07:34.354Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "687c2a70aace4cd2f649430f",
+            "timestamp": "2025-07-19T23:29:52.985Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "687c2ab6aace4cd2f6495412",
+            "timestamp": "2025-07-19T23:31:02.733Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.56,
+            "asset": "TON",
+            "_id": "687c2ae2aace4cd2f64997eb",
+            "timestamp": "2025-07-19T23:31:46.830Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.69,
+            "asset": "TON",
+            "_id": "687c2b00aace4cd2f649cfd4",
+            "timestamp": "2025-07-19T23:32:16.364Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.83,
+            "asset": "TON",
+            "_id": "687c53a5aace4cd2f66217ae",
+            "timestamp": "2025-07-20T02:25:41.493Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-20T03:09:37.565Z",
+        "status": "finished",
+        "gift_name": "Hex Pot",
+        "gift_num": 13555,
+        "model": "Hypnosis (0.8%)",
+        "backdrop": "Rosewood (1.5%)",
+        "symbol": "Viking (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-19T21:09:37.310Z",
+        "__v": 0,
+        "winningBid": 2.83,
+        "winningBidder": 6556243059
+      },
+      "export_at": "2025-08-02T07:41:29.000Z",
+      "premarketData": {}
     }
   ],
   "Tornado": [
@@ -8125,26 +8221,6 @@
   ],
   "Vermilion": [
     {
-      "gift_num": 4881,
-      "customEmojiId": "5431617742207737696",
-      "gift_id": 7293067,
-      "name": "Hex Pot",
-      "model": "Vermilion (2.5%)",
-      "asset": "TON",
-      "symbol": "Sauron (2.4%)",
-      "backdrop": "Light Olive (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.31,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T08:10:16.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 3706,
       "customEmojiId": "5431617742207737696",
       "gift_id": 7300626,
@@ -8771,6 +8847,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-21T23:13:33.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 7474,
+      "customEmojiId": "5431617742207737696",
+      "gift_id": 5952950,
+      "name": "Hex Pot",
+      "model": "Vermilion (2.5%)",
+      "asset": "TON",
+      "symbol": "Happy Smile (1.6%)",
+      "backdrop": "Chocolate (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-23T11:49:35.000Z",
       "premarketData": {}
     }
   ],
@@ -13443,26 +13539,6 @@
   ],
   "Blueprint": [
     {
-      "gift_num": 47050,
-      "customEmojiId": "5431348679686513191",
-      "gift_id": 7247824,
-      "name": "Hex Pot",
-      "model": "Blueprint (0.8%)",
-      "asset": "TON",
-      "symbol": "Sauron (2.4%)",
-      "backdrop": "Copper (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.32,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T11:17:01.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 24861,
       "customEmojiId": "5431348679686513191",
       "gift_id": 7283059,
@@ -17185,6 +17261,26 @@
   ],
   "Neon": [
     {
+      "gift_num": 26794,
+      "customEmojiId": "5431414311081763670",
+      "gift_id": 7147126,
+      "name": "Hex Pot",
+      "model": "Neon (0.8%)",
+      "asset": "TON",
+      "symbol": "Rhino Warrior (0.2%)",
+      "backdrop": "Lavender (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-25T01:12:15.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 42771,
       "customEmojiId": "5431414311081763670",
       "gift_id": 7196628,
@@ -19274,6 +19370,26 @@
   ],
   "Golden Glow": [
     {
+      "gift_num": 19493,
+      "customEmojiId": "5431873417315901077",
+      "gift_id": 6800523,
+      "name": "Hex Pot",
+      "model": "Golden Glow (1.3%)",
+      "asset": "TON",
+      "symbol": "Ghost (2%)",
+      "backdrop": "French Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-11T13:36:24.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 34443,
       "customEmojiId": "5431873417315901077",
       "gift_id": 7304215,
@@ -19691,26 +19807,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T08:14:49.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 19493,
-      "customEmojiId": "5431873417315901077",
-      "gift_id": 6800523,
-      "name": "Hex Pot",
-      "model": "Golden Glow (1.3%)",
-      "asset": "TON",
-      "symbol": "Ghost (2%)",
-      "backdrop": "French Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-11T13:36:24.000Z",
       "premarketData": {}
     },
     {
@@ -26538,26 +26634,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 45259,
-      "customEmojiId": "5431370639854297912",
-      "gift_id": 7264177,
-      "name": "Hex Pot",
-      "model": "Matrix (0.8%)",
-      "asset": "TON",
-      "symbol": "Moon (1.6%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 50,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T09:46:06.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 15900,
       "customEmojiId": "5431370639854297912",
       "gift_id": 7260518,
@@ -28201,7 +28277,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.5,
+      "price": 4,
       "status": "forsale",
       "limited": false,
       "auction": null,
