@@ -2734,6 +2734,26 @@
   ],
   "Spinel": [
     {
+      "gift_num": 3647,
+      "customEmojiId": "5228847641764324578",
+      "gift_id": 7310347,
+      "name": "Astral Shard",
+      "model": "Spinel (2.4%)",
+      "asset": "TON",
+      "symbol": "Pegasus (0.8%)",
+      "backdrop": "Emerald (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 79,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-03T12:07:02.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3451,
       "customEmojiId": "5228847641764324578",
       "gift_id": 584808012223,
@@ -2749,26 +2769,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3647,
-      "customEmojiId": "5228847641764324578",
-      "gift_id": 7310347,
-      "name": "Astral Shard",
-      "model": "Spinel (2.4%)",
-      "asset": "TON",
-      "symbol": "Pegasus (0.8%)",
-      "backdrop": "Emerald (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 82.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-03T12:07:02.000Z",
       "premarketData": {}
     },
     {
@@ -3203,6 +3203,54 @@
     }
   ],
   "Jurassic": [
+    {
+      "gift_num": 4473,
+      "customEmojiId": "5229213023222131686",
+      "gift_id": 7300672,
+      "name": "Astral Shard",
+      "model": "Jurassic (2%)",
+      "asset": "TON",
+      "symbol": "Bone (0.2%)",
+      "backdrop": "Purple (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 69,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "MFVQY69Q",
+      "auction": {
+        "_id": "687bdb56aace4cd2f6288030",
+        "gift_id": 7300672,
+        "seller": 0,
+        "auction_id": "MFVQY69Q",
+        "startingBid": 69,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 69,
+            "asset": "TON",
+            "_id": "687d2460aace4cd2f6b3186a",
+            "timestamp": "2025-07-20T17:16:16.438Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-20T18:05:22.530Z",
+        "status": "finished",
+        "gift_name": "Astral Shard",
+        "gift_num": 4473,
+        "model": "Jurassic (2%)",
+        "backdrop": "Purple (1.5%)",
+        "symbol": "Bone (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-20T16:05:24.389Z",
+        "__v": 0,
+        "winningBid": 69,
+        "winningBidder": 8173622469
+      },
+      "export_at": "2025-08-02T17:50:34.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 5273,
       "customEmojiId": "5229213023222131686",
@@ -7362,6 +7410,26 @@
     }
   ],
   "Ethereal": [
+    {
+      "gift_num": 624,
+      "customEmojiId": "5228725956750894991",
+      "gift_id": 7144537,
+      "name": "Astral Shard",
+      "model": "Ethereal (2.4%)",
+      "asset": "TON",
+      "symbol": "Fire (0.2%)",
+      "backdrop": "Sky Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 915670,
+      "price": 250,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-24T22:09:29.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2305,
       "customEmojiId": "5228725956750894991",
