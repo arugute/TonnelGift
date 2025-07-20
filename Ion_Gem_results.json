@@ -385,6 +385,24 @@
   ],
   "Sapphire": [
     {
+      "gift_num": 653,
+      "customEmojiId": "5400294945149968145",
+      "gift_id": 584145719676,
+      "name": "Ion Gem",
+      "model": "Sapphire (2%)",
+      "asset": "TON",
+      "symbol": "Brain (0.4%)",
+      "backdrop": "Persimmon (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 192.78,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 764,
       "customEmojiId": "5400294945149968145",
       "gift_id": 6768877,
@@ -643,6 +661,117 @@
     }
   ],
   "Chaos Emerald": [
+    {
+      "gift_num": 3382,
+      "customEmojiId": "5400290499858817167",
+      "gift_id": 1943608,
+      "name": "Ion Gem",
+      "model": "Chaos Emerald (2%)",
+      "asset": "TON",
+      "symbol": "Love Letter (0.4%)",
+      "backdrop": "Hunter Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 66.15,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "GV19GL6T",
+      "auction": {
+        "_id": "687bb5c8aace4cd2f63a911a",
+        "gift_id": 1943608,
+        "seller": 0,
+        "auction_id": "GV19GL6T",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 3.5778,
+            "asset": "TON",
+            "_id": "687cc045aace4cd2f6b907c1",
+            "timestamp": "2025-07-20T10:09:09.666Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.76,
+            "asset": "TON",
+            "_id": "687cc057aace4cd2f6b90944",
+            "timestamp": "2025-07-20T10:09:27.395Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.95,
+            "asset": "TON",
+            "_id": "687cc192aace4cd2f6b9642d",
+            "timestamp": "2025-07-20T10:14:42.581Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 40,
+            "asset": "TON",
+            "_id": "687cc1bbaace4cd2f6b9676a",
+            "timestamp": "2025-07-20T10:15:23.643Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 42,
+            "asset": "TON",
+            "_id": "687cc318aace4cd2f6b9f828",
+            "timestamp": "2025-07-20T10:21:12.903Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 44.1,
+            "asset": "TON",
+            "_id": "687cc3bbaace4cd2f6ba9d43",
+            "timestamp": "2025-07-20T10:23:55.362Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 46.31,
+            "asset": "TON",
+            "_id": "687cc3d8aace4cd2f6bae432",
+            "timestamp": "2025-07-20T10:24:24.242Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 60,
+            "asset": "TON",
+            "_id": "687cc4c8aace4cd2f6bb6ff2",
+            "timestamp": "2025-07-20T10:28:24.003Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 63,
+            "asset": "TON",
+            "_id": "687cc510aace4cd2f6bb81d0",
+            "timestamp": "2025-07-20T10:29:36.877Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 66.15,
+            "asset": "TON",
+            "_id": "687cda76aace4cd2f616e0cc",
+            "timestamp": "2025-07-20T12:00:54.737Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-20T12:16:55.664Z",
+        "status": "finished",
+        "gift_name": "Ion Gem",
+        "gift_num": 3382,
+        "model": "Chaos Emerald (2%)",
+        "backdrop": "Hunter Green (1.5%)",
+        "symbol": "Love Letter (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-20T10:06:57.198Z",
+        "__v": 0,
+        "winningBid": 66.15,
+        "winningBidder": 1054989294
+      },
+      "export_at": "2025-04-01T13:00:26.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2299,
       "customEmojiId": "5400290499858817167",
@@ -1131,26 +1260,6 @@
     }
   ],
   "Ultraviolet": [
-    {
-      "gift_num": 1777,
-      "customEmojiId": "5429110297350663181",
-      "gift_id": 7300981,
-      "name": "Ion Gem",
-      "model": "Ultraviolet (2%)",
-      "asset": "TON",
-      "symbol": "War Tiger (0.4%)",
-      "backdrop": "Lavender (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 70,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T18:11:56.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 1110,
       "customEmojiId": "5429110297350663181",
@@ -5597,6 +5706,26 @@
     }
   ],
   "Honey Gold": [
+    {
+      "gift_num": 402,
+      "customEmojiId": "5395768736814751033",
+      "gift_id": 7309657,
+      "name": "Ion Gem",
+      "model": "Honey Gold (3%)",
+      "asset": "TON",
+      "symbol": "Sword (0.5%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 68,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-03T11:12:34.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 328,
       "customEmojiId": "5395768736814751033",
