@@ -1,6 +1,32 @@
 {
   "Pure Gold": [
     {
+      "gift_num": 3765,
+      "customEmojiId": "5307743824464867488",
+      "gift_id": 568625766131,
+      "name": "Joyful Bundle",
+      "model": "Pure Gold (0.5%)",
+      "asset": "TON",
+      "symbol": "Ladybug (0.7%)",
+      "backdrop": "Pistachio (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 24.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 3,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 15.9,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-03T19:32:16.536Z"
+      }
+    },
+    {
       "gift_num": 2914,
       "customEmojiId": "5307743824464867488",
       "gift_id": 765515070927,
@@ -39,32 +65,6 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
-    {
-      "gift_num": 3765,
-      "customEmojiId": "5307743824464867488",
-      "gift_id": 568625766131,
-      "name": "Joyful Bundle",
-      "model": "Pure Gold (0.5%)",
-      "asset": "TON",
-      "symbol": "Ladybug (0.7%)",
-      "backdrop": "Pistachio (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 38,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 3,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 15.9,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-08-03T19:32:16.536Z"
-      }
     },
     {
       "gift_num": 1724,
@@ -806,6 +806,26 @@
     }
   ],
   "Honey Bear": [
+    {
+      "gift_num": 14972,
+      "customEmojiId": "5206440672827045148",
+      "gift_id": 767584405102,
+      "name": "Joyful Bundle",
+      "model": "Honey Bear (3%)",
+      "asset": "TON",
+      "symbol": "Planet (0.4%)",
+      "backdrop": "Navy Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 8.53,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
     {
       "gift_num": 6585,
       "customEmojiId": "5206440672827045148",
