@@ -937,6 +937,26 @@
   ],
   "Bright Amber": [
     {
+      "gift_num": 782,
+      "customEmojiId": "5377599418834903842",
+      "gift_id": 7159644,
+      "name": "Precious Peach",
+      "model": "Bright Amber (1.5%)",
+      "asset": "TON",
+      "symbol": "Cupcake (0.2%)",
+      "backdrop": "Carrot Juice (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 916833,
+      "price": 742,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-25T16:24:51.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1030,
       "customEmojiId": "5377599418834903842",
       "gift_id": 7243952,
@@ -954,26 +974,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T05:57:27.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 782,
-      "customEmojiId": "5377599418834903842",
-      "gift_id": 7159644,
-      "name": "Precious Peach",
-      "model": "Bright Amber (1.5%)",
-      "asset": "TON",
-      "symbol": "Cupcake (0.2%)",
-      "backdrop": "Carrot Juice (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 897293,
-      "price": 1000,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T16:24:51.000Z",
       "premarketData": {}
     },
     {
@@ -1471,26 +1471,6 @@
     }
   ],
   "Elegance": [
-    {
-      "gift_num": 1600,
-      "customEmojiId": "5377364801951388561",
-      "gift_id": 7325039,
-      "name": "Precious Peach",
-      "model": "Elegance (1.5%)",
-      "asset": "TON",
-      "symbol": "Dice (0.5%)",
-      "backdrop": "Amber (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 916726,
-      "price": 350,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T12:51:19.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 1619,
       "customEmojiId": "5377364801951388561",
@@ -2150,6 +2130,26 @@
   ],
   "Bright Coral": [
     {
+      "gift_num": 2870,
+      "customEmojiId": "5400371223769147290",
+      "gift_id": 7326166,
+      "name": "Precious Peach",
+      "model": "Bright Coral (1.5%)",
+      "asset": "TON",
+      "symbol": "Hammerhead (0.2%)",
+      "backdrop": "Neon Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 916844,
+      "price": 298,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T14:19:42.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1161,
       "customEmojiId": "5400371223769147290",
       "gift_id": 7237702,
@@ -2587,6 +2587,60 @@
       "auction": null,
       "export_at": "2025-07-23T19:13:46.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 131,
+      "customEmojiId": "5399975502662363102",
+      "gift_id": 7325421,
+      "name": "Precious Peach",
+      "model": "Berry Pit (1.5%)",
+      "asset": "TON",
+      "symbol": "Bone (0.2%)",
+      "backdrop": "Coral Red (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 257.25,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "BYR4NZRE",
+      "auction": {
+        "_id": "687e3f03aace4cd2f67eabf4",
+        "gift_id": 7325421,
+        "seller": 0,
+        "auction_id": "BYR4NZRE",
+        "startingBid": 222,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 245,
+            "asset": "TON",
+            "_id": "687e4174aace4cd2f684ab40",
+            "timestamp": "2025-07-21T13:32:36.129Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 257.25,
+            "asset": "TON",
+            "_id": "687e4b58aace4cd2f68bb120",
+            "timestamp": "2025-07-21T14:14:48.726Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-21T14:32:10.665Z",
+        "status": "finished",
+        "gift_name": "Precious Peach",
+        "gift_num": 131,
+        "model": "Berry Pit (1.5%)",
+        "backdrop": "Coral Red (2%)",
+        "symbol": "Bone (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-21T13:22:11.634Z",
+        "__v": 0,
+        "winningBid": 257.25,
+        "winningBidder": 8173622469
+      },
+      "export_at": "2025-08-04T13:20:53.000Z",
+      "premarketData": {}
     }
   ],
   "Ripe Green": [
@@ -2602,8 +2656,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 916331,
-      "price": 311.8,
+      "message_in_channel": 916799,
+      "price": 299.9,
       "status": "forsale",
       "limited": false,
       "auction": null,
