@@ -6063,6 +6063,75 @@
       "premarketData": {}
     },
     {
+      "gift_num": 1658,
+      "customEmojiId": "5233744020445882453",
+      "gift_id": 7220831,
+      "name": "Mini Oscar",
+      "model": "Astronaut (1.5%)",
+      "asset": "TON",
+      "symbol": "Pawn (0.5%)",
+      "backdrop": "Turquoise (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 68.25,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "NTHFNI4T",
+      "auction": {
+        "_id": "687d2c51aace4cd2f6f0744e",
+        "gift_id": 7220831,
+        "seller": 0,
+        "auction_id": "NTHFNI4T",
+        "startingBid": 50,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 58,
+            "asset": "TON",
+            "_id": "687d455aaace4cd2f6045f03",
+            "timestamp": "2025-07-20T19:36:58.503Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 60.9,
+            "asset": "TON",
+            "_id": "687e2bbaaace4cd2f63d284c",
+            "timestamp": "2025-07-21T11:59:54.205Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 65,
+            "asset": "TON",
+            "_id": "687e3172aace4cd2f646bf4f",
+            "timestamp": "2025-07-21T12:24:18.707Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 68.25,
+            "asset": "TON",
+            "_id": "687e6fc0aace4cd2f69efcd9",
+            "timestamp": "2025-07-21T16:50:08.434Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-21T17:50:07.813Z",
+        "status": "finished",
+        "gift_name": "Mini Oscar",
+        "gift_num": 1658,
+        "model": "Astronaut (1.5%)",
+        "backdrop": "Turquoise (2%)",
+        "symbol": "Pawn (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-20T17:50:09.487Z",
+        "__v": 0,
+        "winningBid": 68.25,
+        "winningBidder": 8173622469
+      },
+      "export_at": "2025-07-28T20:18:57.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2191,
       "customEmojiId": "5233744020445882453",
       "gift_id": 584150284368,
@@ -6396,6 +6465,24 @@
     }
   ],
   "Neon Police": [
+    {
+      "gift_num": 178,
+      "customEmojiId": "5233298842790683235",
+      "gift_id": 584126366124,
+      "name": "Mini Oscar",
+      "model": "Neon Police (0.5%)",
+      "asset": "TON",
+      "symbol": "Bascinet (0.4%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.794,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 147,
       "customEmojiId": "5233298842790683235",
