@@ -857,6 +857,26 @@
   ],
   "Tanzanite": [
     {
+      "gift_num": 4860,
+      "customEmojiId": "5377796987330520314",
+      "gift_id": 7324076,
+      "name": "Gem Signet",
+      "model": "Tanzanite (4%)",
+      "asset": "TON",
+      "symbol": "Diamond (0.4%)",
+      "backdrop": "Raspberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 62,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T11:29:28.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 856,
       "customEmojiId": "5377796987330520314",
       "gift_id": 6380986,
@@ -874,26 +894,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-28T07:33:40.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4860,
-      "customEmojiId": "5377796987330520314",
-      "gift_id": 7160872,
-      "name": "Gem Signet",
-      "model": "Tanzanite (4%)",
-      "asset": "TON",
-      "symbol": "Diamond (0.4%)",
-      "backdrop": "Raspberry (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 60,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T17:37:19.000Z",
       "premarketData": {}
     },
     {
@@ -1116,26 +1116,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T10:06:36.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5250,
-      "customEmojiId": "5375565197769469984",
-      "gift_id": 7287378,
-      "name": "Gem Signet",
-      "model": "Jet Black (3%)",
-      "asset": "TON",
-      "symbol": "Bull of Heaven (0.5%)",
-      "backdrop": "Electric Indigo (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 83,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-01T19:25:11.000Z",
       "premarketData": {}
     },
     {
@@ -1736,26 +1716,6 @@
   ],
   "Nuclear Core": [
     {
-      "gift_num": 5401,
-      "customEmojiId": "5375526538768837469",
-      "gift_id": 7322556,
-      "name": "Gem Signet",
-      "model": "Nuclear Core (4%)",
-      "asset": "TON",
-      "symbol": "Twin Peaks (0.5%)",
-      "backdrop": "Aquamarine (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 75,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T09:09:50.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 1451,
       "customEmojiId": "5375526538768837469",
       "gift_id": 7232529,
@@ -1873,26 +1833,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-25T18:18:09.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3695,
-      "customEmojiId": "5375526538768837469",
-      "gift_id": 6827942,
-      "name": "Gem Signet",
-      "model": "Nuclear Core (4%)",
-      "asset": "TON",
-      "symbol": "Ram of Amun (0.4%)",
-      "backdrop": "French Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 871154,
-      "price": 200,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-12T18:50:56.000Z",
       "premarketData": {}
     },
     {
@@ -6077,6 +6017,82 @@
       "premarketData": {}
     },
     {
+      "gift_num": 4526,
+      "customEmojiId": "5375473959779201867",
+      "gift_id": 7154437,
+      "name": "Gem Signet",
+      "model": "Malachite (4%)",
+      "asset": "TON",
+      "symbol": "Money Bag (0.5%)",
+      "backdrop": "Purple (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 60.64,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "KADNLNNY",
+      "auction": {
+        "_id": "687cc7ebaace4cd2f6bd412c",
+        "gift_id": 7154437,
+        "seller": 0,
+        "auction_id": "KADNLNNY",
+        "startingBid": 10,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "687ce171aace4cd2f6293e5e",
+            "timestamp": "2025-07-20T12:30:41.563Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.5,
+            "asset": "TON",
+            "_id": "687d7cf7aace4cd2f68cdba6",
+            "timestamp": "2025-07-20T23:34:15.501Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 55,
+            "asset": "TON",
+            "_id": "687deb68aace4cd2f60bb0bb",
+            "timestamp": "2025-07-21T07:25:28.514Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 57.75,
+            "asset": "TON",
+            "_id": "687df7f2aace4cd2f6125d62",
+            "timestamp": "2025-07-21T08:18:58.355Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 60.64,
+            "asset": "TON",
+            "_id": "687e15fcaace4cd2f620d747",
+            "timestamp": "2025-07-21T10:27:08.960Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-21T10:41:30.262Z",
+        "status": "finished",
+        "gift_name": "Gem Signet",
+        "gift_num": 4526,
+        "model": "Malachite (4%)",
+        "backdrop": "Purple (1.2%)",
+        "symbol": "Money Bag (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-20T10:41:47.838Z",
+        "__v": 0,
+        "winningBid": 60.64,
+        "winningBidder": 5718861071
+      },
+      "export_at": "2025-07-25T11:50:51.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5335,
       "customEmojiId": "5375473959779201867",
       "gift_id": 7220281,
@@ -6375,7 +6391,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 88,
+      "price": 86,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -7448,26 +7464,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-01T19:13:53.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4378,
-      "customEmojiId": "5377624845041295166",
-      "gift_id": 7252139,
-      "name": "Gem Signet",
-      "model": "Neon Signet (3%)",
-      "asset": "TON",
-      "symbol": "Feather (0.5%)",
-      "backdrop": "Grape (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T15:33:29.000Z",
       "premarketData": {}
     },
     {
