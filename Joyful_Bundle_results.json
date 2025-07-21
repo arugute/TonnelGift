@@ -2353,26 +2353,6 @@
   ],
   "Rebel Kit": [
     {
-      "gift_num": 1133,
-      "customEmojiId": "5341515298342205463",
-      "gift_id": 183370306752,
-      "name": "Joyful Bundle",
-      "model": "Rebel Kit (1%)",
-      "asset": "TON",
-      "symbol": "Burger (0.4%)",
-      "backdrop": "Midnight Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
       "gift_num": 14990,
       "customEmojiId": "5341515298342205463",
       "gift_id": 652873386901,
@@ -3777,6 +3757,32 @@
   ],
   "Shepherd Dog": [
     {
+      "gift_num": 4937,
+      "customEmojiId": "5258089119145294722",
+      "gift_id": 253075924099,
+      "name": "Joyful Bundle",
+      "model": "Shepherd Dog (2.5%)",
+      "asset": "TON",
+      "symbol": "Blossom (0.4%)",
+      "backdrop": "Coral Red (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 5.1,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 0.9,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 4.7700000000000005,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-05T09:36:32.446Z"
+      }
+    },
+    {
       "gift_num": 10329,
       "customEmojiId": "5258089119145294722",
       "gift_id": 603662565525,
@@ -3800,32 +3806,6 @@
         "premarketLastSaleAmountPlusFee": 4.24,
         "premarketLastSaleAsset": "TON",
         "premarketExecutionDeadline": "2025-07-26T22:09:14.807Z"
-      }
-    },
-    {
-      "gift_num": 4937,
-      "customEmojiId": "5258089119145294722",
-      "gift_id": 253075924099,
-      "name": "Joyful Bundle",
-      "model": "Shepherd Dog (2.5%)",
-      "asset": "TON",
-      "symbol": "Blossom (0.4%)",
-      "backdrop": "Coral Red (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 8.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 0.9,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 4.7700000000000005,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-08-05T09:36:32.446Z"
       }
     },
     {
