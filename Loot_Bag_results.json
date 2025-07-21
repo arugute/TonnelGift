@@ -2093,6 +2093,53 @@
       "premarketData": {}
     },
     {
+      "gift_num": 5423,
+      "customEmojiId": "5287420881033784452",
+      "gift_id": 7286154,
+      "name": "Loot Bag",
+      "model": "Jade Serpent (1.5%)",
+      "asset": "TON",
+      "symbol": "Flying Dragon (0.5%)",
+      "backdrop": "Hunter Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 75,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "N00N9J6N",
+      "auction": {
+        "_id": "687a8b4baace4cd2f6468388",
+        "gift_id": 7286154,
+        "seller": 0,
+        "auction_id": "N00N9J6N",
+        "startingBid": 75,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 75,
+            "asset": "TON",
+            "_id": "687dee2daace4cd2f60d0453",
+            "timestamp": "2025-07-21T07:37:17.287Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-21T07:54:39.123Z",
+        "status": "finished",
+        "gift_name": "Loot Bag",
+        "gift_num": 5423,
+        "model": "Jade Serpent (1.5%)",
+        "backdrop": "Hunter Green (2%)",
+        "symbol": "Flying Dragon (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-20T19:54:40.783Z",
+        "__v": 0,
+        "winningBid": 75,
+        "winningBidder": 8173622469
+      },
+      "export_at": "2025-08-01T17:57:42.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5819,
       "customEmojiId": "5287420881033784452",
       "gift_id": 7152951,
@@ -6385,6 +6432,26 @@
   ],
   "Sunrise Bands": [
     {
+      "gift_num": 7503,
+      "customEmojiId": "5287539121483441256",
+      "gift_id": 7278923,
+      "name": "Loot Bag",
+      "model": "Sunrise Bands (1.5%)",
+      "asset": "TON",
+      "symbol": "Anubis (0.5%)",
+      "backdrop": "Fandango (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 916386,
+      "price": 220,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-01T09:32:27.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 11720,
       "customEmojiId": "5287539121483441256",
       "gift_id": 7314681,
@@ -6440,26 +6507,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7503,
-      "customEmojiId": "5287539121483441256",
-      "gift_id": 7278923,
-      "name": "Loot Bag",
-      "model": "Sunrise Bands (1.5%)",
-      "asset": "TON",
-      "symbol": "Anubis (0.5%)",
-      "backdrop": "Fandango (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 911616,
-      "price": 255,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-01T09:32:27.000Z",
       "premarketData": {}
     },
     {
@@ -9591,6 +9638,26 @@
   ],
   "Ombre": [
     {
+      "gift_num": 5300,
+      "customEmojiId": "5285427359078445888",
+      "gift_id": 6727402,
+      "name": "Loot Bag",
+      "model": "Ombre (2%)",
+      "asset": "TON",
+      "symbol": "Spanner (0.4%)",
+      "backdrop": "Indigo Dye (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 140,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-08T11:47:47.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 7446,
       "customEmojiId": "5285427359078445888",
       "gift_id": 587278039325,
@@ -9606,26 +9673,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5300,
-      "customEmojiId": "5285427359078445888",
-      "gift_id": 6727402,
-      "name": "Loot Bag",
-      "model": "Ombre (2%)",
-      "asset": "TON",
-      "symbol": "Spanner (0.4%)",
-      "backdrop": "Indigo Dye (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 914960,
-      "price": 150,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-08T11:47:47.000Z",
       "premarketData": {}
     },
     {
@@ -10034,7 +10081,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 100,
+      "price": 95,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -10806,6 +10853,26 @@
   ],
   "Sakura": [
     {
+      "gift_num": 3269,
+      "customEmojiId": "5287403254488001826",
+      "gift_id": 7303319,
+      "name": "Loot Bag",
+      "model": "Sakura (2%)",
+      "asset": "TON",
+      "symbol": "Watermelon (0.5%)",
+      "backdrop": "Burgundy (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 110,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T21:14:01.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2843,
       "customEmojiId": "5287403254488001826",
       "gift_id": 7314660,
@@ -10823,26 +10890,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-03T17:34:14.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3269,
-      "customEmojiId": "5287403254488001826",
-      "gift_id": 7303319,
-      "name": "Loot Bag",
-      "model": "Sakura (2%)",
-      "asset": "TON",
-      "symbol": "Watermelon (0.5%)",
-      "backdrop": "Burgundy (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 140,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T21:14:01.000Z",
       "premarketData": {}
     },
     {
@@ -12238,6 +12285,26 @@
   ],
   "Academic": [
     {
+      "gift_num": 3122,
+      "customEmojiId": "5292135578303749343",
+      "gift_id": 7058648,
+      "name": "Loot Bag",
+      "model": "Academic (2%)",
+      "asset": "TON",
+      "symbol": "Police Badge (0.2%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 100,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-21T16:14:27.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 8461,
       "customEmojiId": "5292135578303749343",
       "gift_id": 7199029,
@@ -12335,26 +12402,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-02T10:09:18.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3122,
-      "customEmojiId": "5292135578303749343",
-      "gift_id": 7058648,
-      "name": "Loot Bag",
-      "model": "Academic (2%)",
-      "asset": "TON",
-      "symbol": "Police Badge (0.2%)",
-      "backdrop": "Onyx Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 138,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-21T16:14:27.000Z",
       "premarketData": {}
     },
     {
@@ -16919,6 +16966,95 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-03-07T18:39:02.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 10812,
+      "customEmojiId": "5292159058889958071",
+      "gift_id": 7320177,
+      "name": "Loot Bag",
+      "model": "Cherry Croc (1.5%)",
+      "asset": "TON",
+      "symbol": "Star (0.5%)",
+      "backdrop": "Mystic Pearl (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 77.18,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "R72JONBR",
+      "auction": {
+        "_id": "687d9903aace4cd2f6a5a2c8",
+        "gift_id": 7320177,
+        "seller": 0,
+        "auction_id": "R72JONBR",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "687d9a14aace4cd2f6a754e0",
+            "timestamp": "2025-07-21T01:38:28.838Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 20,
+            "asset": "TON",
+            "_id": "687d9b69aace4cd2f6a95fd6",
+            "timestamp": "2025-07-21T01:44:09.743Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 50,
+            "asset": "TON",
+            "_id": "687da06eaace4cd2f6add307",
+            "timestamp": "2025-07-21T02:05:34.517Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 52.5,
+            "asset": "TON",
+            "_id": "687db9a6aace4cd2f6b3c025",
+            "timestamp": "2025-07-21T03:53:10.342Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 70,
+            "asset": "TON",
+            "_id": "687dc903aace4cd2f6f6a6b7",
+            "timestamp": "2025-07-21T04:58:43.911Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 73.5,
+            "asset": "TON",
+            "_id": "687deaa8aace4cd2f60b6e17",
+            "timestamp": "2025-07-21T07:22:16.625Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 77.18,
+            "asset": "TON",
+            "_id": "687dece6aace4cd2f60c499f",
+            "timestamp": "2025-07-21T07:31:50.749Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-21T07:43:53.872Z",
+        "status": "finished",
+        "gift_name": "Loot Bag",
+        "gift_num": 10812,
+        "model": "Cherry Croc (1.5%)",
+        "backdrop": "Mystic Pearl (1%)",
+        "symbol": "Star (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-21T01:33:55.311Z",
+        "__v": 0,
+        "winningBid": 77.18,
+        "winningBidder": 861667258
+      },
+      "export_at": "2025-08-04T01:33:22.000Z",
       "premarketData": {}
     }
   ],
