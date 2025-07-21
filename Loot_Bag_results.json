@@ -8603,7 +8603,7 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 916902,
+      "message_in_channel": 916989,
       "price": 220,
       "status": "forsale",
       "limited": false,
@@ -9235,6 +9235,26 @@
     }
   ],
   "Steel Agate": [
+    {
+      "gift_num": 687,
+      "customEmojiId": "5291983871468922057",
+      "gift_id": 7288827,
+      "name": "Loot Bag",
+      "model": "Steel Agate (1.5%)",
+      "asset": "TON",
+      "symbol": "Crusader Cross (0.4%)",
+      "backdrop": "Satin Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 80,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-01T20:55:41.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 14380,
       "customEmojiId": "5291983871468922057",
@@ -10084,26 +10104,6 @@
     }
   ],
   "Vertigo": [
-    {
-      "gift_num": 867,
-      "customEmojiId": "5287412888099648167",
-      "gift_id": 7288280,
-      "name": "Loot Bag",
-      "model": "Vertigo (2%)",
-      "asset": "TON",
-      "symbol": "Royal Crown (0.4%)",
-      "backdrop": "Malachite (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 916486,
-      "price": 150,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-01T20:24:43.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 4713,
       "customEmojiId": "5287412888099648167",
@@ -14587,6 +14587,60 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
+    },
+    {
+      "gift_num": 2662,
+      "customEmojiId": "5287719600304185486",
+      "gift_id": 7312714,
+      "name": "Loot Bag",
+      "model": "Cherry Red (2%)",
+      "asset": "TON",
+      "symbol": "Calm Wolf (0.5%)",
+      "backdrop": "English Violet (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 75,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "O9LTP8V7",
+      "auction": {
+        "_id": "687d06f6aace4cd2f68df733",
+        "gift_id": 7312714,
+        "seller": 0,
+        "auction_id": "O9LTP8V7",
+        "startingBid": 71,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 71,
+            "asset": "TON",
+            "_id": "687e16f8aace4cd2f6215000",
+            "timestamp": "2025-07-21T10:31:20.737Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 75,
+            "asset": "TON",
+            "_id": "687e40ecaace4cd2f683db25",
+            "timestamp": "2025-07-21T13:30:20.964Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-21T16:17:22.563Z",
+        "status": "finished",
+        "gift_name": "Loot Bag",
+        "gift_num": 2662,
+        "model": "Cherry Red (2%)",
+        "backdrop": "English Violet (2%)",
+        "symbol": "Calm Wolf (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-20T16:17:24.527Z",
+        "__v": 0,
+        "winningBid": 75,
+        "winningBidder": 5791051801
+      },
+      "export_at": "2025-08-03T15:10:32.000Z",
+      "premarketData": {}
     }
   ],
   "Riot Pack": [
@@ -16862,6 +16916,24 @@
     }
   ],
   "Cherry Croc": [
+    {
+      "gift_num": 3060,
+      "customEmojiId": "5292159058889958071",
+      "gift_id": 587074112560,
+      "name": "Loot Bag",
+      "model": "Cherry Croc (1.5%)",
+      "asset": "TON",
+      "symbol": "Hedgehog (0.5%)",
+      "backdrop": "Cyberpunk (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 165.24,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 900,
       "customEmojiId": "5292159058889958071",
