@@ -727,8 +727,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 916152,
-      "price": 450,
+      "message_in_channel": 916240,
+      "price": 600,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -2677,26 +2677,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T19:44:23.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7313,
-      "customEmojiId": "5278245770032605608",
-      "gift_id": 6315959,
-      "name": "Electric Skull",
-      "model": "Creeper Berry (0.5%)",
-      "asset": "TON",
-      "symbol": "Night Bats (1%)",
-      "backdrop": "Pacific Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 857481,
-      "price": 250,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-26T21:21:01.000Z",
       "premarketData": {}
     },
     {
@@ -7883,6 +7863,26 @@
     }
   ],
   "Cactus": [
+    {
+      "gift_num": 5482,
+      "customEmojiId": "5328050670358520186",
+      "gift_id": 7320633,
+      "name": "Electric Skull",
+      "model": "Cactus (1.5%)",
+      "asset": "TON",
+      "symbol": "Potion (1%)",
+      "backdrop": "Raspberry (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 40,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T04:30:51.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 5609,
       "customEmojiId": "5328050670358520186",
@@ -17163,6 +17163,24 @@
     }
   ],
   "Bubblegum": [
+    {
+      "gift_num": 4328,
+      "customEmojiId": "5314311168762867991",
+      "gift_id": 593363048917,
+      "name": "Electric Skull",
+      "model": "Bubblegum (2%)",
+      "asset": "TON",
+      "symbol": "Anubis (1%)",
+      "backdrop": "Carmine (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 64.444,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 4328,
       "customEmojiId": "5314311168762867991",
