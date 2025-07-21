@@ -5209,26 +5209,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 1614,
-      "customEmojiId": "5226757899656653098",
-      "gift_id": 7319814,
-      "name": "Electric Skull",
-      "model": "Metal Shade (4%)",
-      "asset": "TON",
-      "symbol": "Old Scull (0.8%)",
-      "backdrop": "Seal Brown (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 22.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T00:25:09.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 1085,
       "customEmojiId": "5226757899656653098",
       "gift_id": 7319675,
@@ -5752,6 +5732,26 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 1406,
+      "customEmojiId": "5226757899656653098",
+      "gift_id": 6495586,
+      "name": "Electric Skull",
+      "model": "Metal Shade (4%)",
+      "asset": "TON",
+      "symbol": "Pumpkin Coach (1%)",
+      "backdrop": "Camo Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 59.42,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-30T15:19:49.000Z",
       "premarketData": {}
     }
   ],
@@ -8258,23 +8258,100 @@
   ],
   "Gentleman": [
     {
-      "gift_num": 736,
+      "gift_num": 5674,
       "customEmojiId": "5330537898804537169",
-      "gift_id": 7215313,
+      "gift_id": 7287069,
       "name": "Electric Skull",
       "model": "Gentleman (1%)",
       "asset": "TON",
-      "symbol": "Pizza Slice (0.5%)",
-      "backdrop": "Cyberpunk (1.2%)",
+      "symbol": "Human Scull (1%)",
+      "backdrop": "Fandango (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 35,
-      "status": "forsale",
+      "price": 37,
+      "status": "auction",
       "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T14:53:30.000Z",
+      "auction_id": "JXA69054",
+      "auction": {
+        "_id": "687e1502aace4cd2f62044c8",
+        "gift_id": 7287069,
+        "seller": 0,
+        "auction_id": "JXA69054",
+        "startingBid": 20,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 20,
+            "asset": "TON",
+            "_id": "687e2f02aace4cd2f6415bee",
+            "timestamp": "2025-07-21T12:13:54.618Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 22,
+            "asset": "TON",
+            "_id": "687e2f22aace4cd2f64173c5",
+            "timestamp": "2025-07-21T12:14:26.438Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 23.1,
+            "asset": "TON",
+            "_id": "687e3097aace4cd2f644a294",
+            "timestamp": "2025-07-21T12:20:39.638Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 24.26,
+            "asset": "TON",
+            "_id": "687e34a4aace4cd2f6510835",
+            "timestamp": "2025-07-21T12:37:56.020Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 25.5,
+            "asset": "TON",
+            "_id": "687e379daace4cd2f65ebec8",
+            "timestamp": "2025-07-21T12:50:37.744Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 26.78,
+            "asset": "TON",
+            "_id": "687e381eaace4cd2f660fa25",
+            "timestamp": "2025-07-21T12:52:46.010Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 28.12,
+            "asset": "TON",
+            "_id": "687e3946aace4cd2f6666da8",
+            "timestamp": "2025-07-21T12:57:42.109Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 37,
+            "asset": "TON",
+            "_id": "687e3b6faace4cd2f66fb6cd",
+            "timestamp": "2025-07-21T13:06:55.912Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-21T13:20:14.399Z",
+        "status": "finished",
+        "gift_name": "Electric Skull",
+        "gift_num": 5674,
+        "model": "Gentleman (1%)",
+        "backdrop": "Fandango (1.5%)",
+        "symbol": "Human Scull (1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-21T12:00:15.860Z",
+        "__v": 0,
+        "winningBid": 37,
+        "winningBidder": 5296695447
+      },
+      "export_at": "2025-08-01T19:05:35.000Z",
       "premarketData": {}
     },
     {
@@ -10114,6 +10191,26 @@
     }
   ],
   "Void Totem": [
+    {
+      "gift_num": 8033,
+      "customEmojiId": "5255733076180371174",
+      "gift_id": 7323943,
+      "name": "Electric Skull",
+      "model": "Void Totem (1%)",
+      "asset": "TON",
+      "symbol": "Paw Print (0.5%)",
+      "backdrop": "Sky Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 40,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T11:14:20.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 7191,
       "customEmojiId": "5255733076180371174",
@@ -13444,6 +13541,26 @@
   ],
   "Brass Fossil": [
     {
+      "gift_num": 181,
+      "customEmojiId": "5237829565136530213",
+      "gift_id": 7325461,
+      "name": "Electric Skull",
+      "model": "Brass Fossil (4%)",
+      "asset": "TON",
+      "symbol": "Poison Drop (0.8%)",
+      "backdrop": "Ivory White (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 916769,
+      "price": 181,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T13:22:47.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2668,
       "customEmojiId": "5237829565136530213",
       "gift_id": 7164074,
@@ -14036,24 +14153,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 440.64,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 8116,
-      "customEmojiId": "5237829565136530213",
-      "gift_id": 596301234327,
-      "name": "Electric Skull",
-      "model": "Brass Fossil (4%)",
-      "asset": "TON",
-      "symbol": "Poison Drop (0.8%)",
-      "backdrop": "Pure Gold (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 225.828,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -14698,6 +14797,26 @@
   ],
   "Ruby Eyes": [
     {
+      "gift_num": 666,
+      "customEmojiId": "5235588562870625501",
+      "gift_id": 6925990,
+      "name": "Electric Skull",
+      "model": "Ruby Eyes (4%)",
+      "asset": "TON",
+      "symbol": "Voodoo (0.8%)",
+      "backdrop": "Sapphire (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 916776,
+      "price": 300,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-16T06:04:45.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6877,
       "customEmojiId": "5235588562870625501",
       "gift_id": 6747531,
@@ -15227,26 +15346,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T19:04:01.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 666,
-      "customEmojiId": "5235588562870625501",
-      "gift_id": 6925990,
-      "name": "Electric Skull",
-      "model": "Ruby Eyes (4%)",
-      "asset": "TON",
-      "symbol": "Voodoo (0.8%)",
-      "backdrop": "Sapphire (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 876193,
-      "price": 350,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-16T06:04:45.000Z",
       "premarketData": {}
     },
     {
@@ -16590,26 +16689,6 @@
   ],
   "Bone White": [
     {
-      "gift_num": 627,
-      "customEmojiId": "5226539835577100016",
-      "gift_id": 7318513,
-      "name": "Electric Skull",
-      "model": "Bone White (4%)",
-      "asset": "TON",
-      "symbol": "Sun (0.4%)",
-      "backdrop": "Electric Indigo (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-03T22:33:03.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 7997,
       "customEmojiId": "5226539835577100016",
       "gift_id": 7319684,
@@ -17174,9 +17253,45 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
+    },
+    {
+      "gift_num": 1113,
+      "customEmojiId": "5226539835577100016",
+      "gift_id": 593357781999,
+      "name": "Electric Skull",
+      "model": "Bone White (4%)",
+      "asset": "TON",
+      "symbol": "Nice Ghost (1%)",
+      "backdrop": "Orange (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 192.78,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
     }
   ],
   "Bubblegum": [
+    {
+      "gift_num": 1348,
+      "customEmojiId": "5314311168762867991",
+      "gift_id": 593391125978,
+      "name": "Electric Skull",
+      "model": "Bubblegum (2%)",
+      "asset": "TON",
+      "symbol": "Bearskin (0.4%)",
+      "backdrop": "Burnt Sienna (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 41.002,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 4328,
       "customEmojiId": "5314311168762867991",
