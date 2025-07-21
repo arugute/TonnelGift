@@ -603,6 +603,26 @@
   ],
   "Frosted Sun": [
     {
+      "gift_num": 35495,
+      "customEmojiId": "5400152472494824407",
+      "gift_id": 7214685,
+      "name": "Santa Hat",
+      "model": "Frosted Sun (2%)",
+      "asset": "TON",
+      "symbol": "Coin Purse (2.4%)",
+      "backdrop": "Strawberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.6,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-28T14:08:03.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1747,
       "customEmojiId": "5400152472494824407",
       "gift_id": 7128642,
@@ -700,26 +720,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-02T13:11:05.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 35495,
-      "customEmojiId": "5400152472494824407",
-      "gift_id": 7214685,
-      "name": "Santa Hat",
-      "model": "Frosted Sun (2%)",
-      "asset": "TON",
-      "symbol": "Coin Purse (2.4%)",
-      "backdrop": "Strawberry (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T14:08:03.000Z",
       "premarketData": {}
     },
     {
@@ -4050,7 +4050,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 6,
+      "price": 4,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -9356,6 +9356,26 @@
   ],
   "Monosnow": [
     {
+      "gift_num": 25889,
+      "customEmojiId": "5397633465585786585",
+      "gift_id": 7329380,
+      "name": "Santa Hat",
+      "model": "Monosnow (1.5%)",
+      "asset": "TON",
+      "symbol": "Sword (0.2%)",
+      "backdrop": "Navy Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T18:41:55.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 53427,
       "customEmojiId": "5397633465585786585",
       "gift_id": 7300836,
@@ -9935,29 +9955,29 @@
       "auction": null,
       "export_at": "2025-06-19T16:25:05.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Aurora Borealis": [
     {
-      "gift_num": 493,
-      "customEmojiId": "5397633465585786585",
-      "gift_id": 6712473,
+      "gift_num": 25516,
+      "customEmojiId": "5399973453962960203",
+      "gift_id": 7329920,
       "name": "Santa Hat",
-      "model": "Monosnow (1.5%)",
+      "model": "Aurora Borealis (2%)",
       "asset": "TON",
-      "symbol": "Festive Wreath (2%)",
-      "backdrop": "Silver Blue (1.5%)",
+      "symbol": "Heart (0.2%)",
+      "backdrop": "Fandango (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 9.99,
+      "price": 2,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-07T18:19:48.000Z",
+      "export_at": "2025-08-04T19:25:20.000Z",
       "premarketData": {}
-    }
-  ],
-  "Aurora Borealis": [
+    },
     {
       "gift_num": 37475,
       "customEmojiId": "5399973453962960203",
@@ -10536,26 +10556,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T10:51:56.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 9498,
-      "customEmojiId": "5399973453962960203",
-      "gift_id": 6926967,
-      "name": "Santa Hat",
-      "model": "Aurora Borealis (2%)",
-      "asset": "TON",
-      "symbol": "Mittens (1.6%)",
-      "backdrop": "Satin Gold (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.95,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-16T07:17:43.000Z",
       "premarketData": {}
     }
   ],
@@ -11163,6 +11163,26 @@
   ],
   "Ice Cap": [
     {
+      "gift_num": 26862,
+      "customEmojiId": "5400135142301789356",
+      "gift_id": 5533810,
+      "name": "Santa Hat",
+      "model": "Ice Cap (2%)",
+      "asset": "TON",
+      "symbol": "Santa Hat (2.4%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-15T17:06:38.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 50256,
       "customEmojiId": "5400135142301789356",
       "gift_id": 7311455,
@@ -11742,26 +11762,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-21T07:17:05.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 50236,
-      "customEmojiId": "5400135142301789356",
-      "gift_id": 7088743,
-      "name": "Santa Hat",
-      "model": "Ice Cap (2%)",
-      "asset": "TON",
-      "symbol": "Wasp (0.2%)",
-      "backdrop": "Cobalt Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-22T18:55:43.000Z",
       "premarketData": {}
     }
   ],
@@ -14777,6 +14777,26 @@
   ],
   "Night Sky": [
     {
+      "gift_num": 6362,
+      "customEmojiId": "5400322913976998900",
+      "gift_id": 7329905,
+      "name": "Santa Hat",
+      "model": "Night Sky (1.5%)",
+      "asset": "TON",
+      "symbol": "Shooting Star (1.6%)",
+      "backdrop": "Copper (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T19:24:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 51702,
       "customEmojiId": "5400322913976998900",
       "gift_id": 7272603,
@@ -15354,26 +15374,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T02:55:47.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15500,
-      "customEmojiId": "5400322913976998900",
-      "gift_id": 6154008,
-      "name": "Santa Hat",
-      "model": "Night Sky (1.5%)",
-      "asset": "TON",
-      "symbol": "Ice Pop (2.4%)",
-      "backdrop": "Copper (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T16:15:47.000Z",
       "premarketData": {}
     }
   ],
@@ -18680,6 +18680,95 @@
       "auction": null,
       "export_at": "2025-01-30T12:42:22.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 35251,
+      "customEmojiId": "5447401669711126294",
+      "gift_id": 7222885,
+      "name": "Santa Hat",
+      "model": "Festive (0.5%)",
+      "asset": "TON",
+      "symbol": "Ice Skates (2.4%)",
+      "backdrop": "Azure Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2.73,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "0TR0GY79",
+      "auction": {
+        "_id": "687e8d99aace4cd2f6c38358",
+        "gift_id": 7222885,
+        "seller": 0,
+        "auction_id": "0TR0GY79",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "687e9167aace4cd2f6c5a882",
+            "timestamp": "2025-07-21T19:13:43.498Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "687e9492aace4cd2f6c68b8e",
+            "timestamp": "2025-07-21T19:27:14.316Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "687e981aaace4cd2f6cac1d1",
+            "timestamp": "2025-07-21T19:42:18.452Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "687e989aaace4cd2f6cb8b94",
+            "timestamp": "2025-07-21T19:44:26.734Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "687e99cdaace4cd2f6cdaaa0",
+            "timestamp": "2025-07-21T19:49:33.724Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.6,
+            "asset": "TON",
+            "_id": "687e99e1aace4cd2f6cdca7e",
+            "timestamp": "2025-07-21T19:49:53.335Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.73,
+            "asset": "TON",
+            "_id": "687e99eeaace4cd2f6cddb7e",
+            "timestamp": "2025-07-21T19:50:06.480Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-21T20:07:28.647Z",
+        "status": "finished",
+        "gift_name": "Santa Hat",
+        "gift_num": 35251,
+        "model": "Festive (0.5%)",
+        "backdrop": "Azure Blue (2%)",
+        "symbol": "Ice Skates (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-21T18:57:29.797Z",
+        "__v": 0,
+        "winningBid": 2.73,
+        "winningBidder": 915493902
+      },
+      "export_at": "2025-07-28T22:32:37.000Z",
+      "premarketData": {}
     }
   ],
   "Let It Go": [
@@ -19470,6 +19559,26 @@
   ],
   "Dandelion": [
     {
+      "gift_num": 40923,
+      "customEmojiId": "5399844669368588300",
+      "gift_id": 7329576,
+      "name": "Santa Hat",
+      "model": "Dandelion (2%)",
+      "asset": "TON",
+      "symbol": "Cupcake (1.6%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T18:56:59.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 11758,
       "customEmojiId": "5399844669368588300",
       "gift_id": 7294077,
@@ -20048,26 +20157,6 @@
       "auction": null,
       "export_at": "2025-07-20T23:41:42.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 7420,
-      "customEmojiId": "5399844669368588300",
-      "gift_id": 7178073,
-      "name": "Santa Hat",
-      "model": "Dandelion (2%)",
-      "asset": "TON",
-      "symbol": "Dessert (2%)",
-      "backdrop": "Strawberry (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.56,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T14:50:10.000Z",
-      "premarketData": {}
     }
   ],
   "Mistletoe": [
@@ -20084,7 +20173,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2.4,
+      "price": 2.3,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -26773,6 +26862,26 @@
     }
   ],
   "Creamy": [
+    {
+      "gift_num": 23335,
+      "customEmojiId": "5443005156503346429",
+      "gift_id": 7330372,
+      "name": "Santa Hat",
+      "model": "Creamy (0.2%)",
+      "asset": "TON",
+      "symbol": "Yogi Shaman (0.2%)",
+      "backdrop": "French Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 18,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T19:56:19.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 29775,
       "customEmojiId": "5443005156503346429",
@@ -34126,6 +34235,26 @@
   ],
   "Cold Vapor": [
     {
+      "gift_num": 33438,
+      "customEmojiId": "5397788226142362688",
+      "gift_id": 7130557,
+      "name": "Santa Hat",
+      "model": "Cold Vapor (1.5%)",
+      "asset": "TON",
+      "symbol": "Mittens (1.6%)",
+      "backdrop": "Electric Indigo (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.6,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-24T13:29:53.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 11018,
       "customEmojiId": "5397788226142362688",
       "gift_id": 7297766,
@@ -34403,26 +34532,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-28T11:07:51.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 33438,
-      "customEmojiId": "5397788226142362688",
-      "gift_id": 7130557,
-      "name": "Santa Hat",
-      "model": "Cold Vapor (1.5%)",
-      "asset": "TON",
-      "symbol": "Mittens (1.6%)",
-      "backdrop": "Electric Indigo (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T13:29:53.000Z",
       "premarketData": {}
     },
     {
@@ -34727,6 +34836,26 @@
     }
   ],
   "Magic Love": [
+    {
+      "gift_num": 34788,
+      "customEmojiId": "5443095844737805520",
+      "gift_id": 7022048,
+      "name": "Santa Hat",
+      "model": "Magic Love (0.2%)",
+      "asset": "TON",
+      "symbol": "Cocktail (2%)",
+      "backdrop": "Caramel (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 13,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-20T06:43:54.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 52294,
       "customEmojiId": "5443095844737805520",
