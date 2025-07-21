@@ -249,6 +249,26 @@
   ],
   "Gem Stash": [
     {
+      "gift_num": 9966,
+      "customEmojiId": "5408964091823810435",
+      "gift_id": 776872091995,
+      "name": "Joyful Bundle",
+      "model": "Gem Stash (1%)",
+      "asset": "TON",
+      "symbol": "Cake (0.7%)",
+      "backdrop": "Dark Lilac (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 45,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 7359,
       "customEmojiId": "5408964091823810435",
       "gift_id": 212955649083,
@@ -904,13 +924,19 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 3.4,
+      "price": 5.4,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "premarket": true,
       "premarketStage": 2,
-      "premarketData": {}
+      "premarketData": {
+        "premarketCollateralAmount": 0.68,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 3.604,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-11T19:46:43.411Z"
+      }
     },
     {
       "gift_num": 8180,
@@ -2462,13 +2488,19 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 3.99,
+      "price": 6.25,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "premarket": true,
       "premarketStage": 2,
-      "premarketData": {}
+      "premarketData": {
+        "premarketCollateralAmount": 0.798,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 4.2294,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-11T19:48:19.798Z"
+      }
     },
     {
       "gift_num": 2030,
