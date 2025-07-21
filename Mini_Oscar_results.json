@@ -1743,6 +1743,24 @@
   ],
   "Action Film": [
     {
+      "gift_num": 2844,
+      "customEmojiId": "5233346053071199589",
+      "gift_id": 585498167941,
+      "name": "Mini Oscar",
+      "model": "Action Film (2%)",
+      "asset": "TON",
+      "symbol": "Phoenix (0.4%)",
+      "backdrop": "Electric Purple (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 192.78,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 1136,
       "customEmojiId": "5233346053071199589",
       "gift_id": -814564444,
@@ -3004,6 +3022,26 @@
   ],
   "Speaker": [
     {
+      "gift_num": 1487,
+      "customEmojiId": "5233320313332195052",
+      "gift_id": 7323224,
+      "name": "Mini Oscar",
+      "model": "Speaker (1.5%)",
+      "asset": "TON",
+      "symbol": "Cherry (0.5%)",
+      "backdrop": "Cobalt Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 65,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T10:11:15.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3775,
       "customEmojiId": "5233320313332195052",
       "gift_id": 7324424,
@@ -3021,26 +3059,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-04T11:59:28.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1487,
-      "customEmojiId": "5233320313332195052",
-      "gift_id": 7323224,
-      "name": "Mini Oscar",
-      "model": "Speaker (1.5%)",
-      "asset": "TON",
-      "symbol": "Cherry (0.5%)",
-      "backdrop": "Cobalt Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 68,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T10:11:15.000Z",
       "premarketData": {}
     },
     {
@@ -5355,6 +5373,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-02T01:49:52.000Z",
+      "premarketData": {}
+    }
+  ],
+  "Prestige": [
+    {
+      "gift_num": 2315,
+      "customEmojiId": "5233495530818003672",
+      "gift_id": 584165676242,
+      "name": "Mini Oscar",
+      "model": "Prestige (0.5%)",
+      "asset": "TON",
+      "symbol": "Trinity Knot (0.4%)",
+      "backdrop": "Navy Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 192.78,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
       "premarketData": {}
     }
   ],
