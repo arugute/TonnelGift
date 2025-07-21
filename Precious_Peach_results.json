@@ -960,6 +960,88 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
+    },
+    {
+      "gift_num": 1985,
+      "customEmojiId": "5377774541831427796",
+      "gift_id": 7323903,
+      "name": "Precious Peach",
+      "model": "Ripe Pink (2%)",
+      "asset": "TON",
+      "symbol": "Maple (0.2%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 250,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "Y9PPFDXI",
+      "auction": {
+        "_id": "687e6be2aace4cd2f69dee59",
+        "gift_id": 7323903,
+        "seller": 0,
+        "auction_id": "Y9PPFDXI",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 34.47,
+            "asset": "TON",
+            "_id": "687e6c22aace4cd2f69dfba1",
+            "timestamp": "2025-07-21T16:34:42.454Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 36.19,
+            "asset": "TON",
+            "_id": "687e7ae0aace4cd2f6ac1843",
+            "timestamp": "2025-07-21T17:37:36.043Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 38,
+            "asset": "TON",
+            "_id": "687e7b35aace4cd2f6acde16",
+            "timestamp": "2025-07-21T17:39:01.969Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 86.4,
+            "asset": "TON",
+            "_id": "687e7bbaaace4cd2f6adf118",
+            "timestamp": "2025-07-21T17:41:14.398Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 90.73,
+            "asset": "TON",
+            "_id": "687e7bf3aace4cd2f6ae59ba",
+            "timestamp": "2025-07-21T17:42:11.460Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 250,
+            "asset": "TON",
+            "_id": "687ea117aace4cd2f6da4bd1",
+            "timestamp": "2025-07-21T20:20:39.418Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-21T22:33:37.736Z",
+        "status": "finished",
+        "gift_name": "Precious Peach",
+        "gift_num": 1985,
+        "model": "Ripe Pink (2%)",
+        "backdrop": "English Violet (1.5%)",
+        "symbol": "Maple (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-21T16:33:38.928Z",
+        "__v": 0,
+        "winningBid": 250,
+        "winningBidder": 8173622469
+      },
+      "export_at": "2025-08-04T11:09:41.000Z",
+      "premarketData": {}
     }
   ],
   "Angelic": [
@@ -1990,6 +2072,26 @@
     }
   ],
   "Pure Peach": [
+    {
+      "gift_num": 1383,
+      "customEmojiId": "5402375375768544150",
+      "gift_id": -13006189,
+      "name": "Precious Peach",
+      "model": "Pure Peach (1.5%)",
+      "asset": "TON",
+      "symbol": "Ladybug (0.4%)",
+      "backdrop": "Chocolate (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 917550,
+      "price": 270,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T22:32:53.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 1281,
       "customEmojiId": "5402375375768544150",
