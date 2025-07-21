@@ -805,7 +805,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 129,
+      "price": 128,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -934,6 +934,89 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T09:15:21.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 5390,
+      "customEmojiId": "5377796987330520314",
+      "gift_id": 7285808,
+      "name": "Gem Signet",
+      "model": "Tanzanite (4%)",
+      "asset": "TON",
+      "symbol": "Battle Axe (0.5%)",
+      "backdrop": "Platinum (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 58.8,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "B7VGFVZ4",
+      "auction": {
+        "_id": "687ddcbcaace4cd2f605a0bd",
+        "gift_id": 7285808,
+        "seller": 0,
+        "auction_id": "B7VGFVZ4",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.6,
+            "asset": "TON",
+            "_id": "687de340aace4cd2f607fd4e",
+            "timestamp": "2025-07-21T06:50:40.753Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.73,
+            "asset": "TON",
+            "_id": "687de41faace4cd2f6083f21",
+            "timestamp": "2025-07-21T06:54:23.782Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "687de479aace4cd2f608594c",
+            "timestamp": "2025-07-21T06:55:53.027Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "687de557aace4cd2f608c513",
+            "timestamp": "2025-07-21T06:59:35.320Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 56,
+            "asset": "TON",
+            "_id": "687df85aaace4cd2f6129498",
+            "timestamp": "2025-07-21T08:20:42.572Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 58.8,
+            "asset": "TON",
+            "_id": "687e22bcaace4cd2f62932b0",
+            "timestamp": "2025-07-21T11:21:32.433Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-21T12:22:50.545Z",
+        "status": "finished",
+        "gift_name": "Gem Signet",
+        "gift_num": 5390,
+        "model": "Tanzanite (4%)",
+        "backdrop": "Platinum (1.5%)",
+        "symbol": "Battle Axe (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-21T06:22:52.105Z",
+        "__v": 0,
+        "winningBid": 58.8,
+        "winningBidder": 8173622469
+      },
+      "export_at": "2025-08-01T17:35:02.000Z",
       "premarketData": {}
     },
     {
@@ -2753,6 +2836,26 @@
   ],
   "Blood Opal": [
     {
+      "gift_num": 4311,
+      "customEmojiId": "5375265808484166819",
+      "gift_id": 6417138,
+      "name": "Gem Signet",
+      "model": "Blood Opal (1.5%)",
+      "asset": "TON",
+      "symbol": "Candy (0.2%)",
+      "backdrop": "Neon Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 94.99,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-28T21:10:25.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1430,
       "customEmojiId": "5375265808484166819",
       "gift_id": 7237752,
@@ -2790,26 +2893,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-16T21:03:32.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4311,
-      "customEmojiId": "5375265808484166819",
-      "gift_id": 6417138,
-      "name": "Gem Signet",
-      "model": "Blood Opal (1.5%)",
-      "asset": "TON",
-      "symbol": "Candy (0.2%)",
-      "backdrop": "Neon Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-28T21:10:25.000Z",
       "premarketData": {}
     },
     {
@@ -2955,6 +3038,26 @@
     }
   ],
   "Sentry Turret": [
+    {
+      "gift_num": 4867,
+      "customEmojiId": "5375208341821747777",
+      "gift_id": 6822632,
+      "name": "Gem Signet",
+      "model": "Sentry Turret (1.5%)",
+      "asset": "TON",
+      "symbol": "Anubis (0.4%)",
+      "backdrop": "Moonstone (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 65,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-12T14:04:00.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3826,
       "customEmojiId": "5375208341821747777",
@@ -4383,6 +4486,26 @@
   ],
   "Fleur de Mer": [
     {
+      "gift_num": 1257,
+      "customEmojiId": "5377488883556574134",
+      "gift_id": 6849052,
+      "name": "Gem Signet",
+      "model": "Fleur de Mer (4.2%)",
+      "asset": "TON",
+      "symbol": "Bishop (0.5%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 916701,
+      "price": 152,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-13T18:25:20.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5310,
       "customEmojiId": "5377488883556574134",
       "gift_id": 7220189,
@@ -4500,26 +4623,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-31T15:03:43.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1257,
-      "customEmojiId": "5377488883556574134",
-      "gift_id": 6849052,
-      "name": "Gem Signet",
-      "model": "Fleur de Mer (4.2%)",
-      "asset": "TON",
-      "symbol": "Bishop (0.5%)",
-      "backdrop": "Onyx Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 911695,
-      "price": 170,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-13T18:25:20.000Z",
       "premarketData": {}
     },
     {
@@ -5408,26 +5511,6 @@
     }
   ],
   "Elven Shade": [
-    {
-      "gift_num": 1165,
-      "customEmojiId": "5375392187896854684",
-      "gift_id": 7161270,
-      "name": "Gem Signet",
-      "model": "Elven Shade (4%)",
-      "asset": "TON",
-      "symbol": "Monarch (0.4%)",
-      "backdrop": "Rosewood (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 61.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T18:02:16.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 3821,
       "customEmojiId": "5375392187896854684",
