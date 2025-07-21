@@ -2296,6 +2296,24 @@
   ],
   "Pixel Pink": [
     {
+      "gift_num": 36458,
+      "customEmojiId": "5323710099099771734",
+      "gift_id": 594727670838,
+      "name": "Tama Gadget",
+      "model": "Pixel Pink (0.5%)",
+      "asset": "TON",
+      "symbol": "Gear (0.5%)",
+      "backdrop": "Pure Gold (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 24.786,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 73278,
       "customEmojiId": "5323710099099771734",
       "gift_id": 596097569984,
@@ -7420,6 +7438,26 @@
   ],
   "Mono Patch": [
     {
+      "gift_num": 49485,
+      "customEmojiId": "5328117379790568682",
+      "gift_id": 7231670,
+      "name": "Tama Gadget",
+      "model": "Mono Patch (0.5%)",
+      "asset": "TON",
+      "symbol": "Leaf (0.5%)",
+      "backdrop": "Purple (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T13:44:57.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 56173,
       "customEmojiId": "5328117379790568682",
       "gift_id": 3702259,
@@ -7641,26 +7679,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-29T06:51:28.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 49485,
-      "customEmojiId": "5328117379790568682",
-      "gift_id": 7231670,
-      "name": "Tama Gadget",
-      "model": "Mono Patch (0.5%)",
-      "asset": "TON",
-      "symbol": "Leaf (0.5%)",
-      "backdrop": "Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6.67,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T13:44:57.000Z",
       "premarketData": {}
     },
     {
@@ -9374,26 +9392,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 67202,
-      "customEmojiId": "5330044248148436629",
-      "gift_id": 7290538,
-      "name": "Tama Gadget",
-      "model": "Pepe Feels (0.3%)",
-      "asset": "TON",
-      "symbol": "War Bonnet (0.5%)",
-      "backdrop": "Khaki Green (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 60,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T00:09:15.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 4547,
       "customEmojiId": "5330044248148436629",
       "gift_id": 7056397,
@@ -9901,6 +9899,151 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-02T02:53:45.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 67202,
+      "customEmojiId": "5330044248148436629",
+      "gift_id": 7281016,
+      "name": "Tama Gadget",
+      "model": "Pepe Feels (0.3%)",
+      "asset": "TON",
+      "symbol": "War Bonnet (0.5%)",
+      "backdrop": "Khaki Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 37.5,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ZO2YE1GS",
+      "auction": {
+        "_id": "687a3a00aace4cd2f63dc2b5",
+        "gift_id": 7281016,
+        "seller": 0,
+        "auction_id": "ZO2YE1GS",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "687a3c37aace4cd2f63e9032",
+            "timestamp": "2025-07-18T12:21:11.727Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "687a47fbaace4cd2f648b88c",
+            "timestamp": "2025-07-18T13:11:23.174Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "687a4841aace4cd2f649755a",
+            "timestamp": "2025-07-18T13:12:33.157Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "687a489baace4cd2f64a0b22",
+            "timestamp": "2025-07-18T13:14:03.706Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "687a5e8baace4cd2f67c75f2",
+            "timestamp": "2025-07-18T14:47:39.624Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.56,
+            "asset": "TON",
+            "_id": "687a5fd8aace4cd2f67d2609",
+            "timestamp": "2025-07-18T14:53:12.440Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.69,
+            "asset": "TON",
+            "_id": "687a6002aace4cd2f67d3a9c",
+            "timestamp": "2025-07-18T14:53:54.298Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3,
+            "asset": "TON",
+            "_id": "687a6052aace4cd2f67d6dd7",
+            "timestamp": "2025-07-18T14:55:14.638Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.15,
+            "asset": "TON",
+            "_id": "687a6199aace4cd2f692d155",
+            "timestamp": "2025-07-18T15:00:41.818Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.99,
+            "asset": "TON",
+            "_id": "687a61aeaace4cd2f692ef84",
+            "timestamp": "2025-07-18T15:01:02.262Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.19,
+            "asset": "TON",
+            "_id": "687a6af6aace4cd2f6b3f43e",
+            "timestamp": "2025-07-18T15:40:38.460Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.4,
+            "asset": "TON",
+            "_id": "687a6e1aaace4cd2f6bee994",
+            "timestamp": "2025-07-18T15:54:02.119Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.62,
+            "asset": "TON",
+            "_id": "687a6e93aace4cd2f6bfe468",
+            "timestamp": "2025-07-18T15:56:03.819Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 31.5,
+            "asset": "TON",
+            "_id": "687a73e9aace4cd2f60966c1",
+            "timestamp": "2025-07-18T16:18:49.072Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 37.5,
+            "asset": "TON",
+            "_id": "687a7eeaaace4cd2f6279a76",
+            "timestamp": "2025-07-18T17:05:46.092Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-18T18:11:43.934Z",
+        "status": "finished",
+        "gift_name": "Tama Gadget",
+        "gift_num": 67202,
+        "model": "Pepe Feels (0.3%)",
+        "backdrop": "Khaki Green (1.2%)",
+        "symbol": "War Bonnet (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-18T12:11:44.932Z",
+        "__v": 0,
+        "winningBid": 37.5,
+        "winningBidder": 1505638104
+      },
+      "export_at": "2025-08-01T12:11:22.000Z",
       "premarketData": {}
     }
   ],
@@ -11265,6 +11408,24 @@
   ],
   "Alien Attack": [
     {
+      "gift_num": 36459,
+      "customEmojiId": "5328140035743052165",
+      "gift_id": 594518785533,
+      "name": "Tama Gadget",
+      "model": "Alien Attack (0.3%)",
+      "asset": "TON",
+      "symbol": "Beer (0.5%)",
+      "backdrop": "Pine Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 24.786,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 73385,
       "customEmojiId": "5328140035743052165",
       "gift_id": 596300117206,
@@ -11834,26 +11995,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T20:28:22.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 60681,
-      "customEmojiId": "5328140035743052165",
-      "gift_id": 5589277,
-      "name": "Tama Gadget",
-      "model": "Alien Attack (0.3%)",
-      "asset": "TON",
-      "symbol": "Bull of Heaven (0.5%)",
-      "backdrop": "Indigo Dye (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 50,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-16T21:00:14.000Z",
       "premarketData": {}
     }
   ],
@@ -13477,6 +13618,26 @@
   ],
   "Yang": [
     {
+      "gift_num": 35511,
+      "customEmojiId": "5327971574240796257",
+      "gift_id": 7320414,
+      "name": "Tama Gadget",
+      "model": "Yang (2%)",
+      "asset": "TON",
+      "symbol": "Money Bag (0.4%)",
+      "backdrop": "Dark Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T03:18:12.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 15356,
       "customEmojiId": "5327971574240796257",
       "gift_id": 6877012,
@@ -14119,29 +14280,27 @@
       "auction": null,
       "export_at": "2025-07-30T09:54:25.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 70818,
-      "customEmojiId": "5327971574240796257",
-      "gift_id": 7247451,
-      "name": "Tama Gadget",
-      "model": "Yang (2%)",
-      "asset": "TON",
-      "symbol": "Duck Face (0.2%)",
-      "backdrop": "Seal Brown (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T10:57:11.000Z",
-      "premarketData": {}
     }
   ],
   "Clover": [
+    {
+      "gift_num": 29804,
+      "customEmojiId": "5276444980439703862",
+      "gift_id": 593811464978,
+      "name": "Tama Gadget",
+      "model": "Clover (2%)",
+      "asset": "TON",
+      "symbol": "Party Hat (0.4%)",
+      "backdrop": "Cappuccino (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 3.25,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 7068,
       "customEmojiId": "5276444980439703862",
@@ -14736,29 +14895,27 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 42613,
-      "customEmojiId": "5276444980439703862",
-      "gift_id": 1922691,
-      "name": "Tama Gadget",
-      "model": "Clover (2%)",
-      "asset": "TON",
-      "symbol": "Pear (0.5%)",
-      "backdrop": "Neon Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-04-07T23:22:32.000Z",
-      "premarketData": {}
     }
   ],
   "Sunrise": [
+    {
+      "gift_num": 61183,
+      "customEmojiId": "5327961747355627456",
+      "gift_id": 584346978408,
+      "name": "Tama Gadget",
+      "model": "Sunrise (2%)",
+      "asset": "TON",
+      "symbol": "Bearskin (0.5%)",
+      "backdrop": "Cappuccino (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 3.244,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 64647,
       "customEmojiId": "5327961747355627456",
@@ -15299,26 +15456,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-01T23:23:21.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 67775,
-      "customEmojiId": "5327961747355627456",
-      "gift_id": 7253008,
-      "name": "Tama Gadget",
-      "model": "Sunrise (2%)",
-      "asset": "TON",
-      "symbol": "Onigiri (0.5%)",
-      "backdrop": "Gunmetal (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.51,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T16:17:26.000Z",
       "premarketData": {}
     }
   ],
@@ -16547,6 +16684,24 @@
   ],
   "Lime Shock": [
     {
+      "gift_num": 19305,
+      "customEmojiId": "5255878877435158820",
+      "gift_id": 593387700312,
+      "name": "Tama Gadget",
+      "model": "Lime Shock (2%)",
+      "asset": "TON",
+      "symbol": "Flower Sun (0.5%)",
+      "backdrop": "Pacific Cyan (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 3.856,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 27442,
       "customEmojiId": "5255878877435158820",
       "gift_id": 593599309914,
@@ -17082,26 +17237,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 70696,
-      "customEmojiId": "5255878877435158820",
-      "gift_id": 6990824,
-      "name": "Tama Gadget",
-      "model": "Lime Shock (2%)",
-      "asset": "TON",
-      "symbol": "Narcissus (0.5%)",
-      "backdrop": "French Violet (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.12,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-18T19:10:08.000Z",
       "premarketData": {}
     }
   ],
@@ -18043,26 +18178,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 45300,
-      "customEmojiId": "5255766246212789856",
-      "gift_id": 7285426,
-      "name": "Tama Gadget",
-      "model": "Amber (2%)",
-      "asset": "TON",
-      "symbol": "Chili (0.5%)",
-      "backdrop": "Onyx Black (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-01T17:07:51.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 55479,
       "customEmojiId": "5255766246212789856",
       "gift_id": 578079343370,
@@ -18232,6 +18347,26 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 44318,
+      "customEmojiId": "5255766246212789856",
+      "gift_id": 7001017,
+      "name": "Tama Gadget",
+      "model": "Amber (2%)",
+      "asset": "TON",
+      "symbol": "Wasp (0.3%)",
+      "backdrop": "French Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-19T08:57:17.000Z",
       "premarketData": {}
     }
   ],
@@ -23488,6 +23623,24 @@
   ],
   "Spectrum": [
     {
+      "gift_num": 17068,
+      "customEmojiId": "5328155437495773934",
+      "gift_id": 593386366724,
+      "name": "Tama Gadget",
+      "model": "Spectrum (1.1%)",
+      "asset": "TON",
+      "symbol": "Earth (0.4%)",
+      "backdrop": "Neon Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 5.497,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 63685,
       "customEmojiId": "5328155437495773934",
       "gift_id": 6310251,
@@ -24150,27 +24303,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 43098,
-      "customEmojiId": "5328155437495773934",
-      "gift_id": 7112556,
-      "name": "Tama Gadget",
-      "model": "Spectrum (1.1%)",
-      "asset": "TON",
-      "symbol": "Bow Tie (0.4%)",
-      "backdrop": "Chestnut (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.63,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "4LITDFWD",
-      "auction": null,
-      "export_at": "2025-07-23T20:10:40.000Z",
       "premarketData": {}
     }
   ],
@@ -34018,6 +34150,24 @@
   ],
   "Crystal View": [
     {
+      "gift_num": 43946,
+      "customEmojiId": "5296419331440141338",
+      "gift_id": 597197389561,
+      "name": "Tama Gadget",
+      "model": "Crystal View (1.1%)",
+      "asset": "TON",
+      "symbol": "Flower Tulip (0.5%)",
+      "backdrop": "Platinum (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 24.786,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 49841,
       "customEmojiId": "5296419331440141338",
       "gift_id": 600804564660,
@@ -34567,26 +34717,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-20T12:50:42.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 38377,
-      "customEmojiId": "5296419331440141338",
-      "gift_id": 7102985,
-      "name": "Tama Gadget",
-      "model": "Crystal View (1.1%)",
-      "asset": "TON",
-      "symbol": "Grape (0.5%)",
-      "backdrop": "Ivory White (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.75,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T12:30:50.000Z",
       "premarketData": {}
     }
   ],
@@ -45159,6 +45289,26 @@
   ],
   "Sakura": [
     {
+      "gift_num": 30670,
+      "customEmojiId": "5276295051721338410",
+      "gift_id": 7320474,
+      "name": "Tama Gadget",
+      "model": "Sakura (2%)",
+      "asset": "TON",
+      "symbol": "Astronaut (0.5%)",
+      "backdrop": "Seal Brown (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T03:37:02.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 58349,
       "customEmojiId": "5276295051721338410",
       "gift_id": 7315968,
@@ -45702,26 +45852,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 73886,
-      "customEmojiId": "5276295051721338410",
-      "gift_id": 7230158,
-      "name": "Tama Gadget",
-      "model": "Sakura (2%)",
-      "asset": "TON",
-      "symbol": "Book (0.5%)",
-      "backdrop": "Aquamarine (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T12:18:42.000Z",
       "premarketData": {}
     }
   ],
@@ -48258,6 +48388,26 @@
   ],
   "Candy Cane": [
     {
+      "gift_num": 69692,
+      "customEmojiId": "5274003798338073766",
+      "gift_id": 7320370,
+      "name": "Tama Gadget",
+      "model": "Candy Cane (2%)",
+      "asset": "TON",
+      "symbol": "Gold (0.4%)",
+      "backdrop": "Cyberpunk (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T02:54:45.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5866,
       "customEmojiId": "5274003798338073766",
       "gift_id": 593358880222,
@@ -48804,24 +48954,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 4.957,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 74185,
-      "customEmojiId": "5274003798338073766",
-      "gift_id": 597204473250,
-      "name": "Tama Gadget",
-      "model": "Candy Cane (2%)",
-      "asset": "TON",
-      "symbol": "Mining Helmet (0.4%)",
-      "backdrop": "Feldgrau (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 6.119,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -49688,6 +49820,24 @@
   ],
   "Yin": [
     {
+      "gift_num": 471,
+      "customEmojiId": "5328051537941916119",
+      "gift_id": 593391397849,
+      "name": "Tama Gadget",
+      "model": "Yin (2%)",
+      "asset": "TON",
+      "symbol": "Bobby Helmet (0.3%)",
+      "backdrop": "Electric Indigo (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 8.262,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 34958,
       "customEmojiId": "5328051537941916119",
       "gift_id": 6746365,
@@ -50238,27 +50388,29 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 69007,
-      "customEmojiId": "5328051537941916119",
-      "gift_id": 592455475083,
-      "name": "Tama Gadget",
-      "model": "Yin (2%)",
-      "asset": "TON",
-      "symbol": "Bamboo (0.5%)",
-      "backdrop": "Jade Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 275.4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Grayscale": [
+    {
+      "gift_num": 73629,
+      "customEmojiId": "5256087578486007312",
+      "gift_id": 7320443,
+      "name": "Tama Gadget",
+      "model": "Grayscale (2%)",
+      "asset": "TON",
+      "symbol": "Sparks (0.5%)",
+      "backdrop": "Copper (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T03:32:30.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 74448,
       "customEmojiId": "5256087578486007312",
@@ -50811,26 +50963,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 70051,
-      "customEmojiId": "5256087578486007312",
-      "gift_id": 7246727,
-      "name": "Tama Gadget",
-      "model": "Grayscale (2%)",
-      "asset": "TON",
-      "symbol": "Crusader (0.5%)",
-      "backdrop": "Old Gold (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T10:02:45.000Z",
       "premarketData": {}
     }
   ]
