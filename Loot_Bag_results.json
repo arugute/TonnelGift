@@ -1,6 +1,24 @@
 {
   "Orange Croc": [
     {
+      "gift_num": 5120,
+      "customEmojiId": "5287763086848058642",
+      "gift_id": 587312180020,
+      "name": "Loot Bag",
+      "model": "Orange Croc (1.5%)",
+      "asset": "TON",
+      "symbol": "Fish (0.4%)",
+      "backdrop": "Caramel (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 330.48,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 9806,
       "customEmojiId": "5287763086848058642",
       "gift_id": 6777921,
@@ -12,8 +30,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 913445,
-      "price": 400,
+      "message_in_channel": 916025,
+      "price": 800,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -7939,6 +7957,26 @@
   ],
   "White Pony": [
     {
+      "gift_num": 13236,
+      "customEmojiId": "5285509556162571613",
+      "gift_id": 6777925,
+      "name": "Loot Bag",
+      "model": "White Pony (1.5%)",
+      "asset": "TON",
+      "symbol": "Alert Serpent (0.4%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 916026,
+      "price": 800,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-10T14:44:45.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1643,
       "customEmojiId": "5285509556162571613",
       "gift_id": 587078627859,
@@ -7974,26 +8012,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-02T05:55:12.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 13236,
-      "customEmojiId": "5285509556162571613",
-      "gift_id": 6777925,
-      "name": "Loot Bag",
-      "model": "White Pony (1.5%)",
-      "asset": "TON",
-      "symbol": "Alert Serpent (0.4%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 913446,
-      "price": 400,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-10T14:44:45.000Z",
       "premarketData": {}
     },
     {
@@ -8522,8 +8540,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 915934,
-      "price": 230,
+      "message_in_channel": 916058,
+      "price": 220,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -13152,6 +13170,26 @@
   ],
   "Aqua Atoll": [
     {
+      "gift_num": 8395,
+      "customEmojiId": "5285023125346479495",
+      "gift_id": 6777941,
+      "name": "Loot Bag",
+      "model": "Aqua Atoll (1.5%)",
+      "asset": "TON",
+      "symbol": "Melon (0.5%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 916027,
+      "price": 800,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-10T14:44:55.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12308,
       "customEmojiId": "5285023125346479495",
       "gift_id": 7311660,
@@ -13172,23 +13210,100 @@
       "premarketData": {}
     },
     {
-      "gift_num": 8395,
+      "gift_num": 3633,
       "customEmojiId": "5285023125346479495",
-      "gift_id": 6777941,
+      "gift_id": 7289163,
       "name": "Loot Bag",
       "model": "Aqua Atoll (1.5%)",
       "asset": "TON",
-      "symbol": "Melon (0.5%)",
-      "backdrop": "Black (2%)",
+      "symbol": "Bull of Heaven (0.5%)",
+      "backdrop": "Emerald (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 913447,
-      "price": 400,
-      "status": "forsale",
+      "message_in_channel": 912832,
+      "price": 70,
+      "status": "auction",
       "limited": false,
-      "auction": null,
-      "export_at": "2025-07-10T14:44:55.000Z",
+      "auction_id": "2L9805OK",
+      "auction": {
+        "_id": "687abac1aace4cd2f6eb8c71",
+        "gift_id": 7289163,
+        "seller": 0,
+        "auction_id": "2L9805OK",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "687d6f8eaace4cd2f672dac4",
+            "timestamp": "2025-07-20T22:37:02.968Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "687d6faeaace4cd2f6731858",
+            "timestamp": "2025-07-20T22:37:34.558Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "687d6fd1aace4cd2f673642e",
+            "timestamp": "2025-07-20T22:38:09.544Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "687d6ff7aace4cd2f673b05c",
+            "timestamp": "2025-07-20T22:38:47.512Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9,
+            "asset": "TON",
+            "_id": "687d7054aace4cd2f6744187",
+            "timestamp": "2025-07-20T22:40:20.263Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 31.5,
+            "asset": "TON",
+            "_id": "687d7087aace4cd2f67481ea",
+            "timestamp": "2025-07-20T22:41:11.078Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 33.08,
+            "asset": "TON",
+            "_id": "687d71e5aace4cd2f6769888",
+            "timestamp": "2025-07-20T22:47:01.684Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 70,
+            "asset": "TON",
+            "_id": "687d76b0aace4cd2f684baf8",
+            "timestamp": "2025-07-20T23:07:28.763Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-20T23:33:59.742Z",
+        "status": "finished",
+        "gift_name": "Loot Bag",
+        "gift_num": 3633,
+        "model": "Aqua Atoll (1.5%)",
+        "backdrop": "Emerald (1.5%)",
+        "symbol": "Bull of Heaven (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-20T22:34:00.786Z",
+        "__v": 0,
+        "winningBid": 70,
+        "winningBidder": 7281550060
+      },
+      "export_at": "2025-08-01T21:20:33.000Z",
       "premarketData": {}
     },
     {
@@ -16191,6 +16306,26 @@
   ],
   "Tropical": [
     {
+      "gift_num": 10422,
+      "customEmojiId": "5287539057058932754",
+      "gift_id": 6500436,
+      "name": "Loot Bag",
+      "model": "Tropical (1.5%)",
+      "asset": "TON",
+      "symbol": "Doghouse (0.5%)",
+      "backdrop": "Copper (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 916102,
+      "price": 165,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-30T17:09:39.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 9974,
       "customEmojiId": "5287539057058932754",
       "gift_id": 7314678,
@@ -18051,6 +18186,26 @@
   ],
   "Zip Pocket": [
     {
+      "gift_num": 6906,
+      "customEmojiId": "5287477072090915861",
+      "gift_id": 7281981,
+      "name": "Loot Bag",
+      "model": "Zip Pocket (2%)",
+      "asset": "TON",
+      "symbol": "Geisha Fan (0.5%)",
+      "backdrop": "Midnight Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 107,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-01T13:14:37.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5639,
       "customEmojiId": "5287477072090915861",
       "gift_id": 7314633,
@@ -18068,26 +18223,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-03T17:32:37.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6906,
-      "customEmojiId": "5287477072090915861",
-      "gift_id": 7281981,
-      "name": "Loot Bag",
-      "model": "Zip Pocket (2%)",
-      "asset": "TON",
-      "symbol": "Geisha Fan (0.5%)",
-      "backdrop": "Midnight Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 115,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-01T13:14:37.000Z",
       "premarketData": {}
     },
     {
