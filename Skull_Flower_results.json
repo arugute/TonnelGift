@@ -965,6 +965,26 @@
   ],
   "Silversage": [
     {
+      "gift_num": 8039,
+      "customEmojiId": "5416123085046703907",
+      "gift_id": 7032624,
+      "name": "Skull Flower",
+      "model": "Silversage (3%)",
+      "asset": "TON",
+      "symbol": "Grape (0.6%)",
+      "backdrop": "Midnight Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-20T15:51:14.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 10827,
       "customEmojiId": "5416123085046703907",
       "gift_id": 5961288,
@@ -13441,7 +13461,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 7.61,
+      "price": 7.23,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -15253,6 +15273,26 @@
   ],
   "Sun Dazzle": [
     {
+      "gift_num": 7114,
+      "customEmojiId": "5438527356744525383",
+      "gift_id": 7046142,
+      "name": "Skull Flower",
+      "model": "Sun Dazzle (2%)",
+      "asset": "TON",
+      "symbol": "Croissant (0.2%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 57,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-21T05:29:04.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 17261,
       "customEmojiId": "5438527356744525383",
       "gift_id": 7325734,
@@ -15831,26 +15871,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-30T15:55:54.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16052,
-      "customEmojiId": "5438527356744525383",
-      "gift_id": 6094380,
-      "name": "Skull Flower",
-      "model": "Sun Dazzle (2%)",
-      "asset": "TON",
-      "symbol": "Bell Pepper (0.6%)",
-      "backdrop": "Rosewood (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T07:52:56.000Z",
       "premarketData": {}
     }
   ],
@@ -17546,6 +17566,54 @@
     }
   ],
   "Sunset": [
+    {
+      "gift_num": 7393,
+      "customEmojiId": "5415627093633424937",
+      "gift_id": 7326624,
+      "name": "Skull Flower",
+      "model": "Sunset (2%)",
+      "asset": "TON",
+      "symbol": "UFO (0.2%)",
+      "backdrop": "Ivory White (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5.5,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "MRKXHDCZ",
+      "auction": {
+        "_id": "687e55f0aace4cd2f6929184",
+        "gift_id": 7326624,
+        "seller": 0,
+        "auction_id": "MRKXHDCZ",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5.5,
+            "asset": "TON",
+            "_id": "687e5928aace4cd2f694821e",
+            "timestamp": "2025-07-21T15:13:44.244Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-21T16:05:12.515Z",
+        "status": "finished",
+        "gift_name": "Skull Flower",
+        "gift_num": 7393,
+        "model": "Sunset (2%)",
+        "backdrop": "Ivory White (2%)",
+        "symbol": "UFO (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-21T15:05:13.698Z",
+        "__v": 0,
+        "winningBid": 5.5,
+        "winningBidder": 7352255987
+      },
+      "export_at": "2025-08-04T14:59:29.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 9712,
       "customEmojiId": "5415627093633424937",
@@ -21384,26 +21452,6 @@
     }
   ],
   "Carnation": [
-    {
-      "gift_num": 17522,
-      "customEmojiId": "5411217588149578194",
-      "gift_id": 7315096,
-      "name": "Skull Flower",
-      "model": "Carnation (3%)",
-      "asset": "TON",
-      "symbol": "Poison Drop (1%)",
-      "backdrop": "French Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-03T18:07:47.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 101,
       "customEmojiId": "5411217588149578194",
