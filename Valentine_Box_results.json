@@ -6953,26 +6953,6 @@
   ],
   "Art Deco": [
     {
-      "gift_num": 12681,
-      "customEmojiId": "5316880087486853731",
-      "gift_id": 444123809841,
-      "name": "Valentine Box",
-      "model": "Art Deco (2.5%)",
-      "asset": "TON",
-      "symbol": "Butterfly (0.5%)",
-      "backdrop": "Cobalt Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 3.99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
       "gift_num": 8536,
       "customEmojiId": "5316880087486853731",
       "gift_id": 251272455962,
@@ -9360,6 +9340,32 @@
     }
   ],
   "White Gold": [
+    {
+      "gift_num": 4551,
+      "customEmojiId": "5316749288552818403",
+      "gift_id": 871125681986,
+      "name": "Valentine Box",
+      "model": "White Gold (3%)",
+      "asset": "TON",
+      "symbol": "Firebird (0.7%)",
+      "backdrop": "Onyx Black (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 55,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 1.2000000000000002,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 8.999400000000001,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-29T15:42:02.817Z"
+      }
+    },
     {
       "gift_num": 11331,
       "customEmojiId": "5316749288552818403",
