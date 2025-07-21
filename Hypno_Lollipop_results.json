@@ -5807,26 +5807,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 38420,
-      "customEmojiId": "5229186467439338820",
-      "gift_id": 7311128,
-      "name": "Hypno Lollipop",
-      "model": "Color Swap (1.3%)",
-      "asset": "TON",
-      "symbol": "Glasses (0.5%)",
-      "backdrop": "Silver Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.43,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-03T13:07:33.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 54261,
       "customEmojiId": "5229186467439338820",
       "gift_id": 7252172,
@@ -12215,6 +12195,26 @@
     }
   ],
   "Choco Cherry": [
+    {
+      "gift_num": 23830,
+      "customEmojiId": "5229099876603682719",
+      "gift_id": 7319935,
+      "name": "Hypno Lollipop",
+      "model": "Choco Cherry (1.3%)",
+      "asset": "TON",
+      "symbol": "Paw (0.5%)",
+      "backdrop": "Raspberry (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T00:44:08.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 14277,
       "customEmojiId": "5229099876603682719",
@@ -19904,6 +19904,26 @@
   ],
   "Tricky Treat": [
     {
+      "gift_num": 54976,
+      "customEmojiId": "5229148938015108619",
+      "gift_id": 7320066,
+      "name": "Hypno Lollipop",
+      "model": "Tricky Treat (0.7%)",
+      "asset": "TON",
+      "symbol": "Shell (0.4%)",
+      "backdrop": "Orange (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T01:18:42.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 8334,
       "customEmojiId": "5229148938015108619",
       "gift_id": 7282764,
@@ -20201,6 +20221,60 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-17T11:17:34.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 54976,
+      "customEmojiId": "5229148938015108619",
+      "gift_id": 7315809,
+      "name": "Hypno Lollipop",
+      "model": "Tricky Treat (0.7%)",
+      "asset": "TON",
+      "symbol": "Shell (0.4%)",
+      "backdrop": "Orange (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4.2,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "E77L9J1K",
+      "auction": {
+        "_id": "687d3dfdaace4cd2f6fbcd1d",
+        "gift_id": 7315809,
+        "seller": 0,
+        "auction_id": "E77L9J1K",
+        "startingBid": 4,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 4,
+            "asset": "TON",
+            "_id": "687d7e4faace4cd2f68dd74f",
+            "timestamp": "2025-07-20T23:39:59.779Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.2,
+            "asset": "TON",
+            "_id": "687d9154aace4cd2f69e4d49",
+            "timestamp": "2025-07-21T01:01:08.877Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-21T01:14:29.843Z",
+        "status": "finished",
+        "gift_name": "Hypno Lollipop",
+        "gift_num": 54976,
+        "model": "Tricky Treat (0.7%)",
+        "backdrop": "Orange (2%)",
+        "symbol": "Shell (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-20T22:04:30.884Z",
+        "__v": 0,
+        "winningBid": 4.2,
+        "winningBidder": 635621303
+      },
+      "export_at": "2025-08-03T19:05:15.000Z",
       "premarketData": {}
     }
   ],
@@ -20787,6 +20861,26 @@
     }
   ],
   "Dark Side": [
+    {
+      "gift_num": 14207,
+      "customEmojiId": "5228894070360793934",
+      "gift_id": 7319863,
+      "name": "Hypno Lollipop",
+      "model": "Dark Side (1.3%)",
+      "asset": "TON",
+      "symbol": "Paw (0.5%)",
+      "backdrop": "Ivory White (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T00:30:30.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 10695,
       "customEmojiId": "5228894070360793934",
@@ -22516,6 +22610,26 @@
   ],
   "Verdant": [
     {
+      "gift_num": 58327,
+      "customEmojiId": "5228994602660293066",
+      "gift_id": 7319860,
+      "name": "Hypno Lollipop",
+      "model": "Verdant (1.3%)",
+      "asset": "TON",
+      "symbol": "Mafdet (0.3%)",
+      "backdrop": "Chestnut (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T00:30:20.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 58557,
       "customEmojiId": "5228994602660293066",
       "gift_id": 7265820,
@@ -23093,26 +23207,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-02T19:58:48.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 34088,
-      "customEmojiId": "5228994602660293066",
-      "gift_id": 2793292,
-      "name": "Hypno Lollipop",
-      "model": "Verdant (1.3%)",
-      "asset": "TON",
-      "symbol": "Sunflower (0.4%)",
-      "backdrop": "French Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 17.27,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-04-21T05:43:18.000Z",
       "premarketData": {}
     }
   ],
