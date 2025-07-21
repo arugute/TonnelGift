@@ -1799,6 +1799,26 @@
   ],
   "Nuclear Core": [
     {
+      "gift_num": 412,
+      "customEmojiId": "5375526538768837469",
+      "gift_id": 7327956,
+      "name": "Gem Signet",
+      "model": "Nuclear Core (4%)",
+      "asset": "TON",
+      "symbol": "Spellbook (0.5%)",
+      "backdrop": "Strawberry (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 917021,
+      "price": 200,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T16:46:13.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1451,
       "customEmojiId": "5375526538768837469",
       "gift_id": 7232529,
@@ -2190,6 +2210,26 @@
   ],
   "Silver Gold": [
     {
+      "gift_num": 226,
+      "customEmojiId": "5375551660032553896",
+      "gift_id": 6074540,
+      "name": "Gem Signet",
+      "model": "Silver Gold (4%)",
+      "asset": "TON",
+      "symbol": "PC Mouse (0.5%)",
+      "backdrop": "Steel Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 140,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-24T00:55:23.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3137,
       "customEmojiId": "5375551660032553896",
       "gift_id": 7299818,
@@ -2368,26 +2408,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-28T18:59:23.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 226,
-      "customEmojiId": "5375551660032553896",
-      "gift_id": 6074540,
-      "name": "Gem Signet",
-      "model": "Silver Gold (4%)",
-      "asset": "TON",
-      "symbol": "PC Mouse (0.5%)",
-      "backdrop": "Steel Grey (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 903819,
-      "price": 198,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T00:55:23.000Z",
       "premarketData": {}
     },
     {
@@ -5866,7 +5886,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 59,
+      "price": 56,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -7017,7 +7037,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 59,
+      "price": 55,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -7727,6 +7747,210 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T03:57:40.000Z",
+      "premarketData": {}
+    }
+  ],
+  "Dragon Soul": [
+    {
+      "gift_num": 5408,
+      "customEmojiId": "5375387807030209339",
+      "gift_id": 7305896,
+      "name": "Gem Signet",
+      "model": "Dragon Soul (0.3%)",
+      "asset": "TON",
+      "symbol": "Legionary (0.5%)",
+      "backdrop": "Mexican Pink (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 916086,
+      "price": 105.76,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "KVDSDKV3",
+      "auction": {
+        "_id": "687ce2d2aace4cd2f62d60bb",
+        "gift_id": 7305896,
+        "seller": 0,
+        "auction_id": "KVDSDKV3",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "687e5b01aace4cd2f695e672",
+            "timestamp": "2025-07-21T15:21:37.669Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "687e5d51aace4cd2f697ce29",
+            "timestamp": "2025-07-21T15:31:29.280Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "687e60aaaace4cd2f6991cf2",
+            "timestamp": "2025-07-21T15:45:46.660Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "687e60b6aace4cd2f69928f1",
+            "timestamp": "2025-07-21T15:45:58.627Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "687e60ccaace4cd2f69937bf",
+            "timestamp": "2025-07-21T15:46:20.685Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.56,
+            "asset": "TON",
+            "_id": "687e60f4aace4cd2f6994592",
+            "timestamp": "2025-07-21T15:47:00.717Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.69,
+            "asset": "TON",
+            "_id": "687e6108aace4cd2f6994d02",
+            "timestamp": "2025-07-21T15:47:20.717Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "687e6130aace4cd2f6995c47",
+            "timestamp": "2025-07-21T15:48:00.265Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "687e614caace4cd2f69962c0",
+            "timestamp": "2025-07-21T15:48:28.946Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "687e6178aace4cd2f6996df9",
+            "timestamp": "2025-07-21T15:49:12.774Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.5,
+            "asset": "TON",
+            "_id": "687e66caaace4cd2f69c66f1",
+            "timestamp": "2025-07-21T16:11:54.224Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12,
+            "asset": "TON",
+            "_id": "687e66deaace4cd2f69c67b6",
+            "timestamp": "2025-07-21T16:12:14.357Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.6,
+            "asset": "TON",
+            "_id": "687e66eaaace4cd2f69c68a1",
+            "timestamp": "2025-07-21T16:12:26.233Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15,
+            "asset": "TON",
+            "_id": "687e6798aace4cd2f69c8a34",
+            "timestamp": "2025-07-21T16:15:20.025Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15.75,
+            "asset": "TON",
+            "_id": "687e6833aace4cd2f69caa60",
+            "timestamp": "2025-07-21T16:17:55.792Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 52,
+            "asset": "TON",
+            "_id": "687e6856aace4cd2f69cb7ab",
+            "timestamp": "2025-07-21T16:18:30.181Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 59.5,
+            "asset": "TON",
+            "_id": "687e6900aace4cd2f69cf5af",
+            "timestamp": "2025-07-21T16:21:20.829Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 75.5,
+            "asset": "TON",
+            "_id": "687e6b7daace4cd2f69dc90d",
+            "timestamp": "2025-07-21T16:31:57.218Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 87,
+            "asset": "TON",
+            "_id": "687e6ca6aace4cd2f69e2365",
+            "timestamp": "2025-07-21T16:36:54.708Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 91.35,
+            "asset": "TON",
+            "_id": "687e6ff3aace4cd2f69f06d5",
+            "timestamp": "2025-07-21T16:50:59.902Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 95.92,
+            "asset": "TON",
+            "_id": "687e7292aace4cd2f69f8403",
+            "timestamp": "2025-07-21T17:02:10.800Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 100.72,
+            "asset": "TON",
+            "_id": "687e72fbaace4cd2f69fa074",
+            "timestamp": "2025-07-21T17:03:55.400Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 105.76,
+            "asset": "TON",
+            "_id": "687e7461aace4cd2f69fe083",
+            "timestamp": "2025-07-21T17:09:53.726Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-21T17:27:28.695Z",
+        "status": "finished",
+        "gift_name": "Gem Signet",
+        "gift_num": 5408,
+        "model": "Dragon Soul (0.3%)",
+        "backdrop": "Mexican Pink (1.5%)",
+        "symbol": "Legionary (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-21T15:07:29.556Z",
+        "__v": 0,
+        "winningBid": 105.76,
+        "winningBidder": 7983090757
+      },
+      "export_at": "2025-08-03T01:05:16.000Z",
       "premarketData": {}
     }
   ]
