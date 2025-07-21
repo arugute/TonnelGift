@@ -1722,6 +1722,26 @@
   ],
   "Rosegold": [
     {
+      "gift_num": 297,
+      "customEmojiId": "5375543873256842570",
+      "gift_id": 7329359,
+      "name": "Precious Peach",
+      "model": "Rosegold (2%)",
+      "asset": "TON",
+      "symbol": "Trophy (0.5%)",
+      "backdrop": "Cyberpunk (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 917242,
+      "price": 266,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T18:39:17.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2581,
       "customEmojiId": "5375543873256842570",
       "gift_id": 6062175,
@@ -1903,26 +1923,6 @@
     }
   ],
   "Pyrite": [
-    {
-      "gift_num": 2521,
-      "customEmojiId": "5399889070740496819",
-      "gift_id": 7171633,
-      "name": "Precious Peach",
-      "model": "Pyrite (2%)",
-      "asset": "TON",
-      "symbol": "Shooting Star (0.6%)",
-      "backdrop": "Silver Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 898809,
-      "price": 600,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T08:43:45.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 1688,
       "customEmojiId": "5399889070740496819",
@@ -2141,8 +2141,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 916844,
-      "price": 298,
+      "message_in_channel": 917224,
+      "price": 280,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -2459,6 +2459,28 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T22:08:06.000Z",
+      "premarketData": {}
+    }
+  ],
+  "Juicy Orange": [
+    {
+      "gift_num": 1510,
+      "customEmojiId": "5402615919706922027",
+      "gift_id": 7328949,
+      "name": "Precious Peach",
+      "model": "Juicy Orange (1.5%)",
+      "asset": "TON",
+      "symbol": "Golden Scarab (0.5%)",
+      "backdrop": "Emerald (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 917118,
+      "price": 310,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T18:07:38.000Z",
       "premarketData": {}
     }
   ],
