@@ -2980,7 +2980,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 10,
+      "price": 9.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -14406,6 +14406,26 @@
   ],
   "Aurora Veil": [
     {
+      "gift_num": 129,
+      "customEmojiId": "5427182797632597942",
+      "gift_id": 7120621,
+      "name": "Eternal Rose",
+      "model": "Aurora Veil (2.2%)",
+      "asset": "TON",
+      "symbol": "Plum (0.8%)",
+      "backdrop": "Cappuccino (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-24T06:10:42.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 25321,
       "customEmojiId": "5427182797632597942",
       "gift_id": 598534352321,
@@ -15014,26 +15034,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 21029,
-      "customEmojiId": "5427182797632597942",
-      "gift_id": 7110670,
-      "name": "Eternal Rose",
-      "model": "Aurora Veil (2.2%)",
-      "asset": "TON",
-      "symbol": "Amour Scoops (0.8%)",
-      "backdrop": "Dark Lilac (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 16.75,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T18:56:06.000Z",
       "premarketData": {}
     }
   ],
@@ -16762,6 +16762,26 @@
   ],
   "Pop Petal": [
     {
+      "gift_num": 23287,
+      "customEmojiId": "5424661368362002284",
+      "gift_id": 7326552,
+      "name": "Eternal Rose",
+      "model": "Pop Petal (1.9%)",
+      "asset": "TON",
+      "symbol": "Apple (1.1%)",
+      "backdrop": "Light Olive (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 12,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T14:51:27.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 13380,
       "customEmojiId": "5424661368362002284",
       "gift_id": 7159752,
@@ -17345,89 +17365,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 23772,
-      "customEmojiId": "5424661368362002284",
-      "gift_id": 7024815,
-      "name": "Eternal Rose",
-      "model": "Pop Petal (1.9%)",
-      "asset": "TON",
-      "symbol": "Flying Heart (1.1%)",
-      "backdrop": "Fandango (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 12.77,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "MVBX3NDJ",
-      "auction": {
-        "_id": "687d4576aace4cd2f60475d8",
-        "gift_id": 7024815,
-        "seller": 0,
-        "auction_id": "MVBX3NDJ",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "687e30c5aace4cd2f6451320",
-            "timestamp": "2025-07-21T12:21:25.745Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "687e30f2aace4cd2f645822b",
-            "timestamp": "2025-07-21T12:22:10.245Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.03,
-            "asset": "TON",
-            "_id": "687e34c8aace4cd2f651949a",
-            "timestamp": "2025-07-21T12:38:32.519Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.58,
-            "asset": "TON",
-            "_id": "687e643eaace4cd2f69b45ef",
-            "timestamp": "2025-07-21T16:01:02.566Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.16,
-            "asset": "TON",
-            "_id": "687e6455aace4cd2f69b49ed",
-            "timestamp": "2025-07-21T16:01:25.097Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 12.77,
-            "asset": "TON",
-            "_id": "687e6691aace4cd2f69c5cc6",
-            "timestamp": "2025-07-21T16:10:57.192Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-21T16:22:02.035Z",
-        "status": "finished",
-        "gift_name": "Eternal Rose",
-        "gift_num": 23772,
-        "model": "Pop Petal (1.9%)",
-        "backdrop": "Fandango (2%)",
-        "symbol": "Flying Heart (1.1%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-21T10:02:03.589Z",
-        "__v": 0,
-        "winningBid": 12.77,
-        "winningBidder": 143137261
-      },
-      "export_at": "2025-07-20T09:47:18.000Z",
       "premarketData": {}
     }
   ],
@@ -18044,6 +17981,24 @@
   ],
   "Glitchy Spell": [
     {
+      "gift_num": 19400,
+      "customEmojiId": "5424915699145397639",
+      "gift_id": 594706304664,
+      "name": "Eternal Rose",
+      "model": "Glitchy Spell (1.3%)",
+      "asset": "TON",
+      "symbol": "Lily (1.1%)",
+      "backdrop": "Platinum (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 44.064,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 12903,
       "customEmojiId": "5424915699145397639",
       "gift_id": 7254723,
@@ -18608,26 +18563,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-04T15:50:45.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 22755,
-      "customEmojiId": "5424915699145397639",
-      "gift_id": 6192036,
-      "name": "Eternal Rose",
-      "model": "Glitchy Spell (1.3%)",
-      "asset": "TON",
-      "symbol": "Sauron (0.2%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 798195,
-      "price": 290,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T23:04:36.000Z",
       "premarketData": {}
     }
   ],
@@ -19219,6 +19154,26 @@
   ],
   "Rainglow": [
     {
+      "gift_num": 7238,
+      "customEmojiId": "5424673334140888367",
+      "gift_id": 7324879,
+      "name": "Eternal Rose",
+      "model": "Rainglow (1.9%)",
+      "asset": "TON",
+      "symbol": "Amour Scoops (0.8%)",
+      "backdrop": "Electric Purple (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 11.25,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T12:38:19.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 10224,
       "customEmojiId": "5424673334140888367",
       "gift_id": 6785915,
@@ -19236,26 +19191,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-10T20:17:40.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7238,
-      "customEmojiId": "5424673334140888367",
-      "gift_id": 7324879,
-      "name": "Eternal Rose",
-      "model": "Rainglow (1.9%)",
-      "asset": "TON",
-      "symbol": "Amour Scoops (0.8%)",
-      "backdrop": "Electric Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 11.45,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T12:38:19.000Z",
       "premarketData": {}
     },
     {
