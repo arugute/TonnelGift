@@ -4281,26 +4281,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 23862,
-      "customEmojiId": "5334597596381996733",
-      "gift_id": 6526462,
-      "name": "Snow Globe",
-      "model": "Diamond (3%)",
-      "asset": "TON",
-      "symbol": "Mittens (1.8%)",
-      "backdrop": "Gunmetal (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-01T10:43:09.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 31833,
       "customEmojiId": "5334597596381996733",
       "gift_id": 6520057,
@@ -4338,6 +4318,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T15:36:24.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 30254,
+      "customEmojiId": "5334597596381996733",
+      "gift_id": 5895576,
+      "name": "Snow Globe",
+      "model": "Diamond (3%)",
+      "asset": "TON",
+      "symbol": "Mushroom (0.2%)",
+      "backdrop": "Black (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 70,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-22T19:36:38.000Z",
       "premarketData": {}
     }
   ],
@@ -19600,6 +19600,26 @@
   ],
   "Ender Estate": [
     {
+      "gift_num": 33115,
+      "customEmojiId": "5337035355394697092",
+      "gift_id": 7333140,
+      "name": "Snow Globe",
+      "model": "Ender Estate (1.5%)",
+      "asset": "TON",
+      "symbol": "Gingerbread (1.8%)",
+      "backdrop": "Hunter Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T00:21:28.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 26959,
       "customEmojiId": "5337035355394697092",
       "gift_id": 7306330,
@@ -19617,6 +19637,124 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-03T02:45:06.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 33115,
+      "customEmojiId": "5337035355394697092",
+      "gift_id": 7265038,
+      "name": "Snow Globe",
+      "model": "Ender Estate (1.5%)",
+      "asset": "TON",
+      "symbol": "Gingerbread (1.8%)",
+      "backdrop": "Hunter Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.42,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "TA70Y9JL",
+      "auction": {
+        "_id": "687a7ab9aace4cd2f61d4aa9",
+        "gift_id": 7265038,
+        "seller": 0,
+        "auction_id": "TA70Y9JL",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "687ec72daace4cd2f61bffdf",
+            "timestamp": "2025-07-21T23:03:09.517Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "687ec7faaace4cd2f61d41d9",
+            "timestamp": "2025-07-21T23:06:34.893Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "687ec80aaace4cd2f61d513b",
+            "timestamp": "2025-07-21T23:06:50.066Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "687ec8b8aace4cd2f61dea5d",
+            "timestamp": "2025-07-21T23:09:44.343Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "687ec902aace4cd2f61e14e5",
+            "timestamp": "2025-07-21T23:10:58.798Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.56,
+            "asset": "TON",
+            "_id": "687ec913aace4cd2f61e1784",
+            "timestamp": "2025-07-21T23:11:15.731Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.69,
+            "asset": "TON",
+            "_id": "687ec927aace4cd2f61e1828",
+            "timestamp": "2025-07-21T23:11:35.372Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.95,
+            "asset": "TON",
+            "_id": "687ecf61aace4cd2f61eb25a",
+            "timestamp": "2025-07-21T23:38:09.308Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.1,
+            "asset": "TON",
+            "_id": "687ed484aace4cd2f6218a33",
+            "timestamp": "2025-07-22T00:00:04.771Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.26,
+            "asset": "TON",
+            "_id": "687ed4afaace4cd2f6218bc7",
+            "timestamp": "2025-07-22T00:00:47.803Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.42,
+            "asset": "TON",
+            "_id": "687ed713aace4cd2f621c57e",
+            "timestamp": "2025-07-22T00:10:59.034Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-22T00:21:00.239Z",
+        "status": "finished",
+        "gift_name": "Snow Globe",
+        "gift_num": 33115,
+        "model": "Ender Estate (1.5%)",
+        "backdrop": "Hunter Green (1.5%)",
+        "symbol": "Gingerbread (1.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-21T23:01:01.017Z",
+        "__v": 0,
+        "winningBid": 3.42,
+        "winningBidder": 7983021205
+      },
+      "export_at": "2025-07-31T10:58:51.000Z",
       "premarketData": {}
     },
     {
@@ -26674,26 +26812,6 @@
     }
   ],
   "Cherry Duck": [
-    {
-      "gift_num": 35100,
-      "customEmojiId": "5336981140022518801",
-      "gift_id": 7307020,
-      "name": "Snow Globe",
-      "model": "Cherry Duck (0.5%)",
-      "asset": "TON",
-      "symbol": "Pineapple (0.4%)",
-      "backdrop": "Pistachio (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 27.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-03T06:13:43.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 35716,
       "customEmojiId": "5336981140022518801",
