@@ -477,7 +477,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.32,
+      "price": 3.15,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3064,26 +3064,6 @@
     }
   ],
   "Pink Sparkle": [
-    {
-      "gift_num": 28082,
-      "customEmojiId": "5228905546513407064",
-      "gift_id": 7328822,
-      "name": "Snow Mittens",
-      "model": "Pink Sparkle (0.8%)",
-      "asset": "TON",
-      "symbol": "Stocking (2.4%)",
-      "backdrop": "Cobalt Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T17:57:43.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 21360,
       "customEmojiId": "5228905546513407064",
@@ -7403,6 +7383,26 @@
   ],
   "Orchid": [
     {
+      "gift_num": 26045,
+      "customEmojiId": "5229103364117126385",
+      "gift_id": 7341257,
+      "name": "Snow Mittens",
+      "model": "Orchid (1.3%)",
+      "asset": "TON",
+      "symbol": "Piggy Bank (2.4%)",
+      "backdrop": "French Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.74,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T17:34:39.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 11642,
       "customEmojiId": "5229103364117126385",
       "gift_id": 7162352,
@@ -8728,6 +8728,53 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-03T12:56:34.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 6460,
+      "customEmojiId": "5226977557169074564",
+      "gift_id": 7193103,
+      "name": "Snow Mittens",
+      "model": "Grape Soda (1.3%)",
+      "asset": "TON",
+      "symbol": "Snow Angel (2.4%)",
+      "backdrop": "Lavender (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 3,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "DH1WTYKE",
+      "auction": {
+        "_id": "687b5749aace4cd2f653d5f2",
+        "gift_id": 7193103,
+        "seller": 0,
+        "auction_id": "DH1WTYKE",
+        "startingBid": 3,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 3,
+            "asset": "TON",
+            "_id": "687fd16baace4cd2f661247b",
+            "timestamp": "2025-07-22T17:59:07.993Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-22T18:09:54.942Z",
+        "status": "finished",
+        "gift_name": "Snow Mittens",
+        "gift_num": 6460,
+        "model": "Grape Soda (1.3%)",
+        "backdrop": "Lavender (1.5%)",
+        "symbol": "Snow Angel (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T16:59:55.309Z",
+        "__v": 0,
+        "winningBid": 3,
+        "winningBidder": 7640706307
+      },
+      "export_at": "2025-07-27T11:51:45.000Z",
       "premarketData": {}
     }
   ],
@@ -10363,26 +10410,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 18759,
-      "customEmojiId": "5229156432733039413",
-      "gift_id": 6622420,
-      "name": "Snow Mittens",
-      "model": "Frost Fingers (0.8%)",
-      "asset": "TON",
-      "symbol": "Mittens (2.4%)",
-      "backdrop": "Jade Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-04T08:37:00.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 4808,
       "customEmojiId": "5229156432733039413",
       "gift_id": 6041906,
@@ -10420,26 +10447,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-14T14:34:06.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 68,
-      "customEmojiId": "5229156432733039413",
-      "gift_id": 6173623,
-      "name": "Snow Mittens",
-      "model": "Frost Fingers (0.8%)",
-      "asset": "TON",
-      "symbol": "Star (2.4%)",
-      "backdrop": "Shamrock Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T19:06:48.000Z",
       "premarketData": {}
     },
     {
@@ -11351,6 +11358,26 @@
   ],
   "Pink Cuffs": [
     {
+      "gift_num": 16752,
+      "customEmojiId": "5229093374023198513",
+      "gift_id": 6939449,
+      "name": "Snow Mittens",
+      "model": "Pink Cuffs (1.3%)",
+      "asset": "TON",
+      "symbol": "Jumbo Pencil (0.2%)",
+      "backdrop": "Platinum (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-16T16:33:08.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 14772,
       "customEmojiId": "5229093374023198513",
       "gift_id": 7296503,
@@ -11408,26 +11435,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-27T01:17:46.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16752,
-      "customEmojiId": "5229093374023198513",
-      "gift_id": 6939449,
-      "name": "Snow Mittens",
-      "model": "Pink Cuffs (1.3%)",
-      "asset": "TON",
-      "symbol": "Jumbo Pencil (0.2%)",
-      "backdrop": "Platinum (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6.12,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-16T16:33:08.000Z",
       "premarketData": {}
     },
     {
@@ -14005,7 +14012,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 16,
+      "price": 15,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -16267,6 +16274,81 @@
       "auction": null,
       "export_at": "2025-05-29T15:23:44.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 5729,
+      "customEmojiId": "5229160650390922163",
+      "gift_id": 7336917,
+      "name": "Snow Mittens",
+      "model": "Twilight (1.3%)",
+      "asset": "TON",
+      "symbol": "New Year's Eve (2.4%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 8.52,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "UAACB8J1",
+      "auction": {
+        "_id": "687fa0f7aace4cd2f62b8df2",
+        "gift_id": 7336917,
+        "seller": 0,
+        "auction_id": "UAACB8J1",
+        "startingBid": 5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 7,
+            "asset": "TON",
+            "_id": "687fad2eaace4cd2f642bb63",
+            "timestamp": "2025-07-22T15:24:30.601Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.35,
+            "asset": "TON",
+            "_id": "687fad87aace4cd2f6435376",
+            "timestamp": "2025-07-22T15:25:59.358Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.72,
+            "asset": "TON",
+            "_id": "687fc19eaace4cd2f65c6b74",
+            "timestamp": "2025-07-22T16:51:42.398Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.11,
+            "asset": "TON",
+            "_id": "687fc8ebaace4cd2f65ecda6",
+            "timestamp": "2025-07-22T17:22:51.122Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.52,
+            "asset": "TON",
+            "_id": "687fc980aace4cd2f65eddf2",
+            "timestamp": "2025-07-22T17:25:20.933Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-22T17:42:18.944Z",
+        "status": "finished",
+        "gift_name": "Snow Mittens",
+        "gift_num": 5729,
+        "model": "Twilight (1.3%)",
+        "backdrop": "Black (2%)",
+        "symbol": "New Year's Eve (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T14:32:23.086Z",
+        "__v": 0,
+        "winningBid": 8.52,
+        "winningBidder": 1078366717
+      },
+      "export_at": "2025-08-05T12:19:01.000Z",
+      "premarketData": {}
     }
   ],
   "Golden Pine": [
@@ -16412,26 +16494,6 @@
     }
   ],
   "Dark Grape": [
-    {
-      "gift_num": 5233,
-      "customEmojiId": "5228908780623781135",
-      "gift_id": 7268228,
-      "name": "Snow Mittens",
-      "model": "Dark Grape (1.3%)",
-      "asset": "TON",
-      "symbol": "Toilet (0.2%)",
-      "backdrop": "Roman Silver (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T14:29:07.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 29313,
       "customEmojiId": "5228908780623781135",
@@ -20299,6 +20361,74 @@
       "auction": null,
       "export_at": "2025-07-01T19:48:58.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 14723,
+      "customEmojiId": "5228988121554642641",
+      "gift_id": 7340853,
+      "name": "Snow Mittens",
+      "model": "Daydream (1.3%)",
+      "asset": "TON",
+      "symbol": "Candle (1.6%)",
+      "backdrop": "Burgundy (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2.76,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "BKHYY970",
+      "auction": {
+        "_id": "687fc5deaace4cd2f65e2fb6",
+        "gift_id": 7340853,
+        "seller": 0,
+        "auction_id": "BKHYY970",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "687fd08caace4cd2f6611251",
+            "timestamp": "2025-07-22T17:55:24.273Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.5,
+            "asset": "TON",
+            "_id": "687fd0e0aace4cd2f6611877",
+            "timestamp": "2025-07-22T17:56:48.215Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.63,
+            "asset": "TON",
+            "_id": "687fd11aaace4cd2f6611ca4",
+            "timestamp": "2025-07-22T17:57:46.105Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.76,
+            "asset": "TON",
+            "_id": "687fd3a4aace4cd2f661a46c",
+            "timestamp": "2025-07-22T18:08:36.156Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-22T18:19:23.497Z",
+        "status": "finished",
+        "gift_name": "Snow Mittens",
+        "gift_num": 14723,
+        "model": "Daydream (1.3%)",
+        "backdrop": "Burgundy (2%)",
+        "symbol": "Candle (1.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T17:09:50.180Z",
+        "__v": 0,
+        "winningBid": 2.76,
+        "winningBidder": 986559607
+      },
+      "export_at": "2025-08-05T17:07:49.000Z",
+      "premarketData": {}
     }
   ],
   "Amanita": [
@@ -23669,6 +23799,26 @@
   ],
   "Mauvelous": [
     {
+      "gift_num": 29386,
+      "customEmojiId": "5228912113518402732",
+      "gift_id": 7334872,
+      "name": "Snow Mittens",
+      "model": "Mauvelous (1.3%)",
+      "asset": "TON",
+      "symbol": "Flower (0.2%)",
+      "backdrop": "Indigo Dye (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T07:55:32.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5824,
       "customEmojiId": "5228912113518402732",
       "gift_id": 7332494,
@@ -24609,11 +24759,31 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2.96,
+      "price": 2.61,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "export_at": "2025-08-04T14:33:35.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 18772,
+      "customEmojiId": "5226799715458249172",
+      "gift_id": 7341097,
+      "name": "Snow Mittens",
+      "model": "Sequoia (1.3%)",
+      "asset": "TON",
+      "symbol": "Mistletoe (2.4%)",
+      "backdrop": "Cappuccino (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.75,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T17:22:40.000Z",
       "premarketData": {}
     },
     {
