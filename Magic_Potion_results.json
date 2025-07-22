@@ -1669,6 +1669,53 @@
       "auction": null,
       "export_at": "2025-06-22T18:47:49.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 739,
+      "customEmojiId": "5431504123142890731",
+      "gift_id": 7333832,
+      "name": "Magic Potion",
+      "model": "Wicked Melon (2.5%)",
+      "asset": "TON",
+      "symbol": "Pickaxe (0.2%)",
+      "backdrop": "Pistachio (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 45,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "KMZP93ZD",
+      "auction": {
+        "_id": "687f1eb0aace4cd2f65c63ee",
+        "gift_id": 7333832,
+        "seller": 0,
+        "auction_id": "KMZP93ZD",
+        "startingBid": 45,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 45,
+            "asset": "TON",
+            "_id": "687fa5a2aace4cd2f63288a2",
+            "timestamp": "2025-07-22T14:52:18.915Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-22T15:50:16.031Z",
+        "status": "finished",
+        "gift_name": "Magic Potion",
+        "gift_num": 739,
+        "model": "Wicked Melon (2.5%)",
+        "backdrop": "Pistachio (1.5%)",
+        "symbol": "Pickaxe (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T14:50:17.233Z",
+        "__v": 0,
+        "winningBid": 45,
+        "winningBidder": 7352255987
+      },
+      "export_at": "2025-08-05T04:36:40.000Z",
+      "premarketData": {}
     }
   ],
   "Green Goo": [
@@ -2283,6 +2330,26 @@
   ],
   "Blue Lagoon": [
     {
+      "gift_num": 1702,
+      "customEmojiId": "5398115043088820666",
+      "gift_id": 7338206,
+      "name": "Magic Potion",
+      "model": "Blue Lagoon (2.5%)",
+      "asset": "TON",
+      "symbol": "Jaws (2.4%)",
+      "backdrop": "Chocolate (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 48,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T13:56:47.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 969,
       "customEmojiId": "5398115043088820666",
       "gift_id": 7315470,
@@ -2773,26 +2840,6 @@
   ],
   "Vulnerability": [
     {
-      "gift_num": 381,
-      "customEmojiId": "5431485233876721301",
-      "gift_id": 7307820,
-      "name": "Magic Potion",
-      "model": "Vulnerability (1.5%)",
-      "asset": "TON",
-      "symbol": "Spider Web (2.4%)",
-      "backdrop": "Rosewood (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 105,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-03T08:08:57.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 4106,
       "customEmojiId": "5431485233876721301",
       "gift_id": 46652,
@@ -2957,6 +3004,26 @@
   ],
   "Queen Bee": [
     {
+      "gift_num": 743,
+      "customEmojiId": "5409272126878279484",
+      "gift_id": 7232237,
+      "name": "Magic Potion",
+      "model": "Queen Bee (1.5%)",
+      "asset": "TON",
+      "symbol": "Witch's Hat (2.4%)",
+      "backdrop": "Electric Indigo (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 80,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T14:14:29.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3756,
       "customEmojiId": "5409272126878279484",
       "gift_id": 7307293,
@@ -2974,26 +3041,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-03T07:01:46.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 743,
-      "customEmojiId": "5409272126878279484",
-      "gift_id": 7232237,
-      "name": "Magic Potion",
-      "model": "Queen Bee (1.5%)",
-      "asset": "TON",
-      "symbol": "Witch's Hat (2.4%)",
-      "backdrop": "Electric Indigo (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T14:14:29.000Z",
       "premarketData": {}
     },
     {
