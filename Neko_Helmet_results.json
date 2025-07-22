@@ -2141,6 +2141,24 @@
   ],
   "Night Race": [
     {
+      "gift_num": 1216,
+      "customEmojiId": "5353012088274970968",
+      "gift_id": 593389508923,
+      "name": "Neko Helmet",
+      "model": "Night Race (2.5%)",
+      "asset": "TON",
+      "symbol": "Teddy Bear (0.4%)",
+      "backdrop": "Celtic Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 93.636,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 6842,
       "customEmojiId": "5353012088274970968",
       "gift_id": 7324058,
@@ -2742,24 +2760,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-13T19:58:18.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 8829,
-      "customEmojiId": "5353012088274970968",
-      "gift_id": 593825391839,
-      "name": "Neko Helmet",
-      "model": "Night Race (2.5%)",
-      "asset": "TON",
-      "symbol": "Iron Helmet (0.5%)",
-      "backdrop": "Sky Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 550.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
@@ -15440,26 +15440,6 @@
   ],
   "Acid Punch": [
     {
-      "gift_num": 9212,
-      "customEmojiId": "5352549211059544524",
-      "gift_id": 7184907,
-      "name": "Neko Helmet",
-      "model": "Acid Punch (2.7%)",
-      "asset": "TON",
-      "symbol": "Black Cat (0.4%)",
-      "backdrop": "Burgundy (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T21:13:42.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 7589,
       "customEmojiId": "5352549211059544524",
       "gift_id": 7330910,
@@ -16235,6 +16215,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-23T19:26:53.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 7573,
+      "customEmojiId": "5352549211059544524",
+      "gift_id": 7111477,
+      "name": "Neko Helmet",
+      "model": "Acid Punch (2.7%)",
+      "asset": "TON",
+      "symbol": "Tsunami (0.4%)",
+      "backdrop": "Azure Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 30,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-23T19:26:25.000Z",
       "premarketData": {}
     }
   ],
