@@ -415,7 +415,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 11.42,
+      "price": 10.85,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -1731,26 +1731,6 @@
   ],
   "Abyss Heart": [
     {
-      "gift_num": 15439,
-      "customEmojiId": "5399863421195802452",
-      "gift_id": 7298251,
-      "name": "Trapped Heart",
-      "model": "Abyss Heart (2.6%)",
-      "asset": "TON",
-      "symbol": "Rabbit (0.6%)",
-      "backdrop": "Satin Gold (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8.9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T14:51:35.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 7721,
       "customEmojiId": "5399863421195802452",
       "gift_id": 5848840,
@@ -2232,26 +2212,6 @@
     }
   ],
   "Bandaged": [
-    {
-      "gift_num": 18681,
-      "customEmojiId": "5433627877096579974",
-      "gift_id": 7316331,
-      "name": "Trapped Heart",
-      "model": "Bandaged (2.6%)",
-      "asset": "TON",
-      "symbol": "Bubbles (0.4%)",
-      "backdrop": "Lemongrass (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-03T19:44:00.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 23479,
       "customEmojiId": "5433627877096579974",
@@ -10233,26 +10193,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 11902,
-      "customEmojiId": "5433812904287692618",
-      "gift_id": 6764361,
-      "name": "Trapped Heart",
-      "model": "Love Bomb (1%)",
-      "asset": "TON",
-      "symbol": "Ghost (1.2%)",
-      "backdrop": "Shamrock Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-09T21:18:48.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 1936,
       "customEmojiId": "5433812904287692618",
       "gift_id": 6732694,
@@ -11097,6 +11037,26 @@
     }
   ],
   "Jack-o-Love": [
+    {
+      "gift_num": 20387,
+      "customEmojiId": "5422871891712960418",
+      "gift_id": 7345505,
+      "name": "Trapped Heart",
+      "model": "Jack-o-Love (0.6%)",
+      "asset": "TON",
+      "symbol": "Lingerie (0.6%)",
+      "backdrop": "Azure Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 17,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T22:41:01.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 6422,
       "customEmojiId": "5422871891712960418",
@@ -15036,26 +14996,6 @@
   ],
   "Mystic Mark": [
     {
-      "gift_num": 17602,
-      "customEmojiId": "5433884183564937859",
-      "gift_id": 7205388,
-      "name": "Trapped Heart",
-      "model": "Mystic Mark (2%)",
-      "asset": "TON",
-      "symbol": "Rabbit (0.6%)",
-      "backdrop": "Orange (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5.78,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T23:30:21.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 21868,
       "customEmojiId": "5433884183564937859",
       "gift_id": 7326667,
@@ -15433,6 +15373,81 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-20T04:26:15.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 17455,
+      "customEmojiId": "5433884183564937859",
+      "gift_id": 7344810,
+      "name": "Trapped Heart",
+      "model": "Mystic Mark (2%)",
+      "asset": "TON",
+      "symbol": "Rabbit (0.6%)",
+      "backdrop": "Steel Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.6,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "UPGW4EIX",
+      "auction": {
+        "_id": "688006ffaace4cd2f68223b7",
+        "gift_id": 7344810,
+        "seller": 0,
+        "auction_id": "UPGW4EIX",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6880071caace4cd2f6828928",
+            "timestamp": "2025-07-22T21:48:12.949Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.7,
+            "asset": "TON",
+            "_id": "6880073aaace4cd2f682d48c",
+            "timestamp": "2025-07-22T21:48:42.863Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.99,
+            "asset": "TON",
+            "_id": "68801109aace4cd2f6889031",
+            "timestamp": "2025-07-22T22:30:33.079Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.29,
+            "asset": "TON",
+            "_id": "68801128aace4cd2f6889a36",
+            "timestamp": "2025-07-22T22:31:04.930Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.6,
+            "asset": "TON",
+            "_id": "68801174aace4cd2f688b3f2",
+            "timestamp": "2025-07-22T22:32:20.032Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-22T22:47:42.337Z",
+        "status": "finished",
+        "gift_name": "Trapped Heart",
+        "gift_num": 17455,
+        "model": "Mystic Mark (2%)",
+        "backdrop": "Steel Grey (1.5%)",
+        "symbol": "Rabbit (0.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T21:47:43.514Z",
+        "__v": 0,
+        "winningBid": 6.6,
+        "winningBidder": 962112054
+      },
+      "export_at": "2025-08-05T21:46:52.000Z",
       "premarketData": {}
     }
   ],
@@ -17046,6 +17061,26 @@
   ],
   "Lovesick": [
     {
+      "gift_num": 23857,
+      "customEmojiId": "5433734722997999958",
+      "gift_id": 7099257,
+      "name": "Trapped Heart",
+      "model": "Lovesick (2.6%)",
+      "asset": "TON",
+      "symbol": "Potion (1%)",
+      "backdrop": "Roman Silver (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-23T09:11:26.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4139,
       "customEmojiId": "5433734722997999958",
       "gift_id": 2757707,
@@ -18049,26 +18084,6 @@
     }
   ],
   "Bejeweled": [
-    {
-      "gift_num": 15778,
-      "customEmojiId": "5402332748218133219",
-      "gift_id": 7336571,
-      "name": "Trapped Heart",
-      "model": "Bejeweled (2.6%)",
-      "asset": "TON",
-      "symbol": "Dessert (0.2%)",
-      "backdrop": "Emerald (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T11:35:44.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 23468,
       "customEmojiId": "5402332748218133219",
@@ -19837,6 +19852,26 @@
     }
   ],
   "Love Potion": [
+    {
+      "gift_num": 8728,
+      "customEmojiId": "5436229484816657104",
+      "gift_id": 7345059,
+      "name": "Trapped Heart",
+      "model": "Love Potion (2%)",
+      "asset": "TON",
+      "symbol": "Chili (0.6%)",
+      "backdrop": "Khaki Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T22:03:19.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 17886,
       "customEmojiId": "5436229484816657104",
