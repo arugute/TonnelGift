@@ -702,7 +702,7 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 7,
+      "price": 5,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -1654,7 +1654,7 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 12.34,
+      "price": 8,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3842,6 +3842,32 @@
     }
   ],
   "Watermelon": [
+    {
+      "gift_num": 8197,
+      "customEmojiId": "5343550752063266261",
+      "gift_id": 247980553055,
+      "name": "Joyful Bundle",
+      "model": "Watermelon (3%)",
+      "asset": "TON",
+      "symbol": "Gentian (0.2%)",
+      "backdrop": "Navy Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4.23,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 0.76,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 4.028,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-04T18:59:18.098Z"
+      }
+    },
     {
       "gift_num": 558,
       "customEmojiId": "5343550752063266261",
