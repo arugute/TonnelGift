@@ -8798,26 +8798,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 41476,
-      "customEmojiId": "5278544661101702884",
-      "gift_id": 7202772,
-      "name": "Winter Wreath",
-      "model": "Tinsel (2%)",
-      "asset": "TON",
-      "symbol": "Cupcake (2%)",
-      "backdrop": "Copper (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T20:31:10.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 34468,
       "customEmojiId": "5278544661101702884",
       "gift_id": 7279863,
@@ -11428,6 +11408,166 @@
       "premarketData": {}
     },
     {
+      "gift_num": 31879,
+      "customEmojiId": "5316583318131600789",
+      "gift_id": 7138375,
+      "name": "Winter Wreath",
+      "model": "Ornament (0.9%)",
+      "asset": "TON",
+      "symbol": "Tooth (0.2%)",
+      "backdrop": "Black (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 12.72,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "CW8RM9RL",
+      "auction": {
+        "_id": "687b8655aace4cd2f6ecc03d",
+        "gift_id": 7138375,
+        "seller": 0,
+        "auction_id": "CW8RM9RL",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "687fe4a0aace4cd2f668cf94",
+            "timestamp": "2025-07-22T19:21:04.312Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.12,
+            "asset": "TON",
+            "_id": "687fe4dfaace4cd2f668e9d3",
+            "timestamp": "2025-07-22T19:22:07.622Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.43,
+            "asset": "TON",
+            "_id": "687fe4f9aace4cd2f668edec",
+            "timestamp": "2025-07-22T19:22:33.967Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.75,
+            "asset": "TON",
+            "_id": "687fe829aace4cd2f66a4c43",
+            "timestamp": "2025-07-22T19:36:09.771Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.09,
+            "asset": "TON",
+            "_id": "687fe89faace4cd2f66a8b56",
+            "timestamp": "2025-07-22T19:38:07.016Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.44,
+            "asset": "TON",
+            "_id": "687feaa8aace4cd2f66b46dc",
+            "timestamp": "2025-07-22T19:46:48.971Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.81,
+            "asset": "TON",
+            "_id": "687feb1daace4cd2f66b6ad2",
+            "timestamp": "2025-07-22T19:48:45.679Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.2,
+            "asset": "TON",
+            "_id": "687ff026aace4cd2f66ef743",
+            "timestamp": "2025-07-22T20:10:14.926Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.61,
+            "asset": "TON",
+            "_id": "687ff0d5aace4cd2f66f3613",
+            "timestamp": "2025-07-22T20:13:09.638Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.04,
+            "asset": "TON",
+            "_id": "687ff31eaace4cd2f66ff41a",
+            "timestamp": "2025-07-22T20:22:54.264Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.49,
+            "asset": "TON",
+            "_id": "687ff55daace4cd2f671bc7b",
+            "timestamp": "2025-07-22T20:32:29.856Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.96,
+            "asset": "TON",
+            "_id": "687ff58eaace4cd2f671efa8",
+            "timestamp": "2025-07-22T20:33:18.037Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.46,
+            "asset": "TON",
+            "_id": "687ff5d0aace4cd2f67225d3",
+            "timestamp": "2025-07-22T20:34:24.051Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.98,
+            "asset": "TON",
+            "_id": "687ff90aaace4cd2f673ec59",
+            "timestamp": "2025-07-22T20:48:10.196Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.53,
+            "asset": "TON",
+            "_id": "687ff92baace4cd2f673f7c4",
+            "timestamp": "2025-07-22T20:48:43.764Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.11,
+            "asset": "TON",
+            "_id": "687ff957aace4cd2f6740056",
+            "timestamp": "2025-07-22T20:49:27.361Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.72,
+            "asset": "TON",
+            "_id": "687ff97baace4cd2f6741156",
+            "timestamp": "2025-07-22T20:50:03.629Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-22T21:00:24.576Z",
+        "status": "finished",
+        "gift_name": "Winter Wreath",
+        "gift_num": 31879,
+        "model": "Ornament (0.9%)",
+        "backdrop": "Black (1%)",
+        "symbol": "Tooth (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T19:20:25.557Z",
+        "__v": 0,
+        "winningBid": 12.72,
+        "winningBidder": 7913679325
+      },
+      "export_at": "2025-07-24T18:24:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 43562,
       "customEmojiId": "5316583318131600789",
       "gift_id": 7027747,
@@ -11945,26 +12085,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-05T05:06:03.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7666,
-      "customEmojiId": "5316583318131600789",
-      "gift_id": 4757051,
-      "name": "Winter Wreath",
-      "model": "Ornament (0.9%)",
-      "asset": "TON",
-      "symbol": "Spellbook (0.2%)",
-      "backdrop": "Turquoise (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 571052,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-27T08:24:02.000Z",
       "premarketData": {}
     }
   ],
@@ -15958,6 +16078,26 @@
   ],
   "Night Bell": [
     {
+      "gift_num": 46686,
+      "customEmojiId": "5278615442162739542",
+      "gift_id": 7295928,
+      "name": "Winter Wreath",
+      "model": "Night Bell (2%)",
+      "asset": "TON",
+      "symbol": "Acorn (0.2%)",
+      "backdrop": "Raspberry (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T12:01:20.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12143,
       "customEmojiId": "5278615442162739542",
       "gift_id": 7312397,
@@ -16535,26 +16675,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T11:18:29.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 35084,
-      "customEmojiId": "5278615442162739542",
-      "gift_id": 4733490,
-      "name": "Winter Wreath",
-      "model": "Night Bell (2%)",
-      "asset": "TON",
-      "symbol": "Mittens (2%)",
-      "backdrop": "Pacific Green (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-26T18:36:58.000Z",
       "premarketData": {}
     }
   ],
@@ -18830,6 +18950,26 @@
   ],
   "Happy Santa": [
     {
+      "gift_num": 49114,
+      "customEmojiId": "5330110712767343257",
+      "gift_id": 7344124,
+      "name": "Winter Wreath",
+      "model": "Happy Santa (0.9%)",
+      "asset": "TON",
+      "symbol": "Chest (2.4%)",
+      "backdrop": "Chestnut (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T20:55:53.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 26680,
       "customEmojiId": "5330110712767343257",
       "gift_id": 6230383,
@@ -19351,6 +19491,26 @@
     }
   ],
   "Candles": [
+    {
+      "gift_num": 49113,
+      "customEmojiId": "5319096797417727783",
+      "gift_id": 7344111,
+      "name": "Winter Wreath",
+      "model": "Candles (0.3%)",
+      "asset": "TON",
+      "symbol": "Ice Skates (1.6%)",
+      "backdrop": "Dark Lilac (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T20:55:06.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 34641,
       "customEmojiId": "5319096797417727783",
@@ -21260,26 +21420,6 @@
   ],
   "Holly Leaves": [
     {
-      "gift_num": 20538,
-      "customEmojiId": "5310061534846678449",
-      "gift_id": 7340328,
-      "name": "Winter Wreath",
-      "model": "Holly Leaves (0.7%)",
-      "asset": "TON",
-      "symbol": "Hot Drink (2.4%)",
-      "backdrop": "Electric Purple (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T16:31:04.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 23100,
       "customEmojiId": "5310061534846678449",
       "gift_id": 6899840,
@@ -21741,6 +21881,26 @@
     }
   ],
   "Coloring Book": [
+    {
+      "gift_num": 49110,
+      "customEmojiId": "5271521062427846893",
+      "gift_id": 7344139,
+      "name": "Winter Wreath",
+      "model": "Coloring Book (2%)",
+      "asset": "TON",
+      "symbol": "Eikthyrnir (1.6%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T20:56:49.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 29911,
       "customEmojiId": "5271521062427846893",
@@ -22264,26 +22424,6 @@
   ],
   "Snowball": [
     {
-      "gift_num": 12070,
-      "customEmojiId": "5305240614445543055",
-      "gift_id": 7274487,
-      "name": "Winter Wreath",
-      "model": "Snowball (2%)",
-      "asset": "TON",
-      "symbol": "Chest (2.4%)",
-      "backdrop": "Carrot Juice (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T23:03:51.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 19312,
       "customEmojiId": "5305240614445543055",
       "gift_id": 7303777,
@@ -22301,6 +22441,46 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-02T21:50:58.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 6766,
+      "customEmojiId": "5305240614445543055",
+      "gift_id": 7343075,
+      "name": "Winter Wreath",
+      "model": "Snowball (2%)",
+      "asset": "TON",
+      "symbol": "Guitar (0.2%)",
+      "backdrop": "Sapphire (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T19:45:35.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 12070,
+      "customEmojiId": "5305240614445543055",
+      "gift_id": 7274487,
+      "name": "Winter Wreath",
+      "model": "Snowball (2%)",
+      "asset": "TON",
+      "symbol": "Chest (2.4%)",
+      "backdrop": "Carrot Juice (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T23:03:51.000Z",
       "premarketData": {}
     },
     {
@@ -22841,26 +23021,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T14:16:25.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2178,
-      "customEmojiId": "5305240614445543055",
-      "gift_id": 5453857,
-      "name": "Winter Wreath",
-      "model": "Snowball (2%)",
-      "asset": "TON",
-      "symbol": "Christmas Tree (2.4%)",
-      "backdrop": "Feldgrau (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-13T06:51:00.000Z",
       "premarketData": {}
     }
   ],
@@ -23665,6 +23825,158 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-03-28T20:51:07.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 25988,
+      "customEmojiId": "5292112441314929609",
+      "gift_id": 7337727,
+      "name": "Winter Wreath",
+      "model": "Princess Day (2%)",
+      "asset": "TON",
+      "symbol": "Bandana (0.2%)",
+      "backdrop": "Black (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 8.9,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "51YGK8CG",
+      "auction": {
+        "_id": "687f9268aace4cd2f61d708e",
+        "gift_id": 7337727,
+        "seller": 0,
+        "auction_id": "51YGK8CG",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "687f962baace4cd2f61f0030",
+            "timestamp": "2025-07-22T13:46:19.989Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "687fac41aace4cd2f63fc6e6",
+            "timestamp": "2025-07-22T15:20:33.345Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "687faee9aace4cd2f64578f7",
+            "timestamp": "2025-07-22T15:31:53.153Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "687faf50aace4cd2f64611cb",
+            "timestamp": "2025-07-22T15:33:36.340Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "687faf83aace4cd2f6464c0f",
+            "timestamp": "2025-07-22T15:34:27.880Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.56,
+            "asset": "TON",
+            "_id": "687fb07daace4cd2f646e2c9",
+            "timestamp": "2025-07-22T15:38:37.625Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.69,
+            "asset": "TON",
+            "_id": "687fb15eaace4cd2f6485ec8",
+            "timestamp": "2025-07-22T15:42:22.080Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3,
+            "asset": "TON",
+            "_id": "687fb19aaace4cd2f648d16a",
+            "timestamp": "2025-07-22T15:43:22.195Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.5,
+            "asset": "TON",
+            "_id": "687fb1d2aace4cd2f6493870",
+            "timestamp": "2025-07-22T15:44:18.352Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.68,
+            "asset": "TON",
+            "_id": "687fb55caace4cd2f6500262",
+            "timestamp": "2025-07-22T15:59:24.901Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4,
+            "asset": "TON",
+            "_id": "687fcde2aace4cd2f6606a71",
+            "timestamp": "2025-07-22T17:44:02.631Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.2,
+            "asset": "TON",
+            "_id": "687fcdf9aace4cd2f66074d2",
+            "timestamp": "2025-07-22T17:44:25.475Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.41,
+            "asset": "TON",
+            "_id": "687fce90aace4cd2f660a054",
+            "timestamp": "2025-07-22T17:46:56.858Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.35,
+            "asset": "TON",
+            "_id": "687fd71daace4cd2f662d523",
+            "timestamp": "2025-07-22T18:23:25.057Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.4,
+            "asset": "TON",
+            "_id": "687fdce3aace4cd2f665175f",
+            "timestamp": "2025-07-22T18:48:03.360Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.9,
+            "asset": "TON",
+            "_id": "687fe4b6aace4cd2f668d47e",
+            "timestamp": "2025-07-22T19:21:26.493Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-22T19:40:13.627Z",
+        "status": "finished",
+        "gift_name": "Winter Wreath",
+        "gift_num": 25988,
+        "model": "Princess Day (2%)",
+        "backdrop": "Black (1%)",
+        "symbol": "Bandana (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T13:30:16.286Z",
+        "__v": 0,
+        "winningBid": 8.9,
+        "winningBidder": 1620119283
+      },
+      "export_at": "2025-08-05T13:29:06.000Z",
       "premarketData": {}
     }
   ],
@@ -25198,6 +25510,26 @@
   ],
   "Rowan Berry": [
     {
+      "gift_num": 19514,
+      "customEmojiId": "5316926516083321747",
+      "gift_id": 7343367,
+      "name": "Winter Wreath",
+      "model": "Rowan Berry (1%)",
+      "asset": "TON",
+      "symbol": "Bishop (0.2%)",
+      "backdrop": "Malachite (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.94,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T20:07:32.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 23489,
       "customEmojiId": "5316926516083321747",
       "gift_id": 7270943,
@@ -25775,26 +26107,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-08T20:43:04.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 32397,
-      "customEmojiId": "5316926516083321747",
-      "gift_id": 6019149,
-      "name": "Winter Wreath",
-      "model": "Rowan Berry (1%)",
-      "asset": "TON",
-      "symbol": "Bike Helmet (0.2%)",
-      "backdrop": "English Violet (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T17:30:05.000Z",
       "premarketData": {}
     }
   ],
@@ -28972,6 +29284,26 @@
   ],
   "Heart Bell": [
     {
+      "gift_num": 20914,
+      "customEmojiId": "5307556490876314665",
+      "gift_id": -271181963,
+      "name": "Winter Wreath",
+      "model": "Heart Bell (0.9%)",
+      "asset": "TON",
+      "symbol": "New Year's Eve (1.6%)",
+      "backdrop": "Dark Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T19:47:36.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4146,
       "customEmojiId": "5307556490876314665",
       "gift_id": 6579822,
@@ -31562,6 +31894,26 @@
   ],
   "Aquamarine": [
     {
+      "gift_num": 49111,
+      "customEmojiId": "5305748030471825418",
+      "gift_id": 7344131,
+      "name": "Winter Wreath",
+      "model": "Aquamarine (2%)",
+      "asset": "TON",
+      "symbol": "Ornament (2.4%)",
+      "backdrop": "Mexican Pink (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T20:56:19.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 46808,
       "customEmojiId": "5305748030471825418",
       "gift_id": 7266072,
@@ -32140,26 +32492,6 @@
       "auction": null,
       "export_at": "2025-06-23T13:40:10.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 267,
-      "customEmojiId": "5305748030471825418",
-      "gift_id": 5297987,
-      "name": "Winter Wreath",
-      "model": "Aquamarine (2%)",
-      "asset": "TON",
-      "symbol": "Piggy Bank (2.4%)",
-      "backdrop": "Gunmetal (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 13.35,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-07T23:45:23.000Z",
-      "premarketData": {}
     }
   ],
   "Neon Sign": [
@@ -32623,26 +32955,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-21T11:32:50.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 25001,
-      "customEmojiId": "5276421448313890954",
-      "gift_id": 7301711,
-      "name": "Winter Wreath",
-      "model": "Confetti (2%)",
-      "asset": "TON",
-      "symbol": "Stocking (2.4%)",
-      "backdrop": "Onyx Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T19:07:04.000Z",
       "premarketData": {}
     },
     {
