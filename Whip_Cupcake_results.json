@@ -3043,6 +3043,26 @@
   ],
   "Paradise": [
     {
+      "gift_num": 37638,
+      "customEmojiId": "5276280874034293757",
+      "gift_id": 468517124091,
+      "name": "Whip Cupcake",
+      "model": "Paradise (2.5%)",
+      "asset": "TON",
+      "symbol": "Cunning Fox (0.7%)",
+      "backdrop": "Old Gold (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 21877,
       "customEmojiId": "5276280874034293757",
       "gift_id": 380669060449,
@@ -3161,26 +3181,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 17.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 37638,
-      "customEmojiId": "5276280874034293757",
-      "gift_id": 468517124091,
-      "name": "Whip Cupcake",
-      "model": "Paradise (2.5%)",
-      "asset": "TON",
-      "symbol": "Cunning Fox (0.7%)",
-      "backdrop": "Old Gold (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 2,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -4324,6 +4324,32 @@
     }
   ],
   "Sugar Daddy": [
+    {
+      "gift_num": 60465,
+      "customEmojiId": "5188488967955183139",
+      "gift_id": 297658833478,
+      "name": "Whip Cupcake",
+      "model": "Sugar Daddy (1%)",
+      "asset": "TON",
+      "symbol": "Boat (0.7%)",
+      "backdrop": "Gunmetal (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 14.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 2.6,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 13.780000000000001,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-28T06:32:41.280Z"
+      }
+    },
     {
       "gift_num": 34459,
       "customEmojiId": "5188488967955183139",
@@ -17679,26 +17705,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 29935,
-      "customEmojiId": "5224333674085905027",
-      "gift_id": 408715606349,
-      "name": "Whip Cupcake",
-      "model": "Cherry Top (3%)",
-      "asset": "TON",
-      "symbol": "Light Bulb (0.5%)",
-      "backdrop": "Mystic Pearl (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
       "gift_num": 1158,
       "customEmojiId": "5224333674085905027",
       "gift_id": 578961403124,
@@ -18221,6 +18227,26 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 3.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 9848,
+      "customEmojiId": "5224333674085905027",
+      "gift_id": 291389181822,
+      "name": "Whip Cupcake",
+      "model": "Cherry Top (3%)",
+      "asset": "TON",
+      "symbol": "Ink Pen (0.7%)",
+      "backdrop": "Chestnut (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -18826,6 +18852,32 @@
     }
   ],
   "Unicorn": [
+    {
+      "gift_num": 22307,
+      "customEmojiId": "5220105910143186726",
+      "gift_id": 455044278722,
+      "name": "Whip Cupcake",
+      "model": "Unicorn (2.5%)",
+      "asset": "TON",
+      "symbol": "Nigiri (0.7%)",
+      "backdrop": "Fandango (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 0.7000000000000001,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 3.71,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-31T02:17:00.844Z"
+      }
+    },
     {
       "gift_num": 22700,
       "customEmojiId": "5220105910143186726",
@@ -22383,6 +22435,32 @@
   ],
   "Six Senses": [
     {
+      "gift_num": 88548,
+      "customEmojiId": "5330017103955131163",
+      "gift_id": 455136263531,
+      "name": "Whip Cupcake",
+      "model": "Six Senses (3%)",
+      "asset": "TON",
+      "symbol": "Lily (0.7%)",
+      "backdrop": "Raspberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 0.4,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 2.12,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-07-29T01:02:31.068Z"
+      }
+    },
+    {
       "gift_num": 34108,
       "customEmojiId": "5330017103955131163",
       "gift_id": 574203769148,
@@ -22979,26 +23057,6 @@
         "premarketLastSaleAsset": "TON",
         "premarketExecutionDeadline": "2025-07-30T06:49:42.295Z"
       }
-    },
-    {
-      "gift_num": 101471,
-      "customEmojiId": "5330017103955131163",
-      "gift_id": 183951063120,
-      "name": "Whip Cupcake",
-      "model": "Six Senses (3%)",
-      "asset": "TON",
-      "symbol": "Breeze (0.4%)",
-      "backdrop": "Pacific Cyan (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 2.12,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
     }
   ],
   "Fantastic Four": [
