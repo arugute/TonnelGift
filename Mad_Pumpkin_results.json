@@ -6195,6 +6195,53 @@
       "auction": null,
       "export_at": "2025-06-23T15:50:37.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 12125,
+      "customEmojiId": "5447607196781143624",
+      "gift_id": 7342085,
+      "name": "Mad Pumpkin",
+      "model": "Dark Ritual (2%)",
+      "asset": "TON",
+      "symbol": "Voodoo Doll (1.6%)",
+      "backdrop": "Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 300,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "G301DIRI",
+      "auction": {
+        "_id": "687fdac0aace4cd2f6643e94",
+        "gift_id": 7342085,
+        "seller": 0,
+        "auction_id": "G301DIRI",
+        "startingBid": 300,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 300,
+            "asset": "TON",
+            "_id": "687fe67daace4cd2f6698bc1",
+            "timestamp": "2025-07-22T19:29:01.212Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-22T19:48:54.029Z",
+        "status": "finished",
+        "gift_name": "Mad Pumpkin",
+        "gift_num": 12125,
+        "model": "Dark Ritual (2%)",
+        "backdrop": "Black (1.5%)",
+        "symbol": "Voodoo Doll (1.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T18:38:56.053Z",
+        "__v": 0,
+        "winningBid": 300,
+        "winningBidder": 324418489
+      },
+      "export_at": "2025-08-05T18:37:59.000Z",
+      "premarketData": {}
     }
   ],
   "Jigsaw": [
@@ -6458,26 +6505,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-01T07:57:12.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 8361,
-      "customEmojiId": "5409059186694709485",
-      "gift_id": 6582215,
-      "name": "Mad Pumpkin",
-      "model": "Little Sketchy (2%)",
-      "asset": "TON",
-      "symbol": "Human Scull (2%)",
-      "backdrop": "Persimmon (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 19,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-02T19:59:20.000Z",
       "premarketData": {}
     },
     {
@@ -8174,6 +8201,26 @@
     }
   ],
   "Laugh Potion": [
+    {
+      "gift_num": 17578,
+      "customEmojiId": "5442812003234112700",
+      "gift_id": 7342871,
+      "name": "Mad Pumpkin",
+      "model": "Laugh Potion (1%)",
+      "asset": "TON",
+      "symbol": "Blood Drop (2.4%)",
+      "backdrop": "Navy Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 11,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T19:30:27.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 17388,
       "customEmojiId": "5442812003234112700",
@@ -12063,6 +12110,26 @@
   ],
   "Purple Imp": [
     {
+      "gift_num": 11934,
+      "customEmojiId": "5402271437559979875",
+      "gift_id": 6314253,
+      "name": "Mad Pumpkin",
+      "model": "Purple Imp (2%)",
+      "asset": "TON",
+      "symbol": "Flying Witch (2%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 23.71,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-26T20:47:01.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 8901,
       "customEmojiId": "5402271437559979875",
       "gift_id": 7336076,
@@ -12180,26 +12247,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-04T09:50:56.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11934,
-      "customEmojiId": "5402271437559979875",
-      "gift_id": 6314253,
-      "name": "Mad Pumpkin",
-      "model": "Purple Imp (2%)",
-      "asset": "TON",
-      "symbol": "Flying Witch (2%)",
-      "backdrop": "Persimmon (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 23.92,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-26T20:47:01.000Z",
       "premarketData": {}
     },
     {
@@ -12417,7 +12464,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 13,
+      "price": 12.25,
       "status": "forsale",
       "limited": false,
       "auction": null,
