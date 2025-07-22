@@ -7349,6 +7349,26 @@
   ],
   "Bus Guys": [
     {
+      "gift_num": 25039,
+      "customEmojiId": "5411379130459518004",
+      "gift_id": 7331138,
+      "name": "Bow Tie",
+      "model": "Bus Guys (1%)",
+      "asset": "TON",
+      "symbol": "Acorn (0.5%)",
+      "backdrop": "Seal Brown (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 12.22,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T20:58:19.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 41406,
       "customEmojiId": "5411379130459518004",
       "gift_id": 7328543,
@@ -8109,26 +8129,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-29T05:14:19.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 27145,
-      "customEmojiId": "5411379130459518004",
-      "gift_id": 6925070,
-      "name": "Bow Tie",
-      "model": "Bus Guys (1%)",
-      "asset": "TON",
-      "symbol": "Shooting Star (0.4%)",
-      "backdrop": "Sky Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-16T04:14:43.000Z",
       "premarketData": {}
     }
   ],
@@ -20711,6 +20711,26 @@
   ],
   "Canada": [
     {
+      "gift_num": 22326,
+      "customEmojiId": "5404730997826681051",
+      "gift_id": 7333559,
+      "name": "Bow Tie",
+      "model": "Canada (3%)",
+      "asset": "TON",
+      "symbol": "Sushi Rolls (0.5%)",
+      "backdrop": "Malachite (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.1,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T02:45:46.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 19207,
       "customEmojiId": "5404730997826681051",
       "gift_id": 6637305,
@@ -21290,29 +21310,29 @@
       "auction": null,
       "export_at": "2025-07-29T18:48:59.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 15563,
-      "customEmojiId": "5404730997826681051",
-      "gift_id": 6950332,
-      "name": "Bow Tie",
-      "model": "Canada (3%)",
-      "asset": "TON",
-      "symbol": "Valkyrie (0.3%)",
-      "backdrop": "Black (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 906969,
-      "price": 220,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-17T00:39:37.000Z",
-      "premarketData": {}
     }
   ],
   "Despicable": [
+    {
+      "gift_num": 22194,
+      "customEmojiId": "5429434275323736073",
+      "gift_id": 7307273,
+      "name": "Bow Tie",
+      "model": "Despicable (2%)",
+      "asset": "TON",
+      "symbol": "Fried Egg (0.5%)",
+      "backdrop": "Indigo Dye (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-03T06:59:53.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 40245,
       "customEmojiId": "5429434275323736073",
@@ -21351,6 +21371,89 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-02T19:04:53.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 36506,
+      "customEmojiId": "5429434275323736073",
+      "gift_id": 7099923,
+      "name": "Bow Tie",
+      "model": "Despicable (2%)",
+      "asset": "TON",
+      "symbol": "Sunflower (0.5%)",
+      "backdrop": "Battleship Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.48,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "2YE688EY",
+      "auction": {
+        "_id": "687e13feaace4cd2f61f60ea",
+        "gift_id": 7099923,
+        "seller": 0,
+        "auction_id": "2YE688EY",
+        "startingBid": 2.5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.5,
+            "asset": "TON",
+            "_id": "687edd43aace4cd2f6273338",
+            "timestamp": "2025-07-22T00:37:23.530Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.63,
+            "asset": "TON",
+            "_id": "687edebdaace4cd2f6276425",
+            "timestamp": "2025-07-22T00:43:41.290Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3,
+            "asset": "TON",
+            "_id": "687edec8aace4cd2f62764b4",
+            "timestamp": "2025-07-22T00:43:52.285Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.15,
+            "asset": "TON",
+            "_id": "687ee937aace4cd2f63472e0",
+            "timestamp": "2025-07-22T01:28:23.697Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.31,
+            "asset": "TON",
+            "_id": "687eeac4aace4cd2f6348ceb",
+            "timestamp": "2025-07-22T01:35:00.927Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.48,
+            "asset": "TON",
+            "_id": "687eead1aace4cd2f6348d1c",
+            "timestamp": "2025-07-22T01:35:13.549Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-22T01:46:27.616Z",
+        "status": "finished",
+        "gift_name": "Bow Tie",
+        "gift_num": 36506,
+        "model": "Despicable (2%)",
+        "backdrop": "Battleship Grey (1.5%)",
+        "symbol": "Sunflower (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T00:36:28.504Z",
+        "__v": 0,
+        "winningBid": 3.48,
+        "winningBidder": 1786128278
+      },
+      "export_at": "2025-07-23T09:51:59.000Z",
       "premarketData": {}
     },
     {
@@ -21431,26 +21534,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T08:50:36.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 22194,
-      "customEmojiId": "5429434275323736073",
-      "gift_id": 7307273,
-      "name": "Bow Tie",
-      "model": "Despicable (2%)",
-      "asset": "TON",
-      "symbol": "Fried Egg (0.5%)",
-      "backdrop": "Indigo Dye (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-03T06:59:53.000Z",
       "premarketData": {}
     },
     {
@@ -21954,26 +22037,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-27T11:56:20.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 39789,
-      "customEmojiId": "5429434275323736073",
-      "gift_id": 7194309,
-      "name": "Bow Tie",
-      "model": "Despicable (2%)",
-      "asset": "TON",
-      "symbol": "Feather (0.3%)",
-      "backdrop": "Pure Gold (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T13:02:50.000Z",
       "premarketData": {}
     }
   ],
