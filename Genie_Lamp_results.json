@@ -468,6 +468,26 @@
   ],
   "Persian Dawn": [
     {
+      "gift_num": 4565,
+      "customEmojiId": "5231371420382026954",
+      "gift_id": 7343163,
+      "name": "Genie Lamp",
+      "model": "Persian Dawn (3.5%)",
+      "asset": "TON",
+      "symbol": "Rhino Warrior (1%)",
+      "backdrop": "Sapphire (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 39.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T19:52:10.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1977,
       "customEmojiId": "5231371420382026954",
       "gift_id": 7337513,
@@ -2538,26 +2558,6 @@
   ],
   "Astral Planes": [
     {
-      "gift_num": 5942,
-      "customEmojiId": "5240378937464351043",
-      "gift_id": 7315290,
-      "name": "Genie Lamp",
-      "model": "Astral Planes (2%)",
-      "asset": "TON",
-      "symbol": "Pickaxe (0.2%)",
-      "backdrop": "Pistachio (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 45,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-03T18:25:02.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 5714,
       "customEmojiId": "5240378937464351043",
       "gift_id": 6858731,
@@ -3239,26 +3239,6 @@
     }
   ],
   "Copper Pot": [
-    {
-      "gift_num": 3579,
-      "customEmojiId": "5231074071206192943",
-      "gift_id": 7104515,
-      "name": "Genie Lamp",
-      "model": "Copper Pot (3%)",
-      "asset": "TON",
-      "symbol": "Hand of God (0.8%)",
-      "backdrop": "Pacific Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 50,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T13:56:22.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 5697,
       "customEmojiId": "5231074071206192943",
@@ -4707,6 +4687,26 @@
   ],
   "Blueprint": [
     {
+      "gift_num": 2752,
+      "customEmojiId": "5217739589321520744",
+      "gift_id": 7211589,
+      "name": "Genie Lamp",
+      "model": "Blueprint (3%)",
+      "asset": "TON",
+      "symbol": "Twin Peaks (0.2%)",
+      "backdrop": "Electric Indigo (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 60,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-28T11:48:51.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1757,
       "customEmojiId": "5217739589321520744",
       "gift_id": 7234707,
@@ -4824,26 +4824,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-31T16:11:00.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2752,
-      "customEmojiId": "5217739589321520744",
-      "gift_id": 7211589,
-      "name": "Genie Lamp",
-      "model": "Blueprint (3%)",
-      "asset": "TON",
-      "symbol": "Twin Peaks (0.2%)",
-      "backdrop": "Electric Indigo (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 75,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T11:48:51.000Z",
       "premarketData": {}
     },
     {
@@ -6075,7 +6055,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 40.77,
+      "price": 40.29,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -6244,6 +6224,54 @@
     }
   ],
   "Bronze Dust": [
+    {
+      "gift_num": 5825,
+      "customEmojiId": "5228823035896685509",
+      "gift_id": 7297452,
+      "name": "Genie Lamp",
+      "model": "Bronze Dust (3%)",
+      "asset": "TON",
+      "symbol": "Key (0.2%)",
+      "backdrop": "Platinum (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 38,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "NCKTWYCQ",
+      "auction": {
+        "_id": "687ba5cdaace4cd2f6d8daec",
+        "gift_id": 7297452,
+        "seller": 0,
+        "auction_id": "NCKTWYCQ",
+        "startingBid": 38,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 38,
+            "asset": "TON",
+            "_id": "687fdf79aace4cd2f6666c8c",
+            "timestamp": "2025-07-22T18:59:05.257Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-22T19:09:40.153Z",
+        "status": "finished",
+        "gift_name": "Genie Lamp",
+        "gift_num": 5825,
+        "model": "Bronze Dust (3%)",
+        "backdrop": "Platinum (1.5%)",
+        "symbol": "Key (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T17:59:40.834Z",
+        "__v": 0,
+        "winningBid": 38,
+        "winningBidder": 8173622469
+      },
+      "export_at": "2025-08-02T13:57:17.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 5969,
       "customEmojiId": "5228823035896685509",
