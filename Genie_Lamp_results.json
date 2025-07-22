@@ -2216,6 +2216,26 @@
   ],
   "Crypto Dream": [
     {
+      "gift_num": 5321,
+      "customEmojiId": "5231365360183174106",
+      "gift_id": 7345135,
+      "name": "Genie Lamp",
+      "model": "Crypto Dream (2%)",
+      "asset": "TON",
+      "symbol": "Crusader (0.5%)",
+      "backdrop": "Grape (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 60,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T22:09:29.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 55,
       "customEmojiId": "5231365360183174106",
       "gift_id": 7020202,
@@ -2333,6 +2353,68 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T22:13:31.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 5321,
+      "customEmojiId": "5231365360183174106",
+      "gift_id": 7070481,
+      "name": "Genie Lamp",
+      "model": "Crypto Dream (2%)",
+      "asset": "TON",
+      "symbol": "Crusader (0.5%)",
+      "backdrop": "Grape (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 45,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "YH61QCSZ",
+      "auction": {
+        "_id": "687fb78caace4cd2f65313dd",
+        "gift_id": 7070481,
+        "seller": 0,
+        "auction_id": "YH61QCSZ",
+        "startingBid": 40,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 40,
+            "asset": "TON",
+            "_id": "687fe83daace4cd2f66a5582",
+            "timestamp": "2025-07-22T19:36:29.301Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 42,
+            "asset": "TON",
+            "_id": "687ffdfdaace4cd2f675ec12",
+            "timestamp": "2025-07-22T21:09:17.219Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 45,
+            "asset": "TON",
+            "_id": "6880088eaace4cd2f6859dea",
+            "timestamp": "2025-07-22T21:54:22.356Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-22T22:08:43.235Z",
+        "status": "finished",
+        "gift_name": "Genie Lamp",
+        "gift_num": 5321,
+        "model": "Crypto Dream (2%)",
+        "backdrop": "Grape (1.5%)",
+        "symbol": "Crusader (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T16:08:44.394Z",
+        "__v": 0,
+        "winningBid": 45,
+        "winningBidder": 1452275659
+      },
+      "export_at": "2025-07-22T01:48:42.000Z",
       "premarketData": {}
     },
     {
@@ -4888,6 +4970,26 @@
     }
   ],
   "Gold Tarnish": [
+    {
+      "gift_num": 4630,
+      "customEmojiId": "5229092484964972009",
+      "gift_id": 7345572,
+      "name": "Genie Lamp",
+      "model": "Gold Tarnish (3.5%)",
+      "asset": "TON",
+      "symbol": "Top Hat (0.8%)",
+      "backdrop": "Hunter Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 33,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T22:48:20.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 5809,
       "customEmojiId": "5229092484964972009",
