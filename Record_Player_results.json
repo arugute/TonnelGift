@@ -1,6 +1,24 @@
 {
   "Yellow Line": [
     {
+      "gift_num": 4143,
+      "customEmojiId": "5296595133041501690",
+      "gift_id": 589778888831,
+      "name": "Record Player",
+      "model": "Yellow Line (2%)",
+      "asset": "TON",
+      "symbol": "Lily (0.3%)",
+      "backdrop": "Burnt Sienna (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 13.77,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 12032,
       "customEmojiId": "5296595133041501690",
       "gift_id": 593146328733,
@@ -544,26 +562,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-02T21:32:27.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4611,
-      "customEmojiId": "5296595133041501690",
-      "gift_id": 5111693,
-      "name": "Record Player",
-      "model": "Yellow Line (2%)",
-      "asset": "TON",
-      "symbol": "Neptune (0.5%)",
-      "backdrop": "Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 35,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-02T13:13:47.000Z",
       "premarketData": {}
     }
   ],
@@ -1969,7 +1967,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 9.5,
+      "price": 9,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3667,7 +3665,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 8.5,
+      "price": 7.9,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -4339,6 +4337,145 @@
       "premarketData": {}
     },
     {
+      "gift_num": 10727,
+      "customEmojiId": "5296442923695502420",
+      "gift_id": 7303129,
+      "name": "Record Player",
+      "model": "Gentle Soul (2%)",
+      "asset": "TON",
+      "symbol": "Birthday Cake (0.5%)",
+      "backdrop": "Cyberpunk (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.78,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "2T1EKLCP",
+      "auction": {
+        "_id": "6880f838aace4cd2f63b2215",
+        "gift_id": 7303129,
+        "seller": 0,
+        "auction_id": "2T1EKLCP",
+        "startingBid": 3.33,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 4.66,
+            "asset": "TON",
+            "_id": "6880f88faace4cd2f63b2ba8",
+            "timestamp": "2025-07-23T14:58:23.550Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.89,
+            "asset": "TON",
+            "_id": "6880f899aace4cd2f63b2c8b",
+            "timestamp": "2025-07-23T14:58:33.613Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.13,
+            "asset": "TON",
+            "_id": "6880f909aace4cd2f63b3ba6",
+            "timestamp": "2025-07-23T15:00:25.725Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.39,
+            "asset": "TON",
+            "_id": "6880f91aaace4cd2f63b3ff1",
+            "timestamp": "2025-07-23T15:00:42.706Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.66,
+            "asset": "TON",
+            "_id": "6880f936aace4cd2f63b4393",
+            "timestamp": "2025-07-23T15:01:10.821Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.94,
+            "asset": "TON",
+            "_id": "6880f94aaace4cd2f63b4523",
+            "timestamp": "2025-07-23T15:01:30.114Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.24,
+            "asset": "TON",
+            "_id": "6880f95caace4cd2f63b5628",
+            "timestamp": "2025-07-23T15:01:48.333Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.55,
+            "asset": "TON",
+            "_id": "6880f96baace4cd2f63b5bcb",
+            "timestamp": "2025-07-23T15:02:03.059Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.88,
+            "asset": "TON",
+            "_id": "6880faabaace4cd2f63bedfa",
+            "timestamp": "2025-07-23T15:07:23.387Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.22,
+            "asset": "TON",
+            "_id": "6880fc3baace4cd2f63c3753",
+            "timestamp": "2025-07-23T15:14:03.019Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.58,
+            "asset": "TON",
+            "_id": "68810267aace4cd2f63d8c90",
+            "timestamp": "2025-07-23T15:40:23.796Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.96,
+            "asset": "TON",
+            "_id": "6881036baace4cd2f63db767",
+            "timestamp": "2025-07-23T15:44:43.004Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.36,
+            "asset": "TON",
+            "_id": "688105a3aace4cd2f63dfc3c",
+            "timestamp": "2025-07-23T15:54:11.502Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.78,
+            "asset": "TON",
+            "_id": "68810704aace4cd2f63e324b",
+            "timestamp": "2025-07-23T16:00:04.257Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T16:16:54.654Z",
+        "status": "finished",
+        "gift_name": "Record Player",
+        "gift_num": 10727,
+        "model": "Gentle Soul (2%)",
+        "backdrop": "Cyberpunk (1.2%)",
+        "symbol": "Birthday Cake (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T14:56:56.298Z",
+        "__v": 0,
+        "winningBid": 8.78,
+        "winningBidder": 1242854082
+      },
+      "export_at": "2025-08-02T20:57:42.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 21423,
       "customEmojiId": "5296442923695502420",
       "gift_id": 6115032,
@@ -4802,26 +4939,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-02T14:37:43.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 19966,
-      "customEmojiId": "5296442923695502420",
-      "gift_id": 6419571,
-      "name": "Record Player",
-      "model": "Gentle Soul (2%)",
-      "asset": "TON",
-      "symbol": "Winter Hat (0.5%)",
-      "backdrop": "Orange (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-28T22:04:57.000Z",
       "premarketData": {}
     }
   ],
@@ -7125,6 +7242,26 @@
   ],
   "Folk Revival": [
     {
+      "gift_num": 24625,
+      "customEmojiId": "5292284592194087708",
+      "gift_id": 7355084,
+      "name": "Record Player",
+      "model": "Folk Revival (1%)",
+      "asset": "TON",
+      "symbol": "Spirit Impala (0.5%)",
+      "backdrop": "Cobalt Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T17:00:45.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 7947,
       "customEmojiId": "5292284592194087708",
       "gift_id": 7172979,
@@ -7559,24 +7696,6 @@
     }
   ],
   "Vanilla Sky": [
-    {
-      "gift_num": 25346,
-      "customEmojiId": "5296789759484517578",
-      "gift_id": 599465852989,
-      "name": "Record Player",
-      "model": "Vanilla Sky (2%)",
-      "asset": "TON",
-      "symbol": "Bandana (0.5%)",
-      "backdrop": "Ranger Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 9.914,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
     {
       "gift_num": 22150,
       "customEmojiId": "5296789759484517578",
@@ -8129,6 +8248,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T13:28:01.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 22600,
+      "customEmojiId": "5296789759484517578",
+      "gift_id": 6746184,
+      "name": "Record Player",
+      "model": "Vanilla Sky (2%)",
+      "asset": "TON",
+      "symbol": "Shinto Shrine (0.5%)",
+      "backdrop": "Battleship Grey (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 14,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-09T09:39:59.000Z",
       "premarketData": {}
     }
   ],
@@ -9736,6 +9875,26 @@
   ],
   "Holy Spirit": [
     {
+      "gift_num": 17861,
+      "customEmojiId": "5298840078087384948",
+      "gift_id": 7354581,
+      "name": "Record Player",
+      "model": "Holy Spirit (0.5%)",
+      "asset": "TON",
+      "symbol": "Ribeye Steak (0.5%)",
+      "backdrop": "Burnt Sienna (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 13.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T16:23:01.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 20369,
       "customEmojiId": "5298840078087384948",
       "gift_id": 583916956404,
@@ -9929,6 +10088,81 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-31T17:02:18.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 17861,
+      "customEmojiId": "5298840078087384948",
+      "gift_id": 7336988,
+      "name": "Record Player",
+      "model": "Holy Spirit (0.5%)",
+      "asset": "TON",
+      "symbol": "Ribeye Steak (0.5%)",
+      "backdrop": "Burnt Sienna (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 8.63,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "FK2GCU4L",
+      "auction": {
+        "_id": "687f8339aace4cd2f69158a6",
+        "gift_id": 7336988,
+        "seller": 0,
+        "auction_id": "FK2GCU4L",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 7.1,
+            "asset": "TON",
+            "_id": "6880fb70aace4cd2f63c1ada",
+            "timestamp": "2025-07-23T15:10:40.909Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.46,
+            "asset": "TON",
+            "_id": "6880fc2baace4cd2f63c2ed2",
+            "timestamp": "2025-07-23T15:13:47.222Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.83,
+            "asset": "TON",
+            "_id": "6880fcf3aace4cd2f63c7a58",
+            "timestamp": "2025-07-23T15:17:07.814Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.22,
+            "asset": "TON",
+            "_id": "688100ceaace4cd2f63d3ff9",
+            "timestamp": "2025-07-23T15:33:34.313Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.63,
+            "asset": "TON",
+            "_id": "688108beaace4cd2f63e66a4",
+            "timestamp": "2025-07-23T16:07:26.348Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T16:19:56.716Z",
+        "status": "finished",
+        "gift_name": "Record Player",
+        "gift_num": 17861,
+        "model": "Holy Spirit (0.5%)",
+        "backdrop": "Burnt Sienna (1%)",
+        "symbol": "Ribeye Steak (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T15:09:57.479Z",
+        "__v": 0,
+        "winningBid": 8.63,
+        "winningBidder": 5316408636
+      },
+      "export_at": "2025-08-05T12:25:17.000Z",
       "premarketData": {}
     }
   ],
@@ -11904,6 +12138,24 @@
   ],
   "School Disco": [
     {
+      "gift_num": 13221,
+      "customEmojiId": "5296546909148703342",
+      "gift_id": 593628851988,
+      "name": "Record Player",
+      "model": "School Disco (0.5%)",
+      "asset": "TON",
+      "symbol": "Piranha (0.5%)",
+      "backdrop": "Fire Engine (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 52.106,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 9032,
       "customEmojiId": "5296546909148703342",
       "gift_id": 590677004288,
@@ -13184,26 +13436,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 5636,
-      "customEmojiId": "5298828644884441680",
-      "gift_id": 5226741,
-      "name": "Record Player",
-      "model": "Birthday (0.5%)",
-      "asset": "TON",
-      "symbol": "Legionary (0.5%)",
-      "backdrop": "Sapphire (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 29.99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-05T20:15:20.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 10195,
       "customEmojiId": "5298828644884441680",
       "gift_id": 6989191,
@@ -13403,26 +13635,6 @@
     }
   ],
   "Mono Chrome": [
-    {
-      "gift_num": 22832,
-      "customEmojiId": "5296581694088833545",
-      "gift_id": 7338791,
-      "name": "Record Player",
-      "model": "Mono Chrome (1%)",
-      "asset": "TON",
-      "symbol": "Sakura (0.5%)",
-      "backdrop": "Pacific Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 12.11,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T14:35:10.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 25274,
       "customEmojiId": "5296581694088833545",
@@ -17278,6 +17490,26 @@
   ],
   "Sonic Fuchsia": [
     {
+      "gift_num": 23939,
+      "customEmojiId": "5296699337538035974",
+      "gift_id": 7333496,
+      "name": "Record Player",
+      "model": "Sonic Fuchsia (1%)",
+      "asset": "TON",
+      "symbol": "Mining Helmet (0.4%)",
+      "backdrop": "Battleship Grey (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T02:20:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 18581,
       "customEmojiId": "5296699337538035974",
       "gift_id": 7335214,
@@ -19277,26 +19509,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 19617,
-      "customEmojiId": "5296455722698040022",
-      "gift_id": 7279295,
-      "name": "Record Player",
-      "model": "Hot Ruby (1%)",
-      "asset": "TON",
-      "symbol": "Baseball Cap (0.4%)",
-      "backdrop": "Feldgrau (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-01T09:59:51.000Z",
       "premarketData": {}
     },
     {
@@ -22582,6 +22794,26 @@
     }
   ],
   "Radio Active": [
+    {
+      "gift_num": 21229,
+      "customEmojiId": "5299046129143407787",
+      "gift_id": 7143145,
+      "name": "Record Player",
+      "model": "Radio Active (0.5%)",
+      "asset": "TON",
+      "symbol": "Chili Pepper (0.4%)",
+      "backdrop": "Ivory White (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-24T21:09:49.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 25058,
       "customEmojiId": "5299046129143407787",
@@ -26085,26 +26317,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 19603,
-      "customEmojiId": "5291998744940671109",
-      "gift_id": 7164118,
-      "name": "Record Player",
-      "model": "Inktober (2%)",
-      "asset": "TON",
-      "symbol": "Cone (0.4%)",
-      "backdrop": "Sapphire (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T20:22:10.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 23216,
       "customEmojiId": "5291998744940671109",
       "gift_id": 7073744,
@@ -28578,6 +28790,46 @@
   ],
   "Jade Beat": [
     {
+      "gift_num": 25236,
+      "customEmojiId": "5296783411522855496",
+      "gift_id": 7334199,
+      "name": "Record Player",
+      "model": "Jade Beat (2%)",
+      "asset": "TON",
+      "symbol": "Fish Skeleton (0.2%)",
+      "backdrop": "Khaki Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.08,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T06:02:16.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 15367,
+      "customEmojiId": "5296783411522855496",
+      "gift_id": 7354355,
+      "name": "Record Player",
+      "model": "Jade Beat (2%)",
+      "asset": "TON",
+      "symbol": "Donut (0.3%)",
+      "backdrop": "Carmine (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.11,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T16:04:38.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 23357,
       "customEmojiId": "5296783411522855496",
       "gift_id": 7211481,
@@ -29119,46 +29371,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-16T15:48:25.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6829,
-      "customEmojiId": "5296783411522855496",
-      "gift_id": 5923349,
-      "name": "Record Player",
-      "model": "Jade Beat (2%)",
-      "asset": "TON",
-      "symbol": "Tie (0.5%)",
-      "backdrop": "Hunter Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 22,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T07:26:38.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7603,
-      "customEmojiId": "5296783411522855496",
-      "gift_id": 2017177,
-      "name": "Record Player",
-      "model": "Jade Beat (2%)",
-      "asset": "TON",
-      "symbol": "Tree of Life (0.5%)",
-      "backdrop": "English Violet (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 383476,
-      "price": 68.18,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-04-02T16:27:07.000Z",
       "premarketData": {}
     }
   ],
@@ -36535,26 +36747,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 8658,
-      "customEmojiId": "5296312013092316013",
-      "gift_id": 5406275,
-      "name": "Record Player",
-      "model": "Velvet Draft (2%)",
-      "asset": "TON",
-      "symbol": "Axe (0.3%)",
-      "backdrop": "Lemongrass (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-11T14:13:56.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 21257,
       "customEmojiId": "5296312013092316013",
       "gift_id": 7226128,
@@ -36882,6 +37074,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T08:36:09.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 13082,
+      "customEmojiId": "5296312013092316013",
+      "gift_id": 6068942,
+      "name": "Record Player",
+      "model": "Velvet Draft (2%)",
+      "asset": "TON",
+      "symbol": "Monarch (0.4%)",
+      "backdrop": "Chocolate (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 17.95,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-23T23:08:46.000Z",
       "premarketData": {}
     }
   ],
