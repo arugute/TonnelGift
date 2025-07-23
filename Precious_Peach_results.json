@@ -1727,6 +1727,68 @@
   ],
   "Juicy Orange": [
     {
+      "gift_num": 2022,
+      "customEmojiId": "5402615919706922027",
+      "gift_id": 7347299,
+      "name": "Precious Peach",
+      "model": "Juicy Orange (1.5%)",
+      "asset": "TON",
+      "symbol": "Cicada (0.5%)",
+      "backdrop": "Chestnut (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 919228,
+      "price": 281.14,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "846NEFOI",
+      "auction": {
+        "_id": "68806d26aace4cd2f6ec4a9c",
+        "gift_id": 7347299,
+        "seller": 0,
+        "auction_id": "846NEFOI",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 255,
+            "asset": "TON",
+            "_id": "6880b197aace4cd2f623c984",
+            "timestamp": "2025-07-23T09:55:35.702Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 267.75,
+            "asset": "TON",
+            "_id": "6880b943aace4cd2f62538d9",
+            "timestamp": "2025-07-23T10:28:19.411Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 281.14,
+            "asset": "TON",
+            "_id": "6880bca2aace4cd2f625dc7d",
+            "timestamp": "2025-07-23T10:42:42.536Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T11:01:44.263Z",
+        "status": "finished",
+        "gift_name": "Precious Peach",
+        "gift_num": 2022,
+        "model": "Juicy Orange (1.5%)",
+        "backdrop": "Chestnut (1.5%)",
+        "symbol": "Cicada (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T09:51:45.986Z",
+        "__v": 0,
+        "winningBid": 281.14,
+        "winningBidder": 809365453
+      },
+      "export_at": "2025-08-06T05:02:40.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1510,
       "customEmojiId": "5402615919706922027",
       "gift_id": 7328949,
@@ -1760,8 +1822,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 919191,
-      "price": 4700,
+      "message_in_channel": 919375,
+      "price": 600,
       "status": "forsale",
       "limited": false,
       "auction": null,
