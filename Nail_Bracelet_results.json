@@ -2125,6 +2125,26 @@
   ],
   "Pug Royale": [
     {
+      "gift_num": 3241,
+      "customEmojiId": "5420609380250840022",
+      "gift_id": 7353591,
+      "name": "Nail Bracelet",
+      "model": "Pug Royale (2%)",
+      "asset": "TON",
+      "symbol": "Wolf Rage (0.5%)",
+      "backdrop": "Pistachio (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 149,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T15:01:38.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1676,
       "customEmojiId": "5420609380250840022",
       "gift_id": 7328595,
@@ -2553,6 +2573,109 @@
   ],
   "Firebronze": [
     {
+      "gift_num": 85,
+      "customEmojiId": "5303352890419601834",
+      "gift_id": 7357283,
+      "name": "Nail Bracelet",
+      "model": "Firebronze (3%)",
+      "asset": "TON",
+      "symbol": "Gold (0.4%)",
+      "backdrop": "Aquamarine (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 920034,
+      "price": 189,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T19:36:15.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 85,
+      "customEmojiId": "5303352890419601834",
+      "gift_id": 7297899,
+      "name": "Nail Bracelet",
+      "model": "Firebronze (3%)",
+      "asset": "TON",
+      "symbol": "Gold (0.4%)",
+      "backdrop": "Aquamarine (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 918945,
+      "price": 133.77,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ZUMEJR4J",
+      "auction": {
+        "_id": "687bab8faace4cd2f60fafae",
+        "gift_id": 7297899,
+        "seller": 0,
+        "auction_id": "ZUMEJR4J",
+        "startingBid": 10,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 104.26,
+            "asset": "TON",
+            "_id": "6881076daace4cd2f63e3f34",
+            "timestamp": "2025-07-23T16:01:49.008Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 109.47,
+            "asset": "TON",
+            "_id": "68810af7aace4cd2f63e9fb0",
+            "timestamp": "2025-07-23T16:16:55.536Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 115.55,
+            "asset": "TON",
+            "_id": "68812b4aaace4cd2f6493199",
+            "timestamp": "2025-07-23T18:34:50.222Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 121.33,
+            "asset": "TON",
+            "_id": "68812ea2aace4cd2f64a825c",
+            "timestamp": "2025-07-23T18:49:06.103Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 127.4,
+            "asset": "TON",
+            "_id": "688131ecaace4cd2f64bcf59",
+            "timestamp": "2025-07-23T19:03:08.311Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 133.77,
+            "asset": "TON",
+            "_id": "688131fdaace4cd2f64bd31b",
+            "timestamp": "2025-07-23T19:03:25.431Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T19:17:12.982Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 85,
+        "model": "Firebronze (3%)",
+        "backdrop": "Aquamarine (1%)",
+        "symbol": "Gold (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T15:57:14.307Z",
+        "__v": 0,
+        "winningBid": 133.77,
+        "winningBidder": 1379894987
+      },
+      "export_at": "2025-08-02T14:28:07.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3942,
       "customEmojiId": "5303352890419601834",
       "gift_id": 6639175,
@@ -2755,6 +2878,26 @@
   ],
   "Nuclear Silo": [
     {
+      "gift_num": 299,
+      "customEmojiId": "5357446977015539232",
+      "gift_id": 6341160,
+      "name": "Nail Bracelet",
+      "model": "Nuclear Silo (2%)",
+      "asset": "TON",
+      "symbol": "Mannaz Rune (0.4%)",
+      "backdrop": "Dark Lilac (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 919975,
+      "price": 250,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-27T12:09:33.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2603,
       "customEmojiId": "5357446977015539232",
       "gift_id": 7277155,
@@ -2772,26 +2915,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-01T06:32:06.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 299,
-      "customEmojiId": "5357446977015539232",
-      "gift_id": 6341160,
-      "name": "Nail Bracelet",
-      "model": "Nuclear Silo (2%)",
-      "asset": "TON",
-      "symbol": "Mannaz Rune (0.4%)",
-      "backdrop": "Dark Lilac (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 914858,
-      "price": 953,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-27T12:09:33.000Z",
       "premarketData": {}
     },
     {
@@ -3020,6 +3143,26 @@
     }
   ],
   "Hologram": [
+    {
+      "gift_num": 1316,
+      "customEmojiId": "5305617119868642382",
+      "gift_id": 7356718,
+      "name": "Nail Bracelet",
+      "model": "Hologram (2.5%)",
+      "asset": "TON",
+      "symbol": "Bone (0.5%)",
+      "backdrop": "Copper (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 920017,
+      "price": 150,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T18:53:32.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 980,
       "customEmojiId": "5305617119868642382",
