@@ -543,26 +543,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 11791,
-      "customEmojiId": "5411619983635539063",
-      "gift_id": 6759142,
-      "name": "Skull Flower",
-      "model": "Poinsettia (3%)",
-      "asset": "TON",
-      "symbol": "Flying Witch (1%)",
-      "backdrop": "Lavender (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 18,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-09T18:19:34.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 3622,
       "customEmojiId": "5411619983635539063",
       "gift_id": 5994518,
@@ -979,7 +959,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 6.25,
+      "price": 5.94,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -2463,26 +2443,6 @@
     }
   ],
   "White Rose": [
-    {
-      "gift_num": 18646,
-      "customEmojiId": "5411168522443186264",
-      "gift_id": 7346312,
-      "name": "Skull Flower",
-      "model": "White Rose (3%)",
-      "asset": "TON",
-      "symbol": "Blood Drop (1.2%)",
-      "backdrop": "Malachite (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T00:00:08.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 14698,
       "customEmojiId": "5411168522443186264",
@@ -18262,6 +18222,53 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-06T15:00:26.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 10986,
+      "customEmojiId": "5413409455989613521",
+      "gift_id": 7341944,
+      "name": "Skull Flower",
+      "model": "Neon Green (2%)",
+      "asset": "TON",
+      "symbol": "Amour Scoops (0.6%)",
+      "backdrop": "Pine Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 8,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "90XT43X8",
+      "auction": {
+        "_id": "687fd832aace4cd2f6634cee",
+        "gift_id": 7341944,
+        "seller": 0,
+        "auction_id": "90XT43X8",
+        "startingBid": 8,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 8,
+            "asset": "TON",
+            "_id": "68808132aace4cd2f6fd196d",
+            "timestamp": "2025-07-23T06:29:06.446Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T06:39:30.112Z",
+        "status": "finished",
+        "gift_name": "Skull Flower",
+        "gift_num": 10986,
+        "model": "Neon Green (2%)",
+        "backdrop": "Pine Green (1.5%)",
+        "symbol": "Amour Scoops (0.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T18:29:31.002Z",
+        "__v": 0,
+        "winningBid": 8,
+        "winningBidder": 1770994043
+      },
+      "export_at": "2025-08-05T18:27:41.000Z",
       "premarketData": {}
     }
   ]
