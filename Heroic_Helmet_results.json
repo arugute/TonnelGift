@@ -523,6 +523,26 @@
   ],
   "Watermelon": [
     {
+      "gift_num": 1817,
+      "customEmojiId": "5400311927450659528",
+      "gift_id": 7238706,
+      "name": "Heroic Helmet",
+      "model": "Watermelon (2%)",
+      "asset": "TON",
+      "symbol": "Rooster (0.5%)",
+      "backdrop": "Deep Cyan (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 919826,
+      "price": 187,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T20:00:57.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3000,
       "customEmojiId": "5400311927450659528",
       "gift_id": 7349356,
@@ -874,6 +894,54 @@
     }
   ],
   "Atlantis": [
+    {
+      "gift_num": 2097,
+      "customEmojiId": "5373186855334340740",
+      "gift_id": 7261351,
+      "name": "Heroic Helmet",
+      "model": "Atlantis (2%)",
+      "asset": "TON",
+      "symbol": "Moon Face (0.4%)",
+      "backdrop": "Gunship Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 917543,
+      "price": 170,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ZZGIMO7E",
+      "auction": {
+        "_id": "68796c9faace4cd2f66ea0af",
+        "gift_id": 7261351,
+        "seller": 0,
+        "auction_id": "ZZGIMO7E",
+        "startingBid": 170,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 170,
+            "asset": "TON",
+            "_id": "6880f379aace4cd2f63a3f91",
+            "timestamp": "2025-07-23T14:36:41.440Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T16:37:31.930Z",
+        "status": "finished",
+        "gift_name": "Heroic Helmet",
+        "gift_num": 2097,
+        "model": "Atlantis (2%)",
+        "backdrop": "Gunship Green (1.5%)",
+        "symbol": "Moon Face (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T16:37:33.803Z",
+        "__v": 0,
+        "winningBid": 170,
+        "winningBidder": 8173622469
+      },
+      "export_at": "2025-07-31T04:54:30.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 471,
       "customEmojiId": "5373186855334340740",
@@ -2229,26 +2297,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 2058,
-      "customEmojiId": "5337267210614239026",
-      "gift_id": 7325897,
-      "name": "Heroic Helmet",
-      "model": "Inferno (1.5%)",
-      "asset": "TON",
-      "symbol": "Dagger (0.4%)",
-      "backdrop": "Coral Red (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 919020,
-      "price": 480,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T13:57:04.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 309,
       "customEmojiId": "5337267210614239026",
       "gift_id": 7298602,
@@ -3278,26 +3326,6 @@
     }
   ],
   "Spartan": [
-    {
-      "gift_num": 1317,
-      "customEmojiId": "5402255876893474792",
-      "gift_id": 7325895,
-      "name": "Heroic Helmet",
-      "model": "Spartan (2.5%)",
-      "asset": "TON",
-      "symbol": "Jolly Roger (0.5%)",
-      "backdrop": "Gunship Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 919019,
-      "price": 450,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T13:56:59.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 1227,
       "customEmojiId": "5402255876893474792",
