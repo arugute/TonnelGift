@@ -1601,6 +1601,61 @@
   ],
   "Desert Camo": [
     {
+      "gift_num": 906,
+      "customEmojiId": "5336803152282806599",
+      "gift_id": 7343880,
+      "name": "Heroic Helmet",
+      "model": "Desert Camo (3%)",
+      "asset": "TON",
+      "symbol": "Ram of Amun (0.5%)",
+      "backdrop": "Fire Engine (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 919325,
+      "price": 173.99,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "MG9DXFGQ",
+      "auction": {
+        "_id": "6880b17aaace4cd2f623c7f2",
+        "gift_id": 7343880,
+        "seller": 0,
+        "auction_id": "MG9DXFGQ",
+        "startingBid": 165,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 165.7,
+            "asset": "TON",
+            "_id": "6880fee7aace4cd2f63cbf0e",
+            "timestamp": "2025-07-23T15:25:27.704Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 173.99,
+            "asset": "TON",
+            "_id": "6881218eaace4cd2f644a061",
+            "timestamp": "2025-07-23T17:53:18.243Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T21:55:04.652Z",
+        "status": "finished",
+        "gift_name": "Heroic Helmet",
+        "gift_num": 906,
+        "model": "Desert Camo (3%)",
+        "backdrop": "Fire Engine (1%)",
+        "symbol": "Ram of Amun (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T09:55:06.357Z",
+        "__v": 0,
+        "winningBid": 173.99,
+        "winningBidder": 7281550060
+      },
+      "export_at": "2025-08-05T20:41:10.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 554,
       "customEmojiId": "5336803152282806599",
       "gift_id": 6767632,
