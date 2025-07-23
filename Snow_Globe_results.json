@@ -3275,6 +3275,26 @@
   ],
   "Diamond": [
     {
+      "gift_num": 29854,
+      "customEmojiId": "5334597596381996733",
+      "gift_id": 7360176,
+      "name": "Snow Globe",
+      "model": "Diamond (3%)",
+      "asset": "TON",
+      "symbol": "Magic Wand (1.8%)",
+      "backdrop": "Lavender (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T22:52:35.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 301,
       "customEmojiId": "5334597596381996733",
       "gift_id": 7354805,
@@ -3853,29 +3873,29 @@
       "auction": null,
       "export_at": "2025-06-23T11:34:24.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Lost Color": [
     {
-      "gift_num": 2291,
-      "customEmojiId": "5334597596381996733",
-      "gift_id": 5404389,
+      "gift_num": 35967,
+      "customEmojiId": "5334723318664685455",
+      "gift_id": 7360569,
       "name": "Snow Globe",
-      "model": "Diamond (3%)",
+      "model": "Lost Color (3%)",
       "asset": "TON",
-      "symbol": "Sprout (0.5%)",
-      "backdrop": "Onyx Black (1%)",
+      "symbol": "Mustache (0.4%)",
+      "backdrop": "Rosewood (1%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 100,
+      "price": 4,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-06-11T13:24:03.000Z",
+      "export_at": "2025-08-06T23:33:08.000Z",
       "premarketData": {}
-    }
-  ],
-  "Lost Color": [
+    },
     {
       "gift_num": 8700,
       "customEmojiId": "5334723318664685455",
@@ -4454,26 +4474,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T21:23:30.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6493,
-      "customEmojiId": "5334723318664685455",
-      "gift_id": 6099477,
-      "name": "Snow Globe",
-      "model": "Lost Color (3%)",
-      "asset": "TON",
-      "symbol": "Firebird (0.4%)",
-      "backdrop": "Dark Lilac (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 38,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T08:50:01.000Z",
       "premarketData": {}
     }
   ],
@@ -15956,6 +15956,26 @@
   ],
   "House of Cards": [
     {
+      "gift_num": 20350,
+      "customEmojiId": "5334797290886424319",
+      "gift_id": 7360572,
+      "name": "Snow Globe",
+      "model": "House of Cards (1%)",
+      "asset": "TON",
+      "symbol": "Hot Matcha (0.5%)",
+      "backdrop": "Midnight Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 90,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T23:33:35.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1469,
       "customEmojiId": "5334797290886424319",
       "gift_id": 7356994,
@@ -19165,6 +19185,26 @@
   ],
   "Pink Dreams": [
     {
+      "gift_num": 28319,
+      "customEmojiId": "5334962282055100148",
+      "gift_id": 7360346,
+      "name": "Snow Globe",
+      "model": "Pink Dreams (3%)",
+      "asset": "TON",
+      "symbol": "Gift Box (1.5%)",
+      "backdrop": "Onyx Black (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T23:10:34.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 26766,
       "customEmojiId": "5334962282055100148",
       "gift_id": 7348588,
@@ -19222,6 +19262,110 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-03T02:44:43.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 28319,
+      "customEmojiId": "5334962282055100148",
+      "gift_id": 6649109,
+      "name": "Snow Globe",
+      "model": "Pink Dreams (3%)",
+      "asset": "TON",
+      "symbol": "Gift Box (1.5%)",
+      "backdrop": "Onyx Black (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5.36,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "VWCNGXN8",
+      "auction": {
+        "_id": "68814ca3aace4cd2f651e861",
+        "gift_id": 6649109,
+        "seller": 0,
+        "auction_id": "VWCNGXN8",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.4,
+            "asset": "TON",
+            "_id": "68814dafaace4cd2f6525181",
+            "timestamp": "2025-07-23T21:01:35.018Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.52,
+            "asset": "TON",
+            "_id": "68814f4faace4cd2f652adc6",
+            "timestamp": "2025-07-23T21:08:31.101Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4,
+            "asset": "TON",
+            "_id": "68815b0daace4cd2f679fd92",
+            "timestamp": "2025-07-23T21:58:37.463Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.2,
+            "asset": "TON",
+            "_id": "68815fccaace4cd2f6898ab9",
+            "timestamp": "2025-07-23T22:18:52.201Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.41,
+            "asset": "TON",
+            "_id": "688162e8aace4cd2f68e9c66",
+            "timestamp": "2025-07-23T22:32:08.985Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.63,
+            "asset": "TON",
+            "_id": "6881630daace4cd2f68ed13a",
+            "timestamp": "2025-07-23T22:32:45.939Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.86,
+            "asset": "TON",
+            "_id": "6881688faace4cd2f6985325",
+            "timestamp": "2025-07-23T22:56:15.449Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.1,
+            "asset": "TON",
+            "_id": "688168a1aace4cd2f698a080",
+            "timestamp": "2025-07-23T22:56:33.075Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.36,
+            "asset": "TON",
+            "_id": "688168aeaace4cd2f698d6c9",
+            "timestamp": "2025-07-23T22:56:46.661Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T23:07:06.878Z",
+        "status": "finished",
+        "gift_name": "Snow Globe",
+        "gift_num": 28319,
+        "model": "Pink Dreams (3%)",
+        "backdrop": "Onyx Black (1%)",
+        "symbol": "Gift Box (1.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T20:57:07.661Z",
+        "__v": 0,
+        "winningBid": 5.36,
+        "winningBidder": 721353378
+      },
+      "export_at": "2025-07-05T07:28:12.000Z",
       "premarketData": {}
     },
     {
@@ -19722,46 +19866,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-25T09:45:56.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 31224,
-      "customEmojiId": "5334962282055100148",
-      "gift_id": 6206152,
-      "name": "Snow Globe",
-      "model": "Pink Dreams (3%)",
-      "asset": "TON",
-      "symbol": "Breeze (0.4%)",
-      "backdrop": "Turquoise (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 22,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-25T07:01:22.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 706,
-      "customEmojiId": "5334962282055100148",
-      "gift_id": 6099316,
-      "name": "Snow Globe",
-      "model": "Pink Dreams (3%)",
-      "asset": "TON",
-      "symbol": "Ice Skates (1.8%)",
-      "backdrop": "Cyberpunk (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 38,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T08:48:15.000Z",
       "premarketData": {}
     }
   ],
@@ -21413,6 +21517,26 @@
   ],
   "Pepe Frost": [
     {
+      "gift_num": 35613,
+      "customEmojiId": "5334735683875533189",
+      "gift_id": 7359999,
+      "name": "Snow Globe",
+      "model": "Pepe Frost (0.5%)",
+      "asset": "TON",
+      "symbol": "Jingle Bell (1.8%)",
+      "backdrop": "French Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 70.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T22:36:56.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 30664,
       "customEmojiId": "5334735683875533189",
       "gift_id": 7143560,
@@ -21550,26 +21674,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-23T11:46:34.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 14940,
-      "customEmojiId": "5334735683875533189",
-      "gift_id": 7148484,
-      "name": "Snow Globe",
-      "model": "Pepe Frost (0.5%)",
-      "asset": "TON",
-      "symbol": "Bunny (0.4%)",
-      "backdrop": "Chocolate (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 71,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T05:45:18.000Z",
       "premarketData": {}
     },
     {
@@ -22487,26 +22591,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 15440,
-      "customEmojiId": "5334835039353986984",
-      "gift_id": 6899197,
-      "name": "Snow Globe",
-      "model": "Midas Manor (3%)",
-      "asset": "TON",
-      "symbol": "Coonskin Cap (0.5%)",
-      "backdrop": "Fire Engine (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-15T10:14:22.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 34488,
       "customEmojiId": "5334835039353986984",
       "gift_id": 7133508,
@@ -23064,6 +23148,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-09T20:08:32.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 22484,
+      "customEmojiId": "5334835039353986984",
+      "gift_id": 6603949,
+      "name": "Snow Globe",
+      "model": "Midas Manor (3%)",
+      "asset": "TON",
+      "symbol": "Festive Wreath (1.2%)",
+      "backdrop": "Chestnut (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 24,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-03T15:07:37.000Z",
       "premarketData": {}
     }
   ],
