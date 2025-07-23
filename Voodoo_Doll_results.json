@@ -1085,6 +1085,124 @@
       "premarketData": {}
     },
     {
+      "gift_num": 10600,
+      "customEmojiId": "5231436240028461508",
+      "gift_id": 7327332,
+      "name": "Voodoo Doll",
+      "model": "Concept Art (1%)",
+      "asset": "TON",
+      "symbol": "Ghost (2%)",
+      "backdrop": "Light Olive (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20.07,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "R1939J5R",
+      "auction": {
+        "_id": "687e6261aace4cd2f699d6e2",
+        "gift_id": 7327332,
+        "seller": 0,
+        "auction_id": "R1939J5R",
+        "startingBid": 3,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 12.232,
+            "asset": "TON",
+            "_id": "6880c1ebaace4cd2f626d4f2",
+            "timestamp": "2025-07-23T11:05:15.835Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.84,
+            "asset": "TON",
+            "_id": "6880c2f2aace4cd2f626fe7b",
+            "timestamp": "2025-07-23T11:09:38.613Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.48,
+            "asset": "TON",
+            "_id": "6880c62daace4cd2f62788bf",
+            "timestamp": "2025-07-23T11:23:25.081Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.15,
+            "asset": "TON",
+            "_id": "6880c71baace4cd2f627a672",
+            "timestamp": "2025-07-23T11:27:23.746Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.86,
+            "asset": "TON",
+            "_id": "6880c899aace4cd2f627dd67",
+            "timestamp": "2025-07-23T11:33:45.181Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15.66,
+            "asset": "TON",
+            "_id": "6880c901aace4cd2f627e273",
+            "timestamp": "2025-07-23T11:35:29.318Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 16.44,
+            "asset": "TON",
+            "_id": "6880c9d8aace4cd2f6280132",
+            "timestamp": "2025-07-23T11:39:04.675Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 17.33,
+            "asset": "TON",
+            "_id": "6880ca46aace4cd2f6281580",
+            "timestamp": "2025-07-23T11:40:54.991Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 18.2,
+            "asset": "TON",
+            "_id": "6880caeaaace4cd2f6284bf3",
+            "timestamp": "2025-07-23T11:43:38.140Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 19.11,
+            "asset": "TON",
+            "_id": "6880ce90aace4cd2f628f74a",
+            "timestamp": "2025-07-23T11:59:12.477Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 20.07,
+            "asset": "TON",
+            "_id": "6880d1f2aace4cd2f629aa6b",
+            "timestamp": "2025-07-23T12:13:38.245Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T12:23:41.297Z",
+        "status": "finished",
+        "gift_name": "Voodoo Doll",
+        "gift_num": 10600,
+        "model": "Concept Art (1%)",
+        "backdrop": "Light Olive (1%)",
+        "symbol": "Ghost (2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T11:03:46.260Z",
+        "__v": 0,
+        "winningBid": 20.07,
+        "winningBidder": 7849340656
+      },
+      "export_at": "2025-08-04T15:52:53.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5640,
       "customEmojiId": "5231436240028461508",
       "gift_id": 6158520,
@@ -4783,26 +4901,6 @@
   ],
   "Chromed Out": [
     {
-      "gift_num": 4642,
-      "customEmojiId": "5228753350052311154",
-      "gift_id": 7350465,
-      "name": "Voodoo Doll",
-      "model": "Chromed Out (2%)",
-      "asset": "TON",
-      "symbol": "Coffin (2%)",
-      "backdrop": "Moonstone (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 17.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T11:20:41.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 16169,
       "customEmojiId": "5228753350052311154",
       "gift_id": 5994760,
@@ -5380,6 +5478,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-17T22:20:20.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 11492,
+      "customEmojiId": "5228753350052311154",
+      "gift_id": 5638238,
+      "name": "Voodoo Doll",
+      "model": "Chromed Out (2%)",
+      "asset": "TON",
+      "symbol": "Half Moon (2%)",
+      "backdrop": "Ivory White (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 721808,
+      "price": 50,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-17T22:23:37.000Z",
       "premarketData": {}
     }
   ],
@@ -13370,26 +13488,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T23:30:11.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 691,
-      "customEmojiId": "5231163960576731232",
-      "gift_id": 7039004,
-      "name": "Voodoo Doll",
-      "model": "Medium Rare (1%)",
-      "asset": "TON",
-      "symbol": "Witch's Hat (1.6%)",
-      "backdrop": "Jade Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 50,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-20T20:16:38.000Z",
       "premarketData": {}
     },
     {
@@ -21573,26 +21671,6 @@
     }
   ],
   "Vendetta": [
-    {
-      "gift_num": 19402,
-      "customEmojiId": "5231138706169029127",
-      "gift_id": 7319485,
-      "name": "Voodoo Doll",
-      "model": "Vendetta (2%)",
-      "asset": "TON",
-      "symbol": "Jaws (2.4%)",
-      "backdrop": "Electric Purple (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 28,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T00:09:51.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 7424,
       "customEmojiId": "5231138706169029127",
