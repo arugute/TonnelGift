@@ -2151,26 +2151,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 33783,
-      "customEmojiId": "5400128747095482170",
-      "gift_id": 7249175,
-      "name": "Santa Hat",
-      "model": "Icicle (2%)",
-      "asset": "TON",
-      "symbol": "New Year's Eve (2.4%)",
-      "backdrop": "Midnight Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 16,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T12:43:53.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 52993,
       "customEmojiId": "5400128747095482170",
       "gift_id": 7201089,
@@ -5624,6 +5604,26 @@
     }
   ],
   "Warm Sky": [
+    {
+      "gift_num": 7050,
+      "customEmojiId": "5398021112154054425",
+      "gift_id": 7346776,
+      "name": "Santa Hat",
+      "model": "Warm Sky (2%)",
+      "asset": "TON",
+      "symbol": "Chest (2.4%)",
+      "backdrop": "Caramel (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T01:59:27.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 38937,
       "customEmojiId": "5398021112154054425",
@@ -20164,6 +20164,61 @@
       "premarketData": {}
     },
     {
+      "gift_num": 19785,
+      "customEmojiId": "5447231077905095788",
+      "gift_id": 7188586,
+      "name": "Santa Hat",
+      "model": "Sleepy Claus (1.5%)",
+      "asset": "TON",
+      "symbol": "Chest (2.4%)",
+      "backdrop": "Strawberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.2,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "BPCEDWRM",
+      "auction": {
+        "_id": "687d13a4aace4cd2f654e4bd",
+        "gift_id": 7188586,
+        "seller": 0,
+        "auction_id": "BPCEDWRM",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688069c0aace4cd2f6eb8bc5",
+            "timestamp": "2025-07-23T04:49:04.113Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.2,
+            "asset": "TON",
+            "_id": "68806cc2aace4cd2f6ec3b5e",
+            "timestamp": "2025-07-23T05:01:54.608Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T05:12:29.029Z",
+        "status": "finished",
+        "gift_name": "Santa Hat",
+        "gift_num": 19785,
+        "model": "Sleepy Claus (1.5%)",
+        "backdrop": "Strawberry (1.5%)",
+        "symbol": "Chest (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T03:52:30.542Z",
+        "__v": 0,
+        "winningBid": 2.2,
+        "winningBidder": 1458365946
+      },
+      "export_at": "2025-07-27T06:13:23.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 48143,
       "customEmojiId": "5447231077905095788",
       "gift_id": 7296295,
@@ -23507,6 +23562,26 @@
     }
   ],
   "Pinkie Cap": [
+    {
+      "gift_num": 33451,
+      "customEmojiId": "5397896240274892993",
+      "gift_id": 7347622,
+      "name": "Santa Hat",
+      "model": "Pinkie Cap (1.5%)",
+      "asset": "TON",
+      "symbol": "Cupcake (1.6%)",
+      "backdrop": "Ivory White (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.03,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T06:17:48.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 33462,
       "customEmojiId": "5397896240274892993",
@@ -28690,26 +28765,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 38076,
-      "customEmojiId": "5399837397988956846",
-      "gift_id": 7342439,
-      "name": "Santa Hat",
-      "model": "Pure Chill (1.5%)",
-      "asset": "TON",
-      "symbol": "Unicorn Head (0.2%)",
-      "backdrop": "Moonstone (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T19:00:59.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 25118,
       "customEmojiId": "5399837397988956846",
       "gift_id": 5219037,
@@ -30303,7 +30358,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2.3,
+      "price": 2.1,
       "status": "forsale",
       "limited": false,
       "auction": null,
