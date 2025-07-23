@@ -2537,26 +2537,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 17152,
-      "customEmojiId": "5447550683601459665",
-      "gift_id": 7333628,
-      "name": "Mad Pumpkin",
-      "model": "Dark Humor (2%)",
-      "asset": "TON",
-      "symbol": "Smartphone (0.2%)",
-      "backdrop": "French Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 13.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T03:11:26.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 17605,
       "customEmojiId": "5447550683601459665",
       "gift_id": 7336256,
@@ -9390,26 +9370,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 4093,
-      "customEmojiId": "5424753070208738822",
-      "gift_id": 7348161,
-      "name": "Mad Pumpkin",
-      "model": "Bee Movie (2%)",
-      "asset": "TON",
-      "symbol": "Bow Tie (0.2%)",
-      "backdrop": "Light Olive (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 29.65,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T07:41:16.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 640,
       "customEmojiId": "5424753070208738822",
       "gift_id": 7327383,
@@ -9611,6 +9571,89 @@
     }
   ],
   "Squashbuckler": [
+    {
+      "gift_num": 4675,
+      "customEmojiId": "5447650369792402387",
+      "gift_id": 7267130,
+      "name": "Mad Pumpkin",
+      "model": "Squashbuckler (2%)",
+      "asset": "TON",
+      "symbol": "Sauron (1.6%)",
+      "backdrop": "Copper (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15.45,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "EBTFT8KP",
+      "auction": {
+        "_id": "6880e115aace4cd2f62f9908",
+        "gift_id": 7267130,
+        "seller": 0,
+        "auction_id": "EBTFT8KP",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 11.55,
+            "asset": "TON",
+            "_id": "6880e135aace4cd2f62fb706",
+            "timestamp": "2025-07-23T13:18:45.753Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.7,
+            "asset": "TON",
+            "_id": "6880e160aace4cd2f62fdb63",
+            "timestamp": "2025-07-23T13:19:28.649Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.34,
+            "asset": "TON",
+            "_id": "6880ed8eaace4cd2f638a6e2",
+            "timestamp": "2025-07-23T14:11:26.340Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.01,
+            "asset": "TON",
+            "_id": "6880f0d4aace4cd2f6399787",
+            "timestamp": "2025-07-23T14:25:24.799Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.71,
+            "asset": "TON",
+            "_id": "6880f125aace4cd2f639a841",
+            "timestamp": "2025-07-23T14:26:45.675Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15.45,
+            "asset": "TON",
+            "_id": "6880f141aace4cd2f639a95d",
+            "timestamp": "2025-07-23T14:27:13.234Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T14:38:12.400Z",
+        "status": "finished",
+        "gift_name": "Mad Pumpkin",
+        "gift_num": 4675,
+        "model": "Squashbuckler (2%)",
+        "backdrop": "Copper (2%)",
+        "symbol": "Sauron (1.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T13:18:13.480Z",
+        "__v": 0,
+        "winningBid": 15.45,
+        "winningBidder": 5722013688
+      },
+      "export_at": "2025-07-31T13:27:04.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 1154,
       "customEmojiId": "5447650369792402387",
@@ -11907,6 +11950,26 @@
     }
   ],
   "Don Lemon": [
+    {
+      "gift_num": 4828,
+      "customEmojiId": "5440368454605496641",
+      "gift_id": 7353666,
+      "name": "Mad Pumpkin",
+      "model": "Don Lemon (1.5%)",
+      "asset": "TON",
+      "symbol": "Jaws (2.4%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 13.19,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T15:09:32.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 4280,
       "customEmojiId": "5440368454605496641",
