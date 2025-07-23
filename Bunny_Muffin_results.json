@@ -1129,6 +1129,24 @@
   ],
   "Wolverine": [
     {
+      "gift_num": 10312,
+      "customEmojiId": "5237713751343390000",
+      "gift_id": 583676879758,
+      "name": "Bunny Muffin",
+      "model": "Wolverine (1.2%)",
+      "asset": "TON",
+      "symbol": "Cute Bear (1%)",
+      "backdrop": "Fandango (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 56.798,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 39453,
       "customEmojiId": "5237713751343390000",
       "gift_id": 7327249,
@@ -4684,6 +4702,24 @@
     }
   ],
   "Berry Tale": [
+    {
+      "gift_num": 39500,
+      "customEmojiId": "5418072098255953535",
+      "gift_id": 598779819151,
+      "name": "Bunny Muffin",
+      "model": "Berry Tale (0.8%)",
+      "asset": "TON",
+      "symbol": "Bone (0.4%)",
+      "backdrop": "Cyberpunk (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 42.836,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 33786,
       "customEmojiId": "5418072098255953535",
@@ -13526,6 +13562,24 @@
   ],
   "Pink Bow": [
     {
+      "gift_num": 38103,
+      "customEmojiId": "5224484723790734620",
+      "gift_id": 594720668323,
+      "name": "Bunny Muffin",
+      "model": "Pink Bow (0.5%)",
+      "asset": "TON",
+      "symbol": "Cupid (0.6%)",
+      "backdrop": "Desert Sand (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 22.032,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 14781,
       "customEmojiId": "5224484723790734620",
       "gift_id": 7344106,
@@ -16722,7 +16776,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 17,
+      "price": 14.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -17885,6 +17939,26 @@
     }
   ],
   "Latte": [
+    {
+      "gift_num": 4901,
+      "customEmojiId": "5235645153359718483",
+      "gift_id": 7344557,
+      "name": "Bunny Muffin",
+      "model": "Latte (2%)",
+      "asset": "TON",
+      "symbol": "Carambola (0.6%)",
+      "backdrop": "Grape (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.6,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T21:28:30.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 8399,
       "customEmojiId": "5235645153359718483",
@@ -26093,6 +26167,54 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-26T10:27:58.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 35293,
+      "customEmojiId": "5440520767030720361",
+      "gift_id": 7265803,
+      "name": "Bunny Muffin",
+      "model": "Sweet Miracle (0.5%)",
+      "asset": "TON",
+      "symbol": "Hamburger (0.4%)",
+      "backdrop": "Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "IWKNRPUR",
+      "auction": {
+        "_id": "687f9623aace4cd2f61efe05",
+        "gift_id": 7265803,
+        "seller": 0,
+        "auction_id": "IWKNRPUR",
+        "startingBid": 7,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 7,
+            "asset": "TON",
+            "_id": "687ff0ebaace4cd2f66f37ea",
+            "timestamp": "2025-07-22T20:13:31.065Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T01:46:09.498Z",
+        "status": "finished",
+        "gift_name": "Bunny Muffin",
+        "gift_num": 35293,
+        "model": "Sweet Miracle (0.5%)",
+        "backdrop": "Purple (2%)",
+        "symbol": "Hamburger (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T13:46:11.085Z",
+        "__v": 0,
+        "winningBid": 7,
+        "winningBidder": 399553113
+      },
+      "export_at": "2025-07-31T11:49:36.000Z",
       "premarketData": {}
     },
     {
@@ -35764,6 +35886,26 @@
   ],
   "Spiderman": [
     {
+      "gift_num": 26321,
+      "customEmojiId": "5238046989265951771",
+      "gift_id": 7346646,
+      "name": "Bunny Muffin",
+      "model": "Spiderman (1.2%)",
+      "asset": "TON",
+      "symbol": "Flower (0.6%)",
+      "backdrop": "Roman Silver (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T01:23:56.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 37455,
       "customEmojiId": "5238046989265951771",
       "gift_id": 593375732385,
@@ -36244,7 +36386,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 4.66,
+      "price": 4.43,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -40100,6 +40242,24 @@
     }
   ],
   "Frosted": [
+    {
+      "gift_num": 27227,
+      "customEmojiId": "5440445111181797437",
+      "gift_id": 597652202116,
+      "name": "Bunny Muffin",
+      "model": "Frosted (0.5%)",
+      "asset": "TON",
+      "symbol": "Maple (0.5%)",
+      "backdrop": "Fandango (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 42.836,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 34287,
       "customEmojiId": "5440445111181797437",
