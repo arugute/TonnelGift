@@ -1891,26 +1891,6 @@
   ],
   "Sunset": [
     {
-      "gift_num": 1278,
-      "customEmojiId": "5413361597169031482",
-      "gift_id": 7346065,
-      "name": "Sharp Tongue",
-      "model": "Sunset (2.5%)",
-      "asset": "TON",
-      "symbol": "Rook (0.2%)",
-      "backdrop": "Chocolate (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T23:26:27.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 4932,
       "customEmojiId": "5413361597169031482",
       "gift_id": 7323926,
@@ -2467,7 +2447,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 33,
+      "price": 40,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3265,6 +3245,26 @@
   ],
   "Sweet Berry": [
     {
+      "gift_num": 3358,
+      "customEmojiId": "5429386519582369388",
+      "gift_id": 7292691,
+      "name": "Sharp Tongue",
+      "model": "Sweet Berry (2%)",
+      "asset": "TON",
+      "symbol": "Magic Wand (1%)",
+      "backdrop": "Copper (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 45,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T07:38:52.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2080,
       "customEmojiId": "5429386519582369388",
       "gift_id": 7255611,
@@ -3282,26 +3282,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T18:43:17.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3358,
-      "customEmojiId": "5429386519582369388",
-      "gift_id": 7292691,
-      "name": "Sharp Tongue",
-      "model": "Sweet Berry (2%)",
-      "asset": "TON",
-      "symbol": "Magic Wand (1%)",
-      "backdrop": "Copper (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 34,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T07:38:52.000Z",
       "premarketData": {}
     },
     {
@@ -3708,6 +3688,117 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-25T15:55:45.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 6917,
+      "customEmojiId": "5429176714724929110",
+      "gift_id": 6616277,
+      "name": "Sharp Tongue",
+      "model": "Ferrum Fatale (2%)",
+      "asset": "TON",
+      "symbol": "Flipper (0.2%)",
+      "backdrop": "Battleship Grey (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50.22,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "K121H832",
+      "auction": {
+        "_id": "687fb163aace4cd2f6486481",
+        "gift_id": 6616277,
+        "seller": 0,
+        "auction_id": "K121H832",
+        "startingBid": 20,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 24,
+            "asset": "TON",
+            "_id": "68800afbaace4cd2f6867e62",
+            "timestamp": "2025-07-22T22:04:43.503Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 29,
+            "asset": "TON",
+            "_id": "688043ccaace4cd2f69e9969",
+            "timestamp": "2025-07-23T02:07:08.587Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 30.45,
+            "asset": "TON",
+            "_id": "688077acaace4cd2f6f3f57a",
+            "timestamp": "2025-07-23T05:48:28.588Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 34.44,
+            "asset": "TON",
+            "_id": "68808df7aace4cd2f609a97e",
+            "timestamp": "2025-07-23T07:23:35.840Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 36.16,
+            "asset": "TON",
+            "_id": "6880f801aace4cd2f63b174a",
+            "timestamp": "2025-07-23T14:56:01.206Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 40.55,
+            "asset": "TON",
+            "_id": "6880f879aace4cd2f63b278f",
+            "timestamp": "2025-07-23T14:58:01.794Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 42.58,
+            "asset": "TON",
+            "_id": "68810065aace4cd2f63d155f",
+            "timestamp": "2025-07-23T15:31:49.566Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 45.55,
+            "asset": "TON",
+            "_id": "68810084aace4cd2f63d23c1",
+            "timestamp": "2025-07-23T15:32:20.841Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 47.83,
+            "asset": "TON",
+            "_id": "68810097aace4cd2f63d2b9e",
+            "timestamp": "2025-07-23T15:32:39.289Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 50.22,
+            "asset": "TON",
+            "_id": "68810319aace4cd2f63dafa0",
+            "timestamp": "2025-07-23T15:43:21.415Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T16:02:26.221Z",
+        "status": "finished",
+        "gift_name": "Sharp Tongue",
+        "gift_num": 6917,
+        "model": "Ferrum Fatale (2%)",
+        "backdrop": "Battleship Grey (2%)",
+        "symbol": "Flipper (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T15:42:27.032Z",
+        "__v": 0,
+        "winningBid": 50.22,
+        "winningBidder": 5827644490
+      },
+      "export_at": "2025-07-03T22:37:43.000Z",
       "premarketData": {}
     },
     {
@@ -4780,26 +4871,6 @@
   ],
   "Morticia": [
     {
-      "gift_num": 7440,
-      "customEmojiId": "5409055514497671414",
-      "gift_id": 7217279,
-      "name": "Sharp Tongue",
-      "model": "Morticia (2.5%)",
-      "asset": "TON",
-      "symbol": "Potion (1.2%)",
-      "backdrop": "Jade Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 37.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T16:51:59.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 6565,
       "customEmojiId": "5409055514497671414",
       "gift_id": 7291306,
@@ -5265,6 +5336,26 @@
     }
   ],
   "Vegan Snake": [
+    {
+      "gift_num": 4083,
+      "customEmojiId": "5411390434813438229",
+      "gift_id": 7354281,
+      "name": "Sharp Tongue",
+      "model": "Vegan Snake (2.5%)",
+      "asset": "TON",
+      "symbol": "Napkins (0.4%)",
+      "backdrop": "Purple (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 35,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T15:58:40.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 1892,
       "customEmojiId": "5411390434813438229",
@@ -6786,26 +6877,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-09T08:25:46.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4788,
-      "customEmojiId": "5413645301233771348",
-      "gift_id": 7347663,
-      "name": "Sharp Tongue",
-      "model": "Queen (2.5%)",
-      "asset": "TON",
-      "symbol": "Baphomet (1.2%)",
-      "backdrop": "Steel Grey (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 36,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T06:23:23.000Z",
       "premarketData": {}
     },
     {
@@ -8950,26 +9021,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-03T23:03:32.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3480,
-      "customEmojiId": "5429524954968253627",
-      "gift_id": 7293011,
-      "name": "Sharp Tongue",
-      "model": "Coral Reef (2%)",
-      "asset": "TON",
-      "symbol": "Moose Head (0.2%)",
-      "backdrop": "Caramel (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T08:03:45.000Z",
       "premarketData": {}
     },
     {
