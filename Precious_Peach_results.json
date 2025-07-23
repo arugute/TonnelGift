@@ -1553,6 +1553,67 @@
       "auction": null,
       "export_at": "2025-06-17T22:25:33.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 2380,
+      "customEmojiId": "5377438572309667018",
+      "gift_id": 7346697,
+      "name": "Precious Peach",
+      "model": "Honey Gold (1.5%)",
+      "asset": "TON",
+      "symbol": "Genie Lamp (0.4%)",
+      "backdrop": "Khaki Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 275.63,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "6SE4QKUY",
+      "auction": {
+        "_id": "68803d0aaace4cd2f69d36bc",
+        "gift_id": 7346697,
+        "seller": 0,
+        "auction_id": "6SE4QKUY",
+        "startingBid": 250,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 250,
+            "asset": "TON",
+            "_id": "688048d8aace4cd2f6a7850d",
+            "timestamp": "2025-07-23T02:28:40.232Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 262.5,
+            "asset": "TON",
+            "_id": "6880bbb4aace4cd2f6259c83",
+            "timestamp": "2025-07-23T10:38:44.992Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 275.63,
+            "asset": "TON",
+            "_id": "6880c6abaace4cd2f627a115",
+            "timestamp": "2025-07-23T11:25:31.970Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T13:38:11.586Z",
+        "status": "finished",
+        "gift_name": "Precious Peach",
+        "gift_num": 2380,
+        "model": "Honey Gold (1.5%)",
+        "backdrop": "Khaki Green (2%)",
+        "symbol": "Genie Lamp (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T01:38:18.360Z",
+        "__v": 0,
+        "winningBid": 275.63,
+        "winningBidder": 6550341008
+      },
+      "export_at": "2025-08-06T01:36:33.000Z",
+      "premarketData": {}
     }
   ],
   "Party-Ready": [
