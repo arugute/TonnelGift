@@ -5330,6 +5330,53 @@
       "auction": null,
       "export_at": "2025-06-19T13:14:33.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 446,
+      "customEmojiId": "5395387798985402317",
+      "gift_id": 7340206,
+      "name": "Scared Cat",
+      "model": "Celestia (3%)",
+      "asset": "TON",
+      "symbol": "Black Widow (2.4%)",
+      "backdrop": "Mystic Pearl (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 40,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "5UM0AQXV",
+      "auction": {
+        "_id": "687fba71aace4cd2f657f831",
+        "gift_id": 7340206,
+        "seller": 0,
+        "auction_id": "5UM0AQXV",
+        "startingBid": 40,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 40,
+            "asset": "TON",
+            "_id": "68804ab3aace4cd2f6ac6fe8",
+            "timestamp": "2025-07-23T02:36:35.940Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T04:21:03.080Z",
+        "status": "finished",
+        "gift_name": "Scared Cat",
+        "gift_num": 446,
+        "model": "Celestia (3%)",
+        "backdrop": "Mystic Pearl (2%)",
+        "symbol": "Black Widow (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T16:21:05.153Z",
+        "__v": 0,
+        "winningBid": 40,
+        "winningBidder": 8173622469
+      },
+      "export_at": "2025-08-05T16:20:05.000Z",
+      "premarketData": {}
     }
   ],
   "Silver Napper": [
