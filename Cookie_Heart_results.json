@@ -13147,6 +13147,54 @@
   ],
   "Fairy Tale": [
     {
+      "gift_num": 129653,
+      "customEmojiId": "5233446237478351628",
+      "gift_id": 7343294,
+      "name": "Cookie Heart",
+      "model": "Fairy Tale (1%)",
+      "asset": "TON",
+      "symbol": "Passion Latte (0.4%)",
+      "backdrop": "Midnight Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.1,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "PJPTA428",
+      "auction": {
+        "_id": "6880362aaace4cd2f69c10df",
+        "gift_id": 7343294,
+        "seller": 0,
+        "auction_id": "PJPTA428",
+        "startingBid": 2.1,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6880432baace4cd2f69e8844",
+            "timestamp": "2025-07-23T02:04:27.089Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T02:18:56.657Z",
+        "status": "finished",
+        "gift_name": "Cookie Heart",
+        "gift_num": 129653,
+        "model": "Fairy Tale (1%)",
+        "backdrop": "Midnight Blue (2%)",
+        "symbol": "Passion Latte (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T01:08:58.049Z",
+        "__v": 0,
+        "winningBid": 2.1,
+        "winningBidder": 7514474967
+      },
+      "export_at": "2025-08-05T20:01:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 42706,
       "customEmojiId": "5233446237478351628",
       "gift_id": 7335213,
