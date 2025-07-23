@@ -2881,26 +2881,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 21885,
-      "customEmojiId": "5296460520176511332",
-      "gift_id": 6951931,
-      "name": "Record Player",
-      "model": "Moonglows (1%)",
-      "asset": "TON",
-      "symbol": "Celtic Cross (0.2%)",
-      "backdrop": "Carmine (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 16,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-17T05:18:22.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 5669,
       "customEmojiId": "5296460520176511332",
       "gift_id": 589978268514,
@@ -5785,7 +5765,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 25,
+      "price": 22,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -5805,10 +5785,101 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
+      "price": 7.3,
+      "status": "auction",
       "limited": false,
-      "auction": null,
+      "auction_id": "2805MES1",
+      "auction": {
+        "_id": "687f3f72aace4cd2f67fe541",
+        "gift_id": 7334759,
+        "seller": 0,
+        "auction_id": "2805MES1",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688074abaace4cd2f6f306d2",
+            "timestamp": "2025-07-23T05:35:39.900Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "68807544aace4cd2f6f310fd",
+            "timestamp": "2025-07-23T05:38:12.713Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "68807600aace4cd2f6f34880",
+            "timestamp": "2025-07-23T05:41:20.141Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "68807686aace4cd2f6f37d83",
+            "timestamp": "2025-07-23T05:43:34.281Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "688076fdaace4cd2f6f397c1",
+            "timestamp": "2025-07-23T05:45:33.600Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6,
+            "asset": "TON",
+            "_id": "68807734aace4cd2f6f3bafa",
+            "timestamp": "2025-07-23T05:46:28.822Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.3,
+            "asset": "TON",
+            "_id": "688077f4aace4cd2f6f402b0",
+            "timestamp": "2025-07-23T05:49:40.996Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.62,
+            "asset": "TON",
+            "_id": "68807875aace4cd2f6f4bf5d",
+            "timestamp": "2025-07-23T05:51:49.349Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.95,
+            "asset": "TON",
+            "_id": "68807d99aace4cd2f6f9614f",
+            "timestamp": "2025-07-23T06:13:45.515Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.3,
+            "asset": "TON",
+            "_id": "68807f8eaace4cd2f6fb02ee",
+            "timestamp": "2025-07-23T06:22:06.306Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T06:35:01.203Z",
+        "status": "finished",
+        "gift_name": "Record Player",
+        "gift_num": 25253,
+        "model": "Poisonwave (0.5%)",
+        "backdrop": "Malachite (1.5%)",
+        "symbol": "Ram of Amun (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T05:35:03.861Z",
+        "__v": 0,
+        "winningBid": 7.3,
+        "winningBidder": 1771982520
+      },
       "export_at": "2025-08-05T07:35:47.000Z",
       "premarketData": {}
     },
@@ -6004,6 +6075,26 @@
     }
   ],
   "Eucalyptus": [
+    {
+      "gift_num": 19365,
+      "customEmojiId": "5292269091657115465",
+      "gift_id": 7292891,
+      "name": "Record Player",
+      "model": "Eucalyptus (1%)",
+      "asset": "TON",
+      "symbol": "Sprout (0.4%)",
+      "backdrop": "Celtic Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T07:53:35.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 8022,
       "customEmojiId": "5292269091657115465",
@@ -10727,6 +10818,26 @@
     }
   ],
   "Pink Chrome": [
+    {
+      "gift_num": 15095,
+      "customEmojiId": "5294037565916077893",
+      "gift_id": 7292784,
+      "name": "Record Player",
+      "model": "Pink Chrome (2%)",
+      "asset": "TON",
+      "symbol": "Trophy (0.5%)",
+      "backdrop": "Celtic Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T07:47:54.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 18970,
       "customEmojiId": "5294037565916077893",
@@ -19388,7 +19499,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 7.26,
+      "price": 6.9,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -27568,6 +27679,44 @@
   ],
   "Sakura": [
     {
+      "gift_num": 25141,
+      "customEmojiId": "5294521741874325183",
+      "gift_id": 598085231886,
+      "name": "Record Player",
+      "model": "Sakura (2%)",
+      "asset": "TON",
+      "symbol": "Cocktail (0.5%)",
+      "backdrop": "Raspberry (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 10663,
+      "customEmojiId": "5294521741874325183",
+      "gift_id": 7292838,
+      "name": "Record Player",
+      "model": "Sakura (2%)",
+      "asset": "TON",
+      "symbol": "Mining Helmet (0.4%)",
+      "backdrop": "Roman Silver (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T07:51:00.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5855,
       "customEmojiId": "5294521741874325183",
       "gift_id": 7338293,
@@ -28090,6 +28239,26 @@
   ],
   "Jade Beat": [
     {
+      "gift_num": 23357,
+      "customEmojiId": "5296783411522855496",
+      "gift_id": 7211481,
+      "name": "Record Player",
+      "model": "Jade Beat (2%)",
+      "asset": "TON",
+      "symbol": "Ribeye Steak (0.5%)",
+      "backdrop": "Strawberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-28T11:43:34.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 10059,
       "customEmojiId": "5296783411522855496",
       "gift_id": 591106181901,
@@ -28184,26 +28353,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 23357,
-      "customEmojiId": "5296783411522855496",
-      "gift_id": 7211481,
-      "name": "Record Player",
-      "model": "Jade Beat (2%)",
-      "asset": "TON",
-      "symbol": "Ribeye Steak (0.5%)",
-      "backdrop": "Strawberry (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7.4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T11:43:34.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 3468,
       "customEmojiId": "5296783411522855496",
       "gift_id": 6269179,
@@ -28241,26 +28390,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-01T13:15:12.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15008,
-      "customEmojiId": "5296783411522855496",
-      "gift_id": 7188459,
-      "name": "Record Player",
-      "model": "Jade Beat (2%)",
-      "asset": "TON",
-      "symbol": "Aztec Falcon (0.4%)",
-      "backdrop": "Black (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 53,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T05:48:47.000Z",
       "premarketData": {}
     },
     {
@@ -28673,6 +28802,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-02T16:27:07.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 60,
+      "customEmojiId": "5296783411522855496",
+      "gift_id": 1320424,
+      "name": "Record Player",
+      "model": "Jade Beat (2%)",
+      "asset": "TON",
+      "symbol": "Vortex (0.5%)",
+      "backdrop": "Fire Engine (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 335703,
+      "price": 360,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-03-18T15:08:11.000Z",
       "premarketData": {}
     }
   ],
@@ -29645,6 +29794,26 @@
     }
   ],
   "Dragon Brute": [
+    {
+      "gift_num": 319,
+      "customEmojiId": "5296667507535406589",
+      "gift_id": 7347748,
+      "name": "Record Player",
+      "model": "Dragon Brute (1%)",
+      "asset": "TON",
+      "symbol": "Wepwawet (0.4%)",
+      "backdrop": "Amber (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T06:35:56.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 831,
       "customEmojiId": "5296667507535406589",
@@ -34776,6 +34945,24 @@
   ],
   "Sunset Beach": [
     {
+      "gift_num": 21476,
+      "customEmojiId": "5296389258079138069",
+      "gift_id": 586629696403,
+      "name": "Record Player",
+      "model": "Sunset Beach (0.5%)",
+      "asset": "TON",
+      "symbol": "Puzzle (0.4%)",
+      "backdrop": "Caramel (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 42.836,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 19679,
       "customEmojiId": "5296389258079138069",
       "gift_id": 7327564,
@@ -35718,6 +35905,24 @@
   ],
   "Velvet Draft": [
     {
+      "gift_num": 25308,
+      "customEmojiId": "5296312013092316013",
+      "gift_id": 599211770025,
+      "name": "Record Player",
+      "model": "Velvet Draft (2%)",
+      "asset": "TON",
+      "symbol": "Turban (0.5%)",
+      "backdrop": "Camo Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 15.973,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 6928,
       "customEmojiId": "5296312013092316013",
       "gift_id": 7022283,
@@ -36277,26 +36482,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T23:08:46.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7778,
-      "customEmojiId": "5296312013092316013",
-      "gift_id": 5014438,
-      "name": "Record Player",
-      "model": "Velvet Draft (2%)",
-      "asset": "TON",
-      "symbol": "UFO (0.4%)",
-      "backdrop": "Desert Sand (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 704370,
-      "price": 90,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-31T19:00:28.000Z",
       "premarketData": {}
     }
   ],
