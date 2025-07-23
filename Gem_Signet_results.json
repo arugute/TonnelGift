@@ -614,26 +614,6 @@
   ],
   "Timekeeper": [
     {
-      "gift_num": 25,
-      "customEmojiId": "5375129778279968773",
-      "gift_id": 7192165,
-      "name": "Gem Signet",
-      "model": "Timekeeper (0.5%)",
-      "asset": "TON",
-      "symbol": "Moon Cross (0.5%)",
-      "backdrop": "Hunter Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 916896,
-      "price": 380,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T11:01:14.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 3225,
       "customEmojiId": "5375129778279968773",
       "gift_id": 6137053,
@@ -1634,26 +1614,6 @@
     }
   ],
   "Arabica": [
-    {
-      "gift_num": 1937,
-      "customEmojiId": "5375127351623447460",
-      "gift_id": -873166495,
-      "name": "Gem Signet",
-      "model": "Arabica (0.5%)",
-      "asset": "TON",
-      "symbol": "Onigiri (0.5%)",
-      "backdrop": "Silver Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 918701,
-      "price": 600,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-12T10:50:39.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 4139,
       "customEmojiId": "5375127351623447460",
@@ -2788,6 +2748,53 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T06:07:22.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 5082,
+      "customEmojiId": "5377706324865870394",
+      "gift_id": 7350583,
+      "name": "Gem Signet",
+      "model": "Snake Ruby (4%)",
+      "asset": "TON",
+      "symbol": "Tulip (0.4%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 115,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ZNUE4C1M",
+      "auction": {
+        "_id": "6880c725aace4cd2f627a705",
+        "gift_id": 7350583,
+        "seller": 0,
+        "auction_id": "ZNUE4C1M",
+        "startingBid": 115,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 115,
+            "asset": "TON",
+            "_id": "6880e2faaace4cd2f631c883",
+            "timestamp": "2025-07-23T13:26:18.453Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T13:42:19.140Z",
+        "status": "finished",
+        "gift_name": "Gem Signet",
+        "gift_num": 5082,
+        "model": "Snake Ruby (4%)",
+        "backdrop": "Onyx Black (1.5%)",
+        "symbol": "Tulip (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T12:42:21.024Z",
+        "__v": 0,
+        "winningBid": 115,
+        "winningBidder": 960741385
+      },
+      "export_at": "2025-08-06T11:27:05.000Z",
       "premarketData": {}
     }
   ],
@@ -4347,6 +4354,26 @@
     }
   ],
   "Malachite": [
+    {
+      "gift_num": 5180,
+      "customEmojiId": "5375473959779201867",
+      "gift_id": 7353134,
+      "name": "Gem Signet",
+      "model": "Malachite (4%)",
+      "asset": "TON",
+      "symbol": "Anchor (0.5%)",
+      "backdrop": "Tomato (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 75,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T14:28:21.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 1449,
       "customEmojiId": "5375473959779201867",
