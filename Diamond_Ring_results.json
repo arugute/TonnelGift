@@ -1009,26 +1009,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 11467,
-      "customEmojiId": "5269475665857505185",
-      "gift_id": 6753949,
-      "name": "Diamond Ring",
-      "model": "El Dorado (1%)",
-      "asset": "TON",
-      "symbol": "Heart Balloon (0.5%)",
-      "backdrop": "Onyx Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 60,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-09T14:54:25.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 15728,
       "customEmojiId": "5269475665857505185",
       "gift_id": 587080525805,
@@ -1494,9 +1474,81 @@
       },
       "export_at": "2025-08-05T19:22:47.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 5060,
+      "customEmojiId": "5269475665857505185",
+      "gift_id": 7336976,
+      "name": "Diamond Ring",
+      "model": "El Dorado (1%)",
+      "asset": "TON",
+      "symbol": "Love Puzzle (0.5%)",
+      "backdrop": "Turquoise (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 14.18,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "MHYG1FXC",
+      "auction": {
+        "_id": "687f8317aace4cd2f6913675",
+        "gift_id": 7336976,
+        "seller": 0,
+        "auction_id": "MHYG1FXC",
+        "startingBid": 13.5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 13.5,
+            "asset": "TON",
+            "_id": "687ff7c6aace4cd2f672f19d",
+            "timestamp": "2025-07-22T20:42:46.144Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.18,
+            "asset": "TON",
+            "_id": "687ff839aace4cd2f673b9fe",
+            "timestamp": "2025-07-22T20:44:41.351Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-22T21:00:34.110Z",
+        "status": "finished",
+        "gift_name": "Diamond Ring",
+        "gift_num": 5060,
+        "model": "El Dorado (1%)",
+        "backdrop": "Turquoise (1.5%)",
+        "symbol": "Love Puzzle (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T20:00:35.910Z",
+        "__v": 0,
+        "winningBid": 14.18,
+        "winningBidder": 1287700624
+      },
+      "export_at": "2025-08-05T12:24:06.000Z",
+      "premarketData": {}
     }
   ],
   "Aurora": [
+    {
+      "gift_num": 13115,
+      "customEmojiId": "5271583549907041807",
+      "gift_id": 587067246625,
+      "name": "Diamond Ring",
+      "model": "Aurora (1.5%)",
+      "asset": "TON",
+      "symbol": "Bull of Heaven (0.4%)",
+      "backdrop": "Pine Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 41.31,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 31707,
       "customEmojiId": "5271583549907041807",
@@ -11712,6 +11764,24 @@
   ],
   "Nocturne": [
     {
+      "gift_num": 15258,
+      "customEmojiId": "5271826408832790722",
+      "gift_id": 587088279939,
+      "name": "Diamond Ring",
+      "model": "Nocturne (0.5%)",
+      "asset": "TON",
+      "symbol": "Ouroboros (0.5%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 26411,
       "customEmojiId": "5271826408832790722",
       "gift_id": 588885484093,
@@ -14272,6 +14342,24 @@
   ],
   "Red Light": [
     {
+      "gift_num": 27659,
+      "customEmojiId": "5271904199280453525",
+      "gift_id": 593149145373,
+      "name": "Diamond Ring",
+      "model": "Red Light (1.5%)",
+      "asset": "TON",
+      "symbol": "Griffon (0.5%)",
+      "backdrop": "Ivory White (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 275.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 13767,
       "customEmojiId": "5271904199280453525",
       "gift_id": 587289947122,
@@ -15444,6 +15532,117 @@
       "premarketData": {}
     },
     {
+      "gift_num": 31519,
+      "customEmojiId": "5271855859423535092",
+      "gift_id": 7112597,
+      "name": "Diamond Ring",
+      "model": "Bloodstone (0.5%)",
+      "asset": "TON",
+      "symbol": "Diamond (0.5%)",
+      "backdrop": "Satin Gold (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 22,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "VGY0EPMA",
+      "auction": {
+        "_id": "68801340aace4cd2f689ad2a",
+        "gift_id": 7112597,
+        "seller": 0,
+        "auction_id": "VGY0EPMA",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68801d0faace4cd2f68dbb4b",
+            "timestamp": "2025-07-22T23:21:51.608Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.77,
+            "asset": "TON",
+            "_id": "68801e68aace4cd2f68e451a",
+            "timestamp": "2025-07-22T23:27:36.764Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "688054d3aace4cd2f6afde25",
+            "timestamp": "2025-07-23T03:19:47.581Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15.2,
+            "asset": "TON",
+            "_id": "68806770aace4cd2f6eb092b",
+            "timestamp": "2025-07-23T04:39:12.092Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 16,
+            "asset": "TON",
+            "_id": "688155b2aace4cd2f65dbc9a",
+            "timestamp": "2025-07-23T21:35:46.398Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 16.8,
+            "asset": "TON",
+            "_id": "688155e5aace4cd2f65ea8bb",
+            "timestamp": "2025-07-23T21:36:37.768Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 18,
+            "asset": "TON",
+            "_id": "6881562faace4cd2f66030ef",
+            "timestamp": "2025-07-23T21:37:51.511Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 18.9,
+            "asset": "TON",
+            "_id": "68815674aace4cd2f6616d6d",
+            "timestamp": "2025-07-23T21:39:00.055Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 19.85,
+            "asset": "TON",
+            "_id": "68815694aace4cd2f661f2eb",
+            "timestamp": "2025-07-23T21:39:32.409Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 22,
+            "asset": "TON",
+            "_id": "688156b7aace4cd2f6629816",
+            "timestamp": "2025-07-23T21:40:07.925Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T22:39:52.930Z",
+        "status": "finished",
+        "gift_name": "Diamond Ring",
+        "gift_num": 31519,
+        "model": "Bloodstone (0.5%)",
+        "backdrop": "Satin Gold (1.5%)",
+        "symbol": "Diamond (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T22:40:00.879Z",
+        "__v": 0,
+        "winningBid": 22,
+        "winningBidder": 1082699630
+      },
+      "export_at": "2025-07-23T20:12:11.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 29667,
       "customEmojiId": "5271855859423535092",
       "gift_id": 6904962,
@@ -16302,6 +16501,24 @@
   ],
   "Forest Lake": [
     {
+      "gift_num": 10388,
+      "customEmojiId": "5271766584233322889",
+      "gift_id": 587088304850,
+      "name": "Diamond Ring",
+      "model": "Forest Lake (1.5%)",
+      "asset": "TON",
+      "symbol": "Hippo (0.2%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 330.48,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 31264,
       "customEmojiId": "5271766584233322889",
       "gift_id": 588180983614,
@@ -16849,26 +17066,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11385,
-      "customEmojiId": "5271766584233322889",
-      "gift_id": 5921778,
-      "name": "Diamond Ring",
-      "model": "Forest Lake (1.5%)",
-      "asset": "TON",
-      "symbol": "Love Potion (0.2%)",
-      "backdrop": "Chestnut (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 34,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T06:55:56.000Z",
       "premarketData": {}
     }
   ],
@@ -24895,6 +25092,24 @@
   ],
   "Rose Quartz": [
     {
+      "gift_num": 17170,
+      "customEmojiId": "5271545827209274799",
+      "gift_id": 587046315532,
+      "name": "Diamond Ring",
+      "model": "Rose Quartz (1.5%)",
+      "asset": "TON",
+      "symbol": "Crab (0.2%)",
+      "backdrop": "Raspberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 68.85,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 20246,
       "customEmojiId": "5271545827209274799",
       "gift_id": 7356943,
@@ -25447,26 +25662,6 @@
       "auction": null,
       "export_at": "2025-06-26T18:21:31.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 31073,
-      "customEmojiId": "5271545827209274799",
-      "gift_id": 6146274,
-      "name": "Diamond Ring",
-      "model": "Rose Quartz (1.5%)",
-      "asset": "TON",
-      "symbol": "Ace Of Hearts (0.4%)",
-      "backdrop": "Caramel (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 35,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T15:06:13.000Z",
-      "premarketData": {}
     }
   ],
   "Ocean Agate": [
@@ -25486,26 +25681,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 24206,
-      "customEmojiId": "5271616350572276289",
-      "gift_id": 7343401,
-      "name": "Diamond Ring",
-      "model": "Ocean Agate (0.5%)",
-      "asset": "TON",
-      "symbol": "Coin (0.4%)",
-      "backdrop": "Pacific Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 25,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T20:10:11.000Z",
       "premarketData": {}
     },
     {
@@ -26064,6 +26239,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-03-18T10:30:41.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 12376,
+      "customEmojiId": "5271616350572276289",
+      "gift_id": 1064786,
+      "name": "Diamond Ring",
+      "model": "Ocean Agate (0.5%)",
+      "asset": "TON",
+      "symbol": "Jewel (0.5%)",
+      "backdrop": "Platinum (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 582834,
+      "price": 30,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-03-13T12:53:55.000Z",
       "premarketData": {}
     }
   ],
@@ -26882,26 +27077,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11425,
-      "customEmojiId": "5271693221896939780",
-      "gift_id": 6746195,
-      "name": "Diamond Ring",
-      "model": "Obsidian (0.5%)",
-      "asset": "TON",
-      "symbol": "Cash (0.2%)",
-      "backdrop": "Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 53.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-09T09:40:32.000Z",
       "premarketData": {}
     },
     {
@@ -30347,26 +30522,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 17648,
-      "customEmojiId": "5271509423066474965",
-      "gift_id": 6754004,
-      "name": "Diamond Ring",
-      "model": "Mint Candy (1.5%)",
-      "asset": "TON",
-      "symbol": "Diamond (0.5%)",
-      "backdrop": "Azure Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-09T14:55:55.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 28521,
       "customEmojiId": "5271509423066474965",
       "gift_id": 596982980069,
@@ -30616,26 +30771,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-14T14:17:01.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 22854,
-      "customEmojiId": "5271509423066474965",
-      "gift_id": 6753921,
-      "name": "Diamond Ring",
-      "model": "Mint Candy (1.5%)",
-      "asset": "TON",
-      "symbol": "Money Bag (0.2%)",
-      "backdrop": "Shamrock Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 45,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-09T14:53:06.000Z",
       "premarketData": {}
     },
     {
@@ -31895,6 +32030,26 @@
     }
   ],
   "Bronze Heart": [
+    {
+      "gift_num": 16157,
+      "customEmojiId": "5271772807640941250",
+      "gift_id": 7359777,
+      "name": "Diamond Ring",
+      "model": "Bronze Heart (1.5%)",
+      "asset": "TON",
+      "symbol": "Genie Lamp (0.2%)",
+      "backdrop": "Navy Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T22:19:13.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 7067,
       "customEmojiId": "5271772807640941250",
@@ -34196,6 +34351,24 @@
   ],
   "Peridot": [
     {
+      "gift_num": 1736,
+      "customEmojiId": "5271763839749222257",
+      "gift_id": 587073176257,
+      "name": "Diamond Ring",
+      "model": "Peridot (1.5%)",
+      "asset": "TON",
+      "symbol": "Rhino Warrior (0.2%)",
+      "backdrop": "Moonstone (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 41.304,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 16661,
       "customEmojiId": "5271763839749222257",
       "gift_id": 7295322,
@@ -34728,26 +34901,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 15230,
-      "customEmojiId": "5271763839749222257",
-      "gift_id": 6219315,
-      "name": "Diamond Ring",
-      "model": "Peridot (1.5%)",
-      "asset": "TON",
-      "symbol": "Phoenix (0.2%)",
-      "backdrop": "Malachite (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 29,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-25T10:52:31.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 16286,
       "customEmojiId": "5271763839749222257",
       "gift_id": 6540303,
@@ -35063,6 +35216,26 @@
     }
   ],
   "Black Amber": [
+    {
+      "gift_num": 10681,
+      "customEmojiId": "5271794840823163764",
+      "gift_id": 7021338,
+      "name": "Diamond Ring",
+      "model": "Black Amber (1.5%)",
+      "asset": "TON",
+      "symbol": "Flaming Heart (0.5%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 110,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-20T05:05:16.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 26959,
       "customEmojiId": "5271794840823163764",
@@ -35615,26 +35788,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T18:39:21.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5685,
-      "customEmojiId": "5271794840823163764",
-      "gift_id": 784572,
-      "name": "Diamond Ring",
-      "model": "Black Amber (1.5%)",
-      "asset": "TON",
-      "symbol": "Teddy Bear (0.5%)",
-      "backdrop": "Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 70,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-03-07T14:35:53.000Z",
       "premarketData": {}
     }
   ],
@@ -38902,26 +39055,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 13777,
-      "customEmojiId": "5271533479178299084",
-      "gift_id": 5501820,
-      "name": "Diamond Ring",
-      "model": "Black Thorn (0.5%)",
-      "asset": "TON",
-      "symbol": "Viking Shield (0.5%)",
-      "backdrop": "Raspberry (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 35,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-14T18:47:13.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 3674,
       "customEmojiId": "5271533479178299084",
       "gift_id": 6913734,
@@ -39304,26 +39437,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 31431,
-      "customEmojiId": "5271792263842785351",
-      "gift_id": 6753981,
-      "name": "Diamond Ring",
-      "model": "Flamingo (1.5%)",
-      "asset": "TON",
-      "symbol": "Warhorse (0.2%)",
-      "backdrop": "Electric Purple (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 33,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-09T14:55:07.000Z",
       "premarketData": {}
     },
     {
@@ -40366,6 +40479,24 @@
     }
   ],
   "Amethyst": [
+    {
+      "gift_num": 28957,
+      "customEmojiId": "5271710071053640514",
+      "gift_id": 597886134811,
+      "name": "Diamond Ring",
+      "model": "Amethyst (1.5%)",
+      "asset": "TON",
+      "symbol": "Love Letter (0.5%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 275.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 22277,
       "customEmojiId": "5271710071053640514",
@@ -45148,6 +45279,24 @@
     }
   ],
   "Clam Shell": [
+    {
+      "gift_num": 8005,
+      "customEmojiId": "5271922220963227022",
+      "gift_id": 587306941878,
+      "name": "Diamond Ring",
+      "model": "Clam Shell (1.5%)",
+      "asset": "TON",
+      "symbol": "Tiki Mask (0.2%)",
+      "backdrop": "Lavender (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 26.604,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 12554,
       "customEmojiId": "5271922220963227022",
