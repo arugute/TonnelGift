@@ -7494,6 +7494,158 @@
       "auction": null,
       "export_at": "2025-06-19T20:49:26.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 334,
+      "customEmojiId": "5413364264343730951",
+      "gift_id": 7329400,
+      "name": "Bonded Ring",
+      "model": "Duckling (1.8%)",
+      "asset": "TON",
+      "symbol": "Star (0.4%)",
+      "backdrop": "Carrot Juice (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 74.55,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "OO9LBOS5",
+      "auction": {
+        "_id": "687e91e1aace4cd2f6c5b7df",
+        "gift_id": 7329400,
+        "seller": 0,
+        "auction_id": "OO9LBOS5",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "687f2e17aace4cd2f67baea0",
+            "timestamp": "2025-07-22T06:22:15.299Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "687f2e85aace4cd2f67bb2f2",
+            "timestamp": "2025-07-22T06:24:05.609Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3,
+            "asset": "TON",
+            "_id": "687f2ea8aace4cd2f67bb5fc",
+            "timestamp": "2025-07-22T06:24:40.862Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.15,
+            "asset": "TON",
+            "_id": "687f2ef9aace4cd2f67bb818",
+            "timestamp": "2025-07-22T06:26:01.061Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.3,
+            "asset": "TON",
+            "_id": "687f2f2aaace4cd2f67bbcd7",
+            "timestamp": "2025-07-22T06:26:50.860Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6,
+            "asset": "TON",
+            "_id": "687f2f95aace4cd2f67bc7a4",
+            "timestamp": "2025-07-22T06:28:37.766Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.3,
+            "asset": "TON",
+            "_id": "687fbbe4aace4cd2f65a5920",
+            "timestamp": "2025-07-22T16:27:16.625Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.62,
+            "asset": "TON",
+            "_id": "687fc1c2aace4cd2f65c763a",
+            "timestamp": "2025-07-22T16:52:18.213Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9,
+            "asset": "TON",
+            "_id": "687fc26aaace4cd2f65ca5f2",
+            "timestamp": "2025-07-22T16:55:06.668Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.45,
+            "asset": "TON",
+            "_id": "687fc3c8aace4cd2f65d3f5f",
+            "timestamp": "2025-07-22T17:00:56.600Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.5,
+            "asset": "TON",
+            "_id": "687fc486aace4cd2f65d7bfd",
+            "timestamp": "2025-07-22T17:04:06.750Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.03,
+            "asset": "TON",
+            "_id": "687fc4b7aace4cd2f65d9716",
+            "timestamp": "2025-07-22T17:04:55.590Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 60,
+            "asset": "TON",
+            "_id": "687ff62aaace4cd2f67252c9",
+            "timestamp": "2025-07-22T20:35:54.986Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 66,
+            "asset": "TON",
+            "_id": "68801d81aace4cd2f68e0990",
+            "timestamp": "2025-07-22T23:23:45.697Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 71,
+            "asset": "TON",
+            "_id": "68803cf7aace4cd2f69d3465",
+            "timestamp": "2025-07-23T01:37:59.552Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 74.55,
+            "asset": "TON",
+            "_id": "68806fe9aace4cd2f6ed33ce",
+            "timestamp": "2025-07-23T05:15:21.014Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T05:52:56.765Z",
+        "status": "finished",
+        "gift_name": "Bonded Ring",
+        "gift_num": 334,
+        "model": "Duckling (1.8%)",
+        "backdrop": "Carrot Juice (1.2%)",
+        "symbol": "Star (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-22T05:53:00.378Z",
+        "__v": 0,
+        "winningBid": 74.55,
+        "winningBidder": 6716556714
+      },
+      "export_at": "2025-08-04T18:44:10.000Z",
+      "premarketData": {}
     }
   ],
   "Rainbow": [
