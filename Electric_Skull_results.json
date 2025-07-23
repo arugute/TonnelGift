@@ -2709,7 +2709,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 30,
+      "price": 40,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -7391,6 +7391,54 @@
     }
   ],
   "Cute Monster": [
+    {
+      "gift_num": 109,
+      "customEmojiId": "5262738507142556943",
+      "gift_id": 7007655,
+      "name": "Electric Skull",
+      "model": "Cute Monster (1.5%)",
+      "asset": "TON",
+      "symbol": "Treats (0.5%)",
+      "backdrop": "Onyx Black (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 56.09,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "4G2S67OF",
+      "auction": {
+        "_id": "687bcc7baace4cd2f67da135",
+        "gift_id": 7007655,
+        "seller": 0,
+        "auction_id": "4G2S67OF",
+        "startingBid": 56.09,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 56.09,
+            "asset": "TON",
+            "_id": "68814bc3aace4cd2f65183a1",
+            "timestamp": "2025-07-23T20:53:23.959Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T21:09:55.539Z",
+        "status": "finished",
+        "gift_name": "Electric Skull",
+        "gift_num": 109,
+        "model": "Cute Monster (1.5%)",
+        "backdrop": "Onyx Black (1.2%)",
+        "symbol": "Treats (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T19:59:59.709Z",
+        "__v": 0,
+        "winningBid": 56.09,
+        "winningBidder": 5691332606
+      },
+      "export_at": "2025-07-19T14:01:34.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3533,
       "customEmojiId": "5262738507142556943",
