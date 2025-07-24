@@ -6888,6 +6888,26 @@
   ],
   "Lime Juice": [
     {
+      "gift_num": 876,
+      "customEmojiId": "5352812733072958437",
+      "gift_id": 7361692,
+      "name": "Neko Helmet",
+      "model": "Lime Juice (2.7%)",
+      "asset": "TON",
+      "symbol": "Firebird (0.4%)",
+      "backdrop": "Chocolate (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 28,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T03:37:25.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4669,
       "customEmojiId": "5352812733072958437",
       "gift_id": 7358807,
@@ -18649,6 +18669,61 @@
         "winningBidder": 7855800492
       },
       "export_at": "2025-08-06T05:03:40.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 8663,
+      "customEmojiId": "5352995922018065699",
+      "gift_id": 7239714,
+      "name": "Neko Helmet",
+      "model": "Cookie Monster (1%)",
+      "asset": "TON",
+      "symbol": "Mars & Venus (0.5%)",
+      "backdrop": "Cobalt Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 36.28,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "GW9CUJ0Q",
+      "auction": {
+        "_id": "6881467baace4cd2f64feb53",
+        "gift_id": 7239714,
+        "seller": 0,
+        "auction_id": "GW9CUJ0Q",
+        "startingBid": 30,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 34.55,
+            "asset": "TON",
+            "_id": "68814c24aace4cd2f651a0df",
+            "timestamp": "2025-07-23T20:55:00.571Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 36.28,
+            "asset": "TON",
+            "_id": "68818180aace4cd2f6ab80a0",
+            "timestamp": "2025-07-24T00:42:40.589Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-24T02:30:48.199Z",
+        "status": "finished",
+        "gift_name": "Neko Helmet",
+        "gift_num": 8663,
+        "model": "Cookie Monster (1%)",
+        "backdrop": "Cobalt Blue (1.5%)",
+        "symbol": "Mars & Venus (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T20:30:51.599Z",
+        "__v": 0,
+        "winningBid": 36.28,
+        "winningBidder": 6061038130
+      },
+      "export_at": "2025-07-29T20:58:25.000Z",
       "premarketData": {}
     },
     {
