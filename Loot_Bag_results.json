@@ -1171,7 +1171,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 95,
+      "price": 100,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -4945,6 +4945,26 @@
   ],
   "Sunrise Bands": [
     {
+      "gift_num": 6441,
+      "customEmojiId": "5287539121483441256",
+      "gift_id": 7374652,
+      "name": "Loot Bag",
+      "model": "Sunrise Bands (1.5%)",
+      "asset": "TON",
+      "symbol": "Wepwawet (0.5%)",
+      "backdrop": "Emerald (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 85,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T21:43:29.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2089,
       "customEmojiId": "5287539121483441256",
       "gift_id": 6037040,
@@ -5002,26 +5022,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T19:26:09.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6441,
-      "customEmojiId": "5287539121483441256",
-      "gift_id": 7374652,
-      "name": "Loot Bag",
-      "model": "Sunrise Bands (1.5%)",
-      "asset": "TON",
-      "symbol": "Wepwawet (0.5%)",
-      "backdrop": "Emerald (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 95,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-07T21:43:29.000Z",
       "premarketData": {}
     },
     {
@@ -12226,6 +12226,24 @@
     }
   ],
   "Tangerine": [
+    {
+      "gift_num": 11423,
+      "customEmojiId": "5287328925783977903",
+      "gift_id": 587766232796,
+      "name": "Loot Bag",
+      "model": "Tangerine (2%)",
+      "asset": "TON",
+      "symbol": "Unicorn (0.5%)",
+      "backdrop": "Jade Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 181.764,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 983,
       "customEmojiId": "5287328925783977903",
