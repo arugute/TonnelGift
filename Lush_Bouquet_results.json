@@ -121,26 +121,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 9766,
-      "customEmojiId": "5402612788675765044",
-      "gift_id": 7294607,
-      "name": "Lush Bouquet",
-      "model": "Berries (3%)",
-      "asset": "TON",
-      "symbol": "Flower Sun (0.5%)",
-      "backdrop": "Fandango (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T10:30:37.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 60082,
       "customEmojiId": "5402612788675765044",
       "gift_id": 7345596,
@@ -654,6 +634,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-21T21:40:05.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 30553,
+      "customEmojiId": "5402612788675765044",
+      "gift_id": 6970644,
+      "name": "Lush Bouquet",
+      "model": "Berries (3%)",
+      "asset": "TON",
+      "symbol": "Pixel Heart (0.5%)",
+      "backdrop": "Hunter Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-17T19:56:44.000Z",
       "premarketData": {}
     }
   ],
@@ -1261,26 +1261,6 @@
   ],
   "Fast Food": [
     {
-      "gift_num": 24209,
-      "customEmojiId": "5251292350579239717",
-      "gift_id": 6946098,
-      "name": "Lush Bouquet",
-      "model": "Fast Food (1%)",
-      "asset": "TON",
-      "symbol": "Carrot (0.4%)",
-      "backdrop": "Gunmetal (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-16T20:51:15.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 34784,
       "customEmojiId": "5251292350579239717",
       "gift_id": 7310697,
@@ -1859,29 +1839,29 @@
       "auction": null,
       "export_at": "2025-07-26T05:40:47.000Z",
       "premarketData": {}
-    }
-  ],
-  "Lobsters": [
+    },
     {
-      "gift_num": 59921,
-      "customEmojiId": "5249209909915975282",
-      "gift_id": 7350325,
+      "gift_num": 14309,
+      "customEmojiId": "5251292350579239717",
+      "gift_id": 7146076,
       "name": "Lush Bouquet",
-      "model": "Lobsters (1.5%)",
+      "model": "Fast Food (1%)",
       "asset": "TON",
-      "symbol": "Candle (0.2%)",
-      "backdrop": "Mystic Pearl (1.2%)",
+      "symbol": "Love Puzzle (0.5%)",
+      "backdrop": "Fandango (1.2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 6,
+      "price": 8.98,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-08-06T11:09:14.000Z",
+      "export_at": "2025-07-24T23:07:07.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Lobsters": [
     {
       "gift_num": 25969,
       "customEmojiId": "5249209909915975282",
@@ -1940,26 +1920,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-06T02:22:46.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 60027,
-      "customEmojiId": "5249209909915975282",
-      "gift_id": 7345446,
-      "name": "Lush Bouquet",
-      "model": "Lobsters (1.5%)",
-      "asset": "TON",
-      "symbol": "Melon (0.5%)",
-      "backdrop": "Battleship Grey (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T22:36:44.000Z",
       "premarketData": {}
     },
     {
@@ -2460,6 +2420,128 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-14T17:19:04.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 25969,
+      "customEmojiId": "5249209909915975282",
+      "gift_id": 7358654,
+      "name": "Lush Bouquet",
+      "model": "Lobsters (1.5%)",
+      "asset": "TON",
+      "symbol": "Teru Bōzu (0.5%)",
+      "backdrop": "Carmine (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 5.79,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "KUF3W39T",
+      "auction": {
+        "_id": "688150ddaace4cd2f653084f",
+        "gift_id": 7358654,
+        "seller": 0,
+        "auction_id": "KUF3W39T",
+        "startingBid": 5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "688152a1aace4cd2f6577bdb",
+            "timestamp": "2025-07-23T21:22:41.059Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "68815692aace4cd2f661edda",
+            "timestamp": "2025-07-23T21:39:30.994Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.51,
+            "asset": "TON",
+            "_id": "68815a3faace4cd2f676640c",
+            "timestamp": "2025-07-23T21:55:11.599Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.79,
+            "asset": "TON",
+            "_id": "68815af9aace4cd2f679ad4a",
+            "timestamp": "2025-07-23T21:58:17.069Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T22:15:03.921Z",
+        "status": "finished",
+        "gift_name": "Lush Bouquet",
+        "gift_num": 25969,
+        "model": "Lobsters (1.5%)",
+        "backdrop": "Carmine (1.2%)",
+        "symbol": "Teru Bōzu (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T21:15:09.017Z",
+        "__v": 0,
+        "winningBid": 5.79,
+        "winningBidder": 6451263060
+      },
+      "export_at": "2025-08-06T21:05:11.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 40687,
+      "customEmojiId": "5249209909915975282",
+      "gift_id": 7357807,
+      "name": "Lush Bouquet",
+      "model": "Lobsters (1.5%)",
+      "asset": "TON",
+      "symbol": "Heart Ring (0.5%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.3,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "SKZ4FJJL",
+      "auction": {
+        "_id": "68814298aace4cd2f64eb7c4",
+        "gift_id": 7357807,
+        "seller": 0,
+        "auction_id": "SKZ4FJJL",
+        "startingBid": 6,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 6,
+            "asset": "TON",
+            "_id": "6881528eaace4cd2f6571d70",
+            "timestamp": "2025-07-23T21:22:22.006Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.3,
+            "asset": "TON",
+            "_id": "68815c21aace4cd2f67f0139",
+            "timestamp": "2025-07-23T22:03:13.100Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-23T22:14:30.342Z",
+        "status": "finished",
+        "gift_name": "Lush Bouquet",
+        "gift_num": 40687,
+        "model": "Lobsters (1.5%)",
+        "backdrop": "Onyx Black (1.5%)",
+        "symbol": "Heart Ring (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T21:14:31.693Z",
+        "__v": 0,
+        "winningBid": 6.3,
+        "winningBidder": 1995587167
+      },
+      "export_at": "2025-08-06T20:10:57.000Z",
       "premarketData": {}
     }
   ],
@@ -3473,7 +3555,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 9.8,
+      "price": 9.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -4063,6 +4145,26 @@
   ],
   "Benjamins": [
     {
+      "gift_num": 33787,
+      "customEmojiId": "5208656059907993789",
+      "gift_id": 7363987,
+      "name": "Lush Bouquet",
+      "model": "Benjamins (1.5%)",
+      "asset": "TON",
+      "symbol": "Ushanka (0.5%)",
+      "backdrop": "Raspberry (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.6,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T09:09:02.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 37480,
       "customEmojiId": "5208656059907993789",
       "gift_id": 6988129,
@@ -4640,26 +4742,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-22T20:03:45.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 47857,
-      "customEmojiId": "5208656059907993789",
-      "gift_id": 7066771,
-      "name": "Lush Bouquet",
-      "model": "Benjamins (1.5%)",
-      "asset": "TON",
-      "symbol": "Carrot (0.4%)",
-      "backdrop": "Light Olive (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-21T21:24:22.000Z",
       "premarketData": {}
     }
   ],
@@ -6471,6 +6553,26 @@
   ],
   "Fishbowl Vase": [
     {
+      "gift_num": 60400,
+      "customEmojiId": "5222139276510130337",
+      "gift_id": 7354967,
+      "name": "Lush Bouquet",
+      "model": "Fishbowl Vase (3%)",
+      "asset": "TON",
+      "symbol": "Pearl (0.4%)",
+      "backdrop": "Turquoise (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T16:51:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 31198,
       "customEmojiId": "5222139276510130337",
       "gift_id": 6933817,
@@ -7048,26 +7150,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-17T08:44:13.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5005,
-      "customEmojiId": "5222139276510130337",
-      "gift_id": 6868846,
-      "name": "Lush Bouquet",
-      "model": "Fishbowl Vase (3%)",
-      "asset": "TON",
-      "symbol": "Water Drops (0.5%)",
-      "backdrop": "Mystic Pearl (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-14T14:02:57.000Z",
       "premarketData": {}
     }
   ],
@@ -8277,6 +8359,26 @@
   ],
   "Crocodile": [
     {
+      "gift_num": 54331,
+      "customEmojiId": "5251605299076296908",
+      "gift_id": 7322847,
+      "name": "Lush Bouquet",
+      "model": "Crocodile (3%)",
+      "asset": "TON",
+      "symbol": "Pomegranate (0.4%)",
+      "backdrop": "Battleship Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T09:37:42.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 50202,
       "customEmojiId": "5251605299076296908",
       "gift_id": 7135752,
@@ -8314,46 +8416,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-06T11:49:45.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 59632,
-      "customEmojiId": "5251605299076296908",
-      "gift_id": 7352397,
-      "name": "Lush Bouquet",
-      "model": "Crocodile (3%)",
-      "asset": "TON",
-      "symbol": "Dessert (0.5%)",
-      "backdrop": "Pine Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T13:35:20.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 54331,
-      "customEmojiId": "5251605299076296908",
-      "gift_id": 7322847,
-      "name": "Lush Bouquet",
-      "model": "Crocodile (3%)",
-      "asset": "TON",
-      "symbol": "Pomegranate (0.4%)",
-      "backdrop": "Battleship Grey (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.12,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T09:37:42.000Z",
       "premarketData": {}
     },
     {
@@ -8874,6 +8936,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-23T11:33:39.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 26390,
+      "customEmojiId": "5251605299076296908",
+      "gift_id": 6964008,
+      "name": "Lush Bouquet",
+      "model": "Crocodile (3%)",
+      "asset": "TON",
+      "symbol": "Aubergine (0.2%)",
+      "backdrop": "Black (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 36,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-17T15:23:23.000Z",
       "premarketData": {}
     }
   ],
@@ -9493,7 +9575,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 6,
+      "price": 4,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -10131,26 +10213,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 53819,
-      "customEmojiId": "5433658014882098455",
-      "gift_id": 7348414,
-      "name": "Lush Bouquet",
-      "model": "Oculus (2%)",
-      "asset": "TON",
-      "symbol": "Ring (0.5%)",
-      "backdrop": "Emerald (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T08:10:52.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 31472,
       "customEmojiId": "5433658014882098455",
       "gift_id": 7347276,
@@ -10168,26 +10230,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-06T04:57:52.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 632,
-      "customEmojiId": "5433658014882098455",
-      "gift_id": 7355732,
-      "name": "Lush Bouquet",
-      "model": "Oculus (2%)",
-      "asset": "TON",
-      "symbol": "Bread (0.5%)",
-      "backdrop": "French Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T17:46:02.000Z",
       "premarketData": {}
     },
     {
@@ -10712,6 +10754,26 @@
     }
   ],
   "Fisherman": [
+    {
+      "gift_num": 17444,
+      "customEmojiId": "5242657542168933376",
+      "gift_id": 7238275,
+      "name": "Lush Bouquet",
+      "model": "Fisherman (1.5%)",
+      "asset": "TON",
+      "symbol": "Bunny Ears (0.2%)",
+      "backdrop": "Dark Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T19:36:29.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 51451,
       "customEmojiId": "5242657542168933376",
@@ -11291,29 +11353,29 @@
       "auction": null,
       "export_at": "2025-07-18T12:44:24.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Nucleus": [
     {
-      "gift_num": 15417,
-      "customEmojiId": "5242657542168933376",
-      "gift_id": 6978564,
+      "gift_num": 1079,
+      "customEmojiId": "5244540893918162625",
+      "gift_id": 7322269,
       "name": "Lush Bouquet",
-      "model": "Fisherman (1.5%)",
+      "model": "Nucleus (1.5%)",
       "asset": "TON",
-      "symbol": "Manta Ray (0.5%)",
-      "backdrop": "Dark Green (1.5%)",
+      "symbol": "Sword (0.5%)",
+      "backdrop": "Indigo Dye (1.2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 63,
+      "price": 6.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-18T08:14:06.000Z",
+      "export_at": "2025-08-04T08:40:40.000Z",
       "premarketData": {}
-    }
-  ],
-  "Nucleus": [
+    },
     {
       "gift_num": 58596,
       "customEmojiId": "5244540893918162625",
@@ -11635,26 +11697,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 1079,
-      "customEmojiId": "5244540893918162625",
-      "gift_id": 7322269,
-      "name": "Lush Bouquet",
-      "model": "Nucleus (1.5%)",
-      "asset": "TON",
-      "symbol": "Sword (0.5%)",
-      "backdrop": "Indigo Dye (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T08:40:40.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 39015,
       "customEmojiId": "5244540893918162625",
       "gift_id": 7315844,
@@ -11916,6 +11958,26 @@
     }
   ],
   "Maple Leaves": [
+    {
+      "gift_num": 56731,
+      "customEmojiId": "5249334820449841257",
+      "gift_id": 7363742,
+      "name": "Lush Bouquet",
+      "model": "Maple Leaves (3%)",
+      "asset": "TON",
+      "symbol": "Bucket Hat (0.5%)",
+      "backdrop": "Mystic Pearl (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T08:42:40.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 13553,
       "customEmojiId": "5249334820449841257",
@@ -12495,16 +12557,38 @@
       "auction": null,
       "export_at": "2025-07-14T22:13:30.000Z",
       "premarketData": {}
+    }
+  ],
+  "Garden Roses": [
+    {
+      "gift_num": 6147,
+      "customEmojiId": "5210886238856313194",
+      "gift_id": 7363295,
+      "name": "Lush Bouquet",
+      "model": "Garden Roses (2.5%)",
+      "asset": "TON",
+      "symbol": "Sunflower (0.4%)",
+      "backdrop": "Pine Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T08:00:04.000Z",
+      "premarketData": {}
     },
     {
-      "gift_num": 42912,
-      "customEmojiId": "5249334820449841257",
-      "gift_id": 7228842,
+      "gift_num": 51269,
+      "customEmojiId": "5210886238856313194",
+      "gift_id": 7363301,
       "name": "Lush Bouquet",
-      "model": "Maple Leaves (3%)",
+      "model": "Garden Roses (2.5%)",
       "asset": "TON",
-      "symbol": "Mafdet (0.4%)",
-      "backdrop": "Tomato (1.2%)",
+      "symbol": "Alert Serpent (0.5%)",
+      "backdrop": "Steel Grey (1.2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
@@ -12513,11 +12597,9 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-29T11:00:25.000Z",
+      "export_at": "2025-08-07T08:00:28.000Z",
       "premarketData": {}
-    }
-  ],
-  "Garden Roses": [
+    },
     {
       "gift_num": 52675,
       "customEmojiId": "5210886238856313194",
@@ -13027,6 +13109,26 @@
     }
   ],
   "Love Potion": [
+    {
+      "gift_num": 19097,
+      "customEmojiId": "5235834724626229729",
+      "gift_id": 7363249,
+      "name": "Lush Bouquet",
+      "model": "Love Potion (1.5%)",
+      "asset": "TON",
+      "symbol": "Breeze (0.4%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T07:54:24.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 19097,
       "customEmojiId": "5235834724626229729",
@@ -13605,137 +13707,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-14T19:48:21.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 17123,
-      "customEmojiId": "5235834724626229729",
-      "gift_id": 7339525,
-      "name": "Lush Bouquet",
-      "model": "Love Potion (1.5%)",
-      "asset": "TON",
-      "symbol": "Patched Heart (0.4%)",
-      "backdrop": "Hunter Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 4.8862,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "UQM38QGF",
-      "auction": {
-        "_id": "687faf12aace4cd2f645b3d5",
-        "gift_id": 7339525,
-        "seller": 0,
-        "auction_id": "UQM38QGF",
-        "startingBid": 2.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.5,
-            "asset": "TON",
-            "_id": "687fb212aace4cd2f649ae11",
-            "timestamp": "2025-07-22T15:45:22.205Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.63,
-            "asset": "TON",
-            "_id": "687fb70baace4cd2f6522240",
-            "timestamp": "2025-07-22T16:06:35.217Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.76,
-            "asset": "TON",
-            "_id": "687fb775aace4cd2f652e6b0",
-            "timestamp": "2025-07-22T16:08:21.389Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.9,
-            "asset": "TON",
-            "_id": "687fbc97aace4cd2f65aa0b1",
-            "timestamp": "2025-07-22T16:30:15.204Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.05,
-            "asset": "TON",
-            "_id": "687fbcc8aace4cd2f65abaab",
-            "timestamp": "2025-07-22T16:31:04.859Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.2,
-            "asset": "TON",
-            "_id": "687fbd90aace4cd2f65b17f7",
-            "timestamp": "2025-07-22T16:34:24.064Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.36,
-            "asset": "TON",
-            "_id": "687fc043aace4cd2f65c038a",
-            "timestamp": "2025-07-22T16:45:55.236Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.53,
-            "asset": "TON",
-            "_id": "687fc15daace4cd2f65c56b5",
-            "timestamp": "2025-07-22T16:50:37.172Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.71,
-            "asset": "TON",
-            "_id": "687fc16daace4cd2f65c5ce9",
-            "timestamp": "2025-07-22T16:50:53.292Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.9,
-            "asset": "TON",
-            "_id": "687fc1abaace4cd2f65c6e0a",
-            "timestamp": "2025-07-22T16:51:55.523Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.1,
-            "asset": "TON",
-            "_id": "687fc1b8aace4cd2f65c6f90",
-            "timestamp": "2025-07-22T16:52:08.145Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.31,
-            "asset": "TON",
-            "_id": "687fc294aace4cd2f65cae55",
-            "timestamp": "2025-07-22T16:55:48.753Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.8862,
-            "asset": "TON",
-            "_id": "687fc50eaace4cd2f65dcd72",
-            "timestamp": "2025-07-22T17:06:22.732Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-22T17:22:33.407Z",
-        "status": "finished",
-        "gift_name": "Lush Bouquet",
-        "gift_num": 17123,
-        "model": "Love Potion (1.5%)",
-        "backdrop": "Hunter Green (1%)",
-        "symbol": "Patched Heart (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-22T15:32:34.452Z",
-        "__v": 0,
-        "winningBid": 4.8862,
-        "winningBidder": 2106146823
-      },
-      "export_at": "2025-08-05T15:30:11.000Z",
       "premarketData": {}
     }
   ],
@@ -15507,6 +15478,26 @@
   ],
   "Silvershade": [
     {
+      "gift_num": 60177,
+      "customEmojiId": "5247042081007891354",
+      "gift_id": 7364477,
+      "name": "Lush Bouquet",
+      "model": "Silvershade (3%)",
+      "asset": "TON",
+      "symbol": "Cocktail (0.5%)",
+      "backdrop": "Seal Brown (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T09:45:20.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 16405,
       "customEmojiId": "5247042081007891354",
       "gift_id": 7230231,
@@ -16084,26 +16075,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-26T21:59:30.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 46541,
-      "customEmojiId": "5247042081007891354",
-      "gift_id": 7169098,
-      "name": "Lush Bouquet",
-      "model": "Silvershade (3%)",
-      "asset": "TON",
-      "symbol": "Patched Heart (0.4%)",
-      "backdrop": "Gunship Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 23,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T03:44:56.000Z",
       "premarketData": {}
     }
   ],
@@ -16751,6 +16722,61 @@
       "premarketData": {}
     },
     {
+      "gift_num": 50088,
+      "customEmojiId": "5258044863802274407",
+      "gift_id": 7355704,
+      "name": "Lush Bouquet",
+      "model": "Peashooter (1%)",
+      "asset": "TON",
+      "symbol": "Inguz Rune (0.2%)",
+      "backdrop": "Light Olive (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.35,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "N5F7OFRI",
+      "auction": {
+        "_id": "68811fa4aace4cd2f6437c29",
+        "gift_id": 7355704,
+        "seller": 0,
+        "auction_id": "N5F7OFRI",
+        "startingBid": 7,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 7,
+            "asset": "TON",
+            "_id": "6881e858aace4cd2f6182816",
+            "timestamp": "2025-07-24T08:01:28.479Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.35,
+            "asset": "TON",
+            "_id": "6881e99caace4cd2f61eb038",
+            "timestamp": "2025-07-24T08:06:52.452Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-24T08:58:05.195Z",
+        "status": "finished",
+        "gift_name": "Lush Bouquet",
+        "gift_num": 50088,
+        "model": "Peashooter (1%)",
+        "backdrop": "Light Olive (1.2%)",
+        "symbol": "Inguz Rune (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-24T07:58:06.211Z",
+        "__v": 0,
+        "winningBid": 7.35,
+        "winningBidder": 636073692
+      },
+      "export_at": "2025-08-06T17:43:29.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 56466,
       "customEmojiId": "5258044863802274407",
       "gift_id": 7350811,
@@ -17091,26 +17117,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 37094,
-      "customEmojiId": "5258044863802274407",
-      "gift_id": 6956523,
-      "name": "Lush Bouquet",
-      "model": "Peashooter (1%)",
-      "asset": "TON",
-      "symbol": "Broken Heart (0.5%)",
-      "backdrop": "Indigo Dye (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9.99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-17T10:08:40.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 51203,
       "customEmojiId": "5258044863802274407",
       "gift_id": 7309710,
@@ -17312,6 +17318,26 @@
     }
   ],
   "Mandrake": [
+    {
+      "gift_num": 59883,
+      "customEmojiId": "5402124708592251864",
+      "gift_id": 7363941,
+      "name": "Lush Bouquet",
+      "model": "Mandrake (2%)",
+      "asset": "TON",
+      "symbol": "Bellflower (0.4%)",
+      "backdrop": "Camo Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.85,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T09:04:34.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3616,
       "customEmojiId": "5402124708592251864",
@@ -17891,29 +17917,29 @@
       "auction": null,
       "export_at": "2025-07-16T19:21:28.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Cotton": [
     {
-      "gift_num": 25244,
-      "customEmojiId": "5402124708592251864",
-      "gift_id": 6913742,
+      "gift_num": 59214,
+      "customEmojiId": "5402134028671284237",
+      "gift_id": 7364001,
       "name": "Lush Bouquet",
-      "model": "Mandrake (2%)",
+      "model": "Cotton (3%)",
       "asset": "TON",
-      "symbol": "Acorn (0.5%)",
-      "backdrop": "Grape (1%)",
+      "symbol": "Wolf Rage (0.4%)",
+      "backdrop": "Raspberry (1%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 10,
+      "price": 2.7,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-15T18:25:13.000Z",
+      "export_at": "2025-08-07T09:09:29.000Z",
       "premarketData": {}
-    }
-  ],
-  "Cotton": [
+    },
     {
       "gift_num": 54008,
       "customEmojiId": "5402134028671284237",
@@ -17932,26 +17958,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-28T08:17:11.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 52736,
-      "customEmojiId": "5402134028671284237",
-      "gift_id": 7329343,
-      "name": "Lush Bouquet",
-      "model": "Cotton (3%)",
-      "asset": "TON",
-      "symbol": "Ushanka (0.5%)",
-      "backdrop": "Gunmetal (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T18:37:46.000Z",
       "premarketData": {}
     },
     {
@@ -18656,6 +18662,26 @@
     }
   ],
   "Balloons": [
+    {
+      "gift_num": 58528,
+      "customEmojiId": "5215413190220867994",
+      "gift_id": 7363970,
+      "name": "Lush Bouquet",
+      "model": "Balloons (1.5%)",
+      "asset": "TON",
+      "symbol": "Love Potion (0.5%)",
+      "backdrop": "Black (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T09:07:16.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 58352,
       "customEmojiId": "5215413190220867994",
@@ -19561,6 +19587,26 @@
   ],
   "Skull Flowers": [
     {
+      "gift_num": 48585,
+      "customEmojiId": "5251223437828977454",
+      "gift_id": 7231675,
+      "name": "Lush Bouquet",
+      "model": "Skull Flowers (1.5%)",
+      "asset": "TON",
+      "symbol": "Lotus Flower (0.2%)",
+      "backdrop": "Caramel (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.65,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T13:45:34.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 7468,
       "customEmojiId": "5251223437828977454",
       "gift_id": 7326093,
@@ -19886,26 +19932,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-29T11:13:34.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 48585,
-      "customEmojiId": "5251223437828977454",
-      "gift_id": 7231675,
-      "name": "Lush Bouquet",
-      "model": "Skull Flowers (1.5%)",
-      "asset": "TON",
-      "symbol": "Lotus Flower (0.2%)",
-      "backdrop": "Caramel (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T13:45:34.000Z",
       "premarketData": {}
     },
     {
@@ -21979,6 +22005,26 @@
   ],
   "Lavender": [
     {
+      "gift_num": 16433,
+      "customEmojiId": "5260330864440537226",
+      "gift_id": 7360510,
+      "name": "Lush Bouquet",
+      "model": "Lavender (3%)",
+      "asset": "TON",
+      "symbol": "Bellflower (0.4%)",
+      "backdrop": "Neon Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T23:25:40.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 23300,
       "customEmojiId": "5260330864440537226",
       "gift_id": 7357239,
@@ -21996,26 +22042,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-06T19:32:34.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16433,
-      "customEmojiId": "5260330864440537226",
-      "gift_id": 7360510,
-      "name": "Lush Bouquet",
-      "model": "Lavender (3%)",
-      "asset": "TON",
-      "symbol": "Bellflower (0.4%)",
-      "backdrop": "Neon Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T23:25:40.000Z",
       "premarketData": {}
     },
     {
@@ -23210,6 +23236,26 @@
     }
   ],
   "Artichoke": [
+    {
+      "gift_num": 35052,
+      "customEmojiId": "5402337863524183686",
+      "gift_id": 7355666,
+      "name": "Lush Bouquet",
+      "model": "Artichoke (2%)",
+      "asset": "TON",
+      "symbol": "Candle (0.2%)",
+      "backdrop": "Ivory White (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T17:41:16.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 31038,
       "customEmojiId": "5402337863524183686",
@@ -27271,6 +27317,26 @@
   ],
   "Venus Flytrap": [
     {
+      "gift_num": 59928,
+      "customEmojiId": "5402499925525164707",
+      "gift_id": 7363304,
+      "name": "Lush Bouquet",
+      "model": "Venus Flytrap (1.5%)",
+      "asset": "TON",
+      "symbol": "Pixel Heart (0.5%)",
+      "backdrop": "Indigo Dye (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.75,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T08:00:39.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 47964,
       "customEmojiId": "5402499925525164707",
       "gift_id": 7342652,
@@ -27849,26 +27915,6 @@
       "auction": null,
       "export_at": "2025-07-19T15:08:55.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 42864,
-      "customEmojiId": "5402499925525164707",
-      "gift_id": 7008824,
-      "name": "Lush Bouquet",
-      "model": "Venus Flytrap (1.5%)",
-      "asset": "TON",
-      "symbol": "Headband (0.4%)",
-      "backdrop": "Khaki Green (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-19T14:50:07.000Z",
-      "premarketData": {}
     }
   ],
   "Rafflesia": [
@@ -28336,26 +28382,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 41320,
-      "customEmojiId": "5226504170168676022",
-      "gift_id": 829256993229,
-      "name": "Lush Bouquet",
-      "model": "Rafflesia (1%)",
-      "asset": "TON",
-      "symbol": "Lily (0.2%)",
-      "backdrop": "Pure Gold (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
       "gift_num": 622,
       "customEmojiId": "5226504170168676022",
       "gift_id": 6866220,
@@ -28673,6 +28699,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-29T14:38:48.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 54382,
+      "customEmojiId": "5226504170168676022",
+      "gift_id": 7226719,
+      "name": "Lush Bouquet",
+      "model": "Rafflesia (1%)",
+      "asset": "TON",
+      "symbol": "Tetsubin (0.5%)",
+      "backdrop": "Purple (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 18,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T08:19:11.000Z",
       "premarketData": {}
     }
   ],
