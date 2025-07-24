@@ -223,6 +223,26 @@
   ],
   "Flammable": [
     {
+      "gift_num": 5477,
+      "customEmojiId": "5237957799975084688",
+      "gift_id": 7361717,
+      "name": "Genie Lamp",
+      "model": "Flammable (1.5%)",
+      "asset": "TON",
+      "symbol": "Baphomet (1%)",
+      "backdrop": "Shamrock Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 55,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T03:44:36.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2588,
       "customEmojiId": "5237957799975084688",
       "gift_id": 6107187,
@@ -468,6 +488,26 @@
   ],
   "Persian Dawn": [
     {
+      "gift_num": 5905,
+      "customEmojiId": "5231371420382026954",
+      "gift_id": 7357103,
+      "name": "Genie Lamp",
+      "model": "Persian Dawn (3.5%)",
+      "asset": "TON",
+      "symbol": "Mushroom (0.2%)",
+      "backdrop": "Navy Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 47.65,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T19:20:56.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 769,
       "customEmojiId": "5231371420382026954",
       "gift_id": 7359746,
@@ -505,26 +545,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-02T05:20:56.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5905,
-      "customEmojiId": "5231371420382026954",
-      "gift_id": 7357103,
-      "name": "Genie Lamp",
-      "model": "Persian Dawn (3.5%)",
-      "asset": "TON",
-      "symbol": "Mushroom (0.2%)",
-      "backdrop": "Navy Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 48.78,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T19:20:56.000Z",
       "premarketData": {}
     },
     {
@@ -996,6 +1016,26 @@
     }
   ],
   "Dark Silver": [
+    {
+      "gift_num": 4442,
+      "customEmojiId": "5228771096857175580",
+      "gift_id": 7363839,
+      "name": "Genie Lamp",
+      "model": "Dark Silver (3%)",
+      "asset": "TON",
+      "symbol": "Firebird (1%)",
+      "backdrop": "Fandango (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T08:53:42.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 4692,
       "customEmojiId": "5228771096857175580",
@@ -2336,6 +2376,26 @@
   ],
   "Crypto Dream": [
     {
+      "gift_num": 3936,
+      "customEmojiId": "5231365360183174106",
+      "gift_id": 7364316,
+      "name": "Genie Lamp",
+      "model": "Crypto Dream (2%)",
+      "asset": "TON",
+      "symbol": "Illuminati (0.8%)",
+      "backdrop": "Mint Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 920725,
+      "price": 150,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T09:31:38.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5728,
       "customEmojiId": "5231365360183174106",
       "gift_id": 7269838,
@@ -2393,6 +2453,54 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-28T06:19:41.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 5321,
+      "customEmojiId": "5231365360183174106",
+      "gift_id": 7345135,
+      "name": "Genie Lamp",
+      "model": "Crypto Dream (2%)",
+      "asset": "TON",
+      "symbol": "Crusader (0.5%)",
+      "backdrop": "Grape (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 60,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "UOUQLV8Z",
+      "auction": {
+        "_id": "68815319aace4cd2f6596c2a",
+        "gift_id": 7345135,
+        "seller": 0,
+        "auction_id": "UOUQLV8Z",
+        "startingBid": 60,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 60,
+            "asset": "TON",
+            "_id": "6881a4c2aace4cd2f6c26f8f",
+            "timestamp": "2025-07-24T03:13:06.251Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-24T09:24:40.357Z",
+        "status": "finished",
+        "gift_name": "Genie Lamp",
+        "gift_num": 5321,
+        "model": "Crypto Dream (2%)",
+        "backdrop": "Grape (1.5%)",
+        "symbol": "Crusader (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T21:24:41.876Z",
+        "__v": 0,
+        "winningBid": 60,
+        "winningBidder": 923422505
+      },
+      "export_at": "2025-08-05T22:09:29.000Z",
       "premarketData": {}
     },
     {
@@ -3932,26 +4040,6 @@
     }
   ],
   "Meowgical": [
-    {
-      "gift_num": 5954,
-      "customEmojiId": "5231103792379880791",
-      "gift_id": 7348269,
-      "name": "Genie Lamp",
-      "model": "Meowgical (2%)",
-      "asset": "TON",
-      "symbol": "Car (1%)",
-      "backdrop": "English Violet (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 120,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T07:55:04.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 2334,
       "customEmojiId": "5231103792379880791",
