@@ -2545,6 +2545,24 @@
   ],
   "Witch Doctor": [
     {
+      "gift_num": 11854,
+      "customEmojiId": "5310007718906459745",
+      "gift_id": 590005837050,
+      "name": "Top Hat",
+      "model": "Witch Doctor (1%)",
+      "asset": "TON",
+      "symbol": "Porrige (0.4%)",
+      "backdrop": "Dark Lilac (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 49.572,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 8579,
       "customEmojiId": "5310007718906459745",
       "gift_id": 589782390517,
@@ -3174,24 +3192,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T21:32:13.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4916,
-      "customEmojiId": "5310007718906459745",
-      "gift_id": 589764460747,
-      "name": "Top Hat",
-      "model": "Witch Doctor (1%)",
-      "asset": "TON",
-      "symbol": "Flipper (0.4%)",
-      "backdrop": "Neon Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 55.08,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
@@ -6447,6 +6447,348 @@
       "premarketData": {}
     },
     {
+      "gift_num": 5626,
+      "customEmojiId": "5319003880095242702",
+      "gift_id": 7257845,
+      "name": "Top Hat",
+      "model": "Hypnosis (0.3%)",
+      "asset": "TON",
+      "symbol": "La Corona (0.4%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 55.74,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "Q0CVSQTY",
+      "auction": {
+        "_id": "68812f46aace4cd2f64abca0",
+        "gift_id": 7257845,
+        "seller": 0,
+        "auction_id": "Q0CVSQTY",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68813536aace4cd2f64c51f0",
+            "timestamp": "2025-07-23T19:17:10.420Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6881376faace4cd2f64c9538",
+            "timestamp": "2025-07-23T19:26:39.869Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "68813788aace4cd2f64cba16",
+            "timestamp": "2025-07-23T19:27:04.331Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4,
+            "asset": "TON",
+            "_id": "688137d7aace4cd2f64cc186",
+            "timestamp": "2025-07-23T19:28:23.543Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.2,
+            "asset": "TON",
+            "_id": "688137ecaace4cd2f64cc288",
+            "timestamp": "2025-07-23T19:28:44.049Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "688138bbaace4cd2f64cda44",
+            "timestamp": "2025-07-23T19:32:11.235Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "688138c5aace4cd2f64ce028",
+            "timestamp": "2025-07-23T19:32:21.943Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7,
+            "asset": "TON",
+            "_id": "688138f5aace4cd2f64cf317",
+            "timestamp": "2025-07-23T19:33:09.529Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.35,
+            "asset": "TON",
+            "_id": "68813900aace4cd2f64cf39f",
+            "timestamp": "2025-07-23T19:33:20.000Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.9,
+            "asset": "TON",
+            "_id": "68815145aace4cd2f6539982",
+            "timestamp": "2025-07-23T21:16:53.786Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.3,
+            "asset": "TON",
+            "_id": "68815158aace4cd2f653c53a",
+            "timestamp": "2025-07-23T21:17:12.502Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.722,
+            "asset": "TON",
+            "_id": "68815569aace4cd2f65cdc1a",
+            "timestamp": "2025-07-23T21:34:33.770Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.16,
+            "asset": "TON",
+            "_id": "68815575aace4cd2f65cf948",
+            "timestamp": "2025-07-23T21:34:45.910Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.62,
+            "asset": "TON",
+            "_id": "68815dfbaace4cd2f686d247",
+            "timestamp": "2025-07-23T22:11:07.220Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.1,
+            "asset": "TON",
+            "_id": "68815e0aaace4cd2f686fa9b",
+            "timestamp": "2025-07-23T22:11:22.039Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.61,
+            "asset": "TON",
+            "_id": "68815e1eaace4cd2f687273d",
+            "timestamp": "2025-07-23T22:11:42.124Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.14,
+            "asset": "TON",
+            "_id": "68815e2baace4cd2f6873235",
+            "timestamp": "2025-07-23T22:11:55.415Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12,
+            "asset": "TON",
+            "_id": "68815e7aaace4cd2f687df93",
+            "timestamp": "2025-07-23T22:13:14.645Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.6,
+            "asset": "TON",
+            "_id": "68815e8baace4cd2f6882c5a",
+            "timestamp": "2025-07-23T22:13:31.142Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.23,
+            "asset": "TON",
+            "_id": "688166f0aace4cd2f6964061",
+            "timestamp": "2025-07-23T22:49:20.896Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.89,
+            "asset": "TON",
+            "_id": "6881670faace4cd2f6965e34",
+            "timestamp": "2025-07-23T22:49:51.822Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 20,
+            "asset": "TON",
+            "_id": "68816759aace4cd2f6967df2",
+            "timestamp": "2025-07-23T22:51:05.320Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 21,
+            "asset": "TON",
+            "_id": "6881676daace4cd2f69688fc",
+            "timestamp": "2025-07-23T22:51:25.948Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 22.05,
+            "asset": "TON",
+            "_id": "68816788aace4cd2f696ab14",
+            "timestamp": "2025-07-23T22:51:52.799Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 23.15,
+            "asset": "TON",
+            "_id": "68817419aace4cd2f6a59941",
+            "timestamp": "2025-07-23T23:45:29.681Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 24.31,
+            "asset": "TON",
+            "_id": "6881a598aace4cd2f6c2aca0",
+            "timestamp": "2025-07-24T03:16:40.400Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 25.53,
+            "asset": "TON",
+            "_id": "6881c9f4aace4cd2f6e11ff5",
+            "timestamp": "2025-07-24T05:51:48.402Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 26.81,
+            "asset": "TON",
+            "_id": "6881cb43aace4cd2f6e37589",
+            "timestamp": "2025-07-24T05:57:23.508Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 28.15,
+            "asset": "TON",
+            "_id": "6881d054aace4cd2f6e6fcab",
+            "timestamp": "2025-07-24T06:19:00.625Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 29.56,
+            "asset": "TON",
+            "_id": "6881d0ceaace4cd2f6e7233f",
+            "timestamp": "2025-07-24T06:21:02.379Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 31.04,
+            "asset": "TON",
+            "_id": "6881d122aace4cd2f6e755f8",
+            "timestamp": "2025-07-24T06:22:26.943Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 32.59,
+            "asset": "TON",
+            "_id": "6881d17aaace4cd2f6e7a1d5",
+            "timestamp": "2025-07-24T06:23:54.643Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 34.22,
+            "asset": "TON",
+            "_id": "6881d599aace4cd2f6eaa5db",
+            "timestamp": "2025-07-24T06:41:29.569Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 35.93,
+            "asset": "TON",
+            "_id": "6881d702aace4cd2f6ebd68d",
+            "timestamp": "2025-07-24T06:47:30.856Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 37.73,
+            "asset": "TON",
+            "_id": "6881d71daace4cd2f6ebf740",
+            "timestamp": "2025-07-24T06:47:57.512Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 39.62,
+            "asset": "TON",
+            "_id": "6881d72daace4cd2f6ec0c5f",
+            "timestamp": "2025-07-24T06:48:13.342Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 41.6,
+            "asset": "TON",
+            "_id": "6881d753aace4cd2f6ec2445",
+            "timestamp": "2025-07-24T06:48:51.248Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 43.68,
+            "asset": "TON",
+            "_id": "6881d7d7aace4cd2f6edbb2b",
+            "timestamp": "2025-07-24T06:51:03.615Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 45.86,
+            "asset": "TON",
+            "_id": "6881d80baace4cd2f6ef0804",
+            "timestamp": "2025-07-24T06:51:55.954Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 48.15,
+            "asset": "TON",
+            "_id": "6881d846aace4cd2f6f0756e",
+            "timestamp": "2025-07-24T06:52:54.723Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 50.56,
+            "asset": "TON",
+            "_id": "6881d85baace4cd2f6f0de54",
+            "timestamp": "2025-07-24T06:53:15.274Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 53.09,
+            "asset": "TON",
+            "_id": "6881d8abaace4cd2f6f2d405",
+            "timestamp": "2025-07-24T06:54:35.653Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 55.74,
+            "asset": "TON",
+            "_id": "6881d935aace4cd2f6f53691",
+            "timestamp": "2025-07-24T06:56:53.270Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-24T07:12:44.740Z",
+        "status": "finished",
+        "gift_name": "Top Hat",
+        "gift_num": 5626,
+        "model": "Hypnosis (0.3%)",
+        "backdrop": "English Violet (1.5%)",
+        "symbol": "La Corona (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-23T18:52:45.530Z",
+        "__v": 0,
+        "winningBid": 55.74,
+        "winningBidder": 809365453
+      },
+      "export_at": "2025-07-30T21:09:00.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 29557,
       "customEmojiId": "5319003880095242702",
       "gift_id": 6370659,
@@ -6646,26 +6988,6 @@
     }
   ],
   "Lucifer": [
-    {
-      "gift_num": 20144,
-      "customEmojiId": "5310230842457484342",
-      "gift_id": 7362030,
-      "name": "Top Hat",
-      "model": "Lucifer (0.3%)",
-      "asset": "TON",
-      "symbol": "Chili Pepper (0.5%)",
-      "backdrop": "Burnt Sienna (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 45,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-07T05:16:26.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 8325,
       "customEmojiId": "5310230842457484342",
@@ -12099,7 +12421,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 18.97,
+      "price": 18,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -14958,26 +15280,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 23236,
-      "customEmojiId": "5316843889502483414",
-      "gift_id": 7338339,
-      "name": "Top Hat",
-      "model": "Glam Safari (1%)",
-      "asset": "TON",
-      "symbol": "Wepwawet (0.4%)",
-      "backdrop": "Copper (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 14,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T14:03:33.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 455,
       "customEmojiId": "5316843889502483414",
       "gift_id": 7251532,
@@ -15511,6 +15813,26 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 2288,
+      "customEmojiId": "5316843889502483414",
+      "gift_id": 6380076,
+      "name": "Top Hat",
+      "model": "Glam Safari (1%)",
+      "asset": "TON",
+      "symbol": "Cherry (0.4%)",
+      "backdrop": "French Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 80,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-28T06:48:47.000Z",
       "premarketData": {}
     }
   ],
@@ -18931,6 +19253,26 @@
   ],
   "Romantic": [
     {
+      "gift_num": 17416,
+      "customEmojiId": "5316585955241520811",
+      "gift_id": 6988187,
+      "name": "Top Hat",
+      "model": "Romantic (0.5%)",
+      "asset": "TON",
+      "symbol": "Thor Hammer (0.5%)",
+      "backdrop": "Grape (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 40,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-18T16:47:03.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 33834,
       "customEmojiId": "5316585955241520811",
       "gift_id": 7217937,
@@ -19917,6 +20259,24 @@
   ],
   "Clockwork": [
     {
+      "gift_num": 12344,
+      "customEmojiId": "5316733268324803313",
+      "gift_id": 589786135729,
+      "name": "Top Hat",
+      "model": "Clockwork (2%)",
+      "asset": "TON",
+      "symbol": "Viper (0.5%)",
+      "backdrop": "Fandango (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 13.77,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 9018,
       "customEmojiId": "5316733268324803313",
       "gift_id": 589984282757,
@@ -20463,24 +20823,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 550.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 8787,
-      "customEmojiId": "5316733268324803313",
-      "gift_id": 589756582918,
-      "name": "Top Hat",
-      "model": "Clockwork (2%)",
-      "asset": "TON",
-      "symbol": "Nemean Lion (0.2%)",
-      "backdrop": "Jade Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 48.399,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -21641,6 +21983,26 @@
   ],
   "Sceleritas Fel": [
     {
+      "gift_num": 4527,
+      "customEmojiId": "5316560013639052087",
+      "gift_id": 7347753,
+      "name": "Top Hat",
+      "model": "Sceleritas Fel (0.5%)",
+      "asset": "TON",
+      "symbol": "Bug (0.5%)",
+      "backdrop": "Burgundy (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 30,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T06:37:18.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3021,
       "customEmojiId": "5316560013639052087",
       "gift_id": 589751044558,
@@ -22196,26 +22558,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-25T16:29:15.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 26179,
-      "customEmojiId": "5316560013639052087",
-      "gift_id": 1438137,
-      "name": "Top Hat",
-      "model": "Sceleritas Fel (0.5%)",
-      "asset": "TON",
-      "symbol": "Pirate Scull (0.5%)",
-      "backdrop": "Silver Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 340630,
-      "price": 80,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-03-21T13:14:23.000Z",
       "premarketData": {}
     }
   ],
@@ -25239,26 +25581,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 21303,
-      "customEmojiId": "5318952276063183337",
-      "gift_id": 7218887,
-      "name": "Top Hat",
-      "model": "Antiquity (1%)",
-      "asset": "TON",
-      "symbol": "Hand of God (0.5%)",
-      "backdrop": "Black (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 80,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T18:30:52.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 28025,
       "customEmojiId": "5318952276063183337",
       "gift_id": 1170978,
@@ -25784,6 +26106,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-27T02:29:52.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 21758,
+      "customEmojiId": "5318952276063183337",
+      "gift_id": 5533271,
+      "name": "Top Hat",
+      "model": "Antiquity (1%)",
+      "asset": "TON",
+      "symbol": "Serpent (0.5%)",
+      "backdrop": "Raspberry (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 40,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-15T16:54:37.000Z",
       "premarketData": {}
     }
   ],
@@ -32931,6 +33273,24 @@
   ],
   "Cranberry": [
     {
+      "gift_num": 30612,
+      "customEmojiId": "5316804045090875670",
+      "gift_id": 592016929717,
+      "name": "Top Hat",
+      "model": "Cranberry (1.5%)",
+      "asset": "TON",
+      "symbol": "Lion Head (0.5%)",
+      "backdrop": "Purple (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 16.524,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 32879,
       "customEmojiId": "5316804045090875670",
       "gift_id": 7360925,
@@ -33532,24 +33892,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 275.4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 22000,
-      "customEmojiId": "5316804045090875670",
-      "gift_id": 590198646722,
-      "name": "Top Hat",
-      "model": "Cranberry (1.5%)",
-      "asset": "TON",
-      "symbol": "Plume (0.2%)",
-      "backdrop": "Gunmetal (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 550.8,
       "status": "forsale",
       "limited": false,
       "auction": null,
