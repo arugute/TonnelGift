@@ -565,6 +565,26 @@
   ],
   "Tressage": [
     {
+      "gift_num": 11033,
+      "customEmojiId": "5289957158006319202",
+      "gift_id": 7296609,
+      "name": "Loot Bag",
+      "model": "Tressage (2%)",
+      "asset": "TON",
+      "symbol": "Spanner (0.4%)",
+      "backdrop": "Fandango (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 921085,
+      "price": 150,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T12:55:33.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6219,
       "customEmojiId": "5289957158006319202",
       "gift_id": 7356786,
@@ -582,26 +602,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-06T18:58:11.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11033,
-      "customEmojiId": "5289957158006319202",
-      "gift_id": 7296609,
-      "name": "Loot Bag",
-      "model": "Tressage (2%)",
-      "asset": "TON",
-      "symbol": "Spanner (0.4%)",
-      "backdrop": "Fandango (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 919622,
-      "price": 165,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T12:55:33.000Z",
       "premarketData": {}
     },
     {
@@ -2731,7 +2731,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 95,
+      "price": 79,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -2756,26 +2756,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-07T10:17:40.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 14350,
-      "customEmojiId": "5287394174927138220",
-      "gift_id": 7364347,
-      "name": "Loot Bag",
-      "model": "Argylle (2%)",
-      "asset": "TON",
-      "symbol": "Mayan Moth (0.5%)",
-      "backdrop": "Coral Red (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 86,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-07T09:33:51.000Z",
       "premarketData": {}
     },
     {
@@ -7447,6 +7427,26 @@
     {
       "gift_num": 7660,
       "customEmojiId": "5285427359078445888",
+      "gift_id": 7369673,
+      "name": "Loot Bag",
+      "model": "Ombre (2%)",
+      "asset": "TON",
+      "symbol": "Donut (0.5%)",
+      "backdrop": "Jade Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 89,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T16:02:59.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 7660,
+      "customEmojiId": "5285427359078445888",
       "gift_id": 7367556,
       "name": "Loot Bag",
       "model": "Ombre (2%)",
@@ -7457,10 +7457,66 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 95,
-      "status": "forsale",
+      "price": 84,
+      "status": "auction",
       "limited": false,
-      "auction": null,
+      "auction_id": "KR3KB0B3",
+      "auction": {
+        "_id": "6882492daace4cd2f69de62b",
+        "gift_id": 7367556,
+        "seller": 0,
+        "auction_id": "KR3KB0B3",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 12.5878,
+            "asset": "TON",
+            "_id": "68824971aace4cd2f69e7467",
+            "timestamp": "2025-07-24T14:55:45.765Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.22,
+            "asset": "TON",
+            "_id": "68824986aace4cd2f69ea44d",
+            "timestamp": "2025-07-24T14:56:06.397Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.88,
+            "asset": "TON",
+            "_id": "688249a4aace4cd2f69efd51",
+            "timestamp": "2025-07-24T14:56:36.738Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 80,
+            "asset": "TON",
+            "_id": "688249b7aace4cd2f69f3c12",
+            "timestamp": "2025-07-24T14:56:55.241Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 84,
+            "asset": "TON",
+            "_id": "68824c34aace4cd2f6a5c05d",
+            "timestamp": "2025-07-24T15:07:32.165Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-24T15:54:33.268Z",
+        "status": "finished",
+        "gift_name": "Loot Bag",
+        "gift_num": 7660,
+        "model": "Ombre (2%)",
+        "backdrop": "Jade Green (1.5%)",
+        "symbol": "Donut (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-24T14:54:37.003Z",
+        "__v": 0,
+        "winningBid": 84,
+        "winningBidder": 1005758245
+      },
       "export_at": "2025-08-07T13:34:10.000Z",
       "premarketData": {}
     },
@@ -8388,6 +8444,26 @@
     }
   ],
   "Sakura": [
+    {
+      "gift_num": 1092,
+      "customEmojiId": "5287403254488001826",
+      "gift_id": 7368568,
+      "name": "Loot Bag",
+      "model": "Sakura (2%)",
+      "asset": "TON",
+      "symbol": "Twin Peaks (0.4%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 921079,
+      "price": 200,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T14:44:20.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2124,
       "customEmojiId": "5287403254488001826",
@@ -9799,26 +9875,6 @@
   ],
   "Reptile Noir": [
     {
-      "gift_num": 1198,
-      "customEmojiId": "5287636501276944971",
-      "gift_id": 7348875,
-      "name": "Loot Bag",
-      "model": "Reptile Noir (1.5%)",
-      "asset": "TON",
-      "symbol": "French Fries (0.2%)",
-      "backdrop": "Midnight Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 920642,
-      "price": 200.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T09:03:25.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 1336,
       "customEmojiId": "5287636501276944971",
       "gift_id": 6693247,
@@ -10222,8 +10278,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 920950,
-      "price": 250,
+      "message_in_channel": 921158,
+      "price": 240,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -11632,6 +11688,24 @@
     }
   ],
   "Tangerine": [
+    {
+      "gift_num": 9412,
+      "customEmojiId": "5287328925783977903",
+      "gift_id": 587519522143,
+      "name": "Loot Bag",
+      "model": "Tangerine (2%)",
+      "asset": "TON",
+      "symbol": "Hand of God (0.5%)",
+      "backdrop": "Dark Lilac (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 192.725,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 7330,
       "customEmojiId": "5287328925783977903",
@@ -13244,6 +13318,24 @@
   ],
   "Faubourg": [
     {
+      "gift_num": 492,
+      "customEmojiId": "5287427864650607686",
+      "gift_id": 587098204320,
+      "name": "Loot Bag",
+      "model": "Faubourg (1%)",
+      "asset": "TON",
+      "symbol": "Twin Koi (0.5%)",
+      "backdrop": "Dark Lilac (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 8715,
       "customEmojiId": "5287427864650607686",
       "gift_id": 7223196,
@@ -14588,6 +14680,24 @@
     }
   ],
   "Studded Green": [
+    {
+      "gift_num": 11590,
+      "customEmojiId": "5287682912693546156",
+      "gift_id": 587726146578,
+      "name": "Loot Bag",
+      "model": "Studded Green (2%)",
+      "asset": "TON",
+      "symbol": "Tsunami (0.5%)",
+      "backdrop": "Battleship Grey (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.794,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 1371,
       "customEmojiId": "5287682912693546156",
