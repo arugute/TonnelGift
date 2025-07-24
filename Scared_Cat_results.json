@@ -3488,6 +3488,26 @@
   ],
   "Caustic": [
     {
+      "gift_num": 10248,
+      "customEmojiId": "5429189831555047441",
+      "gift_id": 7374437,
+      "name": "Scared Cat",
+      "model": "Caustic (3%)",
+      "asset": "TON",
+      "symbol": "Blood Drop (2.4%)",
+      "backdrop": "Cyberpunk (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 46.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T21:23:49.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 13227,
       "customEmojiId": "5429189831555047441",
       "gift_id": 7365534,
@@ -5030,6 +5050,26 @@
   ],
   "Celestia": [
     {
+      "gift_num": 14934,
+      "customEmojiId": "5395387798985402317",
+      "gift_id": -681236834,
+      "name": "Scared Cat",
+      "model": "Celestia (3%)",
+      "asset": "TON",
+      "symbol": "Coin Purse (0.2%)",
+      "backdrop": "Satin Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 921644,
+      "price": 180,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-23T15:05:04.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 18749,
       "customEmojiId": "5395387798985402317",
       "gift_id": 583683280548,
@@ -5123,26 +5163,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 14934,
-      "customEmojiId": "5395387798985402317",
-      "gift_id": -681236834,
-      "name": "Scared Cat",
-      "model": "Celestia (3%)",
-      "asset": "TON",
-      "symbol": "Coin Purse (0.2%)",
-      "backdrop": "Satin Gold (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 917831,
-      "price": 150,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T15:05:04.000Z",
       "premarketData": {}
     },
     {
@@ -5604,6 +5624,96 @@
     }
   ],
   "Silver Napper": [
+    {
+      "gift_num": 13311,
+      "customEmojiId": "5397583412036921631",
+      "gift_id": 7372928,
+      "name": "Scared Cat",
+      "model": "Silver Napper (2%)",
+      "asset": "TON",
+      "symbol": "Fish Skeleton (2.4%)",
+      "backdrop": "Pacific Cyan (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 47.25,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "EXAD2EPD",
+      "auction": {
+        "_id": "688293acaace4cd2f6e2ac15",
+        "gift_id": 7372928,
+        "seller": 0,
+        "auction_id": "EXAD2EPD",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688293ccaace4cd2f6e2c7e2",
+            "timestamp": "2025-07-24T20:13:00.732Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "68829404aace4cd2f6e301c0",
+            "timestamp": "2025-07-24T20:13:56.191Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "6882942baace4cd2f6e30ef1",
+            "timestamp": "2025-07-24T20:14:35.121Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7,
+            "asset": "TON",
+            "_id": "6882944aaace4cd2f6e31b01",
+            "timestamp": "2025-07-24T20:15:06.179Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.35,
+            "asset": "TON",
+            "_id": "68829454aace4cd2f6e3202e",
+            "timestamp": "2025-07-24T20:15:16.385Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 45,
+            "asset": "TON",
+            "_id": "68829488aace4cd2f6e33d9b",
+            "timestamp": "2025-07-24T20:16:08.851Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 47.25,
+            "asset": "TON",
+            "_id": "68829cb3aace4cd2f6e739e8",
+            "timestamp": "2025-07-24T20:50:59.473Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-24T21:12:27.471Z",
+        "status": "finished",
+        "gift_name": "Scared Cat",
+        "gift_num": 13311,
+        "model": "Silver Napper (2%)",
+        "backdrop": "Pacific Cyan (2%)",
+        "symbol": "Fish Skeleton (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-24T20:12:28.463Z",
+        "__v": 0,
+        "winningBid": 47.25,
+        "winningBidder": 1008207772
+      },
+      "export_at": "2025-08-07T19:46:16.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2925,
       "customEmojiId": "5397583412036921631",
@@ -10735,6 +10845,24 @@
   ],
   "Cookie": [
     {
+      "gift_num": 17320,
+      "customEmojiId": "5429413199919211124",
+      "gift_id": 580977243704,
+      "name": "Scared Cat",
+      "model": "Cookie (1%)",
+      "asset": "TON",
+      "symbol": "Baphomet (1.6%)",
+      "backdrop": "English Violet (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 137.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 11543,
       "customEmojiId": "5429413199919211124",
       "gift_id": 7361292,
@@ -10913,26 +11041,6 @@
     }
   ],
   "Nebula": [
-    {
-      "gift_num": 18698,
-      "customEmojiId": "5431652991004334712",
-      "gift_id": 7364615,
-      "name": "Scared Cat",
-      "model": "Nebula (2.5%)",
-      "asset": "TON",
-      "symbol": "Pegasus (0.2%)",
-      "backdrop": "Battleship Grey (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 48.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-07T09:56:37.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 1045,
       "customEmojiId": "5431652991004334712",
@@ -13551,26 +13659,6 @@
   ],
   "Cathulhu": [
     {
-      "gift_num": 11144,
-      "customEmojiId": "5393603072570186748",
-      "gift_id": 7124729,
-      "name": "Scared Cat",
-      "model": "Cathulhu (3%)",
-      "asset": "TON",
-      "symbol": "Oxen of Fire (0.2%)",
-      "backdrop": "Onyx Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 86,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T09:48:52.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 3400,
       "customEmojiId": "5393603072570186748",
       "gift_id": 7373172,
@@ -14886,6 +14974,26 @@
   ],
   "Vapurr": [
     {
+      "gift_num": 2740,
+      "customEmojiId": "5397843455126822230",
+      "gift_id": 7370525,
+      "name": "Scared Cat",
+      "model": "Vapurr (4%)",
+      "asset": "TON",
+      "symbol": "Knight (0.2%)",
+      "backdrop": "Battleship Grey (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 48.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T16:57:34.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 10070,
       "customEmojiId": "5397843455126822230",
       "gift_id": 7373583,
@@ -14903,26 +15011,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-07T20:25:14.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2740,
-      "customEmojiId": "5397843455126822230",
-      "gift_id": 7370525,
-      "name": "Scared Cat",
-      "model": "Vapurr (4%)",
-      "asset": "TON",
-      "symbol": "Knight (0.2%)",
-      "backdrop": "Battleship Grey (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 53,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-07T16:57:34.000Z",
       "premarketData": {}
     },
     {
