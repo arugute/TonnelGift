@@ -5533,7 +5533,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 33,
+      "price": 32.89,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -11175,6 +11175,24 @@
   ],
   "Lemon Juice": [
     {
+      "gift_num": 8133,
+      "customEmojiId": "5397896059886265136",
+      "gift_id": 603535986907,
+      "name": "Kissed Frog",
+      "model": "Lemon Juice (4%)",
+      "asset": "TON",
+      "symbol": "Heart Shades (0.4%)",
+      "backdrop": "Roman Silver (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 137.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 7054,
       "customEmojiId": "5397896059886265136",
       "gift_id": 5596136,
@@ -11742,24 +11760,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-28T14:15:06.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 142,
-      "customEmojiId": "5397896059886265136",
-      "gift_id": 602858424893,
-      "name": "Kissed Frog",
-      "model": "Lemon Juice (4%)",
-      "asset": "TON",
-      "symbol": "Spider Web (1.2%)",
-      "backdrop": "Purple (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 212.16,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
@@ -17016,6 +17016,26 @@
     }
   ],
   "Bronze": [
+    {
+      "gift_num": 11390,
+      "customEmojiId": "5397614305736679400",
+      "gift_id": 7360032,
+      "name": "Kissed Frog",
+      "model": "Bronze (2%)",
+      "asset": "TON",
+      "symbol": "Ghost (1%)",
+      "backdrop": "Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 60,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T22:40:16.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 10257,
       "customEmojiId": "5397614305736679400",
