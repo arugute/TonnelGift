@@ -455,6 +455,26 @@
   ],
   "Professor": [
     {
+      "gift_num": 3070,
+      "customEmojiId": "5344048298254694432",
+      "gift_id": 70777665316,
+      "name": "Joyful Bundle",
+      "model": "Professor (1%)",
+      "asset": "TON",
+      "symbol": "Clubs (0.2%)",
+      "backdrop": "Steel Grey (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 2204,
       "customEmojiId": "5344048298254694432",
       "gift_id": 911627734072,
@@ -1843,6 +1863,32 @@
   ],
   "Pool Party": [
     {
+      "gift_num": 10737,
+      "customEmojiId": "5224315291625878756",
+      "gift_id": 19437987232,
+      "name": "Joyful Bundle",
+      "model": "Pool Party (2.5%)",
+      "asset": "TON",
+      "symbol": "Tic-Tac-Toe (0.7%)",
+      "backdrop": "Orange (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 5.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 0.9,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 4.7700000000000005,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-06T13:51:47.027Z"
+      }
+    },
+    {
       "gift_num": 7075,
       "customEmojiId": "5224315291625878756",
       "gift_id": 818545069661,
@@ -1881,32 +1927,6 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
-    {
-      "gift_num": 10737,
-      "customEmojiId": "5224315291625878756",
-      "gift_id": 19437987232,
-      "name": "Joyful Bundle",
-      "model": "Pool Party (2.5%)",
-      "asset": "TON",
-      "symbol": "Tic-Tac-Toe (0.7%)",
-      "backdrop": "Orange (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {
-        "premarketCollateralAmount": 0.9,
-        "premarketCollateralAsset": "TON",
-        "premarketLastSaleAmountPlusFee": 4.7700000000000005,
-        "premarketLastSaleAsset": "TON",
-        "premarketExecutionDeadline": "2025-08-06T13:51:47.027Z"
-      }
     },
     {
       "gift_num": 10876,
@@ -3152,7 +3172,7 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 7,
+      "price": 5.6,
       "status": "forsale",
       "limited": false,
       "auction": null,
