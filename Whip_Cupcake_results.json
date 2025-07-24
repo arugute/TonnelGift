@@ -9323,6 +9323,32 @@
   ],
   "Stardust": [
     {
+      "gift_num": 22386,
+      "customEmojiId": "5474238553816856653",
+      "gift_id": 650163152795,
+      "name": "Whip Cupcake",
+      "model": "Stardust (1.5%)",
+      "asset": "TON",
+      "symbol": "Strawberry (0.7%)",
+      "backdrop": "Carrot Juice (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 0.4,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 2.12,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-13T14:01:51.081Z"
+      }
+    },
+    {
       "gift_num": 19949,
       "customEmojiId": "5474238553816856653",
       "gift_id": 841253828449,
@@ -17925,6 +17951,32 @@
   ],
   "Trippy": [
     {
+      "gift_num": 5436,
+      "customEmojiId": "5244940695243878615",
+      "gift_id": 62887203840,
+      "name": "Whip Cupcake",
+      "model": "Trippy (1.5%)",
+      "asset": "TON",
+      "symbol": "Carambola (0.7%)",
+      "backdrop": "Ranger Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 0.4,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 2.12,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-14T02:53:47.315Z"
+      }
+    },
+    {
       "gift_num": 20098,
       "customEmojiId": "5244940695243878615",
       "gift_id": 425356131852,
@@ -18474,6 +18526,26 @@
     }
   ],
   "Unicorn": [
+    {
+      "gift_num": 20323,
+      "customEmojiId": "5220105910143186726",
+      "gift_id": 686203086899,
+      "name": "Whip Cupcake",
+      "model": "Unicorn (2.5%)",
+      "asset": "TON",
+      "symbol": "Loving Heart (0.4%)",
+      "backdrop": "Hunter Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
     {
       "gift_num": 22307,
       "customEmojiId": "5220105910143186726",
@@ -22581,6 +22653,26 @@
   ],
   "Fantastic Four": [
     {
+      "gift_num": 20812,
+      "customEmojiId": "5330263428919489692",
+      "gift_id": 937845510687,
+      "name": "Whip Cupcake",
+      "model": "Fantastic Four (3%)",
+      "asset": "TON",
+      "symbol": "Paw (0.4%)",
+      "backdrop": "Pacific Cyan (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {}
+    },
+    {
       "gift_num": 24900,
       "customEmojiId": "5330263428919489692",
       "gift_id": 435081133025,
@@ -23201,26 +23293,6 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
-    },
-    {
-      "gift_num": 57041,
-      "customEmojiId": "5330263428919489692",
-      "gift_id": 559864776128,
-      "name": "Whip Cupcake",
-      "model": "Fantastic Four (3%)",
-      "asset": "TON",
-      "symbol": "Cupid's Arrow (0.5%)",
-      "backdrop": "Indigo Dye (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
     }
   ],
   "Resistance": [
@@ -23534,7 +23606,7 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "price": 29,
+      "price": 27,
       "status": "forsale",
       "limited": false,
       "auction": null,
