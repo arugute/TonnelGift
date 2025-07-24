@@ -1709,6 +1709,24 @@
   ],
   "Khajiit": [
     {
+      "gift_num": 2125,
+      "customEmojiId": "5231277661245956037",
+      "gift_id": 584160361649,
+      "name": "Mini Oscar",
+      "model": "Khajiit (1%)",
+      "asset": "TON",
+      "symbol": "Mustang (0.5%)",
+      "backdrop": "Coral Red (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 264.384,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 2101,
       "customEmojiId": "5231277661245956037",
       "gift_id": 584121103071,
@@ -2238,6 +2256,24 @@
     }
   ],
   "Dark Side": [
+    {
+      "gift_num": 3823,
+      "customEmojiId": "5233255424966285632",
+      "gift_id": 597412327334,
+      "name": "Mini Oscar",
+      "model": "Dark Side (1.5%)",
+      "asset": "TON",
+      "symbol": "Unicorn Head (0.2%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 330.48,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 117,
       "customEmojiId": "5233255424966285632",
@@ -3541,6 +3577,24 @@
     }
   ],
   "Scream": [
+    {
+      "gift_num": 167,
+      "customEmojiId": "5233320377756706384",
+      "gift_id": 584158291475,
+      "name": "Mini Oscar",
+      "model": "Scream (1.5%)",
+      "asset": "TON",
+      "symbol": "Toilet (0.5%)",
+      "backdrop": "Pacific Cyan (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 302.94,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 2307,
       "customEmojiId": "5233320377756706384",
@@ -5190,6 +5244,64 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T20:09:30.000Z",
+      "premarketData": {}
+    }
+  ],
+  "Neon Police": [
+    {
+      "gift_num": 178,
+      "customEmojiId": "5233298842790683235",
+      "gift_id": 584126366124,
+      "name": "Mini Oscar",
+      "model": "Neon Police (0.5%)",
+      "asset": "TON",
+      "symbol": "Bascinet (0.4%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.794,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 147,
+      "customEmojiId": "5233298842790683235",
+      "gift_id": 584139783602,
+      "name": "Mini Oscar",
+      "model": "Neon Police (0.5%)",
+      "asset": "TON",
+      "symbol": "Ouroboros (0.5%)",
+      "backdrop": "Chocolate (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3280,
+      "customEmojiId": "5233298842790683235",
+      "gift_id": 5976752,
+      "name": "Mini Oscar",
+      "model": "Neon Police (0.5%)",
+      "asset": "TON",
+      "symbol": "Black Cat (0.4%)",
+      "backdrop": "Light Olive (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 794770,
+      "price": 240,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-23T14:02:55.000Z",
       "premarketData": {}
     }
   ],
