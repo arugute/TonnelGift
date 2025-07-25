@@ -10331,7 +10331,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.85,
+      "price": 4.4,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -28765,6 +28765,68 @@
   ],
   "Hellebore": [
     {
+      "gift_num": 61684,
+      "customEmojiId": "5289774493047218689",
+      "gift_id": 7372216,
+      "name": "Sakura Flower",
+      "model": "Hellebore (1.1%)",
+      "asset": "TON",
+      "symbol": "Tetsubin (0.5%)",
+      "backdrop": "Malachite (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6.49,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "0DFDD2IS",
+      "auction": {
+        "_id": "68829143aace4cd2f6dd720d",
+        "gift_id": 7372216,
+        "seller": 0,
+        "auction_id": "0DFDD2IS",
+        "startingBid": 5.89,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5.89,
+            "asset": "TON",
+            "_id": "6882bb59aace4cd2f64622ec",
+            "timestamp": "2025-07-24T23:01:45.481Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.18,
+            "asset": "TON",
+            "_id": "6882bdffaace4cd2f646e5a3",
+            "timestamp": "2025-07-24T23:13:03.518Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.49,
+            "asset": "TON",
+            "_id": "6882bea8aace4cd2f6470079",
+            "timestamp": "2025-07-24T23:15:52.010Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-24T23:34:54.633Z",
+        "status": "finished",
+        "gift_name": "Sakura Flower",
+        "gift_num": 61684,
+        "model": "Hellebore (1.1%)",
+        "backdrop": "Malachite (1.2%)",
+        "symbol": "Tetsubin (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-24T21:04:55.513Z",
+        "__v": 0,
+        "winningBid": 6.49,
+        "winningBidder": 795311759
+      },
+      "export_at": "2025-08-07T18:57:53.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 73712,
       "customEmojiId": "5289774493047218689",
       "gift_id": 7362802,
@@ -29342,26 +29404,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-12T09:14:13.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 40616,
-      "customEmojiId": "5289774493047218689",
-      "gift_id": 4795341,
-      "name": "Sakura Flower",
-      "model": "Hellebore (1.1%)",
-      "asset": "TON",
-      "symbol": "Oculus (0.5%)",
-      "backdrop": "Pine Green (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 17.99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-27T15:43:03.000Z",
       "premarketData": {}
     }
   ],
@@ -33650,6 +33692,26 @@
     }
   ],
   "Silveria": [
+    {
+      "gift_num": 76885,
+      "customEmojiId": "5303182586376384478",
+      "gift_id": 7375624,
+      "name": "Sakura Flower",
+      "model": "Silveria (0.8%)",
+      "asset": "TON",
+      "symbol": "Sailor Hat (0.5%)",
+      "backdrop": "Hunter Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T23:43:40.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 26907,
       "customEmojiId": "5303182586376384478",
