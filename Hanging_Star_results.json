@@ -714,6 +714,26 @@
   ],
   "Sweden": [
     {
+      "gift_num": 32504,
+      "customEmojiId": "5235983420688985303",
+      "gift_id": 7384079,
+      "name": "Hanging Star",
+      "model": "Sweden (1.1%)",
+      "asset": "TON",
+      "symbol": "Cookie (1.6%)",
+      "backdrop": "Amber (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 18,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T15:36:25.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 14834,
       "customEmojiId": "5235983420688985303",
       "gift_id": 7190320,
@@ -4926,6 +4946,26 @@
   ],
   "You Tried...": [
     {
+      "gift_num": 17988,
+      "customEmojiId": "5238048548339082765",
+      "gift_id": 7296559,
+      "name": "Hanging Star",
+      "model": "You Tried... (0.3%)",
+      "asset": "TON",
+      "symbol": "Winter House (2.4%)",
+      "backdrop": "Lavender (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 17,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T12:53:55.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 21328,
       "customEmojiId": "5238048548339082765",
       "gift_id": 6574673,
@@ -4943,26 +4983,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-02T16:13:50.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 17988,
-      "customEmojiId": "5238048548339082765",
-      "gift_id": 7296559,
-      "name": "Hanging Star",
-      "model": "You Tried... (0.3%)",
-      "asset": "TON",
-      "symbol": "Winter House (2.4%)",
-      "backdrop": "Lavender (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T12:53:55.000Z",
       "premarketData": {}
     },
     {
@@ -5804,10 +5824,59 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 6.5,
-      "status": "forsale",
+      "price": 4.52,
+      "status": "auction",
       "limited": false,
-      "auction": null,
+      "auction_id": "B7RC7OLA",
+      "auction": {
+        "_id": "6883a3c2aace4cd2f6cddbe6",
+        "gift_id": 7374911,
+        "seller": 0,
+        "auction_id": "B7RC7OLA",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 3,
+            "asset": "TON",
+            "_id": "6883a407aace4cd2f6ce60fd",
+            "timestamp": "2025-07-25T15:34:31.242Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.15,
+            "asset": "TON",
+            "_id": "6883a422aace4cd2f6ce9363",
+            "timestamp": "2025-07-25T15:34:58.097Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.3,
+            "asset": "TON",
+            "_id": "6883a49eaace4cd2f6cfa33a",
+            "timestamp": "2025-07-25T15:37:02.500Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.52,
+            "asset": "TON",
+            "_id": "6883a533aace4cd2f6d0b18d",
+            "timestamp": "2025-07-25T15:39:31.086Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T16:33:22.846Z",
+        "status": "finished",
+        "gift_name": "Hanging Star",
+        "gift_num": 30041,
+        "model": "Hot Spring (1.4%)",
+        "backdrop": "Battleship Grey (2%)",
+        "symbol": "Rudolph (2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T15:33:22.330Z",
+        "__v": 0,
+        "winningBid": 4.52,
+        "winningBidder": 7352255987
+      },
       "export_at": "2025-08-07T22:09:50.000Z",
       "premarketData": {}
     },
@@ -6134,6 +6203,26 @@
   ],
   "Fusion": [
     {
+      "gift_num": 14315,
+      "customEmojiId": "5235481369076856385",
+      "gift_id": 6378364,
+      "name": "Hanging Star",
+      "model": "Fusion (1.4%)",
+      "asset": "TON",
+      "symbol": "Bug (0.2%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 13,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-28T04:55:12.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 33962,
       "customEmojiId": "5235481369076856385",
       "gift_id": 7329451,
@@ -6251,26 +6340,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-02T10:27:21.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 14315,
-      "customEmojiId": "5235481369076856385",
-      "gift_id": 6378364,
-      "name": "Hanging Star",
-      "model": "Fusion (1.4%)",
-      "asset": "TON",
-      "symbol": "Bug (0.2%)",
-      "backdrop": "Onyx Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-28T04:55:12.000Z",
       "premarketData": {}
     },
     {
@@ -6516,6 +6585,103 @@
     }
   ],
   "Commando": [
+    {
+      "gift_num": 7219,
+      "customEmojiId": "5238239236297089028",
+      "gift_id": 7264229,
+      "name": "Hanging Star",
+      "model": "Commando (0.6%)",
+      "asset": "TON",
+      "symbol": "Sunflower (0.2%)",
+      "backdrop": "French Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5.63,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "1RXBQZKH",
+      "auction": {
+        "_id": "68838ec9aace4cd2f6b6873c",
+        "gift_id": 7264229,
+        "seller": 0,
+        "auction_id": "1RXBQZKH",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68839129aace4cd2f6bb38dd",
+            "timestamp": "2025-07-25T14:14:01.855Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.2,
+            "asset": "TON",
+            "_id": "68839829aace4cd2f6c8ef4c",
+            "timestamp": "2025-07-25T14:43:53.852Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.41,
+            "asset": "TON",
+            "_id": "688399c4aace4cd2f6c99713",
+            "timestamp": "2025-07-25T14:50:44.263Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.63,
+            "asset": "TON",
+            "_id": "68839ac4aace4cd2f6ca3534",
+            "timestamp": "2025-07-25T14:55:00.807Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.86,
+            "asset": "TON",
+            "_id": "6883a845aace4cd2f6d1b4d2",
+            "timestamp": "2025-07-25T15:52:37.783Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.1,
+            "asset": "TON",
+            "_id": "6883a8e0aace4cd2f6d1cc9f",
+            "timestamp": "2025-07-25T15:55:12.465Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.36,
+            "asset": "TON",
+            "_id": "6883ac28aace4cd2f6d31e6d",
+            "timestamp": "2025-07-25T16:09:12.372Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.63,
+            "asset": "TON",
+            "_id": "6883acabaace4cd2f6d349fc",
+            "timestamp": "2025-07-25T16:11:23.141Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T16:23:52.742Z",
+        "status": "finished",
+        "gift_name": "Hanging Star",
+        "gift_num": 7219,
+        "model": "Commando (0.6%)",
+        "backdrop": "French Blue (2%)",
+        "symbol": "Sunflower (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T14:03:53.784Z",
+        "__v": 0,
+        "winningBid": 5.63,
+        "winningBidder": 1678745008
+      },
+      "export_at": "2025-07-31T09:49:22.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 19848,
       "customEmojiId": "5238239236297089028",
@@ -8068,7 +8234,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 6.2,
+      "price": 6,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -9954,6 +10120,26 @@
   ],
   "Crystalline": [
     {
+      "gift_num": 6908,
+      "customEmojiId": "5238181945728326467",
+      "gift_id": 7384539,
+      "name": "Hanging Star",
+      "model": "Crystalline (1.4%)",
+      "asset": "TON",
+      "symbol": "Mistletoe (2.4%)",
+      "backdrop": "Sapphire (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 12,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T16:14:54.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 21142,
       "customEmojiId": "5238181945728326467",
       "gift_id": 7159546,
@@ -11724,6 +11910,26 @@
   ],
   "Milkshake": [
     {
+      "gift_num": 30688,
+      "customEmojiId": "5238216228157290752",
+      "gift_id": 7384022,
+      "name": "Hanging Star",
+      "model": "Milkshake (1.5%)",
+      "asset": "TON",
+      "symbol": "Wolf Rage (0.2%)",
+      "backdrop": "Satin Gold (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T15:31:26.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 19509,
       "customEmojiId": "5238216228157290752",
       "gift_id": 7121812,
@@ -13003,6 +13209,26 @@
     }
   ],
   "Advice Dog": [
+    {
+      "gift_num": 32915,
+      "customEmojiId": "5237893882271784349",
+      "gift_id": 7383947,
+      "name": "Hanging Star",
+      "model": "Advice Dog (0.6%)",
+      "asset": "TON",
+      "symbol": "Jingle Bell (2.4%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 70,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T15:24:50.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 6926,
       "customEmojiId": "5237893882271784349",
@@ -17157,26 +17383,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 32279,
-      "customEmojiId": "5235680621199649139",
-      "gift_id": 7018970,
-      "name": "Hanging Star",
-      "model": "Red Dwarf (1.4%)",
-      "asset": "TON",
-      "symbol": "Wolf Rage (0.2%)",
-      "backdrop": "Navy Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-19T22:56:42.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 26257,
       "customEmojiId": "5235680621199649139",
       "gift_id": 7293283,
@@ -20380,6 +20586,26 @@
   ],
   "Ultraviolet": [
     {
+      "gift_num": 5195,
+      "customEmojiId": "5235897641602148426",
+      "gift_id": 7295532,
+      "name": "Hanging Star",
+      "model": "Ultraviolet (1.4%)",
+      "asset": "TON",
+      "symbol": "Chest (1.6%)",
+      "backdrop": "Pine Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.55,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T11:33:00.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 27315,
       "customEmojiId": "5235897641602148426",
       "gift_id": 7362790,
@@ -20701,6 +20927,26 @@
     }
   ],
   "Snowflake": [
+    {
+      "gift_num": 3904,
+      "customEmojiId": "5237977788752882314",
+      "gift_id": 7383869,
+      "name": "Hanging Star",
+      "model": "Snowflake (0.1%)",
+      "asset": "TON",
+      "symbol": "Jingle Bell (2.4%)",
+      "backdrop": "Orange (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 84,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T15:18:35.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 32490,
       "customEmojiId": "5237977788752882314",
@@ -22139,26 +22385,6 @@
     }
   ],
   "Solar Flair": [
-    {
-      "gift_num": 25621,
-      "customEmojiId": "5235579891331662791",
-      "gift_id": 7382461,
-      "name": "Hanging Star",
-      "model": "Solar Flair (1.4%)",
-      "asset": "TON",
-      "symbol": "Pearl (0.2%)",
-      "backdrop": "Lavender (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.55,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T13:33:00.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 15997,
       "customEmojiId": "5235579891331662791",
@@ -28064,6 +28290,89 @@
   ],
   "Hollywood": [
     {
+      "gift_num": 31122,
+      "customEmojiId": "5235855727016308389",
+      "gift_id": 7380904,
+      "name": "Hanging Star",
+      "model": "Hollywood (1.1%)",
+      "asset": "TON",
+      "symbol": "Cocktail (2.4%)",
+      "backdrop": "Lemongrass (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.85,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "GCY0MUB4",
+      "auction": {
+        "_id": "68838ed2aace4cd2f6b6a7ff",
+        "gift_id": 7380904,
+        "seller": 0,
+        "auction_id": "GCY0MUB4",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6883913baace4cd2f6bb5946",
+            "timestamp": "2025-07-25T14:14:19.090Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6883917faace4cd2f6bbef23",
+            "timestamp": "2025-07-25T14:15:27.897Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3,
+            "asset": "TON",
+            "_id": "6883919eaace4cd2f6bc2b3c",
+            "timestamp": "2025-07-25T14:15:58.769Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.4,
+            "asset": "TON",
+            "_id": "688399b1aace4cd2f6c98785",
+            "timestamp": "2025-07-25T14:50:25.113Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.62,
+            "asset": "TON",
+            "_id": "6883a0d0aace4cd2f6cd23f3",
+            "timestamp": "2025-07-25T15:20:48.093Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.85,
+            "asset": "TON",
+            "_id": "6883a638aace4cd2f6d14989",
+            "timestamp": "2025-07-25T15:43:52.800Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T16:04:01.876Z",
+        "status": "finished",
+        "gift_name": "Hanging Star",
+        "gift_num": 31122,
+        "model": "Hollywood (1.1%)",
+        "backdrop": "Lemongrass (2%)",
+        "symbol": "Cocktail (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T14:04:02.555Z",
+        "__v": 0,
+        "winningBid": 4.85,
+        "winningBidder": 1162829247
+      },
+      "export_at": "2025-08-08T11:38:08.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 22696,
       "customEmojiId": "5235855727016308389",
       "gift_id": 7219659,
@@ -28641,26 +28950,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-03-16T08:07:15.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3345,
-      "customEmojiId": "5235855727016308389",
-      "gift_id": 3044632,
-      "name": "Hanging Star",
-      "model": "Hollywood (1.1%)",
-      "asset": "TON",
-      "symbol": "Nordic Wolf (2%)",
-      "backdrop": "Mystic Pearl (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 447619,
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-04-27T11:13:06.000Z",
       "premarketData": {}
     }
   ],
@@ -31234,6 +31523,53 @@
       "auction": null,
       "export_at": "2025-07-04T17:32:29.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 32755,
+      "customEmojiId": "5235595009616539742",
+      "gift_id": 7368085,
+      "name": "Hanging Star",
+      "model": "Bombastic (0.2%)",
+      "asset": "TON",
+      "symbol": "Candy (2.4%)",
+      "backdrop": "Platinum (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 16,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "XNV6MNLH",
+      "auction": {
+        "_id": "68823f5caace4cd2f6903126",
+        "gift_id": 7368085,
+        "seller": 0,
+        "auction_id": "XNV6MNLH",
+        "startingBid": 16,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 16,
+            "asset": "TON",
+            "_id": "6883a645aace4cd2f6d14b26",
+            "timestamp": "2025-07-25T15:44:05.914Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T15:57:04.517Z",
+        "status": "finished",
+        "gift_name": "Hanging Star",
+        "gift_num": 32755,
+        "model": "Bombastic (0.2%)",
+        "backdrop": "Platinum (2%)",
+        "symbol": "Candy (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-24T15:57:05.476Z",
+        "__v": 0,
+        "winningBid": 16,
+        "winningBidder": 827124888
+      },
+      "export_at": "2025-08-07T14:12:31.000Z",
+      "premarketData": {}
     }
   ],
   "Surf Sand": [
@@ -31517,26 +31853,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-08T14:08:30.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 10110,
-      "customEmojiId": "5235470038953126677",
-      "gift_id": 7350823,
-      "name": "Hanging Star",
-      "model": "Passionfruit (1.5%)",
-      "asset": "TON",
-      "symbol": "Champagne (2.4%)",
-      "backdrop": "Pistachio (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 13,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T11:43:56.000Z",
       "premarketData": {}
     },
     {
@@ -32043,6 +32359,26 @@
     }
   ],
   "Gingerbread": [
+    {
+      "gift_num": 18451,
+      "customEmojiId": "5238183298643026602",
+      "gift_id": 7384511,
+      "name": "Hanging Star",
+      "model": "Gingerbread (0.8%)",
+      "asset": "TON",
+      "symbol": "Sparks (1.6%)",
+      "backdrop": "Lemongrass (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.55,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T16:12:57.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 8603,
       "customEmojiId": "5238183298643026602",
@@ -33401,26 +33737,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 4631,
-      "customEmojiId": "5235509939199307516",
-      "gift_id": 7330284,
-      "name": "Hanging Star",
-      "model": "Gray Sage (1.1%)",
-      "asset": "TON",
-      "symbol": "Ornament (2.4%)",
-      "backdrop": "Electric Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T19:49:30.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 7704,
       "customEmojiId": "5235509939199307516",
       "gift_id": 7363826,
@@ -34246,6 +34562,26 @@
     }
   ],
   "Tarnished": [
+    {
+      "gift_num": 16535,
+      "customEmojiId": "5235867366377679635",
+      "gift_id": 7383835,
+      "name": "Hanging Star",
+      "model": "Tarnished (1.1%)",
+      "asset": "TON",
+      "symbol": "Mittens (2%)",
+      "backdrop": "Platinum (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T15:15:56.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 31115,
       "customEmojiId": "5235867366377679635",
@@ -35504,26 +35840,6 @@
     }
   ],
   "Purple Suit": [
-    {
-      "gift_num": 13442,
-      "customEmojiId": "5237707532230750933",
-      "gift_id": 7382623,
-      "name": "Hanging Star",
-      "model": "Purple Suit (1.4%)",
-      "asset": "TON",
-      "symbol": "Mistletoe (2.4%)",
-      "backdrop": "Azure Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.52,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T13:47:00.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 24682,
       "customEmojiId": "5237707532230750933",
