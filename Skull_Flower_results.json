@@ -2101,6 +2101,61 @@
   ],
   "Technicolor": [
     {
+      "gift_num": 13110,
+      "customEmojiId": "5438154811281272733",
+      "gift_id": 7259785,
+      "name": "Skull Flower",
+      "model": "Technicolor (1.5%)",
+      "asset": "TON",
+      "symbol": "Lemon (0.2%)",
+      "backdrop": "Burgundy (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.61,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "A671NVG0",
+      "auction": {
+        "_id": "687d38fbaace4cd2f6f853a6",
+        "gift_id": 7259785,
+        "seller": 0,
+        "auction_id": "A671NVG0",
+        "startingBid": 8.2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 8.2,
+            "asset": "TON",
+            "_id": "68831e1eaace4cd2f6984df4",
+            "timestamp": "2025-07-25T06:03:10.918Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.61,
+            "asset": "TON",
+            "_id": "6883222caace4cd2f699436a",
+            "timestamp": "2025-07-25T06:20:28.322Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T06:33:37.935Z",
+        "status": "finished",
+        "gift_name": "Skull Flower",
+        "gift_num": 13110,
+        "model": "Technicolor (1.5%)",
+        "backdrop": "Burgundy (1.5%)",
+        "symbol": "Lemon (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T00:33:38.385Z",
+        "__v": 0,
+        "winningBid": 8.61,
+        "winningBidder": 805221098
+      },
+      "export_at": "2025-07-30T23:18:53.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2587,
       "customEmojiId": "5438154811281272733",
       "gift_id": 7342272,
@@ -11159,26 +11214,6 @@
     }
   ],
   "Mystic": [
-    {
-      "gift_num": 194,
-      "customEmojiId": "5411464905251383286",
-      "gift_id": 7376116,
-      "name": "Skull Flower",
-      "model": "Mystic (3%)",
-      "asset": "TON",
-      "symbol": "Illuminati (0.8%)",
-      "backdrop": "Steel Grey (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 13,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T01:24:29.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 6183,
       "customEmojiId": "5411464905251383286",
