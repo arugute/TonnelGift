@@ -2412,6 +2412,26 @@
   ],
   "Ladybug": [
     {
+      "gift_num": 13520,
+      "customEmojiId": "5355229747393620209",
+      "gift_id": 7309117,
+      "name": "Neko Helmet",
+      "model": "Ladybug (1.5%)",
+      "asset": "TON",
+      "symbol": "Pussy Willow (0.4%)",
+      "backdrop": "Seal Brown (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 40,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-03T10:30:10.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 9324,
       "customEmojiId": "5355229747393620209",
       "gift_id": 593806822548,
@@ -2976,26 +2996,6 @@
       "auction": null,
       "export_at": "2025-07-13T00:12:58.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 4800,
-      "customEmojiId": "5355229747393620209",
-      "gift_id": 6840171,
-      "name": "Neko Helmet",
-      "model": "Ladybug (1.5%)",
-      "asset": "TON",
-      "symbol": "Key (0.2%)",
-      "backdrop": "Fandango (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 49.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-13T11:28:06.000Z",
-      "premarketData": {}
     }
   ],
   "Turbo Frog": [
@@ -3074,10 +3074,45 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 29,
-      "status": "forsale",
+      "price": 27.1,
+      "status": "auction",
       "limited": false,
-      "auction": null,
+      "auction_id": "VZQ79MU1",
+      "auction": {
+        "_id": "68820126aace4cd2f64de72b",
+        "gift_id": 7364446,
+        "seller": 0,
+        "auction_id": "VZQ79MU1",
+        "startingBid": 25.5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 25.5,
+            "asset": "TON",
+            "_id": "68835a86aace4cd2f6a49fe1",
+            "timestamp": "2025-07-25T10:20:54.560Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 27.1,
+            "asset": "TON",
+            "_id": "68835af8aace4cd2f6a50291",
+            "timestamp": "2025-07-25T10:22:48.884Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T11:19:42.596Z",
+        "status": "finished",
+        "gift_name": "Neko Helmet",
+        "gift_num": 6994,
+        "model": "Blackout (2.3%)",
+        "backdrop": "Copper (1.2%)",
+        "symbol": "Lily Bloom (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T10:19:43.492Z",
+        "__v": 0,
+        "winningBid": 27.1,
+        "winningBidder": 6844540739
+      },
       "export_at": "2025-08-07T09:41:49.000Z",
       "premarketData": {}
     },
@@ -6527,6 +6562,26 @@
     }
   ],
   "Techno": [
+    {
+      "gift_num": 12339,
+      "customEmojiId": "5355103303556426944",
+      "gift_id": 7309077,
+      "name": "Neko Helmet",
+      "model": "Techno (2%)",
+      "asset": "TON",
+      "symbol": "Wagasa (0.4%)",
+      "backdrop": "Mint Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 40,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-03T10:27:17.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 4387,
       "customEmojiId": "5355103303556426944",
@@ -16632,6 +16687,26 @@
   ],
   "Biker Girl": [
     {
+      "gift_num": 6915,
+      "customEmojiId": "5352620885473782014",
+      "gift_id": 7327501,
+      "name": "Neko Helmet",
+      "model": "Biker Girl (2%)",
+      "asset": "TON",
+      "symbol": "Pencil (0.4%)",
+      "backdrop": "Jade Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 40,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T16:08:41.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 10756,
       "customEmojiId": "5352620885473782014",
       "gift_id": 7325116,
@@ -19575,6 +19650,60 @@
       "premarketData": {}
     },
     {
+      "gift_num": 8663,
+      "customEmojiId": "5352995922018065699",
+      "gift_id": 7371363,
+      "name": "Neko Helmet",
+      "model": "Cookie Monster (1%)",
+      "asset": "TON",
+      "symbol": "Mars & Venus (0.5%)",
+      "backdrop": "Cobalt Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 40.95,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "A7WQO4E9",
+      "auction": {
+        "_id": "68827264aace4cd2f6b7d4a5",
+        "gift_id": 7371363,
+        "seller": 0,
+        "auction_id": "A7WQO4E9",
+        "startingBid": 39,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 39,
+            "asset": "TON",
+            "_id": "68835c6caace4cd2f6a5cd22",
+            "timestamp": "2025-07-25T10:29:00.650Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 40.95,
+            "asset": "TON",
+            "_id": "688362b1aace4cd2f6a700ac",
+            "timestamp": "2025-07-25T10:55:45.166Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T11:05:48.291Z",
+        "status": "finished",
+        "gift_name": "Neko Helmet",
+        "gift_num": 8663,
+        "model": "Cookie Monster (1%)",
+        "backdrop": "Cobalt Blue (1.5%)",
+        "symbol": "Mars & Venus (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T07:55:49.285Z",
+        "__v": 0,
+        "winningBid": 40.95,
+        "winningBidder": 1154960533
+      },
+      "export_at": "2025-08-07T17:48:34.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4957,
       "customEmojiId": "5352995922018065699",
       "gift_id": 7370406,
@@ -20309,6 +20438,117 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-04T16:42:30.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 13227,
+      "customEmojiId": "5357111703278476773",
+      "gift_id": 6904324,
+      "name": "Neko Helmet",
+      "model": "Astronaut (1%)",
+      "asset": "TON",
+      "symbol": "Orchid (0.4%)",
+      "backdrop": "Emerald (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 60,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "RHF62584",
+      "auction": {
+        "_id": "68820915aace4cd2f6507d07",
+        "gift_id": 6904324,
+        "seller": 0,
+        "auction_id": "RHF62584",
+        "startingBid": 30,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 30,
+            "asset": "TON",
+            "_id": "68820c19aace4cd2f652989a",
+            "timestamp": "2025-07-24T10:34:01.225Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 32,
+            "asset": "TON",
+            "_id": "688329c3aace4cd2f69beaed",
+            "timestamp": "2025-07-25T06:52:51.193Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 33.6,
+            "asset": "TON",
+            "_id": "68833818aace4cd2f69e2c4d",
+            "timestamp": "2025-07-25T07:54:00.480Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 35.28,
+            "asset": "TON",
+            "_id": "6883383eaace4cd2f69e3350",
+            "timestamp": "2025-07-25T07:54:38.912Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 37.04,
+            "asset": "TON",
+            "_id": "68833873aace4cd2f69e3afd",
+            "timestamp": "2025-07-25T07:55:31.653Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 40,
+            "asset": "TON",
+            "_id": "68833886aace4cd2f69e3bc3",
+            "timestamp": "2025-07-25T07:55:50.823Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 44.1054,
+            "asset": "TON",
+            "_id": "6883389aaace4cd2f69e3d4d",
+            "timestamp": "2025-07-25T07:56:10.504Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 46.32,
+            "asset": "TON",
+            "_id": "688338a8aace4cd2f69e3e50",
+            "timestamp": "2025-07-25T07:56:24.937Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 57,
+            "asset": "TON",
+            "_id": "68833bd8aace4cd2f69eacb6",
+            "timestamp": "2025-07-25T08:10:00.498Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 60,
+            "asset": "TON",
+            "_id": "6883565daace4cd2f6a3d30c",
+            "timestamp": "2025-07-25T10:03:09.780Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T10:21:07.867Z",
+        "status": "finished",
+        "gift_name": "Neko Helmet",
+        "gift_num": 13227,
+        "model": "Astronaut (1%)",
+        "backdrop": "Emerald (1.2%)",
+        "symbol": "Orchid (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-24T10:21:09.064Z",
+        "__v": 0,
+        "winningBid": 60,
+        "winningBidder": 1970435258
+      },
+      "export_at": "2025-07-15T13:12:27.000Z",
       "premarketData": {}
     },
     {
@@ -23639,6 +23879,24 @@
     }
   ],
   "Glitch": [
+    {
+      "gift_num": 3195,
+      "customEmojiId": "5357157809752402706",
+      "gift_id": 593824748023,
+      "name": "Neko Helmet",
+      "model": "Glitch (1%)",
+      "asset": "TON",
+      "symbol": "Paw Print (0.5%)",
+      "backdrop": "Pacific Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 220.309,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 8743,
       "customEmojiId": "5357157809752402706",
