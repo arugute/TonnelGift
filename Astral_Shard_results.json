@@ -179,6 +179,26 @@
   ],
   "Warholite": [
     {
+      "gift_num": 3165,
+      "customEmojiId": "5229203780452509411",
+      "gift_id": 7389448,
+      "name": "Astral Shard",
+      "model": "Warholite (2%)",
+      "asset": "TON",
+      "symbol": "Sparks (1%)",
+      "backdrop": "Navy Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 85,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T22:55:47.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5287,
       "customEmojiId": "5229203780452509411",
       "gift_id": 599656452470,
@@ -390,6 +410,26 @@
     }
   ],
   "Gold 999": [
+    {
+      "gift_num": 3612,
+      "customEmojiId": "5228988078604969573",
+      "gift_id": 7389453,
+      "name": "Astral Shard",
+      "model": "Gold 999 (2%)",
+      "asset": "TON",
+      "symbol": "Cicada (0.8%)",
+      "backdrop": "Purple (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 132,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T22:55:58.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 525,
       "customEmojiId": "5228988078604969573",
@@ -1356,26 +1396,6 @@
   ],
   "Pure Silver": [
     {
-      "gift_num": 2537,
-      "customEmojiId": "5231070734016607712",
-      "gift_id": 7338450,
-      "name": "Astral Shard",
-      "model": "Pure Silver (2%)",
-      "asset": "TON",
-      "symbol": "Hamburger (0.2%)",
-      "backdrop": "Pine Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 140,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T14:10:50.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 660,
       "customEmojiId": "5231070734016607712",
       "gift_id": 7175143,
@@ -1847,6 +1867,26 @@
     }
   ],
   "Ruby Fuchsite": [
+    {
+      "gift_num": 3483,
+      "customEmojiId": "5229170335542175398",
+      "gift_id": 7389016,
+      "name": "Astral Shard",
+      "model": "Ruby Fuchsite (2.4%)",
+      "asset": "TON",
+      "symbol": "Pickaxe (0.2%)",
+      "backdrop": "Purple (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 99,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T22:15:15.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 5110,
       "customEmojiId": "5229170335542175398",
@@ -4730,6 +4770,26 @@
   ],
   "Uranium": [
     {
+      "gift_num": 3616,
+      "customEmojiId": "5235506120973377950",
+      "gift_id": 7389456,
+      "name": "Astral Shard",
+      "model": "Uranium (2%)",
+      "asset": "TON",
+      "symbol": "White Deer (0.8%)",
+      "backdrop": "Moonstone (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 130,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T22:56:11.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3706,
       "customEmojiId": "5235506120973377950",
       "gift_id": 585033043169,
@@ -6322,9 +6382,76 @@
       "auction": null,
       "export_at": "2025-06-26T08:53:20.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 221,
+      "customEmojiId": "5228728782839375852",
+      "gift_id": 7382841,
+      "name": "Astral Shard",
+      "model": "Sunstone (2.4%)",
+      "asset": "TON",
+      "symbol": "Trophy (0.8%)",
+      "backdrop": "Indigo Dye (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 80.3,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "EMNDMVYC",
+      "auction": {
+        "_id": "68838fceaace4cd2f6b8766e",
+        "gift_id": 7382841,
+        "seller": 0,
+        "auction_id": "EMNDMVYC",
+        "startingBid": 80,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 80.3,
+            "asset": "TON",
+            "_id": "6883f7e1aace4cd2f6ce873b",
+            "timestamp": "2025-07-25T21:32:17.020Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T22:27:49.233Z",
+        "status": "finished",
+        "gift_name": "Astral Shard",
+        "gift_num": 221,
+        "model": "Sunstone (2.4%)",
+        "backdrop": "Indigo Dye (1.5%)",
+        "symbol": "Trophy (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T21:27:50.886Z",
+        "__v": 0,
+        "winningBid": 80.3,
+        "winningBidder": 7352255987
+      },
+      "export_at": "2025-08-08T14:05:05.000Z",
+      "premarketData": {}
     }
   ],
   "Ethereal": [
+    {
+      "gift_num": 3547,
+      "customEmojiId": "5228725956750894991",
+      "gift_id": 7381682,
+      "name": "Astral Shard",
+      "model": "Ethereal (2.4%)",
+      "asset": "TON",
+      "symbol": "Alkonost (1%)",
+      "backdrop": "Steel Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 85,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T12:36:25.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 4443,
       "customEmojiId": "5228725956750894991",
