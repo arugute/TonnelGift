@@ -21062,6 +21062,26 @@
   ],
   "Rock Star": [
     {
+      "gift_num": 31905,
+      "customEmojiId": "5235730889496882803",
+      "gift_id": 7376356,
+      "name": "Hanging Star",
+      "model": "Rock Star (0.8%)",
+      "asset": "TON",
+      "symbol": "Shooting Star (2.4%)",
+      "backdrop": "Midnight Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T03:05:54.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 19198,
       "customEmojiId": "5235730889496882803",
       "gift_id": 6461533,
@@ -24310,26 +24330,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 29094,
-      "customEmojiId": "5238193786953162955",
-      "gift_id": 4688011,
-      "name": "Hanging Star",
-      "model": "Thread (1.4%)",
-      "asset": "TON",
-      "symbol": "Gift Box (2.4%)",
-      "backdrop": "Copper (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-25T18:12:14.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 9456,
       "customEmojiId": "5238193786953162955",
       "gift_id": 6394736,
@@ -24728,29 +24728,29 @@
       "auction": null,
       "export_at": "2025-04-16T09:03:55.000Z",
       "premarketData": {}
-    }
-  ],
-  "Sea Glass": [
+    },
     {
-      "gift_num": 8971,
-      "customEmojiId": "5235698325054843062",
-      "gift_id": 7368795,
+      "gift_num": 17871,
+      "customEmojiId": "5238193786953162955",
+      "gift_id": 4288870,
       "name": "Hanging Star",
-      "model": "Sea Glass (1.4%)",
+      "model": "Thread (1.4%)",
       "asset": "TON",
-      "symbol": "Ornament (2.4%)",
-      "backdrop": "Dark Lilac (2%)",
+      "symbol": "Hot Drink (1.6%)",
+      "backdrop": "Pacific Green (1%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.5,
+      "message_in_channel": 577269,
+      "price": 50,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-08-07T15:01:46.000Z",
+      "export_at": "2025-05-16T13:44:28.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Sea Glass": [
     {
       "gift_num": 8971,
       "customEmojiId": "5235698325054843062",
@@ -33524,6 +33524,61 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-21T14:40:39.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 34187,
+      "customEmojiId": "5238061257147309886",
+      "gift_id": 7349178,
+      "name": "Hanging Star",
+      "model": "Purple Pants (1.4%)",
+      "asset": "TON",
+      "symbol": "Viking (0.2%)",
+      "backdrop": "Roman Silver (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.74,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "9GNUP7JI",
+      "auction": {
+        "_id": "6881fdcaaace4cd2f64c6025",
+        "gift_id": 7349178,
+        "seller": 0,
+        "auction_id": "9GNUP7JI",
+        "startingBid": 4.5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 4.5,
+            "asset": "TON",
+            "_id": "6882f5b7aace4cd2f653e01a",
+            "timestamp": "2025-07-25T03:10:47.393Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.74,
+            "asset": "TON",
+            "_id": "6882f5d2aace4cd2f653ecd6",
+            "timestamp": "2025-07-25T03:11:14.256Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T03:44:42.803Z",
+        "status": "finished",
+        "gift_name": "Hanging Star",
+        "gift_num": 34187,
+        "model": "Purple Pants (1.4%)",
+        "backdrop": "Roman Silver (2%)",
+        "symbol": "Viking (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T02:44:44.114Z",
+        "__v": 0,
+        "winningBid": 4.74,
+        "winningBidder": 1782024271
+      },
+      "export_at": "2025-08-06T09:30:11.000Z",
       "premarketData": {}
     },
     {
