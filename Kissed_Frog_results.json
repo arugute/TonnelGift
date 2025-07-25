@@ -14822,6 +14822,26 @@
   ],
   "Brownie": [
     {
+      "gift_num": 13698,
+      "customEmojiId": "5395704217816035384",
+      "gift_id": 7242073,
+      "name": "Kissed Frog",
+      "model": "Brownie (4%)",
+      "asset": "TON",
+      "symbol": "Sweets Box (0.4%)",
+      "backdrop": "Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 100,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T00:12:14.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12385,
       "customEmojiId": "5395704217816035384",
       "gift_id": 1685159,
@@ -14935,26 +14955,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T23:30:26.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 13698,
-      "customEmojiId": "5395704217816035384",
-      "gift_id": 7242073,
-      "name": "Kissed Frog",
-      "model": "Brownie (4%)",
-      "asset": "TON",
-      "symbol": "Sweets Box (0.4%)",
-      "backdrop": "Purple (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 45,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T00:12:14.000Z",
       "premarketData": {}
     },
     {
@@ -16854,6 +16854,151 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 2542,
+      "customEmojiId": "5413344430184754556",
+      "gift_id": 7374460,
+      "name": "Kissed Frog",
+      "model": "Prince Ribbit (1.5%)",
+      "asset": "TON",
+      "symbol": "Chocolate (0.6%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 101.85,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "EMA8JBQ2",
+      "auction": {
+        "_id": "6882a51aaace4cd2f63b4171",
+        "gift_id": 7374460,
+        "seller": 0,
+        "auction_id": "EMA8JBQ2",
+        "startingBid": 50,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 50,
+            "asset": "TON",
+            "_id": "6882dc46aace4cd2f64ba656",
+            "timestamp": "2025-07-25T01:22:14.803Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 52.5,
+            "asset": "TON",
+            "_id": "6882dc9baace4cd2f64ba7e7",
+            "timestamp": "2025-07-25T01:23:39.474Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 55.13,
+            "asset": "TON",
+            "_id": "6882dcc3aace4cd2f64ba8e0",
+            "timestamp": "2025-07-25T01:24:19.629Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 57.89,
+            "asset": "TON",
+            "_id": "6882dcd0aace4cd2f64ba91c",
+            "timestamp": "2025-07-25T01:24:32.032Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 60.78,
+            "asset": "TON",
+            "_id": "6882dce5aace4cd2f64ba993",
+            "timestamp": "2025-07-25T01:24:53.109Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 63.82,
+            "asset": "TON",
+            "_id": "6882e35daace4cd2f64c3e10",
+            "timestamp": "2025-07-25T01:52:29.188Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 67.01,
+            "asset": "TON",
+            "_id": "6882e369aace4cd2f64c3e68",
+            "timestamp": "2025-07-25T01:52:41.240Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 70.36,
+            "asset": "TON",
+            "_id": "6882e37aaace4cd2f64c3fac",
+            "timestamp": "2025-07-25T01:52:58.140Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 73.88,
+            "asset": "TON",
+            "_id": "6882e3f5aace4cd2f64c4bca",
+            "timestamp": "2025-07-25T01:55:01.914Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 77.57,
+            "asset": "TON",
+            "_id": "6882e42daace4cd2f64c4eb8",
+            "timestamp": "2025-07-25T01:55:57.616Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 81.45,
+            "asset": "TON",
+            "_id": "6882e43faace4cd2f64c4f49",
+            "timestamp": "2025-07-25T01:56:15.471Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 85.52,
+            "asset": "TON",
+            "_id": "6882e4cdaace4cd2f64c666b",
+            "timestamp": "2025-07-25T01:58:37.485Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 89.8,
+            "asset": "TON",
+            "_id": "6882e5adaace4cd2f64c7ac3",
+            "timestamp": "2025-07-25T02:02:21.857Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 97,
+            "asset": "TON",
+            "_id": "6882e648aace4cd2f64c8361",
+            "timestamp": "2025-07-25T02:04:56.171Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 101.85,
+            "asset": "TON",
+            "_id": "6882e671aace4cd2f64c84e2",
+            "timestamp": "2025-07-25T02:05:37.607Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T02:18:47.292Z",
+        "status": "finished",
+        "gift_name": "Kissed Frog",
+        "gift_num": 2542,
+        "model": "Prince Ribbit (1.5%)",
+        "backdrop": "Onyx Black (2%)",
+        "symbol": "Chocolate (0.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T01:18:50.312Z",
+        "__v": 0,
+        "winningBid": 101.85,
+        "winningBidder": 2143333859
+      },
+      "export_at": "2025-08-07T21:25:21.000Z",
       "premarketData": {}
     }
   ],
