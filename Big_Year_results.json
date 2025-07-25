@@ -1,6 +1,26 @@
 {
   "Van Gogh": [
     {
+      "gift_num": 46905,
+      "customEmojiId": "5242681396417295897",
+      "gift_id": 7380324,
+      "name": "Big Year",
+      "model": "Van Gogh (1.8%)",
+      "asset": "TON",
+      "symbol": "Bowler Hat (0.5%)",
+      "backdrop": "Rifle Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T10:51:06.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4220,
       "customEmojiId": "5242681396417295897",
       "gift_id": 7105566,
@@ -578,26 +598,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T18:34:47.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 22884,
-      "customEmojiId": "5242681396417295897",
-      "gift_id": 5692475,
-      "name": "Big Year",
-      "model": "Van Gogh (1.8%)",
-      "asset": "TON",
-      "symbol": "Chest (0.5%)",
-      "backdrop": "Silver Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 29,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-18T18:05:47.000Z",
       "premarketData": {}
     }
   ],
@@ -1687,6 +1687,26 @@
   ],
   "Freddy": [
     {
+      "gift_num": 8888,
+      "customEmojiId": "5413581426480150245",
+      "gift_id": 7362413,
+      "name": "Big Year",
+      "model": "Freddy (2.9%)",
+      "asset": "TON",
+      "symbol": "Love Letter (0.3%)",
+      "backdrop": "Fire Engine (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 90,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T06:14:57.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1001,
       "customEmojiId": "5413581426480150245",
       "gift_id": 7254677,
@@ -2264,26 +2284,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-23T12:08:50.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 29034,
-      "customEmojiId": "5413581426480150245",
-      "gift_id": 7096027,
-      "name": "Big Year",
-      "model": "Freddy (2.9%)",
-      "asset": "TON",
-      "symbol": "Spanner (0.4%)",
-      "backdrop": "Caramel (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T03:56:58.000Z",
       "premarketData": {}
     }
   ],
@@ -5602,26 +5602,6 @@
   ],
   "Fallout": [
     {
-      "gift_num": 8605,
-      "customEmojiId": "5242373185269168609",
-      "gift_id": 7372397,
-      "name": "Big Year",
-      "model": "Fallout (2.3%)",
-      "asset": "TON",
-      "symbol": "Cactus (0.3%)",
-      "backdrop": "Gunmetal (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-07T19:08:37.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 50783,
       "customEmojiId": "5242373185269168609",
       "gift_id": 7287085,
@@ -5639,6 +5619,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-01T19:06:35.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 8605,
+      "customEmojiId": "5242373185269168609",
+      "gift_id": 7372397,
+      "name": "Big Year",
+      "model": "Fallout (2.3%)",
+      "asset": "TON",
+      "symbol": "Cactus (0.3%)",
+      "backdrop": "Gunmetal (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T19:08:37.000Z",
       "premarketData": {}
     },
     {
@@ -8057,10 +8057,87 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
+      "price": 3.07,
+      "status": "auction",
       "limited": false,
-      "auction": null,
+      "auction_id": "6RFOVPON",
+      "auction": {
+        "_id": "68832271aace4cd2f69960b7",
+        "gift_id": 7374742,
+        "seller": 0,
+        "auction_id": "6RFOVPON",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68836223aace4cd2f6a6e9e7",
+            "timestamp": "2025-07-25T10:53:23.967Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "68836b90aace4cd2f6a84036",
+            "timestamp": "2025-07-25T11:33:36.846Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.3,
+            "asset": "TON",
+            "_id": "68836ba4aace4cd2f6a84291",
+            "timestamp": "2025-07-25T11:33:56.066Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "68836bf3aace4cd2f6a84871",
+            "timestamp": "2025-07-25T11:35:15.178Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.6,
+            "asset": "TON",
+            "_id": "68836c2faace4cd2f6a84c62",
+            "timestamp": "2025-07-25T11:36:15.074Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.73,
+            "asset": "TON",
+            "_id": "68836c39aace4cd2f6a84d1b",
+            "timestamp": "2025-07-25T11:36:25.233Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.92,
+            "asset": "TON",
+            "_id": "68836d1faace4cd2f6a8608e",
+            "timestamp": "2025-07-25T11:40:15.683Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.07,
+            "asset": "TON",
+            "_id": "68836d38aace4cd2f6a8630e",
+            "timestamp": "2025-07-25T11:40:40.408Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T11:56:41.482Z",
+        "status": "finished",
+        "gift_name": "Big Year",
+        "gift_num": 12985,
+        "model": "Nostradamus (2.3%)",
+        "backdrop": "Battleship Grey (1.2%)",
+        "symbol": "Beret (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T10:46:41.376Z",
+        "__v": 0,
+        "winningBid": 3.07,
+        "winningBidder": 782109744
+      },
       "export_at": "2025-08-07T21:54:25.000Z",
       "premarketData": {}
     },
@@ -8701,7 +8778,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2,
+      "price": 2.49,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -9290,6 +9367,26 @@
     }
   ],
   "Bikini Bottom": [
+    {
+      "gift_num": 29925,
+      "customEmojiId": "5341410565564690025",
+      "gift_id": 7363922,
+      "name": "Big Year",
+      "model": "Bikini Bottom (2.3%)",
+      "asset": "TON",
+      "symbol": "Calm Wolf (0.3%)",
+      "backdrop": "Gunmetal (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T09:02:36.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 36127,
       "customEmojiId": "5341410565564690025",
@@ -9959,26 +10056,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-01T07:36:15.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 44502,
-      "customEmojiId": "5341410565564690025",
-      "gift_id": 6943183,
-      "name": "Big Year",
-      "model": "Bikini Bottom (2.3%)",
-      "asset": "TON",
-      "symbol": "Sea Horse (0.5%)",
-      "backdrop": "Mustard (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-16T18:58:34.000Z",
       "premarketData": {}
     }
   ],
@@ -17030,6 +17107,26 @@
   ],
   "Pokeball": [
     {
+      "gift_num": 17218,
+      "customEmojiId": "5240390971962717341",
+      "gift_id": 7331300,
+      "name": "Big Year",
+      "model": "Pokeball (2.9%)",
+      "asset": "TON",
+      "symbol": "Crusader Cross (0.4%)",
+      "backdrop": "Onyx Black (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 14,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T21:07:31.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 29166,
       "customEmojiId": "5240390971962717341",
       "gift_id": 6927721,
@@ -17527,26 +17624,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-07T06:17:02.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 17218,
-      "customEmojiId": "5240390971962717341",
-      "gift_id": 7331300,
-      "name": "Big Year",
-      "model": "Pokeball (2.9%)",
-      "asset": "TON",
-      "symbol": "Crusader Cross (0.4%)",
-      "backdrop": "Onyx Black (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T21:07:31.000Z",
       "premarketData": {}
     },
     {
@@ -20642,6 +20719,26 @@
   ],
   "Big Brother": [
     {
+      "gift_num": 7541,
+      "customEmojiId": "5323781520110939107",
+      "gift_id": 7370629,
+      "name": "Big Year",
+      "model": "Big Brother (1.8%)",
+      "asset": "TON",
+      "symbol": "Dagger (0.5%)",
+      "backdrop": "Orange (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T17:03:09.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 29843,
       "customEmojiId": "5323781520110939107",
       "gift_id": 7240546,
@@ -21219,26 +21316,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-22T13:39:39.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 9441,
-      "customEmojiId": "5323781520110939107",
-      "gift_id": 7039081,
-      "name": "Big Year",
-      "model": "Big Brother (1.8%)",
-      "asset": "TON",
-      "symbol": "Cicada (0.2%)",
-      "backdrop": "Dark Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-20T20:19:25.000Z",
       "premarketData": {}
     }
   ],
