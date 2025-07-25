@@ -726,6 +726,60 @@
       "auction": null,
       "export_at": "2025-06-18T08:41:52.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 5967,
+      "customEmojiId": "5231371420382026954",
+      "gift_id": 7369455,
+      "name": "Genie Lamp",
+      "model": "Persian Dawn (3.5%)",
+      "asset": "TON",
+      "symbol": "Mountain Lion (0.8%)",
+      "backdrop": "Pacific Cyan (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 49.88,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "YYS0EP29",
+      "auction": {
+        "_id": "68825584aace4cd2f6adca06",
+        "gift_id": 7369455,
+        "seller": 0,
+        "auction_id": "YYS0EP29",
+        "startingBid": 47,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 47.5,
+            "asset": "TON",
+            "_id": "6882ad8faace4cd2f6423f23",
+            "timestamp": "2025-07-24T22:02:55.261Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 49.88,
+            "asset": "TON",
+            "_id": "6882b455aace4cd2f643f5de",
+            "timestamp": "2025-07-24T22:31:49.691Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T01:01:53.689Z",
+        "status": "finished",
+        "gift_name": "Genie Lamp",
+        "gift_num": 5967,
+        "model": "Persian Dawn (3.5%)",
+        "backdrop": "Pacific Cyan (2%)",
+        "symbol": "Mountain Lion (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-24T22:01:56.156Z",
+        "__v": 0,
+        "winningBid": 49.88,
+        "winningBidder": 7352255987
+      },
+      "export_at": "2025-08-07T15:46:46.000Z",
+      "premarketData": {}
     }
   ],
   "Snow Globe": [
