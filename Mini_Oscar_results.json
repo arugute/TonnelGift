@@ -2967,6 +2967,24 @@
   ],
   "Chieftain": [
     {
+      "gift_num": 1650,
+      "customEmojiId": "5233600624372769681",
+      "gift_id": 584161258868,
+      "name": "Mini Oscar",
+      "model": "Chieftain (1.5%)",
+      "asset": "TON",
+      "symbol": "Anchor (0.5%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 220.32,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 3477,
       "customEmojiId": "5233600624372769681",
       "gift_id": 589525041231,
@@ -3017,7 +3035,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 105,
+      "price": 100,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3744,6 +3762,53 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 40,
+      "customEmojiId": "5233397906211365024",
+      "gift_id": 7382833,
+      "name": "Mini Oscar",
+      "model": "Sprunki (1.5%)",
+      "asset": "TON",
+      "symbol": "Police Badge (0.5%)",
+      "backdrop": "Electric Purple (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 85,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ANXDZJIC",
+      "auction": {
+        "_id": "68838ee2aace4cd2f6b6c372",
+        "gift_id": 7382833,
+        "seller": 0,
+        "auction_id": "ANXDZJIC",
+        "startingBid": 85,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 85,
+            "asset": "TON",
+            "_id": "6883ba20aace4cd2f6dbad38",
+            "timestamp": "2025-07-25T17:08:48.193Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T20:04:18.244Z",
+        "status": "finished",
+        "gift_name": "Mini Oscar",
+        "gift_num": 40,
+        "model": "Sprunki (1.5%)",
+        "backdrop": "Electric Purple (1.5%)",
+        "symbol": "Police Badge (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T14:04:18.473Z",
+        "__v": 0,
+        "winningBid": 85,
+        "winningBidder": 5060964650
+      },
+      "export_at": "2025-08-08T14:03:45.000Z",
       "premarketData": {}
     }
   ],
