@@ -1123,26 +1123,6 @@
   ],
   "Blue Suede": [
     {
-      "gift_num": 19783,
-      "customEmojiId": "5319257648237927651",
-      "gift_id": 259883197595,
-      "name": "Valentine Box",
-      "model": "Blue Suede (3%)",
-      "asset": "TON",
-      "symbol": "Sakura Flower (0.4%)",
-      "backdrop": "Pine Green (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 3.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
       "gift_num": 19519,
       "customEmojiId": "5319257648237927651",
       "gift_id": 941079231811,
@@ -3323,6 +3303,32 @@
   ],
   "Sakura": [
     {
+      "gift_num": 569,
+      "customEmojiId": "5406962108782900255",
+      "gift_id": 180941650473,
+      "name": "Valentine Box",
+      "model": "Sakura (2%)",
+      "asset": "TON",
+      "symbol": "Rose Bud (0.7%)",
+      "backdrop": "Cobalt Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 225,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 1,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 5.9042,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-01T20:54:27.801Z"
+      }
+    },
+    {
       "gift_num": 13823,
       "customEmojiId": "5406962108782900255",
       "gift_id": 953894523686,
@@ -4912,26 +4918,6 @@
     }
   ],
   "Red Velvet": [
-    {
-      "gift_num": 10394,
-      "customEmojiId": "5316565043045756839",
-      "gift_id": 614300379128,
-      "name": "Valentine Box",
-      "model": "Red Velvet (3%)",
-      "asset": "TON",
-      "symbol": "Firebird (0.7%)",
-      "backdrop": "Celtic Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 3.75,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
     {
       "gift_num": 22252,
       "customEmojiId": "5316565043045756839",
@@ -7725,26 +7711,6 @@
   ],
   "Silver Blue": [
     {
-      "gift_num": 8963,
-      "customEmojiId": "5319139901709508617",
-      "gift_id": 428076381615,
-      "name": "Valentine Box",
-      "model": "Silver Blue (3%)",
-      "asset": "TON",
-      "symbol": "Snail (0.5%)",
-      "backdrop": "Malachite (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 3.79,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
-    },
-    {
       "gift_num": 1427,
       "customEmojiId": "5319139901709508617",
       "gift_id": 739479459416,
@@ -7977,26 +7943,6 @@
         "premarketLastSaleAsset": "TON",
         "premarketExecutionDeadline": "2025-08-08T14:52:51.179Z"
       }
-    },
-    {
-      "gift_num": 16368,
-      "customEmojiId": "5368448767672476798",
-      "gift_id": 484133840853,
-      "name": "Valentine Box",
-      "model": "Tartan (2.5%)",
-      "asset": "TON",
-      "symbol": "Bottlenose (0.4%)",
-      "backdrop": "Raspberry (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 4.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarket": true,
-      "premarketStage": 2,
-      "premarketData": {}
     },
     {
       "gift_num": 6040,
