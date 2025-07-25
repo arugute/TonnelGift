@@ -483,6 +483,26 @@
   ],
   "Fresh": [
     {
+      "gift_num": 21173,
+      "customEmojiId": "5418159685524021222",
+      "gift_id": 7375420,
+      "name": "Berry Box",
+      "model": "Fresh (2%)",
+      "asset": "TON",
+      "symbol": "Double Bed (1.1%)",
+      "backdrop": "Moonstone (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T23:13:49.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 19666,
       "customEmojiId": "5418159685524021222",
       "gift_id": 7066246,
@@ -6115,7 +6135,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 9.3,
+      "price": 8.9,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -13599,6 +13619,26 @@
   ],
   "Strobe": [
     {
+      "gift_num": 18907,
+      "customEmojiId": "5413510224512313229",
+      "gift_id": 7374739,
+      "name": "Berry Box",
+      "model": "Strobe (1%)",
+      "asset": "TON",
+      "symbol": "Mask (0.5%)",
+      "backdrop": "Mint Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5.89,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T21:53:54.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 17647,
       "customEmojiId": "5413510224512313229",
       "gift_id": 7336358,
@@ -15145,6 +15185,26 @@
   ],
   "Baubles": [
     {
+      "gift_num": 33857,
+      "customEmojiId": "5413664534097325484",
+      "gift_id": 6158022,
+      "name": "Berry Box",
+      "model": "Baubles (2%)",
+      "asset": "TON",
+      "symbol": "Paw (1.1%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-24T16:55:09.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1584,
       "customEmojiId": "5413664534097325484",
       "gift_id": 7255215,
@@ -15407,26 +15467,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 33857,
-      "customEmojiId": "5413664534097325484",
-      "gift_id": 6158022,
-      "name": "Berry Box",
-      "model": "Baubles (2%)",
-      "asset": "TON",
-      "symbol": "Paw (1.1%)",
-      "backdrop": "Onyx Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 12,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T16:55:09.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 17834,
       "customEmojiId": "5413664534097325484",
       "gift_id": 5364332,
@@ -15588,6 +15628,26 @@
     }
   ],
   "Foraged": [
+    {
+      "gift_num": 8968,
+      "customEmojiId": "5415834609273298812",
+      "gift_id": 7375983,
+      "name": "Berry Box",
+      "model": "Foraged (2%)",
+      "asset": "TON",
+      "symbol": "Grape (0.5%)",
+      "backdrop": "Hunter Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T00:58:25.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 39977,
       "customEmojiId": "5415834609273298812",
@@ -16126,6 +16186,88 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-21T10:39:44.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 8968,
+      "customEmojiId": "5415834609273298812",
+      "gift_id": 7375535,
+      "name": "Berry Box",
+      "model": "Foraged (2%)",
+      "asset": "TON",
+      "symbol": "Grape (0.5%)",
+      "backdrop": "Hunter Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4.33,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "V0KOMKS8",
+      "auction": {
+        "_id": "6882c105aace4cd2f647b568",
+        "gift_id": 7375535,
+        "seller": 0,
+        "auction_id": "V0KOMKS8",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6882c13caace4cd2f647c439",
+            "timestamp": "2025-07-24T23:26:52.908Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6882c14caace4cd2f647c4ee",
+            "timestamp": "2025-07-24T23:27:08.594Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.73,
+            "asset": "TON",
+            "_id": "6882c158aace4cd2f647c9b2",
+            "timestamp": "2025-07-24T23:27:20.775Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.92,
+            "asset": "TON",
+            "_id": "6882c9d3aace4cd2f64950e7",
+            "timestamp": "2025-07-25T00:03:31.816Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.12,
+            "asset": "TON",
+            "_id": "6882cd41aace4cd2f649dd20",
+            "timestamp": "2025-07-25T00:18:09.346Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.33,
+            "asset": "TON",
+            "_id": "6882d0e4aace4cd2f64a74e7",
+            "timestamp": "2025-07-25T00:33:40.305Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T00:45:56.887Z",
+        "status": "finished",
+        "gift_name": "Berry Box",
+        "gift_num": 8968,
+        "model": "Foraged (2%)",
+        "backdrop": "Hunter Green (2%)",
+        "symbol": "Grape (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-24T23:25:57.829Z",
+        "__v": 0,
+        "winningBid": 4.33,
+        "winningBidder": 5339572097
+      },
+      "export_at": "2025-08-07T23:25:48.000Z",
       "premarketData": {}
     },
     {
