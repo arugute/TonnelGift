@@ -3781,29 +3781,70 @@
       "auction": null,
       "export_at": "2025-05-31T16:05:22.000Z",
       "premarketData": {}
-    }
-  ],
-  "Frostbite": [
+    },
     {
-      "gift_num": 4812,
-      "customEmojiId": "5443155729466810581",
-      "gift_id": 7341022,
+      "gift_num": 7911,
+      "customEmojiId": "5449851635020882305",
+      "gift_id": 7382218,
       "name": "Mad Pumpkin",
-      "model": "Frostbite (1%)",
+      "model": "Cheshire Cat (2%)",
       "asset": "TON",
-      "symbol": "Flashlight (0.2%)",
-      "backdrop": "Coral Red (2%)",
+      "symbol": "Half Moon (2.4%)",
+      "backdrop": "Mystic Pearl (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 0,
-      "price": 19,
-      "status": "forsale",
+      "price": 17.64,
+      "status": "auction",
       "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T17:16:29.000Z",
+      "auction_id": "LQI13366",
+      "auction": {
+        "_id": "68838399aace4cd2f6abc239",
+        "gift_id": 7382218,
+        "seller": 0,
+        "auction_id": "LQI13366",
+        "startingBid": 16,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 16,
+            "asset": "TON",
+            "_id": "68838cb5aace4cd2f6b2133b",
+            "timestamp": "2025-07-25T13:55:01.519Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 16.8,
+            "asset": "TON",
+            "_id": "68838e19aace4cd2f6b4efd9",
+            "timestamp": "2025-07-25T14:00:57.232Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 17.64,
+            "asset": "TON",
+            "_id": "68838e3daace4cd2f6b5356b",
+            "timestamp": "2025-07-25T14:01:33.662Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T14:16:06.350Z",
+        "status": "finished",
+        "gift_name": "Mad Pumpkin",
+        "gift_num": 7911,
+        "model": "Cheshire Cat (2%)",
+        "backdrop": "Mystic Pearl (2%)",
+        "symbol": "Half Moon (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T13:16:09.118Z",
+        "__v": 0,
+        "winningBid": 17.64,
+        "winningBidder": 827124888
+      },
+      "export_at": "2025-08-08T13:15:12.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Frostbite": [
     {
       "gift_num": 9311,
       "customEmojiId": "5443155729466810581",
@@ -10081,6 +10122,53 @@
       "auction": null,
       "export_at": "2025-05-31T12:54:08.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 12153,
+      "customEmojiId": "5424753070208738822",
+      "gift_id": 7381490,
+      "name": "Mad Pumpkin",
+      "model": "Bee Movie (2%)",
+      "asset": "TON",
+      "symbol": "Flying Witch (2%)",
+      "backdrop": "Cyberpunk (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 16,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "6FKA39ZZ",
+      "auction": {
+        "_id": "688376fbaace4cd2f6a981b8",
+        "gift_id": 7381490,
+        "seller": 0,
+        "auction_id": "6FKA39ZZ",
+        "startingBid": 16,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 16,
+            "asset": "TON",
+            "_id": "68838000aace4cd2f6ab3775",
+            "timestamp": "2025-07-25T13:00:48.137Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T13:22:18.484Z",
+        "status": "finished",
+        "gift_name": "Mad Pumpkin",
+        "gift_num": 12153,
+        "model": "Bee Movie (2%)",
+        "backdrop": "Cyberpunk (2%)",
+        "symbol": "Flying Witch (2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T12:22:19.563Z",
+        "__v": 0,
+        "winningBid": 16,
+        "winningBidder": 435235660
+      },
+      "export_at": "2025-08-08T12:20:58.000Z",
+      "premarketData": {}
     }
   ],
   "Squashbuckler": [
@@ -10429,46 +10517,6 @@
     }
   ],
   "The Mocker": [
-    {
-      "gift_num": 5290,
-      "customEmojiId": "5433639546522723955",
-      "gift_id": 6394137,
-      "name": "Mad Pumpkin",
-      "model": "The Mocker (2%)",
-      "asset": "TON",
-      "symbol": "Illuminati (2.4%)",
-      "backdrop": "English Violet (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15.55,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-28T12:41:34.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 8378,
-      "customEmojiId": "5433639546522723955",
-      "gift_id": 7379073,
-      "name": "Mad Pumpkin",
-      "model": "The Mocker (2%)",
-      "asset": "TON",
-      "symbol": "Flipper (0.2%)",
-      "backdrop": "Ivory White (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T09:17:35.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 7600,
       "customEmojiId": "5433639546522723955",
@@ -12036,6 +12084,53 @@
       "auction": null,
       "export_at": "2025-06-15T19:48:01.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 8018,
+      "customEmojiId": "5436132693433672122",
+      "gift_id": 7379899,
+      "name": "Mad Pumpkin",
+      "model": "Let It Snow (3%)",
+      "asset": "TON",
+      "symbol": "Candle (2.4%)",
+      "backdrop": "Pacific Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 15,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "5GWXMCJT",
+      "auction": {
+        "_id": "68835d01aace4cd2f6a5df02",
+        "gift_id": 7379899,
+        "seller": 0,
+        "auction_id": "5GWXMCJT",
+        "startingBid": 15,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 15,
+            "asset": "TON",
+            "_id": "68836b48aace4cd2f6a839cb",
+            "timestamp": "2025-07-25T11:32:24.543Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T13:31:28.114Z",
+        "status": "finished",
+        "gift_name": "Mad Pumpkin",
+        "gift_num": 8018,
+        "model": "Let It Snow (3%)",
+        "backdrop": "Pacific Green (1.5%)",
+        "symbol": "Candle (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T10:31:29.103Z",
+        "__v": 0,
+        "winningBid": 15,
+        "winningBidder": 7352255987
+      },
+      "export_at": "2025-08-08T10:24:41.000Z",
+      "premarketData": {}
     }
   ],
   "Robotic": [
@@ -12341,6 +12436,26 @@
     }
   ],
   "Khinkali Boi": [
+    {
+      "gift_num": 16781,
+      "customEmojiId": "5222323775420261629",
+      "gift_id": 7168726,
+      "name": "Mad Pumpkin",
+      "model": "Khinkali Boi (1%)",
+      "asset": "TON",
+      "symbol": "Blood Drop (2.4%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 34,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T02:31:07.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 917,
       "customEmojiId": "5222323775420261629",
@@ -13115,6 +13230,26 @@
     }
   ],
   "Watermelon": [
+    {
+      "gift_num": 1164,
+      "customEmojiId": "5433727120905891436",
+      "gift_id": 7381894,
+      "name": "Mad Pumpkin",
+      "model": "Watermelon (3%)",
+      "asset": "TON",
+      "symbol": "Scarecrow (2%)",
+      "backdrop": "Cobalt Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 922468,
+      "price": 250,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T12:54:30.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 1164,
       "customEmojiId": "5433727120905891436",
