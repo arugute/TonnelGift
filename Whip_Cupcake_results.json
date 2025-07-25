@@ -20921,6 +20921,32 @@
   ],
   "Toncoin": [
     {
+      "gift_num": 29350,
+      "customEmojiId": "5188367828402598047",
+      "gift_id": 826436211322,
+      "name": "Whip Cupcake",
+      "model": "Toncoin (1%)",
+      "asset": "TON",
+      "symbol": "Loving Heart (0.4%)",
+      "backdrop": "Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 500,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarket": true,
+      "premarketStage": 2,
+      "premarketData": {
+        "premarketCollateralAmount": 13,
+        "premarketCollateralAsset": "TON",
+        "premarketLastSaleAmountPlusFee": 68.9,
+        "premarketLastSaleAsset": "TON",
+        "premarketExecutionDeadline": "2025-08-14T19:21:33.325Z"
+      }
+    },
+    {
       "gift_num": 31549,
       "customEmojiId": "5188367828402598047",
       "gift_id": 229258217076,
