@@ -6013,6 +6013,26 @@
   ],
   "Garnet": [
     {
+      "gift_num": 439,
+      "customEmojiId": "5397857993591117394",
+      "gift_id": 7314927,
+      "name": "Ion Gem",
+      "model": "Garnet (2%)",
+      "asset": "TON",
+      "symbol": "Yin-Yang (0.5%)",
+      "backdrop": "Mystic Pearl (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 922302,
+      "price": 350,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-03T17:56:19.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1028,
       "customEmojiId": "5397857993591117394",
       "gift_id": 584167245193,
@@ -6988,6 +7008,54 @@
     }
   ],
   "Redwood": [
+    {
+      "gift_num": 1881,
+      "customEmojiId": "5438502871135970265",
+      "gift_id": 7316888,
+      "name": "Ion Gem",
+      "model": "Redwood (2%)",
+      "asset": "TON",
+      "symbol": "Sword (0.5%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 136.66,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "KKDBWDS1",
+      "auction": {
+        "_id": "687de7adaace4cd2f609fa5b",
+        "gift_id": 7316888,
+        "seller": 0,
+        "auction_id": "KKDBWDS1",
+        "startingBid": 136.66,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 136.66,
+            "asset": "TON",
+            "_id": "68836108aace4cd2f6a6b375",
+            "timestamp": "2025-07-25T10:48:40.443Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T11:06:12.819Z",
+        "status": "finished",
+        "gift_name": "Ion Gem",
+        "gift_num": 1881,
+        "model": "Redwood (2%)",
+        "backdrop": "Onyx Black (1.5%)",
+        "symbol": "Sword (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T09:56:14.150Z",
+        "__v": 0,
+        "winningBid": 136.66,
+        "winningBidder": 1247991351
+      },
+      "export_at": "2025-08-03T20:27:08.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2362,
       "customEmojiId": "5438502871135970265",
