@@ -3886,6 +3886,26 @@
   ],
   "Frostbite": [
     {
+      "gift_num": 4812,
+      "customEmojiId": "5443155729466810581",
+      "gift_id": 7341022,
+      "name": "Mad Pumpkin",
+      "model": "Frostbite (1%)",
+      "asset": "TON",
+      "symbol": "Flashlight (0.2%)",
+      "backdrop": "Coral Red (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 923141,
+      "price": 999,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T17:16:29.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 9311,
       "customEmojiId": "5443155729466810581",
       "gift_id": 7139206,
@@ -4732,6 +4752,103 @@
   ],
   "Mandarin": [
     {
+      "gift_num": 16819,
+      "customEmojiId": "5222008241352895610",
+      "gift_id": 7374698,
+      "name": "Mad Pumpkin",
+      "model": "Mandarin (2%)",
+      "asset": "TON",
+      "symbol": "Moose Head (0.2%)",
+      "backdrop": "Coral Red (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16.26,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "FBYXI6XO",
+      "auction": {
+        "_id": "6883de22aace4cd2f6a4b064",
+        "gift_id": 7374698,
+        "seller": 0,
+        "auction_id": "FBYXI6XO",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.4,
+            "asset": "TON",
+            "_id": "6883efa7aace4cd2f6bfc282",
+            "timestamp": "2025-07-25T20:57:11.954Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.52,
+            "asset": "TON",
+            "_id": "6883f11faace4cd2f6c39844",
+            "timestamp": "2025-07-25T21:03:27.556Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "6883f26faace4cd2f6c66660",
+            "timestamp": "2025-07-25T21:09:03.229Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.5,
+            "asset": "TON",
+            "_id": "6883f2a8aace4cd2f6c6bec4",
+            "timestamp": "2025-07-25T21:10:00.751Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.03,
+            "asset": "TON",
+            "_id": "6883f4a6aace4cd2f6cbfa58",
+            "timestamp": "2025-07-25T21:18:30.632Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.75,
+            "asset": "TON",
+            "_id": "6883f512aace4cd2f6ccc6ac",
+            "timestamp": "2025-07-25T21:20:18.818Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15.49,
+            "asset": "TON",
+            "_id": "6883fc7aaace4cd2f6cfccc3",
+            "timestamp": "2025-07-25T21:51:54.052Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 16.26,
+            "asset": "TON",
+            "_id": "6883ff58aace4cd2f6d05db7",
+            "timestamp": "2025-07-25T22:04:08.229Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T22:16:12.724Z",
+        "status": "finished",
+        "gift_name": "Mad Pumpkin",
+        "gift_num": 16819,
+        "model": "Mandarin (2%)",
+        "backdrop": "Coral Red (2%)",
+        "symbol": "Moose Head (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T20:56:34.569Z",
+        "__v": 0,
+        "winningBid": 16.26,
+        "winningBidder": 1602658044
+      },
+      "export_at": "2025-08-07T21:49:29.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 7902,
       "customEmojiId": "5222008241352895610",
       "gift_id": 7386949,
@@ -5120,6 +5237,26 @@
     }
   ],
   "Spotlight": [
+    {
+      "gift_num": 16506,
+      "customEmojiId": "5222253471100596398",
+      "gift_id": 7362094,
+      "name": "Mad Pumpkin",
+      "model": "Spotlight (2%)",
+      "asset": "TON",
+      "symbol": "Spider Web (2.4%)",
+      "backdrop": "Raspberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 923140,
+      "price": 999,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T05:26:55.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 6599,
       "customEmojiId": "5222253471100596398",
@@ -11065,6 +11202,26 @@
     }
   ],
   "The Mocker": [
+    {
+      "gift_num": 5290,
+      "customEmojiId": "5433639546522723955",
+      "gift_id": 6394137,
+      "name": "Mad Pumpkin",
+      "model": "The Mocker (2%)",
+      "asset": "TON",
+      "symbol": "Illuminati (2.4%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 923143,
+      "price": 999,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-28T12:41:34.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 4404,
       "customEmojiId": "5433639546522723955",
