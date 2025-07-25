@@ -410,6 +410,26 @@
   ],
   "Blue Velvet": [
     {
+      "gift_num": 4335,
+      "customEmojiId": "5424841207232623934",
+      "gift_id": 7358096,
+      "name": "Nail Bracelet",
+      "model": "Blue Velvet (1%)",
+      "asset": "TON",
+      "symbol": "Coat of Arms (0.4%)",
+      "backdrop": "Copper (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 922821,
+      "price": 200,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T20:30:35.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 818,
       "customEmojiId": "5424841207232623934",
       "gift_id": 7373373,
@@ -427,26 +447,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-07T20:11:31.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4335,
-      "customEmojiId": "5424841207232623934",
-      "gift_id": 7358096,
-      "name": "Nail Bracelet",
-      "model": "Blue Velvet (1%)",
-      "asset": "TON",
-      "symbol": "Coat of Arms (0.4%)",
-      "backdrop": "Copper (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 922369,
-      "price": 220,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T20:30:35.000Z",
       "premarketData": {}
     },
     {
@@ -2998,6 +2998,26 @@
   ],
   "Nuclear Silo": [
     {
+      "gift_num": 2603,
+      "customEmojiId": "5357446977015539232",
+      "gift_id": 7277155,
+      "name": "Nail Bracelet",
+      "model": "Nuclear Silo (2%)",
+      "asset": "TON",
+      "symbol": "Shortsword (0.5%)",
+      "backdrop": "Light Olive (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 922823,
+      "price": 400,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-01T06:32:06.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 299,
       "customEmojiId": "5357446977015539232",
       "gift_id": 6341160,
@@ -3405,6 +3425,54 @@
     }
   ],
   "Jade Serpent": [
+    {
+      "gift_num": 3388,
+      "customEmojiId": "5307682642655734361",
+      "gift_id": 7369589,
+      "name": "Nail Bracelet",
+      "model": "Jade Serpent (3%)",
+      "asset": "TON",
+      "symbol": "Nemean Lion (0.5%)",
+      "backdrop": "Gunmetal (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 921590,
+      "price": 150,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "0HKNJT6O",
+      "auction": {
+        "_id": "6883af29aace4cd2f6d4028f",
+        "gift_id": 7369589,
+        "seller": 0,
+        "auction_id": "0HKNJT6O",
+        "startingBid": 150,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 150,
+            "asset": "TON",
+            "_id": "6883c87caace4cd2f60f2c18",
+            "timestamp": "2025-07-25T18:10:04.448Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T18:21:59.563Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 3388,
+        "model": "Jade Serpent (3%)",
+        "backdrop": "Gunmetal (1.2%)",
+        "symbol": "Nemean Lion (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T16:22:01.050Z",
+        "__v": 0,
+        "winningBid": 150,
+        "winningBidder": 2007038888
+      },
+      "export_at": "2025-08-07T15:56:59.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3340,
       "customEmojiId": "5307682642655734361",
