@@ -3241,6 +3241,26 @@
   ],
   "Plutonium": [
     {
+      "gift_num": 8063,
+      "customEmojiId": "5411381853468780140",
+      "gift_id": 7393775,
+      "name": "Mad Pumpkin",
+      "model": "Plutonium (3%)",
+      "asset": "TON",
+      "symbol": "Cauldron (1.6%)",
+      "backdrop": "Roman Silver (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T08:51:29.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6395,
       "customEmojiId": "5411381853468780140",
       "gift_id": 7385683,
@@ -4410,6 +4430,26 @@
   ],
   "Daredevil": [
     {
+      "gift_num": 17607,
+      "customEmojiId": "5431583979469823029",
+      "gift_id": 7392715,
+      "name": "Mad Pumpkin",
+      "model": "Daredevil (2%)",
+      "asset": "TON",
+      "symbol": "Crow (2.4%)",
+      "backdrop": "Light Olive (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T07:41:15.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 8406,
       "customEmojiId": "5431583979469823029",
       "gift_id": 7193231,
@@ -4427,26 +4467,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-27T11:59:01.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 17607,
-      "customEmojiId": "5431583979469823029",
-      "gift_id": 7392715,
-      "name": "Mad Pumpkin",
-      "model": "Daredevil (2%)",
-      "asset": "TON",
-      "symbol": "Crow (2.4%)",
-      "backdrop": "Light Olive (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 16.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T07:41:15.000Z",
       "premarketData": {}
     },
     {
@@ -4807,6 +4827,95 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T10:14:50.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 10977,
+      "customEmojiId": "5431583979469823029",
+      "gift_id": 7387371,
+      "name": "Mad Pumpkin",
+      "model": "Daredevil (2%)",
+      "asset": "TON",
+      "symbol": "Smartphone (0.2%)",
+      "backdrop": "Cyberpunk (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 15.63,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "W1QWYQ39",
+      "auction": {
+        "_id": "6883de38aace4cd2f6a4b26e",
+        "gift_id": 7387371,
+        "seller": 0,
+        "auction_id": "W1QWYQ39",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "6884913faace4cd2f607c08a",
+            "timestamp": "2025-07-26T08:26:39.039Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.5,
+            "asset": "TON",
+            "_id": "6884915aaace4cd2f6080892",
+            "timestamp": "2025-07-26T08:27:06.180Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.5,
+            "asset": "TON",
+            "_id": "6884935faace4cd2f60b6ff2",
+            "timestamp": "2025-07-26T08:35:43.346Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.5,
+            "asset": "TON",
+            "_id": "688493d3aace4cd2f60c1723",
+            "timestamp": "2025-07-26T08:37:39.848Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.18,
+            "asset": "TON",
+            "_id": "688493e7aace4cd2f60c3a1c",
+            "timestamp": "2025-07-26T08:37:59.916Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.89,
+            "asset": "TON",
+            "_id": "68849859aace4cd2f60e2151",
+            "timestamp": "2025-07-26T08:56:57.446Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15.63,
+            "asset": "TON",
+            "_id": "688498d6aace4cd2f60e3a5f",
+            "timestamp": "2025-07-26T08:59:02.678Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-26T09:25:30.968Z",
+        "status": "finished",
+        "gift_name": "Mad Pumpkin",
+        "gift_num": 10977,
+        "model": "Daredevil (2%)",
+        "backdrop": "Cyberpunk (2%)",
+        "symbol": "Smartphone (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-26T08:25:32.225Z",
+        "__v": 0,
+        "winningBid": 15.63,
+        "winningBidder": 1623799892
+      },
+      "export_at": "2025-08-08T19:41:06.000Z",
       "premarketData": {}
     }
   ],
@@ -6873,6 +6982,26 @@
     }
   ],
   "Jigsaw": [
+    {
+      "gift_num": 8614,
+      "customEmojiId": "5447419506710307698",
+      "gift_id": 7394649,
+      "name": "Mad Pumpkin",
+      "model": "Jigsaw (1%)",
+      "asset": "TON",
+      "symbol": "Moon (2.4%)",
+      "backdrop": "Cobalt Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 35,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T09:32:10.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 10770,
       "customEmojiId": "5447419506710307698",
@@ -9288,7 +9417,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 50,
+      "price": 30,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -9956,6 +10085,26 @@
     }
   ],
   "Ornament": [
+    {
+      "gift_num": 17174,
+      "customEmojiId": "5434079368353699769",
+      "gift_id": 7395857,
+      "name": "Mad Pumpkin",
+      "model": "Ornament (3%)",
+      "asset": "TON",
+      "symbol": "Voodoo Doll (1.6%)",
+      "backdrop": "Light Olive (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T10:09:59.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 7184,
       "customEmojiId": "5434079368353699769",
@@ -14217,7 +14366,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 16,
+      "price": 15.9,
       "status": "forsale",
       "limited": false,
       "auction": null,
