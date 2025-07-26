@@ -4044,26 +4044,6 @@
       "auction": null,
       "export_at": "2025-06-22T17:19:03.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 235,
-      "customEmojiId": "5443155729466810581",
-      "gift_id": 5136427,
-      "name": "Mad Pumpkin",
-      "model": "Frostbite (1%)",
-      "asset": "TON",
-      "symbol": "Evil Pumpkin (1.6%)",
-      "backdrop": "Azure Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 776413,
-      "price": 300,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-03T03:27:48.000Z",
-      "premarketData": {}
     }
   ],
   "Golden Boy": [
@@ -4080,7 +4060,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 15,
+      "price": 16.4,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -6231,6 +6211,60 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T14:16:30.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 202,
+      "customEmojiId": "5438114614682347576",
+      "gift_id": 7413821,
+      "name": "Mad Pumpkin",
+      "model": "Shamrock (3%)",
+      "asset": "TON",
+      "symbol": "Jaws (2.4%)",
+      "backdrop": "Pure Gold (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 15.3,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "R2QHLOHP",
+      "auction": {
+        "_id": "68851188450b5b469c64b7bd",
+        "gift_id": 7413821,
+        "seller": 0,
+        "auction_id": "R2QHLOHP",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 14,
+            "asset": "TON",
+            "_id": "688511bb450b5b469c64e199",
+            "timestamp": "2025-07-26T17:34:51.405Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15.3,
+            "asset": "TON",
+            "_id": "688512ff450b5b469c65e048",
+            "timestamp": "2025-07-26T17:40:15.911Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-26T18:33:58.187Z",
+        "status": "finished",
+        "gift_name": "Mad Pumpkin",
+        "gift_num": 202,
+        "model": "Shamrock (3%)",
+        "backdrop": "Pure Gold (1.5%)",
+        "symbol": "Jaws (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-26T17:34:00.229Z",
+        "__v": 0,
+        "winningBid": 15.3,
+        "winningBidder": 7352255987
+      },
+      "export_at": "2025-08-09T17:31:40.000Z",
       "premarketData": {}
     }
   ],
@@ -11580,6 +11614,26 @@
   ],
   "The Mocker": [
     {
+      "gift_num": 17649,
+      "customEmojiId": "5433639546522723955",
+      "gift_id": 7414530,
+      "name": "Mad Pumpkin",
+      "model": "The Mocker (2%)",
+      "asset": "TON",
+      "symbol": "Lollipop (1.6%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 21,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T17:58:02.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5290,
       "customEmojiId": "5433639546522723955",
       "gift_id": 6394137,
@@ -12010,6 +12064,26 @@
     }
   ],
   "Uranus": [
+    {
+      "gift_num": 10840,
+      "customEmojiId": "5422825025029824591",
+      "gift_id": 6750387,
+      "name": "Mad Pumpkin",
+      "model": "Uranus (2%)",
+      "asset": "TON",
+      "symbol": "Happy Smile (2.4%)",
+      "backdrop": "Pine Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 122,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-09T12:43:48.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 12237,
       "customEmojiId": "5422825025029824591",
@@ -15424,6 +15498,26 @@
     }
   ],
   "Flat Joke": [
+    {
+      "gift_num": 8609,
+      "customEmojiId": "5429190737793148892",
+      "gift_id": 7415363,
+      "name": "Mad Pumpkin",
+      "model": "Flat Joke (3%)",
+      "asset": "TON",
+      "symbol": "Gravestone (2.4%)",
+      "backdrop": "Raspberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T18:36:14.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 8215,
       "customEmojiId": "5429190737793148892",
