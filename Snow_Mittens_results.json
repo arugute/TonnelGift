@@ -3775,26 +3775,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 6264,
-      "customEmojiId": "5226714692285655982",
-      "gift_id": 5639280,
-      "name": "Snow Mittens",
-      "model": "Diamond Hands (0.4%)",
-      "asset": "TON",
-      "symbol": "Sparks (2%)",
-      "backdrop": "French Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 17.17,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-17T22:44:54.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 28241,
       "customEmojiId": "5226714692285655982",
       "gift_id": 7283511,
@@ -12573,6 +12553,61 @@
       "premarketData": {}
     },
     {
+      "gift_num": 15082,
+      "customEmojiId": "5226777321498768340",
+      "gift_id": 6836014,
+      "name": "Snow Mittens",
+      "model": "Lipstick (1.3%)",
+      "asset": "TON",
+      "symbol": "Dessert (2.4%)",
+      "backdrop": "Azure Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.41,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "4OP3HBNR",
+      "auction": {
+        "_id": "6884236aaace4cd2f6da800e",
+        "gift_id": 6836014,
+        "seller": 0,
+        "auction_id": "4OP3HBNR",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 3.25,
+            "asset": "TON",
+            "_id": "68843b8eaace4cd2f6ddb7d6",
+            "timestamp": "2025-07-26T02:21:02.271Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.41,
+            "asset": "TON",
+            "_id": "6884403baace4cd2f6de16e4",
+            "timestamp": "2025-07-26T02:40:59.286Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-26T03:38:01.215Z",
+        "status": "finished",
+        "gift_name": "Snow Mittens",
+        "gift_num": 15082,
+        "model": "Lipstick (1.3%)",
+        "backdrop": "Azure Blue (2%)",
+        "symbol": "Dessert (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-26T00:38:02.556Z",
+        "__v": 0,
+        "winningBid": 3.41,
+        "winningBidder": 7246949862
+      },
+      "export_at": "2025-07-13T07:39:17.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 21259,
       "customEmojiId": "5226777321498768340",
       "gift_id": 6895791,
@@ -13420,6 +13455,26 @@
     }
   ],
   "Champagne": [
+    {
+      "gift_num": 6260,
+      "customEmojiId": "5226691971908662132",
+      "gift_id": 7390669,
+      "name": "Snow Mittens",
+      "model": "Champagne (1.3%)",
+      "asset": "TON",
+      "symbol": "Winter House (2%)",
+      "backdrop": "Silver Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T03:02:15.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3759,
       "customEmojiId": "5226691971908662132",
@@ -17386,7 +17441,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 4.29,
+      "price": 4.2,
       "status": "forsale",
       "limited": false,
       "auction": null,
