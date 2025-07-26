@@ -23130,6 +23130,26 @@
   ],
   "Vintage Glam": [
     {
+      "gift_num": 12779,
+      "customEmojiId": "5271612485101711868",
+      "gift_id": 7159927,
+      "name": "Diamond Ring",
+      "model": "Vintage Glam (1.5%)",
+      "asset": "TON",
+      "symbol": "Gem (0.4%)",
+      "backdrop": "Fandango (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 29,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-25T16:42:36.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 825,
       "customEmojiId": "5271612485101711868",
       "gift_id": -191287770,
@@ -23615,26 +23635,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-29T22:13:09.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 12779,
-      "customEmojiId": "5271612485101711868",
-      "gift_id": 7159927,
-      "name": "Diamond Ring",
-      "model": "Vintage Glam (1.5%)",
-      "asset": "TON",
-      "symbol": "Gem (0.4%)",
-      "backdrop": "Fandango (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T16:42:36.000Z",
       "premarketData": {}
     },
     {
@@ -35093,6 +35093,26 @@
   ],
   "Black Amber": [
     {
+      "gift_num": 753,
+      "customEmojiId": "5271794840823163764",
+      "gift_id": 7386787,
+      "name": "Diamond Ring",
+      "model": "Black Amber (1.5%)",
+      "asset": "TON",
+      "symbol": "Tsunami (0.5%)",
+      "backdrop": "Satin Gold (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 21.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T18:57:45.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12611,
       "customEmojiId": "5271794840823163764",
       "gift_id": 587050193028,
@@ -35640,26 +35660,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T16:58:39.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 12641,
-      "customEmojiId": "5271794840823163764",
-      "gift_id": 6246976,
-      "name": "Diamond Ring",
-      "model": "Black Amber (1.5%)",
-      "asset": "TON",
-      "symbol": "Holy Grail (0.4%)",
-      "backdrop": "Satin Gold (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 44,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-25T17:52:51.000Z",
       "premarketData": {}
     }
   ],
@@ -38938,6 +38938,24 @@
     }
   ],
   "Black Thorn": [
+    {
+      "gift_num": 3543,
+      "customEmojiId": "5271533479178299084",
+      "gift_id": 587298141061,
+      "name": "Diamond Ring",
+      "model": "Black Thorn (0.5%)",
+      "asset": "TON",
+      "symbol": "Lovely Key (0.4%)",
+      "backdrop": "Caramel (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.794,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 13321,
       "customEmojiId": "5271533479178299084",
@@ -49977,6 +49995,61 @@
   ],
   "Pink Lover": [
     {
+      "gift_num": 6564,
+      "customEmojiId": "5271919420644555437",
+      "gift_id": 7361092,
+      "name": "Diamond Ring",
+      "model": "Pink Lover (0.5%)",
+      "asset": "TON",
+      "symbol": "Paper Crane (0.5%)",
+      "backdrop": "Pacific Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 18.9,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ZP0L7LBI",
+      "auction": {
+        "_id": "688408feaace4cd2f6d30c8a",
+        "gift_id": 7361092,
+        "seller": 0,
+        "auction_id": "ZP0L7LBI",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 18,
+            "asset": "TON",
+            "_id": "6884091aaace4cd2f6d31607",
+            "timestamp": "2025-07-25T22:45:46.837Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 18.9,
+            "asset": "TON",
+            "_id": "688418f2aace4cd2f6d8fe89",
+            "timestamp": "2025-07-25T23:53:22.969Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-26T01:45:17.297Z",
+        "status": "finished",
+        "gift_name": "Diamond Ring",
+        "gift_num": 6564,
+        "model": "Pink Lover (0.5%)",
+        "backdrop": "Pacific Green (2%)",
+        "symbol": "Paper Crane (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T22:45:18.697Z",
+        "__v": 0,
+        "winningBid": 18.9,
+        "winningBidder": 5879785081
+      },
+      "export_at": "2025-08-07T01:02:30.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 14024,
       "customEmojiId": "5271919420644555437",
       "gift_id": 587066325784,
@@ -50546,26 +50619,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-03-08T17:29:59.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4923,
-      "customEmojiId": "5271919420644555437",
-      "gift_id": 1747657,
-      "name": "Diamond Ring",
-      "model": "Pink Lover (0.5%)",
-      "asset": "TON",
-      "symbol": "PC Mouse (0.2%)",
-      "backdrop": "Light Olive (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 470337,
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-03-27T16:58:28.000Z",
       "premarketData": {}
     }
   ],
