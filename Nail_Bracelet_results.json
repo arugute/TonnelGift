@@ -184,6 +184,110 @@
       "premarketData": {}
     },
     {
+      "gift_num": 675,
+      "customEmojiId": "5330314165368152105",
+      "gift_id": 7020243,
+      "name": "Nail Bracelet",
+      "model": "Black Panther (1.5%)",
+      "asset": "TON",
+      "symbol": "Shark Knife (0.5%)",
+      "backdrop": "Dark Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 915086,
+      "price": 179.43,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ZIRQROS2",
+      "auction": {
+        "_id": "688402b2aace4cd2f6d11f26",
+        "gift_id": 7020243,
+        "seller": 0,
+        "auction_id": "ZIRQROS2",
+        "startingBid": 120,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 120,
+            "asset": "TON",
+            "_id": "68848d37aace4cd2f6fec639",
+            "timestamp": "2025-07-26T08:09:27.957Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 126,
+            "asset": "TON",
+            "_id": "6884b1e2aace4cd2f61ce8dc",
+            "timestamp": "2025-07-26T10:45:54.626Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 132.3,
+            "asset": "TON",
+            "_id": "6884b228aace4cd2f61d0235",
+            "timestamp": "2025-07-26T10:47:04.658Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 140,
+            "asset": "TON",
+            "_id": "6884bcac7251f98ebb6b250e",
+            "timestamp": "2025-07-26T11:31:56.100Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 147,
+            "asset": "TON",
+            "_id": "6884c02a7251f98ebb6c19f3",
+            "timestamp": "2025-07-26T11:46:50.369Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 155,
+            "asset": "TON",
+            "_id": "6884c0947251f98ebb6c4a96",
+            "timestamp": "2025-07-26T11:48:36.371Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 162.75,
+            "asset": "TON",
+            "_id": "6884c16b7251f98ebb6c8e30",
+            "timestamp": "2025-07-26T11:52:11.640Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 170.89,
+            "asset": "TON",
+            "_id": "6884c2517251f98ebb6cbd7e",
+            "timestamp": "2025-07-26T11:56:01.184Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 179.43,
+            "asset": "TON",
+            "_id": "6884c3053c57a0d458071eac",
+            "timestamp": "2025-07-26T11:59:01.386Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-26T12:12:07.707Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 675,
+        "model": "Black Panther (1.5%)",
+        "backdrop": "Dark Green (1.5%)",
+        "symbol": "Shark Knife (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-26T06:12:09.262Z",
+        "__v": 0,
+        "winningBid": 179.43,
+        "winningBidder": 147029543
+      },
+      "export_at": "2025-07-20T01:10:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1448,
       "customEmojiId": "5330314165368152105",
       "gift_id": 6326961,
