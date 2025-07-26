@@ -3818,7 +3818,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2.43,
+      "price": 2.31,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -4851,6 +4851,26 @@
     }
   ],
   "Red Sparkle": [
+    {
+      "gift_num": 1810,
+      "customEmojiId": "5231349000652742406",
+      "gift_id": 6601449,
+      "name": "Jingle Bells",
+      "model": "Red Sparkle (0.7%)",
+      "asset": "TON",
+      "symbol": "Melon (0.2%)",
+      "backdrop": "Indigo Dye (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-03T13:45:57.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 53031,
       "customEmojiId": "5231349000652742406",
@@ -9846,26 +9866,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 56962,
-      "customEmojiId": "5238138214371322415",
-      "gift_id": 7358900,
-      "name": "Jingle Bells",
-      "model": "Elsa Bell (1.1%)",
-      "asset": "TON",
-      "symbol": "Mittens (1.6%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T21:20:12.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 4305,
       "customEmojiId": "5238138214371322415",
       "gift_id": 7311828,
@@ -10303,6 +10303,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-03T20:15:23.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3336,
+      "customEmojiId": "5238138214371322415",
+      "gift_id": 4565023,
+      "name": "Jingle Bells",
+      "model": "Elsa Bell (1.1%)",
+      "asset": "TON",
+      "symbol": "Candy (2.4%)",
+      "backdrop": "Chocolate (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-05-22T20:01:13.000Z",
       "premarketData": {}
     }
   ],
@@ -11472,6 +11492,26 @@
   ],
   "Waffle Cone": [
     {
+      "gift_num": 35457,
+      "customEmojiId": "5231022866606089105",
+      "gift_id": 7412956,
+      "name": "Jingle Bells",
+      "model": "Waffle Cone (0.9%)",
+      "asset": "TON",
+      "symbol": "Cupcake (2%)",
+      "backdrop": "Fandango (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T16:52:12.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 14553,
       "customEmojiId": "5231022866606089105",
       "gift_id": 7384216,
@@ -12050,207 +12090,6 @@
       "auction": null,
       "export_at": "2025-05-12T19:57:45.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 38385,
-      "customEmojiId": "5231022866606089105",
-      "gift_id": 7366681,
-      "name": "Jingle Bells",
-      "model": "Waffle Cone (0.9%)",
-      "asset": "TON",
-      "symbol": "Hot Drink (2.4%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 9.31,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "ZMV2AITR",
-      "auction": {
-        "_id": "688227a7aace4cd2f6803060",
-        "gift_id": 7366681,
-        "seller": 0,
-        "auction_id": "ZMV2AITR",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6882282caace4cd2f6805710",
-            "timestamp": "2025-07-24T12:33:48.458Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68822ad0aace4cd2f6811693",
-            "timestamp": "2025-07-24T12:45:04.697Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "68822b46aace4cd2f68139d2",
-            "timestamp": "2025-07-24T12:47:02.566Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "68822d21aace4cd2f681acc5",
-            "timestamp": "2025-07-24T12:54:57.765Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.44,
-            "asset": "TON",
-            "_id": "68822d5baace4cd2f681c6d8",
-            "timestamp": "2025-07-24T12:55:55.715Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.56,
-            "asset": "TON",
-            "_id": "68822e02aace4cd2f681fb47",
-            "timestamp": "2025-07-24T12:58:42.848Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.69,
-            "asset": "TON",
-            "_id": "68822e9baace4cd2f68232c9",
-            "timestamp": "2025-07-24T13:01:15.535Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "6882302aaace4cd2f682967d",
-            "timestamp": "2025-07-24T13:07:54.109Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "68823525aace4cd2f6855912",
-            "timestamp": "2025-07-24T13:29:09.092Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "68823b16aace4cd2f68d3173",
-            "timestamp": "2025-07-24T13:54:30.723Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.48,
-            "asset": "TON",
-            "_id": "68823c91aace4cd2f68f1157",
-            "timestamp": "2025-07-24T14:00:49.216Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "68823cabaace4cd2f68f329d",
-            "timestamp": "2025-07-24T14:01:15.754Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "688247f8aace4cd2f69bb05f",
-            "timestamp": "2025-07-24T14:49:28.400Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.51,
-            "asset": "TON",
-            "_id": "6882488daace4cd2f69c2364",
-            "timestamp": "2025-07-24T14:51:57.346Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.3,
-            "asset": "TON",
-            "_id": "688249f5aace4cd2f69f86b2",
-            "timestamp": "2025-07-24T14:57:57.856Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.62,
-            "asset": "TON",
-            "_id": "68824a29aace4cd2f6a024d0",
-            "timestamp": "2025-07-24T14:58:49.380Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6.95,
-            "asset": "TON",
-            "_id": "68824dadaace4cd2f6a74344",
-            "timestamp": "2025-07-24T15:13:49.343Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.3,
-            "asset": "TON",
-            "_id": "68824f33aace4cd2f6a96103",
-            "timestamp": "2025-07-24T15:20:19.119Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.67,
-            "asset": "TON",
-            "_id": "68824f49aace4cd2f6a97d78",
-            "timestamp": "2025-07-24T15:20:41.993Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.05,
-            "asset": "TON",
-            "_id": "68824fdfaace4cd2f6a9feac",
-            "timestamp": "2025-07-24T15:23:11.870Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.45,
-            "asset": "TON",
-            "_id": "68824ffcaace4cd2f6aa1e87",
-            "timestamp": "2025-07-24T15:23:40.108Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.87,
-            "asset": "TON",
-            "_id": "68825097aace4cd2f6aaa90f",
-            "timestamp": "2025-07-24T15:26:15.549Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 9.31,
-            "asset": "TON",
-            "_id": "688250c2aace4cd2f6aacd9e",
-            "timestamp": "2025-07-24T15:26:58.772Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-24T15:41:35.528Z",
-        "status": "finished",
-        "gift_name": "Jingle Bells",
-        "gift_num": 38385,
-        "model": "Waffle Cone (0.9%)",
-        "backdrop": "Black (2%)",
-        "symbol": "Hot Drink (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-24T12:31:35.899Z",
-        "__v": 0,
-        "winningBid": 9.31,
-        "winningBidder": 775925583
-      },
-      "export_at": "2025-08-07T12:25:56.000Z",
-      "premarketData": {}
     }
   ],
   "Topsoil": [
@@ -12556,6 +12395,46 @@
     }
   ],
   "Meadow": [
+    {
+      "gift_num": 45999,
+      "customEmojiId": "5237784115792600582",
+      "gift_id": 7393894,
+      "name": "Jingle Bells",
+      "model": "Meadow (1.5%)",
+      "asset": "TON",
+      "symbol": "Cookie (2.4%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T08:56:13.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 58651,
+      "customEmojiId": "5237784115792600582",
+      "gift_id": 7411113,
+      "name": "Jingle Bells",
+      "model": "Meadow (1.5%)",
+      "asset": "TON",
+      "symbol": "Chest (2%)",
+      "backdrop": "Raspberry (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.6,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T15:53:19.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 53215,
       "customEmojiId": "5237784115792600582",
@@ -13114,46 +12993,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T19:15:23.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 10723,
-      "customEmojiId": "5237784115792600582",
-      "gift_id": 6094066,
-      "name": "Jingle Bells",
-      "model": "Meadow (1.5%)",
-      "asset": "TON",
-      "symbol": "Candle (1.6%)",
-      "backdrop": "Electric Indigo (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T07:49:46.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 50945,
-      "customEmojiId": "5237784115792600582",
-      "gift_id": 5813906,
-      "name": "Jingle Bells",
-      "model": "Meadow (1.5%)",
-      "asset": "TON",
-      "symbol": "Chest (2%)",
-      "backdrop": "Midnight Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 18,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-21T11:24:52.000Z",
       "premarketData": {}
     }
   ],
@@ -15574,6 +15413,46 @@
     }
   ],
   "Peppermint": [
+    {
+      "gift_num": 11466,
+      "customEmojiId": "5237705487826312580",
+      "gift_id": 7376498,
+      "name": "Jingle Bells",
+      "model": "Peppermint (1.3%)",
+      "asset": "TON",
+      "symbol": "Sharp Sword (0.2%)",
+      "backdrop": "Mint Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T03:54:06.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 2209,
+      "customEmojiId": "5237705487826312580",
+      "gift_id": 7410860,
+      "name": "Jingle Bells",
+      "model": "Peppermint (1.3%)",
+      "asset": "TON",
+      "symbol": "Snowman (2.4%)",
+      "backdrop": "Grape (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T15:48:03.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 58894,
       "customEmojiId": "5237705487826312580",
@@ -19106,6 +18985,26 @@
     }
   ],
   "Galaxy": [
+    {
+      "gift_num": 51298,
+      "customEmojiId": "5228941881936732761",
+      "gift_id": 7382155,
+      "name": "Jingle Bells",
+      "model": "Galaxy (0.5%)",
+      "asset": "TON",
+      "symbol": "Santa Hat (2%)",
+      "backdrop": "Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.02,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T13:10:36.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 25959,
       "customEmojiId": "5228941881936732761",
@@ -22925,6 +22824,26 @@
   ],
   "Conductive": [
     {
+      "gift_num": 10353,
+      "customEmojiId": "5231158243975261093",
+      "gift_id": 7376488,
+      "name": "Jingle Bells",
+      "model": "Conductive (0.5%)",
+      "asset": "TON",
+      "symbol": "Phoenix (0.2%)",
+      "backdrop": "Mystic Pearl (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T03:50:57.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5666,
       "customEmojiId": "5231158243975261093",
       "gift_id": 7376493,
@@ -22962,26 +22881,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-07T17:39:01.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 10353,
-      "customEmojiId": "5231158243975261093",
-      "gift_id": 7376488,
-      "name": "Jingle Bells",
-      "model": "Conductive (0.5%)",
-      "asset": "TON",
-      "symbol": "Phoenix (0.2%)",
-      "backdrop": "Mystic Pearl (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.42,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T03:50:57.000Z",
       "premarketData": {}
     },
     {
@@ -23552,6 +23451,26 @@
   ],
   "Silver Bells": [
     {
+      "gift_num": 55731,
+      "customEmojiId": "5231034750780597540",
+      "gift_id": 7410857,
+      "name": "Jingle Bells",
+      "model": "Silver Bells (0.9%)",
+      "asset": "TON",
+      "symbol": "Cupcake (2%)",
+      "backdrop": "Pacific Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.35,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T15:48:01.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 54715,
       "customEmojiId": "5231034750780597540",
       "gift_id": 7360381,
@@ -23931,26 +23850,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-09T14:29:08.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7777,
-      "customEmojiId": "5231278047793014081",
-      "gift_id": 6456753,
-      "name": "Jingle Bells",
-      "model": "Liquid Glass (0.7%)",
-      "asset": "TON",
-      "symbol": "Gift Box (2.4%)",
-      "backdrop": "Malachite (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 50,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-29T18:54:45.000Z",
       "premarketData": {}
     },
     {
@@ -26150,6 +26049,26 @@
   ],
   "Berry Bell": [
     {
+      "gift_num": 15539,
+      "customEmojiId": "5231115088143869056",
+      "gift_id": 7412102,
+      "name": "Jingle Bells",
+      "model": "Berry Bell (0.9%)",
+      "asset": "TON",
+      "symbol": "Dessert (2.4%)",
+      "backdrop": "Hunter Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T16:20:21.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 22100,
       "customEmojiId": "5231115088143869056",
       "gift_id": 5594096,
@@ -26728,29 +26647,29 @@
       "auction": null,
       "export_at": "2025-06-24T13:16:58.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Scarlet Leaf": [
     {
-      "gift_num": 24937,
-      "customEmojiId": "5231115088143869056",
-      "gift_id": 5314341,
+      "gift_num": 60036,
+      "customEmojiId": "5238110099515399780",
+      "gift_id": 7411706,
       "name": "Jingle Bells",
-      "model": "Berry Bell (0.9%)",
+      "model": "Scarlet Leaf (1.3%)",
       "asset": "TON",
-      "symbol": "Piggy Bank (1.6%)",
-      "backdrop": "Neon Blue (1.5%)",
+      "symbol": "Santa Hat (2%)",
+      "backdrop": "Roman Silver (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 10,
+      "price": 3,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-06-08T14:20:24.000Z",
+      "export_at": "2025-08-09T16:07:36.000Z",
       "premarketData": {}
-    }
-  ],
-  "Scarlet Leaf": [
+    },
     {
       "gift_num": 56567,
       "customEmojiId": "5238110099515399780",
@@ -27329,26 +27248,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T03:30:33.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 14880,
-      "customEmojiId": "5238110099515399780",
-      "gift_id": 1681603,
-      "name": "Jingle Bells",
-      "model": "Scarlet Leaf (1.3%)",
-      "asset": "TON",
-      "symbol": "Magic Wand (2.4%)",
-      "backdrop": "Caramel (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-03-26T10:40:57.000Z",
       "premarketData": {}
     }
   ],
@@ -28398,6 +28297,26 @@
   ],
   "Teal Rust": [
     {
+      "gift_num": 44390,
+      "customEmojiId": "5237807463234822741",
+      "gift_id": 7409530,
+      "name": "Jingle Bells",
+      "model": "Teal Rust (1.4%)",
+      "asset": "TON",
+      "symbol": "New Year's Eve (2%)",
+      "backdrop": "Ivory White (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.22,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T15:09:51.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 53078,
       "customEmojiId": "5237807463234822741",
       "gift_id": 7148943,
@@ -29003,26 +28922,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T19:20:34.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6703,
-      "customEmojiId": "5237807463234822741",
-      "gift_id": 6103741,
-      "name": "Jingle Bells",
-      "model": "Teal Rust (1.4%)",
-      "asset": "TON",
-      "symbol": "Mistletoe (2.4%)",
-      "backdrop": "Strawberry (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T09:31:32.000Z",
       "premarketData": {}
     }
   ],
@@ -32824,6 +32723,26 @@
   ],
   "Gamer Color": [
     {
+      "gift_num": 57446,
+      "customEmojiId": "5235607976122806189",
+      "gift_id": 7324261,
+      "name": "Jingle Bells",
+      "model": "Gamer Color (1.5%)",
+      "asset": "TON",
+      "symbol": "Gift Box (2.4%)",
+      "backdrop": "Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T11:44:26.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 49499,
       "customEmojiId": "5235607976122806189",
       "gift_id": 7380613,
@@ -32909,26 +32828,6 @@
         "winningBidder": 7116637634
       },
       "export_at": "2025-08-06T19:20:35.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 57446,
-      "customEmojiId": "5235607976122806189",
-      "gift_id": 7324261,
-      "name": "Jingle Bells",
-      "model": "Gamer Color (1.5%)",
-      "asset": "TON",
-      "symbol": "Gift Box (2.4%)",
-      "backdrop": "Purple (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T11:44:26.000Z",
       "premarketData": {}
     },
     {
@@ -39615,6 +39514,26 @@
   ],
   "Hypno Swirl": [
     {
+      "gift_num": 33204,
+      "customEmojiId": "5229191011514740327",
+      "gift_id": 7410861,
+      "name": "Jingle Bells",
+      "model": "Hypno Swirl (1.1%)",
+      "asset": "TON",
+      "symbol": "Star (2.4%)",
+      "backdrop": "Aquamarine (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T15:48:06.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12451,
       "customEmojiId": "5229191011514740327",
       "gift_id": 7209748,
@@ -40960,6 +40879,26 @@
     }
   ],
   "Nightshade": [
+    {
+      "gift_num": 8270,
+      "customEmojiId": "5237834568773427872",
+      "gift_id": 7406975,
+      "name": "Jingle Bells",
+      "model": "Nightshade (1.4%)",
+      "asset": "TON",
+      "symbol": "Coin Purse (1.6%)",
+      "backdrop": "Battleship Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.17,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T14:01:05.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 13904,
       "customEmojiId": "5237834568773427872",
@@ -42535,7 +42474,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2.14,
+      "price": 2.1,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -43542,6 +43481,46 @@
     }
   ],
   "New Blooms": [
+    {
+      "gift_num": 54434,
+      "customEmojiId": "5237891013233633885",
+      "gift_id": 7393056,
+      "name": "Jingle Bells",
+      "model": "New Blooms (0.4%)",
+      "asset": "TON",
+      "symbol": "White Deer (2.4%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.65,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T08:05:01.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 51077,
+      "customEmojiId": "5237891013233633885",
+      "gift_id": 5795737,
+      "name": "Jingle Bells",
+      "model": "New Blooms (0.4%)",
+      "asset": "TON",
+      "symbol": "Sparks (2.4%)",
+      "backdrop": "Cobalt Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-20T20:58:21.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 34138,
       "customEmojiId": "5237891013233633885",
@@ -44769,6 +44748,26 @@
   ],
   "White Gold": [
     {
+      "gift_num": 23747,
+      "customEmojiId": "5237718686260814009",
+      "gift_id": 7376893,
+      "name": "Jingle Bells",
+      "model": "White Gold (1.5%)",
+      "asset": "TON",
+      "symbol": "Jingle Bell (2.4%)",
+      "backdrop": "French Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T05:31:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 36235,
       "customEmojiId": "5237718686260814009",
       "gift_id": 7390113,
@@ -44786,26 +44785,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-09T00:28:05.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 23747,
-      "customEmojiId": "5237718686260814009",
-      "gift_id": 7376893,
-      "name": "Jingle Bells",
-      "model": "White Gold (1.5%)",
-      "asset": "TON",
-      "symbol": "Jingle Bell (2.4%)",
-      "backdrop": "French Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T05:31:16.000Z",
       "premarketData": {}
     },
     {
@@ -47081,6 +47060,26 @@
   ],
   "Crimson Steel": [
     {
+      "gift_num": 48353,
+      "customEmojiId": "5235954665882937901",
+      "gift_id": 7279951,
+      "name": "Jingle Bells",
+      "model": "Crimson Steel (1.4%)",
+      "asset": "TON",
+      "symbol": "Nordic Wolf (1.6%)",
+      "backdrop": "Raspberry (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-01T10:50:13.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3019,
       "customEmojiId": "5235954665882937901",
       "gift_id": 5763364,
@@ -47238,26 +47237,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-05T14:45:05.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 48353,
-      "customEmojiId": "5235954665882937901",
-      "gift_id": 7279951,
-      "name": "Jingle Bells",
-      "model": "Crimson Steel (1.4%)",
-      "asset": "TON",
-      "symbol": "Nordic Wolf (1.6%)",
-      "backdrop": "Raspberry (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-01T10:50:13.000Z",
       "premarketData": {}
     },
     {
