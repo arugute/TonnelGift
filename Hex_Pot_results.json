@@ -30328,6 +30328,26 @@
   ],
   "Backstroke": [
     {
+      "gift_num": 46483,
+      "customEmojiId": "5431611776498165282",
+      "gift_id": 7390650,
+      "name": "Hex Pot",
+      "model": "Backstroke (0.8%)",
+      "asset": "TON",
+      "symbol": "Grim Reaper (2.4%)",
+      "backdrop": "Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T02:53:58.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 13948,
       "customEmojiId": "5431611776498165282",
       "gift_id": 7376216,
@@ -30505,6 +30525,53 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-07T15:10:19.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 46483,
+      "customEmojiId": "5431611776498165282",
+      "gift_id": 7381072,
+      "name": "Hex Pot",
+      "model": "Backstroke (0.8%)",
+      "asset": "TON",
+      "symbol": "Grim Reaper (2.4%)",
+      "backdrop": "Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "HWTQOGE3",
+      "auction": {
+        "_id": "68836fdeaace4cd2f6a8d6c5",
+        "gift_id": 7381072,
+        "seller": 0,
+        "auction_id": "HWTQOGE3",
+        "startingBid": 5.9,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 6,
+            "asset": "TON",
+            "_id": "68844099aace4cd2f6de1ec2",
+            "timestamp": "2025-07-26T02:42:33.190Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-26T02:52:38.797Z",
+        "status": "finished",
+        "gift_name": "Hex Pot",
+        "gift_num": 46483,
+        "model": "Backstroke (0.8%)",
+        "backdrop": "Purple (2%)",
+        "symbol": "Grim Reaper (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T20:42:40.473Z",
+        "__v": 0,
+        "winningBid": 6,
+        "winningBidder": 5147196806
+      },
+      "export_at": "2025-08-08T11:51:14.000Z",
       "premarketData": {}
     },
     {
