@@ -939,7 +939,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 66,
+      "price": 60,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -2481,6 +2481,26 @@
     }
   ],
   "Verdant Vial": [
+    {
+      "gift_num": 4096,
+      "customEmojiId": "5431742176000240420",
+      "gift_id": 7244473,
+      "name": "Magic Potion",
+      "model": "Verdant Vial (1.5%)",
+      "asset": "TON",
+      "symbol": "Cauldron (2%)",
+      "backdrop": "Indigo Dye (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 75,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T06:55:17.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 4230,
       "customEmojiId": "5431742176000240420",
