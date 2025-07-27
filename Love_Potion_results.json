@@ -1,6 +1,26 @@
 {
   "Juliet": [
     {
+      "gift_num": 264,
+      "customEmojiId": "5287788375615499081",
+      "gift_id": 7430503,
+      "name": "Love Potion",
+      "model": "Juliet (2.5%)",
+      "asset": "TON",
+      "symbol": "Old Candle (0.5%)",
+      "backdrop": "Orange (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T12:59:10.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 10212,
       "customEmojiId": "5287788375615499081",
       "gift_id": 7428278,
@@ -578,26 +598,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-08T11:57:58.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4913,
-      "customEmojiId": "5287788375615499081",
-      "gift_id": 6615185,
-      "name": "Love Potion",
-      "model": "Juliet (2.5%)",
-      "asset": "TON",
-      "symbol": "Bunny (0.2%)",
-      "backdrop": "Chestnut (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-03T21:46:39.000Z",
       "premarketData": {}
     }
   ],
@@ -6091,6 +6091,144 @@
       "auction": null,
       "export_at": "2025-04-20T21:28:50.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 19220,
+      "customEmojiId": "5289878688953819208",
+      "gift_id": 7427682,
+      "name": "Love Potion",
+      "model": "Astral Guide (0.5%)",
+      "asset": "TON",
+      "symbol": "Ouroboros (0.5%)",
+      "backdrop": "Dark Lilac (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 18,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "X6LPR9LT",
+      "auction": {
+        "_id": "6885ff57450b5b469c58aa6e",
+        "gift_id": 7427682,
+        "seller": 0,
+        "auction_id": "X6LPR9LT",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6885ff91450b5b469c591d51",
+            "timestamp": "2025-07-27T10:29:37.793Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.99,
+            "asset": "TON",
+            "_id": "68860045450b5b469c5a86cb",
+            "timestamp": "2025-07-27T10:32:37.981Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.49,
+            "asset": "TON",
+            "_id": "68860216450b5b469c5e949c",
+            "timestamp": "2025-07-27T10:40:22.680Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.01,
+            "asset": "TON",
+            "_id": "6886026e450b5b469c5f465b",
+            "timestamp": "2025-07-27T10:41:50.171Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.56,
+            "asset": "TON",
+            "_id": "688602aa450b5b469c5fadee",
+            "timestamp": "2025-07-27T10:42:50.706Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.14,
+            "asset": "TON",
+            "_id": "688602d5450b5b469c60029b",
+            "timestamp": "2025-07-27T10:43:33.555Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.75,
+            "asset": "TON",
+            "_id": "688602f7450b5b469c603fde",
+            "timestamp": "2025-07-27T10:44:07.797Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.39,
+            "asset": "TON",
+            "_id": "68860994450b5b469c74aac9",
+            "timestamp": "2025-07-27T11:12:20.681Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.06,
+            "asset": "TON",
+            "_id": "68860c65450b5b469c7d81c1",
+            "timestamp": "2025-07-27T11:24:21.260Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.76,
+            "asset": "TON",
+            "_id": "68860c76450b5b469c7d9bf3",
+            "timestamp": "2025-07-27T11:24:38.592Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15.5,
+            "asset": "TON",
+            "_id": "68860c89450b5b469c7dca66",
+            "timestamp": "2025-07-27T11:24:57.722Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 16.28,
+            "asset": "TON",
+            "_id": "68860cc3450b5b469c7e7531",
+            "timestamp": "2025-07-27T11:25:55.854Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 17.09,
+            "asset": "TON",
+            "_id": "68860d2e450b5b469c7fdcaf",
+            "timestamp": "2025-07-27T11:27:42.170Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 18,
+            "asset": "TON",
+            "_id": "68860efb450b5b469c8274fc",
+            "timestamp": "2025-07-27T11:35:23.661Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-27T11:48:38.551Z",
+        "status": "finished",
+        "gift_name": "Love Potion",
+        "gift_num": 19220,
+        "model": "Astral Guide (0.5%)",
+        "backdrop": "Dark Lilac (1.5%)",
+        "symbol": "Ouroboros (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-27T10:28:39.472Z",
+        "__v": 0,
+        "winningBid": 18,
+        "winningBidder": 2014039904
+      },
+      "export_at": "2025-08-10T10:28:12.000Z",
+      "premarketData": {}
     }
   ],
   "Jinx Tonic": [
@@ -10356,6 +10494,26 @@
   ],
   "Sour Cider": [
     {
+      "gift_num": 5638,
+      "customEmojiId": "5285406373868238076",
+      "gift_id": 7419525,
+      "name": "Love Potion",
+      "model": "Sour Cider (2.5%)",
+      "asset": "TON",
+      "symbol": "Pearl (0.5%)",
+      "backdrop": "Malachite (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T21:53:56.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3052,
       "customEmojiId": "5285406373868238076",
       "gift_id": 7340981,
@@ -13750,6 +13908,26 @@
   ],
   "Royal Spritz": [
     {
+      "gift_num": 7246,
+      "customEmojiId": "5287295790111285594",
+      "gift_id": 7394023,
+      "name": "Love Potion",
+      "model": "Royal Spritz (2.5%)",
+      "asset": "TON",
+      "symbol": "Cherry (0.5%)",
+      "backdrop": "Sapphire (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 13,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T09:02:15.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2006,
       "customEmojiId": "5287295790111285594",
       "gift_id": 7426052,
@@ -13762,7 +13940,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 30,
+      "price": 35,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -13827,26 +14005,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-21T13:12:51.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7246,
-      "customEmojiId": "5287295790111285594",
-      "gift_id": 7394023,
-      "name": "Love Potion",
-      "model": "Royal Spritz (2.5%)",
-      "asset": "TON",
-      "symbol": "Cherry (0.5%)",
-      "backdrop": "Sapphire (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 14.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T09:02:15.000Z",
       "premarketData": {}
     },
     {
@@ -15160,6 +15318,26 @@
   ],
   "Paint Bottle": [
     {
+      "gift_num": 19670,
+      "customEmojiId": "5276492873620021661",
+      "gift_id": 7429634,
+      "name": "Love Potion",
+      "model": "Paint Bottle (1.5%)",
+      "asset": "TON",
+      "symbol": "Hippo (0.5%)",
+      "backdrop": "Emerald (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T12:17:14.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 24071,
       "customEmojiId": "5276492873620021661",
       "gift_id": 7278623,
@@ -15337,6 +15515,138 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-04T22:53:02.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 19670,
+      "customEmojiId": "5276492873620021661",
+      "gift_id": 6864649,
+      "name": "Love Potion",
+      "model": "Paint Bottle (1.5%)",
+      "asset": "TON",
+      "symbol": "Hippo (0.5%)",
+      "backdrop": "Emerald (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.68,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "QM199W83",
+      "auction": {
+        "_id": "6885f8d3450b5b469c4b084b",
+        "gift_id": 6864649,
+        "seller": 0,
+        "auction_id": "QM199W83",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6885fb10450b5b469c4ff407",
+            "timestamp": "2025-07-27T10:10:24.089Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "6885fb8c450b5b469c50cfa1",
+            "timestamp": "2025-07-27T10:12:28.114Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "6885fbad450b5b469c510e44",
+            "timestamp": "2025-07-27T10:13:01.205Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "6885fc01450b5b469c51a11e",
+            "timestamp": "2025-07-27T10:14:25.865Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.56,
+            "asset": "TON",
+            "_id": "6885fe18450b5b469c5621f0",
+            "timestamp": "2025-07-27T10:23:20.644Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.69,
+            "asset": "TON",
+            "_id": "68860081450b5b469c5af517",
+            "timestamp": "2025-07-27T10:33:37.998Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.1,
+            "asset": "TON",
+            "_id": "68860106450b5b469c5c12a8",
+            "timestamp": "2025-07-27T10:35:50.172Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.26,
+            "asset": "TON",
+            "_id": "68860133450b5b469c5c86c9",
+            "timestamp": "2025-07-27T10:36:35.323Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.42,
+            "asset": "TON",
+            "_id": "688603c4450b5b469c61c777",
+            "timestamp": "2025-07-27T10:47:32.717Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.5,
+            "asset": "TON",
+            "_id": "68860773450b5b469c6c3465",
+            "timestamp": "2025-07-27T11:03:15.854Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.88,
+            "asset": "TON",
+            "_id": "68860d99450b5b469c80f014",
+            "timestamp": "2025-07-27T11:29:29.640Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.27,
+            "asset": "TON",
+            "_id": "688612bc450b5b469c9092b9",
+            "timestamp": "2025-07-27T11:51:24.080Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.68,
+            "asset": "TON",
+            "_id": "688612ee450b5b469c91ac54",
+            "timestamp": "2025-07-27T11:52:14.108Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-27T12:10:49.885Z",
+        "status": "finished",
+        "gift_name": "Love Potion",
+        "gift_num": 19670,
+        "model": "Paint Bottle (1.5%)",
+        "backdrop": "Emerald (1.5%)",
+        "symbol": "Hippo (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-27T10:00:51.727Z",
+        "__v": 0,
+        "winningBid": 8.68,
+        "winningBidder": 7872590861
+      },
+      "export_at": "2025-07-14T11:16:42.000Z",
       "premarketData": {}
     },
     {
@@ -15717,46 +16027,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-23T17:39:48.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 17732,
-      "customEmojiId": "5276492873620021661",
-      "gift_id": 1750846,
-      "name": "Love Potion",
-      "model": "Paint Bottle (1.5%)",
-      "asset": "TON",
-      "symbol": "Pierced Heart (0.5%)",
-      "backdrop": "Caramel (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 570146,
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-03-27T17:53:36.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 436,
-      "customEmojiId": "5276492873620021661",
-      "gift_id": 966287,
-      "name": "Love Potion",
-      "model": "Paint Bottle (1.5%)",
-      "asset": "TON",
-      "symbol": "Fluffy Wolf (0.5%)",
-      "backdrop": "Battleship Grey (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 570144,
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-03-10T01:11:16.000Z",
       "premarketData": {}
     }
   ],
@@ -19611,6 +19881,26 @@
   ],
   "Rusty Water": [
     {
+      "gift_num": 21283,
+      "customEmojiId": "5287473829390607716",
+      "gift_id": 7413456,
+      "name": "Love Potion",
+      "model": "Rusty Water (2.5%)",
+      "asset": "TON",
+      "symbol": "Loveberry (0.4%)",
+      "backdrop": "Light Olive (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T17:12:45.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4853,
       "customEmojiId": "5287473829390607716",
       "gift_id": 5930850,
@@ -19648,26 +19938,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-29T23:31:48.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 21283,
-      "customEmojiId": "5287473829390607716",
-      "gift_id": 7413456,
-      "name": "Love Potion",
-      "model": "Rusty Water (2.5%)",
-      "asset": "TON",
-      "symbol": "Loveberry (0.4%)",
-      "backdrop": "Light Olive (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T17:12:45.000Z",
       "premarketData": {}
     },
     {
@@ -20589,6 +20859,26 @@
   ],
   "Mouthwash": [
     {
+      "gift_num": 5407,
+      "customEmojiId": "5285525271447893237",
+      "gift_id": 7183505,
+      "name": "Love Potion",
+      "model": "Mouthwash (2%)",
+      "asset": "TON",
+      "symbol": "Spider (0.4%)",
+      "backdrop": "Carrot Juice (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T20:02:09.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 9604,
       "customEmojiId": "5285525271447893237",
       "gift_id": 7170478,
@@ -20726,26 +21016,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-05T14:46:16.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5407,
-      "customEmojiId": "5285525271447893237",
-      "gift_id": 7183505,
-      "name": "Love Potion",
-      "model": "Mouthwash (2%)",
-      "asset": "TON",
-      "symbol": "Spider (0.4%)",
-      "backdrop": "Carrot Juice (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T20:02:09.000Z",
       "premarketData": {}
     },
     {
@@ -21977,6 +22247,26 @@
   ],
   "Spades": [
     {
+      "gift_num": 13107,
+      "customEmojiId": "5269763170968297861",
+      "gift_id": 7363799,
+      "name": "Love Potion",
+      "model": "Spades (1%)",
+      "asset": "TON",
+      "symbol": "Patched Heart (0.5%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 70,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T08:49:37.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 13560,
       "customEmojiId": "5269763170968297861",
       "gift_id": 7113886,
@@ -22014,26 +22304,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-06T21:06:33.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 13107,
-      "customEmojiId": "5269763170968297861",
-      "gift_id": 7363799,
-      "name": "Love Potion",
-      "model": "Spades (1%)",
-      "asset": "TON",
-      "symbol": "Patched Heart (0.5%)",
-      "backdrop": "Onyx Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 90,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-07T08:49:37.000Z",
       "premarketData": {}
     },
     {
@@ -22668,6 +22938,26 @@
     }
   ],
   "Sugar Ponies": [
+    {
+      "gift_num": 20761,
+      "customEmojiId": "5285270000066651395",
+      "gift_id": 7429535,
+      "name": "Love Potion",
+      "model": "Sugar Ponies (2.5%)",
+      "asset": "TON",
+      "symbol": "Love Potion (0.2%)",
+      "backdrop": "Chocolate (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.22,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T12:11:41.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2292,
       "customEmojiId": "5285270000066651395",
@@ -25962,6 +26252,26 @@
   ],
   "Aerogel": [
     {
+      "gift_num": 17847,
+      "customEmojiId": "5287266644463217568",
+      "gift_id": 7429523,
+      "name": "Love Potion",
+      "model": "Aerogel (2.5%)",
+      "asset": "TON",
+      "symbol": "Champagne (0.5%)",
+      "backdrop": "Hunter Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 11.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T12:11:13.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 15419,
       "customEmojiId": "5287266644463217568",
       "gift_id": 7426860,
@@ -26540,29 +26850,29 @@
       "auction": null,
       "export_at": "2025-05-14T19:46:49.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Emo Tears": [
     {
-      "gift_num": 17489,
-      "customEmojiId": "5287266644463217568",
-      "gift_id": 6001772,
+      "gift_num": 12043,
+      "customEmojiId": "5274048487472785953",
+      "gift_id": 7421205,
       "name": "Love Potion",
-      "model": "Aerogel (2.5%)",
+      "model": "Emo Tears (0.5%)",
       "asset": "TON",
-      "symbol": "Flower Tulip (0.2%)",
-      "backdrop": "Persimmon (2%)",
+      "symbol": "Balloon (0.4%)",
+      "backdrop": "Grape (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 50,
+      "price": 25,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-06-23T16:12:55.000Z",
+      "export_at": "2025-08-09T23:53:25.000Z",
       "premarketData": {}
-    }
-  ],
-  "Emo Tears": [
+    },
     {
       "gift_num": 3616,
       "customEmojiId": "5274048487472785953",
