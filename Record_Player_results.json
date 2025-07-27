@@ -6401,26 +6401,6 @@
   ],
   "Poisonwave": [
     {
-      "gift_num": 25465,
-      "customEmojiId": "5296710478683204160",
-      "gift_id": 7415414,
-      "name": "Record Player",
-      "model": "Poisonwave (0.5%)",
-      "asset": "TON",
-      "symbol": "Boat (0.4%)",
-      "backdrop": "Fandango (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 11,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T18:38:09.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 18092,
       "customEmojiId": "5296710478683204160",
       "gift_id": 7346866,
@@ -11781,6 +11761,24 @@
   ],
   "Watermelon": [
     {
+      "gift_num": 8814,
+      "customEmojiId": "5296723007102805070",
+      "gift_id": 590452876144,
+      "name": "Record Player",
+      "model": "Watermelon (0.5%)",
+      "asset": "TON",
+      "symbol": "High Heels (0.5%)",
+      "backdrop": "Dark Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.794,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 10665,
       "customEmojiId": "5296723007102805070",
       "gift_id": 591773883101,
@@ -11814,6 +11812,61 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 8814,
+      "customEmojiId": "5296723007102805070",
+      "gift_id": 7316525,
+      "name": "Record Player",
+      "model": "Watermelon (0.5%)",
+      "asset": "TON",
+      "symbol": "High Heels (0.5%)",
+      "backdrop": "Dark Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "GOFC999R",
+      "auction": {
+        "_id": "6883f264aace4cd2f6c64f9b",
+        "gift_id": 7316525,
+        "seller": 0,
+        "auction_id": "GOFC999R",
+        "startingBid": 9.5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 9.5,
+            "asset": "TON",
+            "_id": "6885912e450b5b469cae8f94",
+            "timestamp": "2025-07-27T02:38:38.533Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "68859b57450b5b469cb176c4",
+            "timestamp": "2025-07-27T03:21:59.002Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-27T03:41:20.533Z",
+        "status": "finished",
+        "gift_name": "Record Player",
+        "gift_num": 8814,
+        "model": "Watermelon (0.5%)",
+        "backdrop": "Dark Green (1.2%)",
+        "symbol": "High Heels (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-26T15:31:23.100Z",
+        "__v": 0,
+        "winningBid": 10,
+        "winningBidder": 497192640
+      },
+      "export_at": "2025-08-03T19:57:33.000Z",
       "premarketData": {}
     },
     {
@@ -13898,6 +13951,24 @@
     }
   ],
   "High-End": [
+    {
+      "gift_num": 7879,
+      "customEmojiId": "5298959319264421861",
+      "gift_id": 590250076378,
+      "name": "Record Player",
+      "model": "High-End (0.2%)",
+      "asset": "TON",
+      "symbol": "Birthday Cake (0.5%)",
+      "backdrop": "Midnight Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 18700,
       "customEmojiId": "5298959319264421861",
@@ -38616,6 +38687,24 @@
   ],
   "Yin-Yang": [
     {
+      "gift_num": 20362,
+      "customEmojiId": "5296242520521469033",
+      "gift_id": 583902576424,
+      "name": "Record Player",
+      "model": "Yin-Yang (0.5%)",
+      "asset": "TON",
+      "symbol": "Astronaut (0.3%)",
+      "backdrop": "Midnight Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 165.24,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 6280,
       "customEmojiId": "5296242520521469033",
       "gift_id": 589997625502,
@@ -41779,6 +41868,24 @@
     }
   ],
   "Mint Vinyl": [
+    {
+      "gift_num": 34,
+      "customEmojiId": "5296599612692393577",
+      "gift_id": 589570742689,
+      "name": "Record Player",
+      "model": "Mint Vinyl (1%)",
+      "asset": "TON",
+      "symbol": "Sparks (0.5%)",
+      "backdrop": "Shamrock Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 25213,
       "customEmojiId": "5296599612692393577",
