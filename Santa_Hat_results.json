@@ -22820,6 +22820,95 @@
       "auction": null,
       "export_at": "2025-02-02T23:20:39.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 1813,
+      "customEmojiId": "5398091266149867953",
+      "gift_id": 7375179,
+      "name": "Santa Hat",
+      "model": "Black Drops (1.5%)",
+      "asset": "TON",
+      "symbol": "Ram of Amun (0.2%)",
+      "backdrop": "Burgundy (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 3.46,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "9USBAXCH",
+      "auction": {
+        "_id": "6882b5cbaace4cd2f64489ab",
+        "gift_id": 7375179,
+        "seller": 0,
+        "auction_id": "9USBAXCH",
+        "startingBid": 2.5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.5,
+            "asset": "TON",
+            "_id": "688570a2450b5b469c46c43a",
+            "timestamp": "2025-07-27T00:19:46.185Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.63,
+            "asset": "TON",
+            "_id": "688573bc450b5b469c479b68",
+            "timestamp": "2025-07-27T00:33:00.704Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.76,
+            "asset": "TON",
+            "_id": "68857a2d450b5b469c4a3af3",
+            "timestamp": "2025-07-27T01:00:29.564Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.9,
+            "asset": "TON",
+            "_id": "68857aa6450b5b469c4a5f60",
+            "timestamp": "2025-07-27T01:02:30.777Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.05,
+            "asset": "TON",
+            "_id": "68857ad2450b5b469c4a748a",
+            "timestamp": "2025-07-27T01:03:14.746Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.2,
+            "asset": "TON",
+            "_id": "68857b71450b5b469c4aa1b4",
+            "timestamp": "2025-07-27T01:05:53.667Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.46,
+            "asset": "TON",
+            "_id": "68857ba1450b5b469c4ac736",
+            "timestamp": "2025-07-27T01:06:41.627Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-27T01:18:54.870Z",
+        "status": "finished",
+        "gift_name": "Santa Hat",
+        "gift_num": 1813,
+        "model": "Black Drops (1.5%)",
+        "backdrop": "Burgundy (1%)",
+        "symbol": "Ram of Amun (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-27T00:08:56.737Z",
+        "__v": 0,
+        "winningBid": 3.46,
+        "winningBidder": 687378215
+      },
+      "export_at": "2025-08-07T22:36:11.000Z",
+      "premarketData": {}
     }
   ],
   "Warm Light": [
@@ -28999,26 +29088,6 @@
     }
   ],
   "Yule Hat": [
-    {
-      "gift_num": 53683,
-      "customEmojiId": "5445286578706476156",
-      "gift_id": 7324213,
-      "name": "Santa Hat",
-      "model": "Yule Hat (0.2%)",
-      "asset": "TON",
-      "symbol": "Eikthyrnir (1.6%)",
-      "backdrop": "Cappuccino (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9.4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T11:41:29.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 14156,
       "customEmojiId": "5445286578706476156",
