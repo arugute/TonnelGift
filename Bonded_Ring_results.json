@@ -5985,8 +5985,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 919716,
-      "price": 165,
+      "message_in_channel": 926287,
+      "price": 160,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -8376,7 +8376,7 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 925512,
+      "message_in_channel": 926322,
       "price": 200,
       "status": "forsale",
       "limited": false,
@@ -12077,26 +12077,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 6556,
-      "customEmojiId": "5381878894183870813",
-      "gift_id": 7354017,
-      "name": "Bonded Ring",
-      "model": "Yin Yang (3.5%)",
-      "asset": "TON",
-      "symbol": "Heart (0.2%)",
-      "backdrop": "Chestnut (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 54.98,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T15:36:59.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 3012,
       "customEmojiId": "5381878894183870813",
       "gift_id": 6105551,
@@ -12655,6 +12635,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T12:35:15.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 2786,
+      "customEmojiId": "5381878894183870813",
+      "gift_id": 5863577,
+      "name": "Bonded Ring",
+      "model": "Yin Yang (3.5%)",
+      "asset": "TON",
+      "symbol": "Scarab (0.5%)",
+      "backdrop": "Grape (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 781757,
+      "price": 300,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-22T13:12:26.000Z",
       "premarketData": {}
     }
   ],
@@ -15394,6 +15394,81 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-22T13:12:48.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 2134,
+      "customEmojiId": "5420296650797117168",
+      "gift_id": 7425745,
+      "name": "Bonded Ring",
+      "model": "Pixel Loot (1.8%)",
+      "asset": "TON",
+      "symbol": "Celtic Wolf (0.4%)",
+      "backdrop": "Ivory White (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 72.93,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "E9Y5SLUK",
+      "auction": {
+        "_id": "6885f457450b5b469c3deb63",
+        "gift_id": 7425745,
+        "seller": 0,
+        "auction_id": "E9Y5SLUK",
+        "startingBid": 60,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 60,
+            "asset": "TON",
+            "_id": "68863692450b5b469cd2ad7f",
+            "timestamp": "2025-07-27T14:24:18.611Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 63,
+            "asset": "TON",
+            "_id": "68863706450b5b469cd2e323",
+            "timestamp": "2025-07-27T14:26:14.549Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 66.15,
+            "asset": "TON",
+            "_id": "68863b52450b5b469cd428e6",
+            "timestamp": "2025-07-27T14:44:34.544Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 69.46,
+            "asset": "TON",
+            "_id": "68863cda450b5b469cd4c698",
+            "timestamp": "2025-07-27T14:51:06.956Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 72.93,
+            "asset": "TON",
+            "_id": "68863def450b5b469cd59a2f",
+            "timestamp": "2025-07-27T14:55:43.657Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-27T15:15:23.419Z",
+        "status": "finished",
+        "gift_name": "Bonded Ring",
+        "gift_num": 2134,
+        "model": "Pixel Loot (1.8%)",
+        "backdrop": "Ivory White (1.5%)",
+        "symbol": "Celtic Wolf (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-27T12:45:48.210Z",
+        "__v": 0,
+        "winningBid": 72.93,
+        "winningBidder": 5354068981
+      },
+      "export_at": "2025-08-10T08:37:51.000Z",
       "premarketData": {}
     }
   ],
