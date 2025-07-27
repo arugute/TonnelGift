@@ -575,6 +575,24 @@
   ],
   "Creeper": [
     {
+      "gift_num": 2532,
+      "customEmojiId": "5431718454895861193",
+      "gift_id": 603039192765,
+      "name": "Scared Cat",
+      "model": "Creeper (3.5%)",
+      "asset": "TON",
+      "symbol": "Sauron (2.4%)",
+      "backdrop": "Strawberry (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 183.598,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 3512,
       "customEmojiId": "5431718454895861193",
       "gift_id": 7366903,
@@ -3761,6 +3779,26 @@
   ],
   "Caustic": [
     {
+      "gift_num": 16156,
+      "customEmojiId": "5429189831555047441",
+      "gift_id": 7424482,
+      "name": "Scared Cat",
+      "model": "Caustic (3%)",
+      "asset": "TON",
+      "symbol": "Unicorn (0.2%)",
+      "backdrop": "Strawberry (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 42.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T07:28:14.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 19083,
       "customEmojiId": "5429189831555047441",
       "gift_id": 7417223,
@@ -4318,26 +4356,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T12:39:51.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11049,
-      "customEmojiId": "5429189831555047441",
-      "gift_id": 5957681,
-      "name": "Scared Cat",
-      "model": "Caustic (3%)",
-      "asset": "TON",
-      "symbol": "Candle (2.4%)",
-      "backdrop": "Pine Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 105,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T12:18:18.000Z",
       "premarketData": {}
     }
   ],
@@ -5227,26 +5245,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 17187,
-      "customEmojiId": "5429152847591660650",
-      "gift_id": 6326846,
-      "name": "Scared Cat",
-      "model": "Cat Nukem (4%)",
-      "asset": "TON",
-      "symbol": "Candle (2.4%)",
-      "backdrop": "Fandango (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 122.22,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-27T06:52:13.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 12539,
       "customEmojiId": "5429152847591660650",
       "gift_id": 5880570,
@@ -5320,6 +5318,53 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 13002,
+      "customEmojiId": "5429152847591660650",
+      "gift_id": 7382708,
+      "name": "Scared Cat",
+      "model": "Cat Nukem (4%)",
+      "asset": "TON",
+      "symbol": "Skull (2.4%)",
+      "backdrop": "Pacific Cyan (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 42.5,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "RR3SMT1G",
+      "auction": {
+        "_id": "68838cf4aace4cd2f6b2a6d0",
+        "gift_id": 7382708,
+        "seller": 0,
+        "auction_id": "RR3SMT1G",
+        "startingBid": 10,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 42.5,
+            "asset": "TON",
+            "_id": "6883910aaace4cd2f6bafc8e",
+            "timestamp": "2025-07-25T14:13:30.390Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-25T17:12:00.957Z",
+        "status": "finished",
+        "gift_name": "Scared Cat",
+        "gift_num": 13002,
+        "model": "Cat Nukem (4%)",
+        "backdrop": "Pacific Cyan (2%)",
+        "symbol": "Skull (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-25T14:12:46.576Z",
+        "__v": 0,
+        "winningBid": 42.5,
+        "winningBidder": 7281550060
+      },
+      "export_at": "2025-08-08T13:54:38.000Z",
       "premarketData": {}
     }
   ],
@@ -6319,6 +6364,26 @@
     }
   ],
   "Vice Kitty": [
+    {
+      "gift_num": 3382,
+      "customEmojiId": "5429393387235075806",
+      "gift_id": 7424943,
+      "name": "Scared Cat",
+      "model": "Vice Kitty (1%)",
+      "asset": "TON",
+      "symbol": "Happy Smile (2.4%)",
+      "backdrop": "Copper (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 78,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T08:07:16.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 14453,
       "customEmojiId": "5429393387235075806",
@@ -9917,6 +9982,24 @@
   ],
   "Endercat": [
     {
+      "gift_num": 11226,
+      "customEmojiId": "5429363627406683656",
+      "gift_id": 603503501063,
+      "name": "Scared Cat",
+      "model": "Endercat (3%)",
+      "asset": "TON",
+      "symbol": "Coffin (2.4%)",
+      "backdrop": "Mint Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 183.598,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 14749,
       "customEmojiId": "5429363627406683656",
       "gift_id": 7357314,
@@ -11636,26 +11719,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T16:02:25.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15622,
-      "customEmojiId": "5431652991004334712",
-      "gift_id": 7376785,
-      "name": "Scared Cat",
-      "model": "Nebula (2.5%)",
-      "asset": "TON",
-      "symbol": "Sauron (2.4%)",
-      "backdrop": "Rosewood (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 42.6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T05:18:14.000Z",
       "premarketData": {}
     },
     {
@@ -14814,6 +14877,26 @@
     }
   ],
   "Phantom": [
+    {
+      "gift_num": 14938,
+      "customEmojiId": "5431689528291122177",
+      "gift_id": 7088731,
+      "name": "Scared Cat",
+      "model": "Phantom (1.5%)",
+      "asset": "TON",
+      "symbol": "Severed Hand (1.6%)",
+      "backdrop": "Caramel (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 45,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-22T18:54:53.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 16378,
       "customEmojiId": "5431689528291122177",
