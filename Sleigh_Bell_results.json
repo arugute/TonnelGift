@@ -1549,26 +1549,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 5847,
-      "customEmojiId": "5262654643611135291",
-      "gift_id": 7242939,
-      "name": "Sleigh Bell",
-      "model": "Confetti (1%)",
-      "asset": "TON",
-      "symbol": "Serpent (0.5%)",
-      "backdrop": "Black (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 87,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T02:27:38.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 3462,
       "customEmojiId": "5262654643611135291",
       "gift_id": 6130216,
@@ -1743,7 +1723,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 7.86,
+      "price": 7.47,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3141,6 +3121,26 @@
     {
       "gift_num": 8967,
       "customEmojiId": "5262879553868556890",
+      "gift_id": 7432037,
+      "name": "Sleigh Bell",
+      "model": "Darth Vader (0.5%)",
+      "asset": "TON",
+      "symbol": "Lovely Kiss (0.5%)",
+      "backdrop": "Old Gold (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T14:06:56.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 8967,
+      "customEmojiId": "5262879553868556890",
       "gift_id": 7400950,
       "name": "Sleigh Bell",
       "model": "Darth Vader (0.5%)",
@@ -3604,6 +3604,214 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-03-16T17:11:25.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 8967,
+      "customEmojiId": "5262879553868556890",
+      "gift_id": 7422348,
+      "name": "Sleigh Bell",
+      "model": "Darth Vader (0.5%)",
+      "asset": "TON",
+      "symbol": "Lovely Kiss (0.5%)",
+      "backdrop": "Old Gold (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 16.36,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "A88P1172",
+      "auction": {
+        "_id": "68858734450b5b469c4ed94f",
+        "gift_id": 7422348,
+        "seller": 0,
+        "auction_id": "A88P1172",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6885f18d450b5b469c371577",
+            "timestamp": "2025-07-27T09:29:49.120Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6885f1df450b5b469c37b1d6",
+            "timestamp": "2025-07-27T09:31:11.465Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "6885f214450b5b469c381cb0",
+            "timestamp": "2025-07-27T09:32:04.048Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6,
+            "asset": "TON",
+            "_id": "688601b1450b5b469c5d94d1",
+            "timestamp": "2025-07-27T10:38:41.711Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.3,
+            "asset": "TON",
+            "_id": "68860685450b5b469c674ad1",
+            "timestamp": "2025-07-27T10:59:17.107Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.62,
+            "asset": "TON",
+            "_id": "6886145a450b5b469c955c1d",
+            "timestamp": "2025-07-27T11:58:18.800Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.95,
+            "asset": "TON",
+            "_id": "6886147d450b5b469c95ddb3",
+            "timestamp": "2025-07-27T11:58:53.279Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.5,
+            "asset": "TON",
+            "_id": "6886148f450b5b469c961ffe",
+            "timestamp": "2025-07-27T11:59:11.135Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.88,
+            "asset": "TON",
+            "_id": "6886189f450b5b469ca56e58",
+            "timestamp": "2025-07-27T12:16:31.652Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.27,
+            "asset": "TON",
+            "_id": "68861bf2450b5b469cb3f0ee",
+            "timestamp": "2025-07-27T12:30:42.311Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.68,
+            "asset": "TON",
+            "_id": "68861c75450b5b469cb6396b",
+            "timestamp": "2025-07-27T12:32:53.450Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.11,
+            "asset": "TON",
+            "_id": "68861c88450b5b469cb664aa",
+            "timestamp": "2025-07-27T12:33:12.394Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.57,
+            "asset": "TON",
+            "_id": "6886201f450b5b469cc0e03c",
+            "timestamp": "2025-07-27T12:48:31.341Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.05,
+            "asset": "TON",
+            "_id": "6886203a450b5b469cc11bea",
+            "timestamp": "2025-07-27T12:48:58.535Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.55,
+            "asset": "TON",
+            "_id": "688620fe450b5b469cc352db",
+            "timestamp": "2025-07-27T12:52:14.148Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.08,
+            "asset": "TON",
+            "_id": "6886212c450b5b469cc3d350",
+            "timestamp": "2025-07-27T12:53:00.274Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.63,
+            "asset": "TON",
+            "_id": "6886281e450b5b469ccc514b",
+            "timestamp": "2025-07-27T13:22:38.726Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.21,
+            "asset": "TON",
+            "_id": "68862846450b5b469ccc56ba",
+            "timestamp": "2025-07-27T13:23:18.455Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.82,
+            "asset": "TON",
+            "_id": "68862865450b5b469ccc67c5",
+            "timestamp": "2025-07-27T13:23:49.079Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.46,
+            "asset": "TON",
+            "_id": "68862887450b5b469ccc7066",
+            "timestamp": "2025-07-27T13:24:23.051Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.13,
+            "asset": "TON",
+            "_id": "6886289c450b5b469ccc9f4e",
+            "timestamp": "2025-07-27T13:24:44.445Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.84,
+            "asset": "TON",
+            "_id": "68862a23450b5b469ccdaa28",
+            "timestamp": "2025-07-27T13:31:15.184Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15.58,
+            "asset": "TON",
+            "_id": "68862abc450b5b469ccde1e0",
+            "timestamp": "2025-07-27T13:33:48.520Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 16.36,
+            "asset": "TON",
+            "_id": "68862e70450b5b469ccfa0c7",
+            "timestamp": "2025-07-27T13:49:36.365Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-27T14:06:03.395Z",
+        "status": "finished",
+        "gift_name": "Sleigh Bell",
+        "gift_num": 8967,
+        "model": "Darth Vader (0.5%)",
+        "backdrop": "Old Gold (1%)",
+        "symbol": "Lovely Kiss (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-27T01:56:04.800Z",
+        "__v": 0,
+        "winningBid": 16.36,
+        "winningBidder": 7872590861
+      },
+      "export_at": "2025-08-10T01:55:43.000Z",
       "premarketData": {}
     }
   ],
@@ -10683,26 +10891,6 @@
   ],
   "Ghost Fog": [
     {
-      "gift_num": 11372,
-      "customEmojiId": "5246834904670430424",
-      "gift_id": 6376204,
-      "name": "Sleigh Bell",
-      "model": "Ghost Fog (1%)",
-      "asset": "TON",
-      "symbol": "Hourglass (0.5%)",
-      "backdrop": "Chocolate (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-28T01:16:36.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 7053,
       "customEmojiId": "5246834904670430424",
       "gift_id": 7426491,
@@ -10720,26 +10908,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-10T09:23:20.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 942,
-      "customEmojiId": "5246834904670430424",
-      "gift_id": 6376215,
-      "name": "Sleigh Bell",
-      "model": "Ghost Fog (1%)",
-      "asset": "TON",
-      "symbol": "Ice Cream (0.5%)",
-      "backdrop": "Tomato (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-28T01:16:41.000Z",
       "premarketData": {}
     },
     {
@@ -11087,6 +11255,26 @@
     }
   ],
   "Police Siren": [
+    {
+      "gift_num": 4191,
+      "customEmojiId": "5224661161047255260",
+      "gift_id": 7431238,
+      "name": "Sleigh Bell",
+      "model": "Police Siren (2%)",
+      "asset": "TON",
+      "symbol": "Sun Mountain (0.4%)",
+      "backdrop": "Persimmon (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T13:32:14.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 1331,
       "customEmojiId": "5224661161047255260",
@@ -12608,7 +12796,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 14.72,
+      "price": 13.98,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -13212,7 +13400,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 8,
+      "price": 7.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -13501,6 +13689,26 @@
     }
   ],
   "Truffle": [
+    {
+      "gift_num": 3533,
+      "customEmojiId": "5235803023472617378",
+      "gift_id": 7430701,
+      "name": "Sleigh Bell",
+      "model": "Truffle (4%)",
+      "asset": "TON",
+      "symbol": "Spellbook (0.3%)",
+      "backdrop": "Rosewood (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T13:08:04.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 16037,
       "customEmojiId": "5235803023472617378",
@@ -17321,6 +17529,26 @@
     }
   ],
   "Deutschland": [
+    {
+      "gift_num": 16711,
+      "customEmojiId": "5262480177744604562",
+      "gift_id": 7431104,
+      "name": "Sleigh Bell",
+      "model": "Deutschland (2.5%)",
+      "asset": "TON",
+      "symbol": "Fedora (0.5%)",
+      "backdrop": "Silver Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.89,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T13:24:25.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 13311,
       "customEmojiId": "5262480177744604562",
