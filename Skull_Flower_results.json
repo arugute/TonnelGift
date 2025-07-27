@@ -9433,6 +9433,26 @@
   ],
   "Chromium": [
     {
+      "gift_num": 16066,
+      "customEmojiId": "5434092051392127629",
+      "gift_id": 7084660,
+      "name": "Skull Flower",
+      "model": "Chromium (1%)",
+      "asset": "TON",
+      "symbol": "Cauldron (1.2%)",
+      "backdrop": "Cobalt Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16.99,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-22T15:47:04.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 7424,
       "customEmojiId": "5434092051392127629",
       "gift_id": 7420425,
@@ -9450,26 +9470,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-09T22:49:04.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16066,
-      "customEmojiId": "5434092051392127629",
-      "gift_id": 7084660,
-      "name": "Skull Flower",
-      "model": "Chromium (1%)",
-      "asset": "TON",
-      "symbol": "Cauldron (1.2%)",
-      "backdrop": "Cobalt Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 17.46,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-22T15:47:04.000Z",
       "premarketData": {}
     },
     {
@@ -9570,6 +9570,95 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-26T14:40:15.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 17337,
+      "customEmojiId": "5434092051392127629",
+      "gift_id": 7422380,
+      "name": "Skull Flower",
+      "model": "Chromium (1%)",
+      "asset": "TON",
+      "symbol": "Apple (0.4%)",
+      "backdrop": "Strawberry (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 12.13,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "NFXQTFW1",
+      "auction": {
+        "_id": "68858852450b5b469c4fea95",
+        "gift_id": 7422380,
+        "seller": 0,
+        "auction_id": "NFXQTFW1",
+        "startingBid": 9,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 9,
+            "asset": "TON",
+            "_id": "68859a53450b5b469cb1404f",
+            "timestamp": "2025-07-27T03:17:39.492Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.45,
+            "asset": "TON",
+            "_id": "6885a18b450b5b469cb35ab3",
+            "timestamp": "2025-07-27T03:48:27.388Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.92,
+            "asset": "TON",
+            "_id": "6885a1f5450b5b469cb38dc9",
+            "timestamp": "2025-07-27T03:50:13.192Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.42,
+            "asset": "TON",
+            "_id": "6885a33b450b5b469cb4417b",
+            "timestamp": "2025-07-27T03:55:39.221Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11,
+            "asset": "TON",
+            "_id": "6885a34c450b5b469cb44df0",
+            "timestamp": "2025-07-27T03:55:56.773Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.55,
+            "asset": "TON",
+            "_id": "6885a37c450b5b469cb463e6",
+            "timestamp": "2025-07-27T03:56:44.982Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.13,
+            "asset": "TON",
+            "_id": "6885a3a3450b5b469cb47bf4",
+            "timestamp": "2025-07-27T03:57:23.864Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-27T04:12:11.061Z",
+        "status": "finished",
+        "gift_name": "Skull Flower",
+        "gift_num": 17337,
+        "model": "Chromium (1%)",
+        "backdrop": "Strawberry (2%)",
+        "symbol": "Apple (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-27T03:02:12.392Z",
+        "__v": 0,
+        "winningBid": 12.13,
+        "winningBidder": 497192640
+      },
+      "export_at": "2025-08-10T02:00:30.000Z",
       "premarketData": {}
     }
   ],
