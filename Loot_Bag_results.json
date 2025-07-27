@@ -191,7 +191,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 120,
+      "price": 115,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -560,6 +560,53 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 2585,
+      "customEmojiId": "5287252458186235039",
+      "gift_id": 7430968,
+      "name": "Loot Bag",
+      "model": "Racing Stripes (2%)",
+      "asset": "TON",
+      "symbol": "Trophy (0.5%)",
+      "backdrop": "Cyberpunk (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 83,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "Q604I8YX",
+      "auction": {
+        "_id": "6886274c450b5b469ccc3011",
+        "gift_id": 7430968,
+        "seller": 0,
+        "auction_id": "Q604I8YX",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 83,
+            "asset": "TON",
+            "_id": "6886376f450b5b469cd2fdd3",
+            "timestamp": "2025-07-27T14:27:59.890Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-27T15:26:58.832Z",
+        "status": "finished",
+        "gift_name": "Loot Bag",
+        "gift_num": 2585,
+        "model": "Racing Stripes (2%)",
+        "backdrop": "Cyberpunk (1%)",
+        "symbol": "Trophy (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-27T14:26:59.942Z",
+        "__v": 0,
+        "winningBid": 83,
+        "winningBidder": 7631154640
+      },
+      "export_at": "2025-08-10T13:18:24.000Z",
       "premarketData": {}
     }
   ],
@@ -4787,6 +4834,26 @@
   ],
   "Aero Swift": [
     {
+      "gift_num": 2794,
+      "customEmojiId": "5292069556066478287",
+      "gift_id": 7432038,
+      "name": "Loot Bag",
+      "model": "Aero Swift (1.5%)",
+      "asset": "TON",
+      "symbol": "Ink Pen (0.5%)",
+      "backdrop": "Chocolate (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 75,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T14:07:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1454,
       "customEmojiId": "5292069556066478287",
       "gift_id": 7308223,
@@ -7458,7 +7525,7 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 925019,
+      "message_in_channel": 926252,
       "price": 250,
       "status": "forsale",
       "limited": false,
@@ -9454,6 +9521,24 @@
     }
   ],
   "Sakura": [
+    {
+      "gift_num": 12162,
+      "customEmojiId": "5287403254488001826",
+      "gift_id": 588413125308,
+      "name": "Loot Bag",
+      "model": "Sakura (2%)",
+      "asset": "TON",
+      "symbol": "Doghouse (0.5%)",
+      "backdrop": "Platinum (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 2587,
       "customEmojiId": "5287403254488001826",
@@ -12596,26 +12681,6 @@
     }
   ],
   "Metro Trench": [
-    {
-      "gift_num": 2542,
-      "customEmojiId": "5292091748162495665",
-      "gift_id": 6557055,
-      "name": "Loot Bag",
-      "model": "Metro Trench (1%)",
-      "asset": "TON",
-      "symbol": "Feather (0.5%)",
-      "backdrop": "Burgundy (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 103,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-02T05:30:19.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 7935,
       "customEmojiId": "5292091748162495665",
