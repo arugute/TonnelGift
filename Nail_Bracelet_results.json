@@ -4317,7 +4317,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 125,
+      "price": 121,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -6776,6 +6776,26 @@
   ],
   "Pepe Band": [
     {
+      "gift_num": 3395,
+      "customEmojiId": "5330103548761892845",
+      "gift_id": 7433907,
+      "name": "Nail Bracelet",
+      "model": "Pepe Band (1.5%)",
+      "asset": "TON",
+      "symbol": "Silver Ibis (0.5%)",
+      "backdrop": "Mustard (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 926353,
+      "price": 300,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T15:40:42.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2962,
       "customEmojiId": "5330103548761892845",
       "gift_id": 7421610,
@@ -6995,6 +7015,186 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-27T14:00:34.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3395,
+      "customEmojiId": "5330103548761892845",
+      "gift_id": 7428033,
+      "name": "Nail Bracelet",
+      "model": "Pepe Band (1.5%)",
+      "asset": "TON",
+      "symbol": "Silver Ibis (0.5%)",
+      "backdrop": "Mustard (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 248.49,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "A8OA1NMJ",
+      "auction": {
+        "_id": "688603e3450b5b469c6201d6",
+        "gift_id": 7428033,
+        "seller": 0,
+        "auction_id": "A8OA1NMJ",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6886217c450b5b469cc4e529",
+            "timestamp": "2025-07-27T12:54:20.844Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.9,
+            "asset": "TON",
+            "_id": "68862195450b5b469cc53d0d",
+            "timestamp": "2025-07-27T12:54:45.333Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.6,
+            "asset": "TON",
+            "_id": "68862d85450b5b469ccf0194",
+            "timestamp": "2025-07-27T13:45:41.442Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 111,
+            "asset": "TON",
+            "_id": "68862dcb450b5b469ccf2025",
+            "timestamp": "2025-07-27T13:46:51.413Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 116.55,
+            "asset": "TON",
+            "_id": "68863191450b5b469cd11baf",
+            "timestamp": "2025-07-27T14:02:57.751Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 125.5,
+            "asset": "TON",
+            "_id": "688632ee450b5b469cd1679e",
+            "timestamp": "2025-07-27T14:08:46.899Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 131.78,
+            "asset": "TON",
+            "_id": "68863302450b5b469cd175f5",
+            "timestamp": "2025-07-27T14:09:06.442Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 138.37,
+            "asset": "TON",
+            "_id": "6886330d450b5b469cd18281",
+            "timestamp": "2025-07-27T14:09:17.361Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 145.29,
+            "asset": "TON",
+            "_id": "6886341c450b5b469cd1c596",
+            "timestamp": "2025-07-27T14:13:48.580Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 152.55,
+            "asset": "TON",
+            "_id": "68863433450b5b469cd1d00f",
+            "timestamp": "2025-07-27T14:14:11.646Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 160.18,
+            "asset": "TON",
+            "_id": "68863444450b5b469cd1d558",
+            "timestamp": "2025-07-27T14:14:28.491Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 168.19,
+            "asset": "TON",
+            "_id": "68863457450b5b469cd1dd13",
+            "timestamp": "2025-07-27T14:14:47.037Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 176.6,
+            "asset": "TON",
+            "_id": "6886346b450b5b469cd1e116",
+            "timestamp": "2025-07-27T14:15:07.693Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 185.43,
+            "asset": "TON",
+            "_id": "68863498450b5b469cd1e8bc",
+            "timestamp": "2025-07-27T14:15:52.892Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 194.7,
+            "asset": "TON",
+            "_id": "688634bc450b5b469cd1ee04",
+            "timestamp": "2025-07-27T14:16:28.032Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 204.44,
+            "asset": "TON",
+            "_id": "6886363f450b5b469cd28deb",
+            "timestamp": "2025-07-27T14:22:55.401Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 214.66,
+            "asset": "TON",
+            "_id": "6886364b450b5b469cd29136",
+            "timestamp": "2025-07-27T14:23:07.859Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 225.39,
+            "asset": "TON",
+            "_id": "68863be7450b5b469cd4530a",
+            "timestamp": "2025-07-27T14:47:03.570Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 236.66,
+            "asset": "TON",
+            "_id": "68863c0c450b5b469cd454c8",
+            "timestamp": "2025-07-27T14:47:40.718Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 248.49,
+            "asset": "TON",
+            "_id": "68863e0d450b5b469cd5b991",
+            "timestamp": "2025-07-27T14:56:13.044Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-27T15:10:33.670Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 3395,
+        "model": "Pepe Band (1.5%)",
+        "backdrop": "Mustard (1.5%)",
+        "symbol": "Silver Ibis (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-27T12:50:35.480Z",
+        "__v": 0,
+        "winningBid": 248.49,
+        "winningBidder": 7872590861
+      },
+      "export_at": "2025-08-10T10:47:37.000Z",
       "premarketData": {}
     }
   ],
