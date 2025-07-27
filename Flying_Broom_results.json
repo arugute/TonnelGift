@@ -563,6 +563,46 @@
   ],
   "Warm Oak": [
     {
+      "gift_num": 15799,
+      "customEmojiId": "5435889765788447088",
+      "gift_id": 7440565,
+      "name": "Flying Broom",
+      "model": "Warm Oak (2.5%)",
+      "asset": "TON",
+      "symbol": "Bloody Axe (2.4%)",
+      "backdrop": "Navy Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T21:30:27.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 11309,
+      "customEmojiId": "5435889765788447088",
+      "gift_id": 7440563,
+      "name": "Flying Broom",
+      "model": "Warm Oak (2.5%)",
+      "asset": "TON",
+      "symbol": "Human Scull (2.4%)",
+      "backdrop": "Indigo Dye (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T21:30:19.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 9772,
       "customEmojiId": "5435889765788447088",
       "gift_id": 7346717,
@@ -4818,6 +4858,26 @@
   ],
   "Green Machine": [
     {
+      "gift_num": 11296,
+      "customEmojiId": "5438369198868816881",
+      "gift_id": 7440576,
+      "name": "Flying Broom",
+      "model": "Green Machine (2.5%)",
+      "asset": "TON",
+      "symbol": "Okami Wolf (0.2%)",
+      "backdrop": "Cappuccino (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T21:30:41.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12020,
       "customEmojiId": "5438369198868816881",
       "gift_id": 7435562,
@@ -5395,144 +5455,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-03-29T23:32:34.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1614,
-      "customEmojiId": "5438369198868816881",
-      "gift_id": 7378314,
-      "name": "Flying Broom",
-      "model": "Green Machine (2.5%)",
-      "asset": "TON",
-      "symbol": "Crystal Ball (2.4%)",
-      "backdrop": "Caramel (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 8.65,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "MXGIO1Y8",
-      "auction": {
-        "_id": "688389ffaace4cd2f6ad3dc1",
-        "gift_id": 7378314,
-        "seller": 0,
-        "auction_id": "MXGIO1Y8",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "6883a2d8aace4cd2f6cd48e7",
-            "timestamp": "2025-07-25T15:29:28.684Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6883d0ceaace4cd2f626de44",
-            "timestamp": "2025-07-25T18:45:34.840Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4,
-            "asset": "TON",
-            "_id": "6883d6d5aace4cd2f641595b",
-            "timestamp": "2025-07-25T19:11:17.519Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.2,
-            "asset": "TON",
-            "_id": "6883d8e8aace4cd2f6894355",
-            "timestamp": "2025-07-25T19:20:08.613Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.44,
-            "asset": "TON",
-            "_id": "6883d910aace4cd2f691226d",
-            "timestamp": "2025-07-25T19:20:48.044Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.66,
-            "asset": "TON",
-            "_id": "6883d927aace4cd2f69135d7",
-            "timestamp": "2025-07-25T19:21:11.185Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5,
-            "asset": "TON",
-            "_id": "6883d97daace4cd2f6a37629",
-            "timestamp": "2025-07-25T19:22:37.961Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.25,
-            "asset": "TON",
-            "_id": "6883d9a1aace4cd2f6a37c2f",
-            "timestamp": "2025-07-25T19:23:13.466Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6,
-            "asset": "TON",
-            "_id": "6883db7faace4cd2f6a4242c",
-            "timestamp": "2025-07-25T19:31:11.639Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7,
-            "asset": "TON",
-            "_id": "688404dcaace4cd2f6d1ca8d",
-            "timestamp": "2025-07-25T22:27:40.107Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.35,
-            "asset": "TON",
-            "_id": "6884d5783bbc5fa9b574ddbb",
-            "timestamp": "2025-07-26T13:17:44.094Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.72,
-            "asset": "TON",
-            "_id": "6884d59e3bbc5fa9b574e827",
-            "timestamp": "2025-07-26T13:18:22.711Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.2,
-            "asset": "TON",
-            "_id": "6884d95d3bbc5fa9b57663e6",
-            "timestamp": "2025-07-26T13:34:21.317Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.65,
-            "asset": "TON",
-            "_id": "6884d9993bbc5fa9b5767761",
-            "timestamp": "2025-07-26T13:35:21.128Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-26T13:53:26.106Z",
-        "status": "finished",
-        "gift_name": "Flying Broom",
-        "gift_num": 1614,
-        "model": "Green Machine (2.5%)",
-        "backdrop": "Caramel (2%)",
-        "symbol": "Crystal Ball (2.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-25T13:43:27.933Z",
-        "__v": 0,
-        "winningBid": 8.65,
-        "winningBidder": 557115292
-      },
-      "export_at": "2025-08-08T08:28:18.000Z",
       "premarketData": {}
     }
   ],
@@ -7691,6 +7613,26 @@
     }
   ],
   "Green Dragon": [
+    {
+      "gift_num": 7506,
+      "customEmojiId": "5413387276778499149",
+      "gift_id": 7440558,
+      "name": "Flying Broom",
+      "model": "Green Dragon (2%)",
+      "asset": "TON",
+      "symbol": "Treats (2.4%)",
+      "backdrop": "Amber (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T21:30:14.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 8639,
       "customEmojiId": "5413387276778499149",
@@ -20211,6 +20153,26 @@
     }
   ],
   "Color Shift": [
+    {
+      "gift_num": 11320,
+      "customEmojiId": "5440510613728025037",
+      "gift_id": 7440570,
+      "name": "Flying Broom",
+      "model": "Color Shift (2.5%)",
+      "asset": "TON",
+      "symbol": "Evil Pumpkin (1.6%)",
+      "backdrop": "Satin Gold (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T21:30:36.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 14787,
       "customEmojiId": "5440510613728025037",
