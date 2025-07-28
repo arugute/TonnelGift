@@ -1085,7 +1085,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 84.8,
+      "price": 82,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -1937,6 +1937,24 @@
   ],
   "Brain Slug": [
     {
+      "gift_num": 3558,
+      "customEmojiId": "5233501346203722495",
+      "gift_id": 589568788479,
+      "name": "Mini Oscar",
+      "model": "Brain Slug (1%)",
+      "asset": "TON",
+      "symbol": "Aztec Totem (0.5%)",
+      "backdrop": "Steel Grey (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 1430,
       "customEmojiId": "5233501346203722495",
       "gift_id": 584141685843,
@@ -2101,7 +2119,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 85,
+      "price": 82,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -5650,6 +5668,75 @@
     }
   ],
   "Blockbuster": [
+    {
+      "gift_num": 2654,
+      "customEmojiId": "5233742500027458124",
+      "gift_id": 5784483,
+      "name": "Mini Oscar",
+      "model": "Blockbuster (1%)",
+      "asset": "TON",
+      "symbol": "Pegasus (0.2%)",
+      "backdrop": "Azure Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 101.87,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "0HS82EP9",
+      "auction": {
+        "_id": "688693b3450b5b469c4681b1",
+        "gift_id": 5784483,
+        "seller": 0,
+        "auction_id": "0HS82EP9",
+        "startingBid": 88,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 88,
+            "asset": "TON",
+            "_id": "68872aaa450b5b469cea4084",
+            "timestamp": "2025-07-28T07:45:46.785Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 92.4,
+            "asset": "TON",
+            "_id": "688737d3450b5b469cf283c5",
+            "timestamp": "2025-07-28T08:41:55.779Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 97.02,
+            "asset": "TON",
+            "_id": "68873a07450b5b469cfa6b38",
+            "timestamp": "2025-07-28T08:51:19.728Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 101.87,
+            "asset": "TON",
+            "_id": "68873b06450b5b469cfd7a8c",
+            "timestamp": "2025-07-28T08:55:34.304Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T09:11:36.197Z",
+        "status": "finished",
+        "gift_name": "Mini Oscar",
+        "gift_num": 2654,
+        "model": "Blockbuster (1%)",
+        "backdrop": "Azure Blue (2%)",
+        "symbol": "Pegasus (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-27T21:01:39.775Z",
+        "__v": 0,
+        "winningBid": 101.87,
+        "winningBidder": 1962838379
+      },
+      "export_at": "2025-06-20T16:27:43.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 641,
       "customEmojiId": "5233742500027458124",
