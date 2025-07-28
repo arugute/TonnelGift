@@ -1312,7 +1312,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 43.5,
+      "price": 40,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -4919,6 +4919,68 @@
       "premarketData": {}
     },
     {
+      "gift_num": 3452,
+      "customEmojiId": "5228936002126506228",
+      "gift_id": 7375735,
+      "name": "Genie Lamp",
+      "model": "Sunset Rays (3%)",
+      "asset": "TON",
+      "symbol": "Tree of Life (1%)",
+      "backdrop": "Pure Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 37.7,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "B60FQRW8",
+      "auction": {
+        "_id": "6884dbb03bbc5fa9b5773bab",
+        "gift_id": 7375735,
+        "seller": 0,
+        "auction_id": "B60FQRW8",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 15,
+            "asset": "TON",
+            "_id": "6887af89450b5b469cb4ec99",
+            "timestamp": "2025-07-28T17:12:41.725Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 35.9,
+            "asset": "TON",
+            "_id": "6887af9e450b5b469cb51303",
+            "timestamp": "2025-07-28T17:13:02.916Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 37.7,
+            "asset": "TON",
+            "_id": "6887b9c9450b5b469cdbb9bc",
+            "timestamp": "2025-07-28T17:56:25.906Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T18:11:16.495Z",
+        "status": "finished",
+        "gift_name": "Genie Lamp",
+        "gift_num": 3452,
+        "model": "Sunset Rays (3%)",
+        "backdrop": "Pure Gold (2%)",
+        "symbol": "Tree of Life (1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-28T17:11:18.388Z",
+        "__v": 0,
+        "winningBid": 37.7,
+        "winningBidder": 7631154640
+      },
+      "export_at": "2025-08-08T00:01:48.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2077,
       "customEmojiId": "5228936002126506228",
       "gift_id": 7292583,
@@ -6904,26 +6966,6 @@
     }
   ],
   "Sahara": [
-    {
-      "gift_num": 4491,
-      "customEmojiId": "5237926816081012816",
-      "gift_id": 7400071,
-      "name": "Genie Lamp",
-      "model": "Sahara (3.5%)",
-      "asset": "TON",
-      "symbol": "Totem Bear (1%)",
-      "backdrop": "Chocolate (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 79,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T12:03:03.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 4935,
       "customEmojiId": "5237926816081012816",
