@@ -1,6 +1,24 @@
 {
   "Death Wish": [
     {
+      "gift_num": 8624,
+      "customEmojiId": "5397697610922350735",
+      "gift_id": 583261571453,
+      "name": "Crystal Ball",
+      "model": "Death Wish (3%)",
+      "asset": "TON",
+      "symbol": "Night Bats (2.4%)",
+      "backdrop": "Mystic Pearl (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 12.613,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 7372,
       "customEmojiId": "5397697610922350735",
       "gift_id": 7451661,
@@ -559,29 +577,29 @@
       "auction": null,
       "export_at": "2025-07-24T16:12:44.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Futuristic": [
     {
-      "gift_num": 5592,
-      "customEmojiId": "5397697610922350735",
-      "gift_id": 7060934,
+      "gift_num": 2836,
+      "customEmojiId": "5402614360633797302",
+      "gift_id": 7406397,
       "name": "Crystal Ball",
-      "model": "Death Wish (3%)",
+      "model": "Futuristic (3%)",
       "asset": "TON",
-      "symbol": "Cone (0.2%)",
-      "backdrop": "Aquamarine (1%)",
+      "symbol": "Lollipop (2%)",
+      "backdrop": "Battleship Grey (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 10,
+      "price": 7.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-21T17:45:07.000Z",
+      "export_at": "2025-08-09T13:48:47.000Z",
       "premarketData": {}
-    }
-  ],
-  "Futuristic": [
+    },
     {
       "gift_num": 15845,
       "customEmojiId": "5402614360633797302",
@@ -698,26 +716,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-18T21:03:15.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2836,
-      "customEmojiId": "5402614360633797302",
-      "gift_id": 7406397,
-      "name": "Crystal Ball",
-      "model": "Futuristic (3%)",
-      "asset": "TON",
-      "symbol": "Lollipop (2%)",
-      "backdrop": "Battleship Grey (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7.95,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T13:48:47.000Z",
       "premarketData": {}
     },
     {
@@ -1156,6 +1154,24 @@
     }
   ],
   "Silver": [
+    {
+      "gift_num": 10943,
+      "customEmojiId": "5406966798887180595",
+      "gift_id": 583257548357,
+      "name": "Crystal Ball",
+      "model": "Silver (3%)",
+      "asset": "TON",
+      "symbol": "Sword (0.2%)",
+      "backdrop": "Amber (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 8.813,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 14842,
       "customEmojiId": "5406966798887180595",
@@ -1757,26 +1773,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 22360,
-      "customEmojiId": "5406966798887180595",
-      "gift_id": 5949431,
-      "name": "Crystal Ball",
-      "model": "Silver (3%)",
-      "asset": "TON",
-      "symbol": "Sumerian Bird (0.2%)",
-      "backdrop": "Roman Silver (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 18,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T11:29:49.000Z",
       "premarketData": {}
     }
   ],
@@ -3120,6 +3116,96 @@
       "premarketData": {}
     },
     {
+      "gift_num": 9271,
+      "customEmojiId": "5397946104845205633",
+      "gift_id": 7435472,
+      "name": "Crystal Ball",
+      "model": "Ghosted (3%)",
+      "asset": "TON",
+      "symbol": "Flying Witch (2.4%)",
+      "backdrop": "Coral Red (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6.41,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "XXAARFLI",
+      "auction": {
+        "_id": "6886709c450b5b469cae3faa",
+        "gift_id": 7435472,
+        "seller": 0,
+        "auction_id": "XXAARFLI",
+        "startingBid": 2.5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.5,
+            "asset": "TON",
+            "_id": "68873625450b5b469ceec220",
+            "timestamp": "2025-07-28T08:34:45.637Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.63,
+            "asset": "TON",
+            "_id": "68874bab450b5b469c0f6df0",
+            "timestamp": "2025-07-28T10:06:35.917Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.76,
+            "asset": "TON",
+            "_id": "68875695450b5b469c1241fe",
+            "timestamp": "2025-07-28T10:53:09.365Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "688767cd450b5b469c2ce402",
+            "timestamp": "2025-07-28T12:06:37.879Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "6887af4c450b5b469cb44089",
+            "timestamp": "2025-07-28T17:11:40.503Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.1,
+            "asset": "TON",
+            "_id": "6887b68d450b5b469cd3f058",
+            "timestamp": "2025-07-28T17:42:37.926Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.41,
+            "asset": "TON",
+            "_id": "6887c2bc450b5b469ce4c6e5",
+            "timestamp": "2025-07-28T18:34:36.928Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T18:50:40.574Z",
+        "status": "finished",
+        "gift_name": "Crystal Ball",
+        "gift_num": 9271,
+        "model": "Ghosted (3%)",
+        "backdrop": "Coral Red (2%)",
+        "symbol": "Flying Witch (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-28T06:40:41.582Z",
+        "__v": 0,
+        "winningBid": 6.41,
+        "winningBidder": 1880197976
+      },
+      "export_at": "2025-08-10T16:53:09.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3276,
       "customEmojiId": "5397946104845205633",
       "gift_id": 7427656,
@@ -3633,26 +3719,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5543,
-      "customEmojiId": "5397946104845205633",
-      "gift_id": -511976010,
-      "name": "Crystal Ball",
-      "model": "Ghosted (3%)",
-      "asset": "TON",
-      "symbol": "Nice Ghost (2.4%)",
-      "backdrop": "Pine Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T09:35:57.000Z",
       "premarketData": {}
     }
   ],
@@ -5372,6 +5438,24 @@
   ],
   "Rainbow": [
     {
+      "gift_num": 20196,
+      "customEmojiId": "5429143089425967879",
+      "gift_id": 601058383053,
+      "name": "Crystal Ball",
+      "model": "Rainbow (2%)",
+      "asset": "TON",
+      "symbol": "Voodoo Doll (2%)",
+      "backdrop": "Battleship Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 19.829,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 19401,
       "customEmojiId": "5429143089425967879",
       "gift_id": 599021337617,
@@ -5971,24 +6055,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 34.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 8678,
-      "customEmojiId": "5429143089425967879",
-      "gift_id": 583462249505,
-      "name": "Crystal Ball",
-      "model": "Rainbow (2%)",
-      "asset": "TON",
-      "symbol": "Conch (0.2%)",
-      "backdrop": "Turquoise (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 550.8,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -8091,6 +8157,26 @@
   ],
   "Fatal Error": [
     {
+      "gift_num": 9532,
+      "customEmojiId": "5424663606039960482",
+      "gift_id": 7065125,
+      "name": "Crystal Ball",
+      "model": "Fatal Error (3%)",
+      "asset": "TON",
+      "symbol": "Vortex (0.2%)",
+      "backdrop": "Midnight Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-21T20:15:54.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1492,
       "customEmojiId": "5424663606039960482",
       "gift_id": 7449897,
@@ -8258,26 +8344,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 9532,
-      "customEmojiId": "5424663606039960482",
-      "gift_id": 7065125,
-      "name": "Crystal Ball",
-      "model": "Fatal Error (3%)",
-      "asset": "TON",
-      "symbol": "Vortex (0.2%)",
-      "backdrop": "Midnight Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-21T20:15:54.000Z",
       "premarketData": {}
     },
     {
@@ -8660,6 +8726,26 @@
     }
   ],
   "Fortune": [
+    {
+      "gift_num": 3210,
+      "customEmojiId": "5438223882945322743",
+      "gift_id": 7452516,
+      "name": "Crystal Ball",
+      "model": "Fortune (2%)",
+      "asset": "TON",
+      "symbol": "Flying Witch (2.4%)",
+      "backdrop": "Cyberpunk (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 25,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T17:03:38.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 5410,
       "customEmojiId": "5438223882945322743",
@@ -9209,24 +9295,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 27.54,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15666,
-      "customEmojiId": "5438223882945322743",
-      "gift_id": 586189527968,
-      "name": "Crystal Ball",
-      "model": "Fortune (2%)",
-      "asset": "TON",
-      "symbol": "Crystal Ball (2.4%)",
-      "backdrop": "Lemongrass (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 274.298,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -9909,7 +9977,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 17,
+      "price": 16.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -11269,6 +11337,24 @@
   ],
   "Seeing Red": [
     {
+      "gift_num": 18212,
+      "customEmojiId": "5400344135410410935",
+      "gift_id": 595200971509,
+      "name": "Crystal Ball",
+      "model": "Seeing Red (3%)",
+      "asset": "TON",
+      "symbol": "Gravestone (2.4%)",
+      "backdrop": "Aquamarine (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 12.239,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 9688,
       "customEmojiId": "5400344135410410935",
       "gift_id": 408240,
@@ -11814,24 +11900,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-09T17:33:22.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2802,
-      "customEmojiId": "5400344135410410935",
-      "gift_id": 583227378359,
-      "name": "Crystal Ball",
-      "model": "Seeing Red (3%)",
-      "asset": "TON",
-      "symbol": "Jaws (2.4%)",
-      "backdrop": "Onyx Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 550.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
@@ -12420,6 +12488,26 @@
     }
   ],
   "Disco": [
+    {
+      "gift_num": 1846,
+      "customEmojiId": "5435931714734025521",
+      "gift_id": 7453375,
+      "name": "Crystal Ball",
+      "model": "Disco (0.5%)",
+      "asset": "TON",
+      "symbol": "Happy Smile (2.4%)",
+      "backdrop": "Coral Red (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 13.06,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T18:15:54.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 1523,
       "customEmojiId": "5435931714734025521",
@@ -14995,6 +15083,42 @@
   ],
   "Vitamin C": [
     {
+      "gift_num": 18276,
+      "customEmojiId": "5429177208646165175",
+      "gift_id": 594931466177,
+      "name": "Crystal Ball",
+      "model": "Vitamin C (2%)",
+      "asset": "TON",
+      "symbol": "Nice Ghost (2.4%)",
+      "backdrop": "Indigo Dye (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 20.93,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 10738,
+      "customEmojiId": "5429177208646165175",
+      "gift_id": 583470462341,
+      "name": "Crystal Ball",
+      "model": "Vitamin C (2%)",
+      "asset": "TON",
+      "symbol": "Witch's Hat (2.4%)",
+      "backdrop": "Battleship Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 16.518,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 2887,
       "customEmojiId": "5429177208646165175",
       "gift_id": 583481706565,
@@ -15535,46 +15659,6 @@
       "auction": null,
       "export_at": "2025-04-16T14:00:49.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 18358,
-      "customEmojiId": "5429177208646165175",
-      "gift_id": 1729394,
-      "name": "Crystal Ball",
-      "model": "Vitamin C (2%)",
-      "asset": "TON",
-      "symbol": "Happy Smile (2.4%)",
-      "backdrop": "Sapphire (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5.6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-04-03T10:18:11.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 17292,
-      "customEmojiId": "5429177208646165175",
-      "gift_id": 7337673,
-      "name": "Crystal Ball",
-      "model": "Vitamin C (2%)",
-      "asset": "TON",
-      "symbol": "Shield (0.2%)",
-      "backdrop": "Carrot Juice (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8.85,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T13:24:21.000Z",
-      "premarketData": {}
     }
   ],
   "Femme Fatale": [
@@ -15846,26 +15930,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4222,
-      "customEmojiId": "5404425020061538014",
-      "gift_id": 7440397,
-      "name": "Crystal Ball",
-      "model": "Martian (3%)",
-      "asset": "TON",
-      "symbol": "Crystal Ball (2.4%)",
-      "backdrop": "Malachite (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 12,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-10T21:21:39.000Z",
       "premarketData": {}
     },
     {
@@ -16375,9 +16439,47 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
+    },
+    {
+      "gift_num": 4279,
+      "customEmojiId": "5404425020061538014",
+      "gift_id": 583458645168,
+      "name": "Crystal Ball",
+      "model": "Martian (3%)",
+      "asset": "TON",
+      "symbol": "Jaws (2.4%)",
+      "backdrop": "Lemongrass (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 38.556,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
     }
   ],
   "Daisy": [
+    {
+      "gift_num": 6457,
+      "customEmojiId": "5188287271995992741",
+      "gift_id": 6949954,
+      "name": "Crystal Ball",
+      "model": "Daisy (1%)",
+      "asset": "TON",
+      "symbol": "Ghost (2.4%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-17T00:07:05.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2928,
       "customEmojiId": "5188287271995992741",
@@ -16606,26 +16708,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6457,
-      "customEmojiId": "5188287271995992741",
-      "gift_id": 6949954,
-      "name": "Crystal Ball",
-      "model": "Daisy (1%)",
-      "asset": "TON",
-      "symbol": "Ghost (2.4%)",
-      "backdrop": "Onyx Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 28.84,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-17T00:07:05.000Z",
       "premarketData": {}
     },
     {
@@ -18683,6 +18765,117 @@
       "premarketData": {}
     },
     {
+      "gift_num": 8086,
+      "customEmojiId": "5431579289365534738",
+      "gift_id": 7248573,
+      "name": "Crystal Ball",
+      "model": "Pink Panther (1.5%)",
+      "asset": "TON",
+      "symbol": "Magic Wand (1.6%)",
+      "backdrop": "Navy Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9.26,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "Z4WXXMKI",
+      "auction": {
+        "_id": "687a8c82aace4cd2f647b2b3",
+        "gift_id": 7248573,
+        "seller": 0,
+        "auction_id": "Z4WXXMKI",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "6887a57b450b5b469c826ef3",
+            "timestamp": "2025-07-28T16:29:47.980Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.1,
+            "asset": "TON",
+            "_id": "6887a7f2450b5b469c87c930",
+            "timestamp": "2025-07-28T16:40:18.813Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.41,
+            "asset": "TON",
+            "_id": "6887b05f450b5b469cb7b79d",
+            "timestamp": "2025-07-28T17:16:15.156Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.73,
+            "asset": "TON",
+            "_id": "6887b0e9450b5b469cbaba6d",
+            "timestamp": "2025-07-28T17:18:33.597Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.07,
+            "asset": "TON",
+            "_id": "6887b0fb450b5b469cbb2681",
+            "timestamp": "2025-07-28T17:18:51.391Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.42,
+            "asset": "TON",
+            "_id": "6887b1d3450b5b469cc02248",
+            "timestamp": "2025-07-28T17:22:27.450Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8,
+            "asset": "TON",
+            "_id": "6887b1f1450b5b469cc0dd30",
+            "timestamp": "2025-07-28T17:22:57.997Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.4,
+            "asset": "TON",
+            "_id": "6887b4d9450b5b469ccb2f63",
+            "timestamp": "2025-07-28T17:35:21.838Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.82,
+            "asset": "TON",
+            "_id": "6887b4f4450b5b469ccb8632",
+            "timestamp": "2025-07-28T17:35:48.077Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.26,
+            "asset": "TON",
+            "_id": "6887b757450b5b469cd7a334",
+            "timestamp": "2025-07-28T17:45:59.718Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T17:56:32.332Z",
+        "status": "finished",
+        "gift_name": "Crystal Ball",
+        "gift_num": 8086,
+        "model": "Pink Panther (1.5%)",
+        "backdrop": "Navy Blue (1.5%)",
+        "symbol": "Magic Wand (1.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-28T16:26:33.891Z",
+        "__v": 0,
+        "winningBid": 9.26,
+        "winningBidder": 1880197976
+      },
+      "export_at": "2025-07-30T12:06:04.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6915,
       "customEmojiId": "5431579289365534738",
       "gift_id": 583258123453,
@@ -19828,6 +20021,26 @@
   ],
   "Inkwell": [
     {
+      "gift_num": 11267,
+      "customEmojiId": "5429508947625141129",
+      "gift_id": 7431733,
+      "name": "Crystal Ball",
+      "model": "Inkwell (2%)",
+      "asset": "TON",
+      "symbol": "Human Scull (2%)",
+      "backdrop": "Azure Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T13:50:42.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 8640,
       "customEmojiId": "5429508947625141129",
       "gift_id": 7103804,
@@ -19883,26 +20096,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-14T11:11:09.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11267,
-      "customEmojiId": "5429508947625141129",
-      "gift_id": 7431733,
-      "name": "Crystal Ball",
-      "model": "Inkwell (2%)",
-      "asset": "TON",
-      "symbol": "Human Scull (2%)",
-      "backdrop": "Azure Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 17,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-10T13:50:42.000Z",
       "premarketData": {}
     },
     {
@@ -21010,6 +21203,26 @@
   ],
   "Hot Head": [
     {
+      "gift_num": 8833,
+      "customEmojiId": "5424907147865513527",
+      "gift_id": 7382480,
+      "name": "Crystal Ball",
+      "model": "Hot Head (2%)",
+      "asset": "TON",
+      "symbol": "Voodoo Doll (2%)",
+      "backdrop": "Shamrock Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 12,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T13:33:52.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 18378,
       "customEmojiId": "5424907147865513527",
       "gift_id": 7441409,
@@ -21571,24 +21784,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-20T15:39:25.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 13516,
-      "customEmojiId": "5424907147865513527",
-      "gift_id": 584165960998,
-      "name": "Crystal Ball",
-      "model": "Hot Head (2%)",
-      "asset": "TON",
-      "symbol": "Octopus (0.2%)",
-      "backdrop": "Raspberry (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 19.278,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
@@ -24164,23 +24359,23 @@
       "premarketData": {}
     },
     {
-      "gift_num": 17035,
+      "gift_num": 11543,
       "customEmojiId": "5429389684973268067",
-      "gift_id": 6764761,
+      "gift_id": 7134825,
       "name": "Crystal Ball",
       "model": "Warhol (2%)",
       "asset": "TON",
-      "symbol": "Scarecrow (1.6%)",
-      "backdrop": "Mystic Pearl (2%)",
+      "symbol": "Coffin (2.4%)",
+      "backdrop": "Light Olive (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 15,
+      "price": 9,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-09T21:35:04.000Z",
+      "export_at": "2025-07-24T16:19:16.000Z",
       "premarketData": {}
     }
   ],
@@ -24786,6 +24981,24 @@
   ],
   "Frankenstein": [
     {
+      "gift_num": 6513,
+      "customEmojiId": "5429257017728459986",
+      "gift_id": 583266605584,
+      "name": "Crystal Ball",
+      "model": "Frankenstein (2%)",
+      "asset": "TON",
+      "symbol": "Eyeball (1.6%)",
+      "backdrop": "Mystic Pearl (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 9.639,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 5957,
       "customEmojiId": "5429257017728459986",
       "gift_id": 583263590946,
@@ -25348,26 +25561,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 9193,
-      "customEmojiId": "5429257017728459986",
-      "gift_id": 1727516,
-      "name": "Crystal Ball",
-      "model": "Frankenstein (2%)",
-      "asset": "TON",
-      "symbol": "Half Moon (1.6%)",
-      "backdrop": "Coral Red (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-03-27T09:57:58.000Z",
-      "premarketData": {}
     }
   ],
   "Sanguine": [
@@ -25629,6 +25822,26 @@
     }
   ],
   "Past Tell": [
+    {
+      "gift_num": 21489,
+      "customEmojiId": "5440399730557343479",
+      "gift_id": 7453593,
+      "name": "Crystal Ball",
+      "model": "Past Tell (2%)",
+      "asset": "TON",
+      "symbol": "Coffin (2.4%)",
+      "backdrop": "Pacific Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 11,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T18:36:31.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 18203,
       "customEmojiId": "5440399730557343479",
@@ -26184,24 +26397,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 5138,
-      "customEmojiId": "5440399730557343479",
-      "gift_id": 583259207073,
-      "name": "Crystal Ball",
-      "model": "Past Tell (2%)",
-      "asset": "TON",
-      "symbol": "Garden Pot (0.2%)",
-      "backdrop": "Silver Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 33.048,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Samhain": [
@@ -26696,9 +26891,29 @@
   ],
   "Lady Death": [
     {
+      "gift_num": 8580,
+      "customEmojiId": "5413706727856038311",
+      "gift_id": 7448881,
+      "name": "Crystal Ball",
+      "model": "Lady Death (3%)",
+      "asset": "TON",
+      "symbol": "Gravestone (2.4%)",
+      "backdrop": "Indigo Dye (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T12:44:46.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1558,
       "customEmojiId": "5413706727856038311",
-      "gift_id": 7451797,
+      "gift_id": 7453040,
       "name": "Crystal Ball",
       "model": "Lady Death (3%)",
       "asset": "TON",
@@ -26708,11 +26923,11 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 6.64,
+      "price": 6.52,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-08-11T16:01:37.000Z",
+      "export_at": "2025-08-11T17:50:27.000Z",
       "premarketData": {}
     },
     {
@@ -26731,26 +26946,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 8580,
-      "customEmojiId": "5413706727856038311",
-      "gift_id": 7448881,
-      "name": "Crystal Ball",
-      "model": "Lady Death (3%)",
-      "asset": "TON",
-      "symbol": "Gravestone (2.4%)",
-      "backdrop": "Indigo Dye (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T12:44:46.000Z",
       "premarketData": {}
     },
     {
