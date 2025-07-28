@@ -525,6 +525,24 @@
   ],
   "Sakura": [
     {
+      "gift_num": 44,
+      "customEmojiId": "5406830493805076862",
+      "gift_id": 584149576557,
+      "name": "Ion Gem",
+      "model": "Sakura (2%)",
+      "asset": "TON",
+      "symbol": "Greek Sun (0.2%)",
+      "backdrop": "Dark Lilac (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 698,
       "customEmojiId": "5406830493805076862",
       "gift_id": 7427362,
@@ -5435,6 +5453,61 @@
   ],
   "Himalaya": [
     {
+      "gift_num": 2393,
+      "customEmojiId": "5395503758807425293",
+      "gift_id": 7444309,
+      "name": "Ion Gem",
+      "model": "Himalaya (3%)",
+      "asset": "TON",
+      "symbol": "Okami Wolf (0.5%)",
+      "backdrop": "Chocolate (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 71.45,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "XDYYGONN",
+      "auction": {
+        "_id": "68875fae450b5b469c20b797",
+        "gift_id": 7444309,
+        "seller": 0,
+        "auction_id": "XDYYGONN",
+        "startingBid": 10,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 68.05,
+            "asset": "TON",
+            "_id": "6887602d450b5b469c215108",
+            "timestamp": "2025-07-28T11:34:05.733Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 71.45,
+            "asset": "TON",
+            "_id": "68876647450b5b469c2ad9fa",
+            "timestamp": "2025-07-28T12:00:07.878Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T13:31:57.529Z",
+        "status": "finished",
+        "gift_name": "Ion Gem",
+        "gift_num": 2393,
+        "model": "Himalaya (3%)",
+        "backdrop": "Chocolate (2%)",
+        "symbol": "Okami Wolf (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-28T11:31:58.325Z",
+        "__v": 0,
+        "winningBid": 71.45,
+        "winningBidder": 1217246987
+      },
+      "export_at": "2025-08-11T06:09:41.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3207,
       "customEmojiId": "5395503758807425293",
       "gift_id": 584359880919,
@@ -6748,6 +6821,26 @@
     }
   ],
   "Sugilite": [
+    {
+      "gift_num": 3427,
+      "customEmojiId": "5400066800782172167",
+      "gift_id": 7449558,
+      "name": "Ion Gem",
+      "model": "Sugilite (2%)",
+      "asset": "TON",
+      "symbol": "Mountain Lion (0.5%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 105,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T13:28:47.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2526,
       "customEmojiId": "5400066800782172167",
