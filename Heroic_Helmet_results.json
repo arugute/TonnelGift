@@ -745,6 +745,26 @@
   ],
   "Mercurial": [
     {
+      "gift_num": 353,
+      "customEmojiId": "5337005767364994592",
+      "gift_id": 7447433,
+      "name": "Heroic Helmet",
+      "model": "Mercurial (2.5%)",
+      "asset": "TON",
+      "symbol": "Ram of Amun (0.5%)",
+      "backdrop": "Hunter Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 927642,
+      "price": 790,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T11:00:24.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3049,
       "customEmojiId": "5337005767364994592",
       "gift_id": 7426788,
@@ -3887,6 +3907,236 @@
       "premarketData": {}
     },
     {
+      "gift_num": 8,
+      "customEmojiId": "5411380577863497021",
+      "gift_id": 7424121,
+      "name": "Heroic Helmet",
+      "model": "Happy Frog (2%)",
+      "asset": "TON",
+      "symbol": "Wreath (0.4%)",
+      "backdrop": "Sapphire (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 925595,
+      "price": 409,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "TQ4U35LN",
+      "auction": {
+        "_id": "6885cdd6450b5b469ce60754",
+        "gift_id": 7424121,
+        "seller": 0,
+        "auction_id": "TQ4U35LN",
+        "startingBid": 10,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "68860255450b5b469c5f0eb9",
+            "timestamp": "2025-07-27T10:41:25.612Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.5,
+            "asset": "TON",
+            "_id": "688606db450b5b469c69180d",
+            "timestamp": "2025-07-27T11:00:43.306Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.03,
+            "asset": "TON",
+            "_id": "688606ec450b5b469c6974d3",
+            "timestamp": "2025-07-27T11:01:00.810Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.58,
+            "asset": "TON",
+            "_id": "6886181e450b5b469ca3084c",
+            "timestamp": "2025-07-27T12:14:22.616Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.16,
+            "asset": "TON",
+            "_id": "68865aaf450b5b469c7cf1af",
+            "timestamp": "2025-07-27T16:58:23.578Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.77,
+            "asset": "TON",
+            "_id": "6886660b450b5b469c80c756",
+            "timestamp": "2025-07-27T17:46:51.769Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.41,
+            "asset": "TON",
+            "_id": "688673a3450b5b469cb1cb9e",
+            "timestamp": "2025-07-27T18:44:51.177Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.08,
+            "asset": "TON",
+            "_id": "68867591450b5b469cb7d2c8",
+            "timestamp": "2025-07-27T18:53:05.310Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15,
+            "asset": "TON",
+            "_id": "6886765c450b5b469cba06b9",
+            "timestamp": "2025-07-27T18:56:28.048Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15.75,
+            "asset": "TON",
+            "_id": "68869872450b5b469c515770",
+            "timestamp": "2025-07-27T21:21:54.616Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 16.54,
+            "asset": "TON",
+            "_id": "68869be6450b5b469c59c256",
+            "timestamp": "2025-07-27T21:36:38.151Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 17.37,
+            "asset": "TON",
+            "_id": "6886a0c2450b5b469c5c2969",
+            "timestamp": "2025-07-27T21:57:22.954Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 18.24,
+            "asset": "TON",
+            "_id": "6886b5cf450b5b469c722524",
+            "timestamp": "2025-07-27T23:27:11.249Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 25,
+            "asset": "TON",
+            "_id": "6886b964450b5b469c7333cb",
+            "timestamp": "2025-07-27T23:42:28.322Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 150,
+            "asset": "TON",
+            "_id": "6886d244450b5b469c773cb7",
+            "timestamp": "2025-07-28T01:28:36.369Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 157.5,
+            "asset": "TON",
+            "_id": "68871ca1450b5b469ce59cb4",
+            "timestamp": "2025-07-28T06:45:53.965Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 165.38,
+            "asset": "TON",
+            "_id": "68871cb2450b5b469ce5a030",
+            "timestamp": "2025-07-28T06:46:10.267Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 173.65,
+            "asset": "TON",
+            "_id": "68873e2f450b5b469c037c8c",
+            "timestamp": "2025-07-28T09:09:03.637Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 182.33,
+            "asset": "TON",
+            "_id": "68873e57450b5b469c03c167",
+            "timestamp": "2025-07-28T09:09:43.360Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 191.45,
+            "asset": "TON",
+            "_id": "68873e65450b5b469c03d095",
+            "timestamp": "2025-07-28T09:09:57.690Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 201.02,
+            "asset": "TON",
+            "_id": "68873ed0450b5b469c03f54b",
+            "timestamp": "2025-07-28T09:11:44.017Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 211.07,
+            "asset": "TON",
+            "_id": "68873ff7450b5b469c04c571",
+            "timestamp": "2025-07-28T09:16:39.978Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 221.62,
+            "asset": "TON",
+            "_id": "688741aa450b5b469c05ffdf",
+            "timestamp": "2025-07-28T09:23:54.708Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 300,
+            "asset": "TON",
+            "_id": "688741f4450b5b469c06f46f",
+            "timestamp": "2025-07-28T09:25:08.024Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 315,
+            "asset": "TON",
+            "_id": "68875347450b5b469c11d279",
+            "timestamp": "2025-07-28T10:39:03.589Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 331,
+            "asset": "TON",
+            "_id": "6887536e450b5b469c11d8a9",
+            "timestamp": "2025-07-28T10:39:42.506Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 409,
+            "asset": "TON",
+            "_id": "6887537d450b5b469c11db1a",
+            "timestamp": "2025-07-28T10:39:57.978Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T10:59:49.662Z",
+        "status": "finished",
+        "gift_name": "Heroic Helmet",
+        "gift_num": 8,
+        "model": "Happy Frog (2%)",
+        "backdrop": "Sapphire (1.5%)",
+        "symbol": "Wreath (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-27T10:39:51.730Z",
+        "__v": 0,
+        "winningBid": 409,
+        "winningBidder": 7469422466
+      },
+      "export_at": "2025-08-10T06:51:27.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2814,
       "customEmojiId": "5411380577863497021",
       "gift_id": 7384921,
@@ -4985,27 +5235,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T14:14:59.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1844,
-      "customEmojiId": "5386352390385464142",
-      "gift_id": 6624541,
-      "name": "Heroic Helmet",
-      "model": "Bounty Hunter (1.5%)",
-      "asset": "TON",
-      "symbol": "Shinto Shrine (0.4%)",
-      "backdrop": "Midnight Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 919870,
-      "price": 1508.49,
-      "promoted": true,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-04T10:11:34.000Z",
       "premarketData": {}
     },
     {
