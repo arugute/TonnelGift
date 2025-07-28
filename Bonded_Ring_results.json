@@ -463,6 +463,75 @@
   ],
   "Leopard": [
     {
+      "gift_num": 7274,
+      "customEmojiId": "5420150201002256771",
+      "gift_id": 7367940,
+      "name": "Bonded Ring",
+      "model": "Leopard (3.5%)",
+      "asset": "TON",
+      "symbol": "Genie Lamp (0.4%)",
+      "backdrop": "Burgundy (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50.5,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "4HG1B48Q",
+      "auction": {
+        "_id": "688681ae450b5b469c2ec3d3",
+        "gift_id": 7367940,
+        "seller": 0,
+        "auction_id": "4HG1B48Q",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.31,
+            "asset": "TON",
+            "_id": "68868579450b5b469c2fff03",
+            "timestamp": "2025-07-27T20:00:57.355Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.43,
+            "asset": "TON",
+            "_id": "688695c3450b5b469c4b0868",
+            "timestamp": "2025-07-27T21:10:27.271Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.1,
+            "asset": "TON",
+            "_id": "68869a6e450b5b469c58a6be",
+            "timestamp": "2025-07-27T21:30:22.083Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 50.5,
+            "asset": "TON",
+            "_id": "6886f569450b5b469c7bb792",
+            "timestamp": "2025-07-28T03:58:33.904Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T07:44:45.517Z",
+        "status": "finished",
+        "gift_name": "Bonded Ring",
+        "gift_num": 7274,
+        "model": "Leopard (3.5%)",
+        "backdrop": "Burgundy (1%)",
+        "symbol": "Genie Lamp (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-27T19:44:46.423Z",
+        "__v": 0,
+        "winningBid": 50.5,
+        "winningBidder": 8173622469
+      },
+      "export_at": "2025-08-07T14:00:20.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6938,
       "customEmojiId": "5420150201002256771",
       "gift_id": 6523770,
@@ -8948,26 +9017,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 2916,
-      "customEmojiId": "5231207301091716271",
-      "gift_id": 7435512,
-      "name": "Bonded Ring",
-      "model": "Frostband (3.5%)",
-      "asset": "TON",
-      "symbol": "Golden Scarab (0.5%)",
-      "backdrop": "Marine Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 60,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-10T16:55:32.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 3849,
       "customEmojiId": "5231207301091716271",
       "gift_id": 6789858,
@@ -12398,6 +12447,26 @@
   ],
   "Yin Yang": [
     {
+      "gift_num": 6548,
+      "customEmojiId": "5381878894183870813",
+      "gift_id": 7445714,
+      "name": "Bonded Ring",
+      "model": "Yin Yang (3.5%)",
+      "asset": "TON",
+      "symbol": "Moose Head (0.2%)",
+      "backdrop": "Ranger Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 52.49,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T08:37:38.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6729,
       "customEmojiId": "5381878894183870813",
       "gift_id": 7436311,
@@ -12976,26 +13045,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-25T12:09:02.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6311,
-      "customEmojiId": "5381878894183870813",
-      "gift_id": 6127112,
-      "name": "Bonded Ring",
-      "model": "Yin Yang (3.5%)",
-      "asset": "TON",
-      "symbol": "Twin Peaks (0.5%)",
-      "backdrop": "Chestnut (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 793229,
-      "price": 230,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T12:35:15.000Z",
       "premarketData": {}
     }
   ],
@@ -14180,8 +14229,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 926178,
-      "price": 255,
+      "message_in_channel": 0,
+      "price": 140,
       "status": "forsale",
       "limited": false,
       "auction": null,
