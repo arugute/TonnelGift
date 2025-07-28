@@ -604,6 +604,26 @@
   ],
   "Rose Gold": [
     {
+      "gift_num": 13299,
+      "customEmojiId": "5431748463832359906",
+      "gift_id": 7384153,
+      "name": "Signet Ring",
+      "model": "Rose Gold (4%)",
+      "asset": "TON",
+      "symbol": "Tree of Life (0.5%)",
+      "backdrop": "Lavender (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 23.58,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T15:41:45.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6368,
       "customEmojiId": "5431748463832359906",
       "gift_id": 6252489,
@@ -1194,24 +1214,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T08:52:30.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 9175,
-      "customEmojiId": "5431748463832359906",
-      "gift_id": 577364224873,
-      "name": "Signet Ring",
-      "model": "Rose Gold (4%)",
-      "asset": "TON",
-      "symbol": "Coin (0.5%)",
-      "backdrop": "Lavender (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 110.16,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
@@ -5388,6 +5390,24 @@
   ],
   "Emerald": [
     {
+      "gift_num": 15548,
+      "customEmojiId": "5434101938406844432",
+      "gift_id": 599887653566,
+      "name": "Signet Ring",
+      "model": "Emerald (2%)",
+      "asset": "TON",
+      "symbol": "Coconut (0.8%)",
+      "backdrop": "French Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 275.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 11265,
       "customEmojiId": "5434101938406844432",
       "gift_id": 7353810,
@@ -5939,26 +5959,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T02:00:32.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 13953,
-      "customEmojiId": "5434101938406844432",
-      "gift_id": 5873482,
-      "name": "Signet Ring",
-      "model": "Emerald (2%)",
-      "asset": "TON",
-      "symbol": "White Deer (1%)",
-      "backdrop": "Mystic Pearl (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 90,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-22T15:21:32.000Z",
       "premarketData": {}
     }
   ],
@@ -9836,6 +9836,24 @@
   ],
   "Blued Steel": [
     {
+      "gift_num": 504,
+      "customEmojiId": "5431806892567457777",
+      "gift_id": 603063804216,
+      "name": "Signet Ring",
+      "model": "Blued Steel (3%)",
+      "asset": "TON",
+      "symbol": "Scarab (0.8%)",
+      "backdrop": "Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 109.609,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 11430,
       "customEmojiId": "5431806892567457777",
       "gift_id": 7440693,
@@ -10385,26 +10403,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-01T16:35:20.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1596,
-      "customEmojiId": "5431806892567457777",
-      "gift_id": 5931965,
-      "name": "Signet Ring",
-      "model": "Blued Steel (3%)",
-      "asset": "TON",
-      "symbol": "Grenade (0.2%)",
-      "backdrop": "Roman Silver (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 70,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T09:16:01.000Z",
       "premarketData": {}
     }
   ],
@@ -21004,6 +21002,68 @@
     }
   ],
   "Utya": [
+    {
+      "gift_num": 9705,
+      "customEmojiId": "5433861493252708173",
+      "gift_id": 7439595,
+      "name": "Signet Ring",
+      "model": "Utya (1.5%)",
+      "asset": "TON",
+      "symbol": "Ram of Amun (1%)",
+      "backdrop": "English Violet (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 36,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "4JH9USOM",
+      "auction": {
+        "_id": "6886a661450b5b469c6460ae",
+        "gift_id": 7439595,
+        "seller": 0,
+        "auction_id": "4JH9USOM",
+        "startingBid": 30,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 30,
+            "asset": "TON",
+            "_id": "6886a95c450b5b469c6882a2",
+            "timestamp": "2025-07-27T22:34:04.552Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 33,
+            "asset": "TON",
+            "_id": "6886c57b450b5b469c758926",
+            "timestamp": "2025-07-28T00:34:03.044Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 36,
+            "asset": "TON",
+            "_id": "6886d17d450b5b469c773619",
+            "timestamp": "2025-07-28T01:25:17.211Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T04:21:19.576Z",
+        "status": "finished",
+        "gift_name": "Signet Ring",
+        "gift_num": 9705,
+        "model": "Utya (1.5%)",
+        "backdrop": "English Violet (2%)",
+        "symbol": "Ram of Amun (1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-27T22:21:21.015Z",
+        "__v": 0,
+        "winningBid": 36,
+        "winningBidder": 6778926149
+      },
+      "export_at": "2025-08-10T20:34:43.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 8372,
       "customEmojiId": "5433861493252708173",
