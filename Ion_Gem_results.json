@@ -545,26 +545,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 1076,
-      "customEmojiId": "5406830493805076862",
-      "gift_id": 7330753,
-      "name": "Ion Gem",
-      "model": "Sakura (2%)",
-      "asset": "TON",
-      "symbol": "Hermit Shell (0.2%)",
-      "backdrop": "Fandango (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 922956,
-      "price": 180,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T20:24:51.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2465,
       "customEmojiId": "5406830493805076862",
       "gift_id": 7379270,
@@ -6769,6 +6749,61 @@
   ],
   "Sugilite": [
     {
+      "gift_num": 2526,
+      "customEmojiId": "5400066800782172167",
+      "gift_id": 7364354,
+      "name": "Ion Gem",
+      "model": "Sugilite (2%)",
+      "asset": "TON",
+      "symbol": "Tiki Mask (0.4%)",
+      "backdrop": "Pine Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 70.88,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "MZBA4TKG",
+      "auction": {
+        "_id": "68874b0d450b5b469c0f1a31",
+        "gift_id": 7364354,
+        "seller": 0,
+        "auction_id": "MZBA4TKG",
+        "startingBid": 65,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 67.5,
+            "asset": "TON",
+            "_id": "68874d16450b5b469c104dc9",
+            "timestamp": "2025-07-28T10:12:38.388Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 70.88,
+            "asset": "TON",
+            "_id": "688755a5450b5b469c12298e",
+            "timestamp": "2025-07-28T10:49:09.804Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T13:03:55.943Z",
+        "status": "finished",
+        "gift_name": "Ion Gem",
+        "gift_num": 2526,
+        "model": "Sugilite (2%)",
+        "backdrop": "Pine Green (2%)",
+        "symbol": "Tiki Mask (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-28T10:03:57.274Z",
+        "__v": 0,
+        "winningBid": 70.88,
+        "winningBidder": 1217246987
+      },
+      "export_at": "2025-08-07T09:34:34.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2783,
       "customEmojiId": "5400066800782172167",
       "gift_id": 7420494,
@@ -7840,7 +7875,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 75.35,
+      "price": 74.99,
       "status": "forsale",
       "limited": false,
       "auction": null,
