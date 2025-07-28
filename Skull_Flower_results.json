@@ -837,7 +837,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 8,
+      "price": 7.7,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -1542,7 +1542,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 11.57,
+      "price": 10.99,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -7578,6 +7578,152 @@
       "premarketData": {}
     },
     {
+      "gift_num": 19934,
+      "customEmojiId": "5411635995273619584",
+      "gift_id": 7079039,
+      "name": "Skull Flower",
+      "model": "Black Dahlia (3%)",
+      "asset": "TON",
+      "symbol": "Eyeball (1.2%)",
+      "backdrop": "Battleship Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10.21,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "K0C6L49N",
+      "auction": {
+        "_id": "68867538450b5b469cb6f948",
+        "gift_id": 7079039,
+        "seller": 0,
+        "auction_id": "K0C6L49N",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6886af3a450b5b469c6fded5",
+            "timestamp": "2025-07-27T22:59:06.202Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "6886b6f3450b5b469c727a74",
+            "timestamp": "2025-07-27T23:32:03.191Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "68871a66450b5b469ce542d7",
+            "timestamp": "2025-07-28T06:36:22.644Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.63,
+            "asset": "TON",
+            "_id": "68871aa8450b5b469ce54b2d",
+            "timestamp": "2025-07-28T06:37:28.254Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.91,
+            "asset": "TON",
+            "_id": "68871aff450b5b469ce54f04",
+            "timestamp": "2025-07-28T06:38:55.067Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.21,
+            "asset": "TON",
+            "_id": "688786fe450b5b469c5381cb",
+            "timestamp": "2025-07-28T14:19:42.511Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.52,
+            "asset": "TON",
+            "_id": "6887871f450b5b469c53b6d9",
+            "timestamp": "2025-07-28T14:20:15.890Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.85,
+            "asset": "TON",
+            "_id": "6887873e450b5b469c53e404",
+            "timestamp": "2025-07-28T14:20:46.569Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.2,
+            "asset": "TON",
+            "_id": "68878771450b5b469c5432a2",
+            "timestamp": "2025-07-28T14:21:37.535Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8,
+            "asset": "TON",
+            "_id": "688787f1450b5b469c548f3d",
+            "timestamp": "2025-07-28T14:23:45.241Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.4,
+            "asset": "TON",
+            "_id": "6887c047450b5b469ce38665",
+            "timestamp": "2025-07-28T18:24:07.942Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.82,
+            "asset": "TON",
+            "_id": "6887c069450b5b469ce3a403",
+            "timestamp": "2025-07-28T18:24:41.935Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.26,
+            "asset": "TON",
+            "_id": "6887c5f3450b5b469ce8c483",
+            "timestamp": "2025-07-28T18:48:19.587Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.72,
+            "asset": "TON",
+            "_id": "6887c632450b5b469ce8f1d5",
+            "timestamp": "2025-07-28T18:49:22.167Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.21,
+            "asset": "TON",
+            "_id": "6887c6d2450b5b469ce9413a",
+            "timestamp": "2025-07-28T18:52:02.482Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T19:11:34.444Z",
+        "status": "finished",
+        "gift_name": "Skull Flower",
+        "gift_num": 19934,
+        "model": "Black Dahlia (3%)",
+        "backdrop": "Battleship Grey (1.5%)",
+        "symbol": "Eyeball (1.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-27T18:51:36.485Z",
+        "__v": 0,
+        "winningBid": 10.21,
+        "winningBidder": 1187218269
+      },
+      "export_at": "2025-07-22T12:54:54.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 7422,
       "customEmojiId": "5411635995273619584",
       "gift_id": 6879084,
@@ -11924,26 +12070,6 @@
   ],
   "Marigold": [
     {
-      "gift_num": 9747,
-      "customEmojiId": "5413381998263689139",
-      "gift_id": 7453756,
-      "name": "Skull Flower",
-      "model": "Marigold (2%)",
-      "asset": "TON",
-      "symbol": "Dessert (0.4%)",
-      "backdrop": "Raspberry (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T18:48:13.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 9748,
       "customEmojiId": "5413381998263689139",
       "gift_id": 7453390,
@@ -11956,11 +12082,31 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 10,
+      "price": 6,
       "status": "forsale",
       "limited": false,
       "auction": null,
       "export_at": "2025-08-11T18:16:49.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 9747,
+      "customEmojiId": "5413381998263689139",
+      "gift_id": 7453756,
+      "name": "Skull Flower",
+      "model": "Marigold (2%)",
+      "asset": "TON",
+      "symbol": "Dessert (0.4%)",
+      "backdrop": "Raspberry (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6.65,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T18:48:13.000Z",
       "premarketData": {}
     },
     {
@@ -13259,6 +13405,26 @@
   ],
   "Jack Sparrow": [
     {
+      "gift_num": 1476,
+      "customEmojiId": "5434079729130957685",
+      "gift_id": 7173187,
+      "name": "Skull Flower",
+      "model": "Jack Sparrow (1.5%)",
+      "asset": "TON",
+      "symbol": "Treats (0.8%)",
+      "backdrop": "Moonstone (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 12.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T10:18:20.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 14750,
       "customEmojiId": "5434079729130957685",
       "gift_id": 7356077,
@@ -13279,26 +13445,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 1476,
-      "customEmojiId": "5434079729130957685",
-      "gift_id": 7173187,
-      "name": "Skull Flower",
-      "model": "Jack Sparrow (1.5%)",
-      "asset": "TON",
-      "symbol": "Treats (0.8%)",
-      "backdrop": "Moonstone (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9.99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T10:18:20.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 9796,
       "customEmojiId": "5434079729130957685",
       "gift_id": 6384065,
@@ -13316,26 +13462,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-28T09:08:18.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15335,
-      "customEmojiId": "5434079729130957685",
-      "gift_id": 7257797,
-      "name": "Skull Flower",
-      "model": "Jack Sparrow (1.5%)",
-      "asset": "TON",
-      "symbol": "Treats (0.8%)",
-      "backdrop": "Emerald (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T21:06:12.000Z",
       "premarketData": {}
     },
     {
@@ -14985,6 +15111,26 @@
   ],
   "Sunburst": [
     {
+      "gift_num": 13171,
+      "customEmojiId": "5411354511706974413",
+      "gift_id": 6611854,
+      "name": "Skull Flower",
+      "model": "Sunburst (3%)",
+      "asset": "TON",
+      "symbol": "Palette (0.2%)",
+      "backdrop": "Orange (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-03T19:36:38.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 10391,
       "customEmojiId": "5411354511706974413",
       "gift_id": 7403919,
@@ -15344,26 +15490,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-10T10:09:58.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 13171,
-      "customEmojiId": "5411354511706974413",
-      "gift_id": 6611854,
-      "name": "Skull Flower",
-      "model": "Sunburst (3%)",
-      "asset": "TON",
-      "symbol": "Palette (0.2%)",
-      "backdrop": "Orange (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-03T19:36:38.000Z",
       "premarketData": {}
     },
     {
