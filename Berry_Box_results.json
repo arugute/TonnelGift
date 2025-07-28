@@ -1294,26 +1294,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 34035,
-      "customEmojiId": "5413433795569282370",
-      "gift_id": 4450005,
-      "name": "Berry Box",
-      "model": "Rose Gold (1.5%)",
-      "asset": "TON",
-      "symbol": "Spanner (0.2%)",
-      "backdrop": "Cobalt Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-27T07:06:02.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 36634,
       "customEmojiId": "5413433795569282370",
       "gift_id": 6554271,
@@ -19078,6 +19058,26 @@
   ],
   "Pointilism": [
     {
+      "gift_num": 15245,
+      "customEmojiId": "5415893059483230601",
+      "gift_id": 7433216,
+      "name": "Berry Box",
+      "model": "Pointilism (2%)",
+      "asset": "TON",
+      "symbol": "Shiny Heart (0.8%)",
+      "backdrop": "Mint Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.6,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T15:11:22.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 30500,
       "customEmojiId": "5415893059483230601",
       "gift_id": 7352153,
@@ -19095,26 +19095,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-06T13:18:32.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15245,
-      "customEmojiId": "5415893059483230601",
-      "gift_id": 7433216,
-      "name": "Berry Box",
-      "model": "Pointilism (2%)",
-      "asset": "TON",
-      "symbol": "Shiny Heart (0.8%)",
-      "backdrop": "Mint Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-10T15:11:22.000Z",
       "premarketData": {}
     },
     {
@@ -24504,6 +24484,68 @@
   ],
   "Martian": [
     {
+      "gift_num": 40071,
+      "customEmojiId": "5413837097293344736",
+      "gift_id": 7427056,
+      "name": "Berry Box",
+      "model": "Martian (1.5%)",
+      "asset": "TON",
+      "symbol": "Lovely Kiss (1.1%)",
+      "backdrop": "Aquamarine (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.53,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "8UIASBWP",
+      "auction": {
+        "_id": "688684a7450b5b469c2faaf9",
+        "gift_id": 7427056,
+        "seller": 0,
+        "auction_id": "8UIASBWP",
+        "startingBid": 3,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 3.2,
+            "asset": "TON",
+            "_id": "6886fa80450b5b469c7c2c9c",
+            "timestamp": "2025-07-28T04:20:16.589Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.36,
+            "asset": "TON",
+            "_id": "6886fea5450b5b469c7ca342",
+            "timestamp": "2025-07-28T04:37:57.319Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.53,
+            "asset": "TON",
+            "_id": "6886ff1c450b5b469c7cb0bf",
+            "timestamp": "2025-07-28T04:39:56.262Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T05:01:25.735Z",
+        "status": "finished",
+        "gift_name": "Berry Box",
+        "gift_num": 40071,
+        "model": "Martian (1.5%)",
+        "backdrop": "Aquamarine (2%)",
+        "symbol": "Lovely Kiss (1.1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-28T04:01:27.362Z",
+        "__v": 0,
+        "winningBid": 3.53,
+        "winningBidder": 83717519
+      },
+      "export_at": "2025-08-10T09:55:01.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 25473,
       "customEmojiId": "5413837097293344736",
       "gift_id": 7352933,
@@ -25574,7 +25616,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 5,
+      "price": 4.8,
       "status": "forsale",
       "limited": false,
       "auction": null,
