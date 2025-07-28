@@ -3979,6 +3979,26 @@
   ],
   "Melon": [
     {
+      "gift_num": 8587,
+      "customEmojiId": "5400291242888160110",
+      "gift_id": 5482729,
+      "name": "Kissed Frog",
+      "model": "Melon (3%)",
+      "asset": "TON",
+      "symbol": "Rabbit (0.2%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 65.93,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-14T07:47:39.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 8124,
       "customEmojiId": "5400291242888160110",
       "gift_id": 6771011,
@@ -4548,53 +4568,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-03-26T01:58:41.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11365,
-      "customEmojiId": "5400291242888160110",
-      "gift_id": 7441736,
-      "name": "Kissed Frog",
-      "model": "Melon (3%)",
-      "asset": "TON",
-      "symbol": "Fleur-de-lis (0.6%)",
-      "backdrop": "Hunter Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 30.5,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "03E5PQ77",
-      "auction": {
-        "_id": "6886af95450b5b469c6ff2e7",
-        "gift_id": 7441736,
-        "seller": 0,
-        "auction_id": "03E5PQ77",
-        "startingBid": 30.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 30.5,
-            "asset": "TON",
-            "_id": "6886ba11450b5b469c736760",
-            "timestamp": "2025-07-27T23:45:21.278Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-28T00:00:36.352Z",
-        "status": "finished",
-        "gift_name": "Kissed Frog",
-        "gift_num": 11365,
-        "model": "Melon (3%)",
-        "backdrop": "Hunter Green (2%)",
-        "symbol": "Fleur-de-lis (0.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-27T23:00:37.765Z",
-        "__v": 0,
-        "winningBid": 30.5,
-        "winningBidder": 456710612
-      },
-      "export_at": "2025-08-10T23:00:18.000Z",
       "premarketData": {}
     }
   ],
@@ -14574,6 +14547,26 @@
     }
   ],
   "Ms. Toad": [
+    {
+      "gift_num": 3433,
+      "customEmojiId": "5413818427070504499",
+      "gift_id": 7446146,
+      "name": "Kissed Frog",
+      "model": "Ms. Toad (1.5%)",
+      "asset": "TON",
+      "symbol": "Ladybug (0.4%)",
+      "backdrop": "Chestnut (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 70,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T09:12:35.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2914,
       "customEmojiId": "5413818427070504499",
