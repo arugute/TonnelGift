@@ -831,7 +831,7 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 927695,
+      "message_in_channel": 927841,
       "price": 1500,
       "status": "forsale",
       "limited": false,
@@ -3411,6 +3411,53 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T11:27:49.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 626,
+      "customEmojiId": "5375420719364602142",
+      "gift_id": 7448971,
+      "name": "Gem Signet",
+      "model": "Render (3%)",
+      "asset": "TON",
+      "symbol": "Twin Peaks (0.5%)",
+      "backdrop": "Sapphire (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 63.5,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "8DKSZJK5",
+      "auction": {
+        "_id": "6887728c450b5b469c3817ae",
+        "gift_id": 7448971,
+        "seller": 0,
+        "auction_id": "8DKSZJK5",
+        "startingBid": 60,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 63.5,
+            "asset": "TON",
+            "_id": "688772e0450b5b469c38c224",
+            "timestamp": "2025-07-28T12:53:52.352Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T13:52:25.669Z",
+        "status": "finished",
+        "gift_name": "Gem Signet",
+        "gift_num": 626,
+        "model": "Render (3%)",
+        "backdrop": "Sapphire (1.2%)",
+        "symbol": "Twin Peaks (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-28T12:52:28.047Z",
+        "__v": 0,
+        "winningBid": 63.5,
+        "winningBidder": 8173622469
+      },
+      "export_at": "2025-08-11T12:51:43.000Z",
       "premarketData": {}
     }
   ],
