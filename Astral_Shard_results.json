@@ -648,26 +648,6 @@
   ],
   "Fractured": [
     {
-      "gift_num": 4398,
-      "customEmojiId": "5231184237117336335",
-      "gift_id": 7446979,
-      "name": "Astral Shard",
-      "model": "Fractured (1.7%)",
-      "asset": "TON",
-      "symbol": "The Eye (0.8%)",
-      "backdrop": "Ivory White (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 130,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T10:22:55.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 412,
       "customEmojiId": "5231184237117336335",
       "gift_id": 7444997,
@@ -1020,6 +1000,26 @@
   ],
   "Amethyst": [
     {
+      "gift_num": 3431,
+      "customEmojiId": "5228790643253340034",
+      "gift_id": 7380940,
+      "name": "Astral Shard",
+      "model": "Amethyst (2.4%)",
+      "asset": "TON",
+      "symbol": "Diamond (1%)",
+      "backdrop": "Grape (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 110,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T11:40:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 892,
       "customEmojiId": "5228790643253340034",
       "gift_id": 7435343,
@@ -1057,26 +1057,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-07T11:39:11.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3431,
-      "customEmojiId": "5228790643253340034",
-      "gift_id": 7380940,
-      "name": "Astral Shard",
-      "model": "Amethyst (2.4%)",
-      "asset": "TON",
-      "symbol": "Diamond (1%)",
-      "backdrop": "Grape (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 120,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T11:40:16.000Z",
       "premarketData": {}
     },
     {
@@ -1629,6 +1609,110 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-04T12:43:06.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 129,
+      "customEmojiId": "5231184713858703552",
+      "gift_id": 374643,
+      "name": "Astral Shard",
+      "model": "White Opal (2.3%)",
+      "asset": "TON",
+      "symbol": "Phoenix (1%)",
+      "backdrop": "Onyx Black (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 913517,
+      "price": 154.2128,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "5L34MLPK",
+      "auction": {
+        "_id": "684a16adb4e1616cf533ebf6",
+        "gift_id": 374643,
+        "seller": 0,
+        "auction_id": "5L34MLPK",
+        "startingBid": 100,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 100,
+            "asset": "TON",
+            "_id": "68871c2a450b5b469ce58637",
+            "timestamp": "2025-07-28T06:43:54.120Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 105,
+            "asset": "TON",
+            "_id": "68877f17450b5b469c48aab3",
+            "timestamp": "2025-07-28T13:45:59.614Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 110.25,
+            "asset": "TON",
+            "_id": "68877fdd450b5b469c49b174",
+            "timestamp": "2025-07-28T13:49:17.450Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 115.76,
+            "asset": "TON",
+            "_id": "68877ff7450b5b469c49e065",
+            "timestamp": "2025-07-28T13:49:43.077Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 123.2,
+            "asset": "TON",
+            "_id": "6887cbeb450b5b469cecbc9b",
+            "timestamp": "2025-07-28T19:13:47.056Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 129.36,
+            "asset": "TON",
+            "_id": "6887cc13450b5b469cecc2b1",
+            "timestamp": "2025-07-28T19:14:27.693Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 136.17,
+            "asset": "TON",
+            "_id": "6887cd90450b5b469ceda835",
+            "timestamp": "2025-07-28T19:20:48.284Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 142.98,
+            "asset": "TON",
+            "_id": "6887cea9450b5b469cee44e5",
+            "timestamp": "2025-07-28T19:25:29.353Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 154.2128,
+            "asset": "TON",
+            "_id": "6887d0eb450b5b469cefeea9",
+            "timestamp": "2025-07-28T19:35:07.693Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T19:52:25.251Z",
+        "status": "finished",
+        "gift_name": "Astral Shard",
+        "gift_num": 129,
+        "model": "White Opal (2.3%)",
+        "backdrop": "Onyx Black (1%)",
+        "symbol": "Phoenix (1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-27T19:32:26.985Z",
+        "__v": 0,
+        "winningBid": 154.2128,
+        "winningBidder": 951839599
+      },
+      "export_at": "2025-02-21T06:39:38.000Z",
       "premarketData": {}
     },
     {
@@ -2735,8 +2819,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 0,
-      "price": 149,
+      "message_in_channel": 928310,
+      "price": 150,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -6072,6 +6156,54 @@
     }
   ],
   "Barbed": [
+    {
+      "gift_num": 5107,
+      "customEmojiId": "5228875206864432045",
+      "gift_id": 7385001,
+      "name": "Astral Shard",
+      "model": "Barbed (1.7%)",
+      "asset": "TON",
+      "symbol": "Venetian Mask (0.8%)",
+      "backdrop": "Desert Sand (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 923243,
+      "price": 150,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "5M9BN00E",
+      "auction": {
+        "_id": "6883b647aace4cd2f6d72cf2",
+        "gift_id": 7385001,
+        "seller": 0,
+        "auction_id": "5M9BN00E",
+        "startingBid": 150,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 150,
+            "asset": "TON",
+            "_id": "6887d251450b5b469cf4c95d",
+            "timestamp": "2025-07-28T19:41:05.389Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T19:52:36.710Z",
+        "status": "finished",
+        "gift_name": "Astral Shard",
+        "gift_num": 5107,
+        "model": "Barbed (1.7%)",
+        "backdrop": "Desert Sand (2%)",
+        "symbol": "Venetian Mask (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-28T17:52:38.057Z",
+        "__v": 0,
+        "winningBid": 150,
+        "winningBidder": 6548103803
+      },
+      "export_at": "2025-08-08T16:50:24.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2801,
       "customEmojiId": "5228875206864432045",
