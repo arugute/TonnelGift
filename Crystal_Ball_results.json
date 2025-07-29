@@ -4878,6 +4878,24 @@
   ],
   "Electric Shock": [
     {
+      "gift_num": 11489,
+      "customEmojiId": "5438132790983942059",
+      "gift_id": 583474016426,
+      "name": "Crystal Ball",
+      "model": "Electric Shock (2%)",
+      "asset": "TON",
+      "symbol": "Fish Skeleton (2.4%)",
+      "backdrop": "Light Olive (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 55.047,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 9912,
       "customEmojiId": "5438132790983942059",
       "gift_id": 7443680,
@@ -5437,26 +5455,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T16:18:01.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 12416,
-      "customEmojiId": "5438132790983942059",
-      "gift_id": 7134744,
-      "name": "Crystal Ball",
-      "model": "Electric Shock (2%)",
-      "asset": "TON",
-      "symbol": "Potion (1.6%)",
-      "backdrop": "Persimmon (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T16:17:10.000Z",
       "premarketData": {}
     }
   ],
@@ -6549,6 +6547,54 @@
       "premarketData": {}
     },
     {
+      "gift_num": 19724,
+      "customEmojiId": "5438343613748636648",
+      "gift_id": 7191173,
+      "name": "Crystal Ball",
+      "model": "Opacity (2%)",
+      "asset": "TON",
+      "symbol": "Ghost (2.4%)",
+      "backdrop": "Steel Grey (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 25,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "P05778K0",
+      "auction": {
+        "_id": "688553c9450b5b469c1a71e4",
+        "gift_id": 7191173,
+        "seller": 0,
+        "auction_id": "P05778K0",
+        "startingBid": 25,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 25,
+            "asset": "TON",
+            "_id": "68880b2e450b5b469c80beba",
+            "timestamp": "2025-07-28T23:43:42.692Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T23:56:00.983Z",
+        "status": "finished",
+        "gift_name": "Crystal Ball",
+        "gift_num": 19724,
+        "model": "Opacity (2%)",
+        "backdrop": "Steel Grey (2%)",
+        "symbol": "Ghost (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-27T23:46:02.018Z",
+        "__v": 0,
+        "winningBid": 25,
+        "winningBidder": 5061839298
+      },
+      "export_at": "2025-07-27T10:04:39.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 8018,
       "customEmojiId": "5438343613748636648",
       "gift_id": 583271119165,
@@ -6638,26 +6684,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 17814,
-      "customEmojiId": "5438343613748636648",
-      "gift_id": 7134700,
-      "name": "Crystal Ball",
-      "model": "Opacity (2%)",
-      "asset": "TON",
-      "symbol": "Scarecrow (1.6%)",
-      "backdrop": "Pure Gold (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T16:15:37.000Z",
       "premarketData": {}
     }
   ],
@@ -9328,6 +9354,24 @@
     }
   ],
   "Billiard": [
+    {
+      "gift_num": 21209,
+      "customEmojiId": "5449731869857831768",
+      "gift_id": 582768138122,
+      "name": "Crystal Ball",
+      "model": "Billiard (1%)",
+      "asset": "TON",
+      "symbol": "Voodoo Doll (2%)",
+      "backdrop": "Roman Silver (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 67.996,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 5574,
       "customEmojiId": "5449731869857831768",
@@ -12527,7 +12571,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 12.41,
+      "price": 11.79,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -23562,6 +23606,24 @@
     }
   ],
   "Oculus": [
+    {
+      "gift_num": 11636,
+      "customEmojiId": "5470048873349146838",
+      "gift_id": 583492364527,
+      "name": "Crystal Ball",
+      "model": "Oculus (1%)",
+      "asset": "TON",
+      "symbol": "Severed Hand (2.4%)",
+      "backdrop": "Light Olive (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 13.77,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 1336,
       "customEmojiId": "5470048873349146838",
