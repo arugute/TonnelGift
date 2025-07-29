@@ -567,7 +567,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 42.1,
+      "price": 41.8,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -1614,7 +1614,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 41.99,
+      "price": 41.64,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -2108,6 +2108,26 @@
   ],
   "Golden Flame": [
     {
+      "gift_num": 1505,
+      "customEmojiId": "5228897991665936286",
+      "gift_id": 7458883,
+      "name": "Genie Lamp",
+      "model": "Golden Flame (3.5%)",
+      "asset": "TON",
+      "symbol": "Ouroboros (1%)",
+      "backdrop": "Dark Lilac (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 57,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T06:49:55.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5021,
       "customEmojiId": "5228897991665936286",
       "gift_id": 7455611,
@@ -2391,26 +2411,6 @@
     }
   ],
   "Blue Neon": [
-    {
-      "gift_num": 3828,
-      "customEmojiId": "5228988800159476198",
-      "gift_id": 7371786,
-      "name": "Genie Lamp",
-      "model": "Blue Neon (2%)",
-      "asset": "TON",
-      "symbol": "Mountain Goat (0.5%)",
-      "backdrop": "Azure Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 63.98,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-07T18:27:30.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 3828,
       "customEmojiId": "5228988800159476198",
@@ -2856,6 +2856,26 @@
     }
   ],
   "Crypto Dream": [
+    {
+      "gift_num": 4262,
+      "customEmojiId": "5231365360183174106",
+      "gift_id": 6030554,
+      "name": "Genie Lamp",
+      "model": "Crypto Dream (2%)",
+      "asset": "TON",
+      "symbol": "Totem Bear (1%)",
+      "backdrop": "Raspberry (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 928835,
+      "price": 300,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-23T18:44:01.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 5321,
       "customEmojiId": "5231365360183174106",
