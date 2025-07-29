@@ -1242,8 +1242,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 929702,
-      "price": 310,
+      "message_in_channel": 929818,
+      "price": 230,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -1756,6 +1756,26 @@
     }
   ],
   "Gas Mask": [
+    {
+      "gift_num": 3545,
+      "customEmojiId": "5233273326389979294",
+      "gift_id": 7468044,
+      "name": "Mini Oscar",
+      "model": "Gas Mask (1%)",
+      "asset": "TON",
+      "symbol": "Bow Tie (0.5%)",
+      "backdrop": "Azure Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 67,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T20:03:05.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3158,
       "customEmojiId": "5233273326389979294",
@@ -4587,6 +4607,28 @@
       "premarketData": {}
     }
   ],
+  "Jokester": [
+    {
+      "gift_num": 508,
+      "customEmojiId": "5233202747192401107",
+      "gift_id": 7154254,
+      "name": "Mini Oscar",
+      "model": "Jokester (0.5%)",
+      "asset": "TON",
+      "symbol": "Coin Purse (0.5%)",
+      "backdrop": "Sky Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 929765,
+      "price": 280,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-25T11:41:44.000Z",
+      "premarketData": {}
+    }
+  ],
   "Welder": [
     {
       "gift_num": 2319,
@@ -6225,26 +6267,6 @@
     }
   ],
   "Christmas": [
-    {
-      "gift_num": 1555,
-      "customEmojiId": "5233555381187274131",
-      "gift_id": 7466641,
-      "name": "Mini Oscar",
-      "model": "Christmas (2%)",
-      "asset": "TON",
-      "symbol": "Hermit Shell (0.2%)",
-      "backdrop": "Pistachio (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 80,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-12T18:05:03.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 2748,
       "customEmojiId": "5233555381187274131",
