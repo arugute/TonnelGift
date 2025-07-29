@@ -4533,6 +4533,75 @@
   ],
   "Bleached": [
     {
+      "gift_num": 44771,
+      "customEmojiId": "5406882613233216178",
+      "gift_id": 7453361,
+      "name": "Spy Agaric",
+      "model": "Bleached (2%)",
+      "asset": "TON",
+      "symbol": "Lollipop (1.5%)",
+      "backdrop": "Rosewood (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.9,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "R0RCJHGK",
+      "auction": {
+        "_id": "68880150450b5b469c7e1723",
+        "gift_id": 7453361,
+        "seller": 0,
+        "auction_id": "R0RCJHGK",
+        "startingBid": 2.5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.5,
+            "asset": "TON",
+            "_id": "688809bb450b5b469c80884d",
+            "timestamp": "2025-07-28T23:37:31.759Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.63,
+            "asset": "TON",
+            "_id": "68880a94450b5b469c80b695",
+            "timestamp": "2025-07-28T23:41:08.435Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.76,
+            "asset": "TON",
+            "_id": "68880aa8450b5b469c80b8ac",
+            "timestamp": "2025-07-28T23:41:28.938Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.9,
+            "asset": "TON",
+            "_id": "68880cee450b5b469c80ef63",
+            "timestamp": "2025-07-28T23:51:10.343Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-29T00:01:35.039Z",
+        "status": "finished",
+        "gift_name": "Spy Agaric",
+        "gift_num": 44771,
+        "model": "Bleached (2%)",
+        "backdrop": "Rosewood (1.5%)",
+        "symbol": "Lollipop (1.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-28T23:01:36.245Z",
+        "__v": 0,
+        "winningBid": 2.9,
+        "winningBidder": 1697029420
+      },
+      "export_at": "2025-08-11T18:15:08.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 75475,
       "customEmojiId": "5406882613233216178",
       "gift_id": 6712103,
@@ -5138,26 +5207,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-17T14:50:23.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 44208,
-      "customEmojiId": "5406882613233216178",
-      "gift_id": 6742256,
-      "name": "Spy Agaric",
-      "model": "Bleached (2%)",
-      "asset": "TON",
-      "symbol": "Skull (1.8%)",
-      "backdrop": "Sapphire (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 25,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-09T02:02:16.000Z",
       "premarketData": {}
     }
   ],
@@ -10042,7 +10091,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 16.51,
+      "price": 18,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -26493,26 +26542,6 @@
   ],
   "Milka": [
     {
-      "gift_num": 73222,
-      "customEmojiId": "5431363553158257777",
-      "gift_id": 7449126,
-      "name": "Spy Agaric",
-      "model": "Milka (1.5%)",
-      "asset": "TON",
-      "symbol": "Voodoo Doll (1.5%)",
-      "backdrop": "Raspberry (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T12:57:47.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 501,
       "customEmojiId": "5431363553158257777",
       "gift_id": 7388964,
@@ -27118,6 +27147,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T23:15:18.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 1058,
+      "customEmojiId": "5431363553158257777",
+      "gift_id": 6515576,
+      "name": "Spy Agaric",
+      "model": "Milka (1.5%)",
+      "asset": "TON",
+      "symbol": "Genie Lamp (0.4%)",
+      "backdrop": "Khaki Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-30T23:36:07.000Z",
       "premarketData": {}
     }
   ],
