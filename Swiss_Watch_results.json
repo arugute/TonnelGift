@@ -4647,6 +4647,42 @@
   ],
   "DeLorean": [
     {
+      "gift_num": 17617,
+      "customEmojiId": "5224601143174261537",
+      "gift_id": 589563350192,
+      "name": "Swiss Watch",
+      "model": "DeLorean (1.5%)",
+      "asset": "TON",
+      "symbol": "Pear (0.2%)",
+      "backdrop": "Carrot Juice (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 67.743,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 19851,
+      "customEmojiId": "5224601143174261537",
+      "gift_id": 598788810665,
+      "name": "Swiss Watch",
+      "model": "DeLorean (1.5%)",
+      "asset": "TON",
+      "symbol": "Royal Crown (0.5%)",
+      "backdrop": "Carrot Juice (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 86.288,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 8762,
       "customEmojiId": "5224601143174261537",
       "gift_id": 7460582,
@@ -5169,44 +5205,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 71.598,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 9830,
-      "customEmojiId": "5224601143174261537",
-      "gift_id": 6863510,
-      "name": "Swiss Watch",
-      "model": "DeLorean (1.5%)",
-      "asset": "TON",
-      "symbol": "Baphomet (1%)",
-      "backdrop": "Burgundy (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 51,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-14T10:24:02.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6297,
-      "customEmojiId": "5224601143174261537",
-      "gift_id": 583480232103,
-      "name": "Swiss Watch",
-      "model": "DeLorean (1.5%)",
-      "asset": "TON",
-      "symbol": "Mannaz Rune (1%)",
-      "backdrop": "Pistachio (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 54.303,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -7654,26 +7652,6 @@
   ],
   "Pip-Boy": [
     {
-      "gift_num": 13031,
-      "customEmojiId": "5238145344017031412",
-      "gift_id": 6316851,
-      "name": "Swiss Watch",
-      "model": "Pip-Boy (2.5%)",
-      "asset": "TON",
-      "symbol": "Burger (0.2%)",
-      "backdrop": "Mystic Pearl (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 929625,
-      "price": 222,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-26T21:39:24.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 22437,
       "customEmojiId": "5238145344017031412",
       "gift_id": 591603140541,
@@ -8223,6 +8201,24 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-17T20:30:48.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 17545,
+      "customEmojiId": "5238145344017031412",
+      "gift_id": 589325172780,
+      "name": "Swiss Watch",
+      "model": "Pip-Boy (2.5%)",
+      "asset": "TON",
+      "symbol": "Pyramid (1%)",
+      "backdrop": "Mint Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 165.24,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
       "premarketData": {}
     }
   ],
@@ -9966,10 +9962,255 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 80,
-      "status": "forsale",
+      "price": 82.95,
+      "status": "auction",
       "limited": false,
-      "auction": null,
+      "auction_id": "FA53AQHR",
+      "auction": {
+        "_id": "6889101754445e0f686b3369",
+        "gift_id": 7462539,
+        "seller": 0,
+        "auction_id": "FA53AQHR",
+        "startingBid": 7.77,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 7.77,
+            "asset": "TON",
+            "_id": "6889108b54445e0f686b48bd",
+            "timestamp": "2025-07-29T18:18:51.508Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15,
+            "asset": "TON",
+            "_id": "6889118954445e0f686b7333",
+            "timestamp": "2025-07-29T18:23:05.322Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15.75,
+            "asset": "TON",
+            "_id": "688911aa54445e0f686b7468",
+            "timestamp": "2025-07-29T18:23:38.200Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 17.4,
+            "asset": "TON",
+            "_id": "688911b754445e0f686b74e1",
+            "timestamp": "2025-07-29T18:23:51.942Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 18.27,
+            "asset": "TON",
+            "_id": "688911ca54445e0f686b75c0",
+            "timestamp": "2025-07-29T18:24:10.345Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 19.18,
+            "asset": "TON",
+            "_id": "6889123454445e0f686b954d",
+            "timestamp": "2025-07-29T18:25:56.447Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 20.14,
+            "asset": "TON",
+            "_id": "6889124854445e0f686ba7e3",
+            "timestamp": "2025-07-29T18:26:16.378Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 21.15,
+            "asset": "TON",
+            "_id": "6889125b54445e0f686bbeaa",
+            "timestamp": "2025-07-29T18:26:35.141Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 22.21,
+            "asset": "TON",
+            "_id": "688912cc54445e0f686bc938",
+            "timestamp": "2025-07-29T18:28:28.141Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 23.32,
+            "asset": "TON",
+            "_id": "688912e654445e0f686bc9eb",
+            "timestamp": "2025-07-29T18:28:54.458Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 24.49,
+            "asset": "TON",
+            "_id": "688912f854445e0f686bcad9",
+            "timestamp": "2025-07-29T18:29:12.590Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 25.71,
+            "asset": "TON",
+            "_id": "6889136a54445e0f686bd60d",
+            "timestamp": "2025-07-29T18:31:06.626Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 27,
+            "asset": "TON",
+            "_id": "6889137f54445e0f686be172",
+            "timestamp": "2025-07-29T18:31:27.920Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 28.35,
+            "asset": "TON",
+            "_id": "6889139f54445e0f686be4ef",
+            "timestamp": "2025-07-29T18:31:59.758Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 29.77,
+            "asset": "TON",
+            "_id": "688913b554445e0f686bec18",
+            "timestamp": "2025-07-29T18:32:21.619Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 31.26,
+            "asset": "TON",
+            "_id": "688913c354445e0f686bf5bb",
+            "timestamp": "2025-07-29T18:32:35.624Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 32.82,
+            "asset": "TON",
+            "_id": "6889140a54445e0f686c1a0e",
+            "timestamp": "2025-07-29T18:33:46.029Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 34.46,
+            "asset": "TON",
+            "_id": "6889142154445e0f686c2122",
+            "timestamp": "2025-07-29T18:34:09.403Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 36.18,
+            "asset": "TON",
+            "_id": "6889142e54445e0f686c2195",
+            "timestamp": "2025-07-29T18:34:22.435Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 37.99,
+            "asset": "TON",
+            "_id": "6889143a54445e0f686c2401",
+            "timestamp": "2025-07-29T18:34:34.950Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 39.89,
+            "asset": "TON",
+            "_id": "6889146f54445e0f686c3260",
+            "timestamp": "2025-07-29T18:35:27.283Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 50,
+            "asset": "TON",
+            "_id": "6889148454445e0f686c3d62",
+            "timestamp": "2025-07-29T18:35:48.553Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 52.5,
+            "asset": "TON",
+            "_id": "6889184554445e0f686d5fee",
+            "timestamp": "2025-07-29T18:51:49.992Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 55.13,
+            "asset": "TON",
+            "_id": "6889188e54445e0f686d6450",
+            "timestamp": "2025-07-29T18:53:02.305Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 57.89,
+            "asset": "TON",
+            "_id": "688918b054445e0f686d65c9",
+            "timestamp": "2025-07-29T18:53:36.191Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 60.78,
+            "asset": "TON",
+            "_id": "688918c754445e0f686d66f1",
+            "timestamp": "2025-07-29T18:53:59.296Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 65,
+            "asset": "TON",
+            "_id": "688918e754445e0f686d6b27",
+            "timestamp": "2025-07-29T18:54:31.885Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 68.25,
+            "asset": "TON",
+            "_id": "68891afd54445e0f686df589",
+            "timestamp": "2025-07-29T19:03:25.686Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 71.66,
+            "asset": "TON",
+            "_id": "68891b5954445e0f686e18de",
+            "timestamp": "2025-07-29T19:04:57.858Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 75.24,
+            "asset": "TON",
+            "_id": "68891b6554445e0f686e1c01",
+            "timestamp": "2025-07-29T19:05:09.130Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 79,
+            "asset": "TON",
+            "_id": "68891da154445e0f686f8762",
+            "timestamp": "2025-07-29T19:14:41.999Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 82.95,
+            "asset": "TON",
+            "_id": "68891dbb54445e0f686f8c06",
+            "timestamp": "2025-07-29T19:15:07.195Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-29T19:26:54.481Z",
+        "status": "finished",
+        "gift_name": "Swiss Watch",
+        "gift_num": 23437,
+        "model": "Infinite Loop (2%)",
+        "backdrop": "Onyx Black (1.5%)",
+        "symbol": "Venetian Mask (1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T18:16:55.980Z",
+        "__v": 0,
+        "winningBid": 82.95,
+        "winningBidder": 7391870586
+      },
       "export_at": "2025-08-12T12:22:26.000Z",
       "premarketData": {}
     },
@@ -11819,6 +12060,24 @@
   ],
   "El Dorado": [
     {
+      "gift_num": 12618,
+      "customEmojiId": "5202114133226447431",
+      "gift_id": 583719806667,
+      "name": "Swiss Watch",
+      "model": "El Dorado (2%)",
+      "asset": "TON",
+      "symbol": "Owl (0.5%)",
+      "backdrop": "Electric Purple (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 55.08,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 15997,
       "customEmojiId": "5202114133226447431",
       "gift_id": 1890318,
@@ -12366,26 +12625,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-15T13:48:36.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3355,
-      "customEmojiId": "5202114133226447431",
-      "gift_id": 5906793,
-      "name": "Swiss Watch",
-      "model": "El Dorado (2%)",
-      "asset": "TON",
-      "symbol": "Sakura (1%)",
-      "backdrop": "Hunter Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 99.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-22T22:20:15.000Z",
       "premarketData": {}
     }
   ],
@@ -14186,8 +14425,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 929403,
-      "price": 285,
+      "message_in_channel": 929688,
+      "price": 310,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -14996,6 +15235,26 @@
   ],
   "Pot of Gold": [
     {
+      "gift_num": 11548,
+      "customEmojiId": "5235450531211666687",
+      "gift_id": 7466791,
+      "name": "Swiss Watch",
+      "model": "Pot of Gold (1.5%)",
+      "asset": "TON",
+      "symbol": "Bastet (0.5%)",
+      "backdrop": "Electric Indigo (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 65,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T18:18:00.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 18913,
       "customEmojiId": "5235450531211666687",
       "gift_id": 7463399,
@@ -15554,26 +15813,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 21629,
-      "customEmojiId": "5235450531211666687",
-      "gift_id": 6638948,
-      "name": "Swiss Watch",
-      "model": "Pot of Gold (1.5%)",
-      "asset": "TON",
-      "symbol": "Monstera (0.2%)",
-      "backdrop": "Sky Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 870510,
-      "price": 180,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-04T19:16:48.000Z",
       "premarketData": {}
     }
   ],
@@ -25950,6 +26189,26 @@
   ],
   "Patriot": [
     {
+      "gift_num": 7532,
+      "customEmojiId": "5202214034165752724",
+      "gift_id": 7450202,
+      "name": "Swiss Watch",
+      "model": "Patriot (2%)",
+      "asset": "TON",
+      "symbol": "Musical Note (0.2%)",
+      "backdrop": "Battleship Grey (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 95,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T14:10:19.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3324,
       "customEmojiId": "5202214034165752724",
       "gift_id": 7458978,
@@ -26027,26 +26286,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-11T18:08:01.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7532,
-      "customEmojiId": "5202214034165752724",
-      "gift_id": 7450202,
-      "name": "Swiss Watch",
-      "model": "Patriot (2%)",
-      "asset": "TON",
-      "symbol": "Musical Note (0.2%)",
-      "backdrop": "Battleship Grey (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 927862,
-      "price": 150,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T14:10:19.000Z",
       "premarketData": {}
     },
     {
