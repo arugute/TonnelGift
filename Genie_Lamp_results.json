@@ -1642,6 +1642,54 @@
       "premarketData": {}
     },
     {
+      "gift_num": 625,
+      "customEmojiId": "5217909115975658518",
+      "gift_id": 6817327,
+      "name": "Genie Lamp",
+      "model": "Red Sketch (3%)",
+      "asset": "TON",
+      "symbol": "Yogi Shaman (0.8%)",
+      "backdrop": "Orange (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 38.5,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "226NRXFE",
+      "auction": {
+        "_id": "6888b05a450b5b469cad0be0",
+        "gift_id": 6817327,
+        "seller": 0,
+        "auction_id": "226NRXFE",
+        "startingBid": 30,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 38.5,
+            "asset": "TON",
+            "_id": "6888b0bc450b5b469cad479c",
+            "timestamp": "2025-07-29T11:30:04.003Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-29T12:28:25.003Z",
+        "status": "finished",
+        "gift_name": "Genie Lamp",
+        "gift_num": 625,
+        "model": "Red Sketch (3%)",
+        "backdrop": "Orange (1.5%)",
+        "symbol": "Yogi Shaman (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T11:28:26.300Z",
+        "__v": 0,
+        "winningBid": 38.5,
+        "winningBidder": 8173622469
+      },
+      "export_at": "2025-07-12T09:26:48.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1379,
       "customEmojiId": "5217909115975658518",
       "gift_id": 6154967,
@@ -2108,6 +2156,26 @@
   ],
   "Golden Flame": [
     {
+      "gift_num": 5021,
+      "customEmojiId": "5228897991665936286",
+      "gift_id": 7455611,
+      "name": "Genie Lamp",
+      "model": "Golden Flame (3.5%)",
+      "asset": "TON",
+      "symbol": "Acorn (0.2%)",
+      "backdrop": "Sky Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 45,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T20:52:13.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1505,
       "customEmojiId": "5228897991665936286",
       "gift_id": 7458883,
@@ -2125,26 +2193,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-12T06:49:55.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5021,
-      "customEmojiId": "5228897991665936286",
-      "gift_id": 7455611,
-      "name": "Genie Lamp",
-      "model": "Golden Flame (3.5%)",
-      "asset": "TON",
-      "symbol": "Acorn (0.2%)",
-      "backdrop": "Sky Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 47,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T20:52:13.000Z",
       "premarketData": {}
     },
     {
@@ -7555,6 +7603,26 @@
     }
   ],
   "Arabian Night": [
+    {
+      "gift_num": 1335,
+      "customEmojiId": "5228682027825391859",
+      "gift_id": 7461588,
+      "name": "Genie Lamp",
+      "model": "Arabian Night (3%)",
+      "asset": "TON",
+      "symbol": "Firebird (1%)",
+      "backdrop": "Dark Lilac (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 55,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T11:15:32.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 846,
       "customEmojiId": "5228682027825391859",
