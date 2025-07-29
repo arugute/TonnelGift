@@ -4927,26 +4927,6 @@
     {
       "gift_num": 1614,
       "customEmojiId": "5226757899656653098",
-      "gift_id": 7452210,
-      "name": "Electric Skull",
-      "model": "Metal Shade (4%)",
-      "asset": "TON",
-      "symbol": "Old Scull (0.8%)",
-      "backdrop": "Seal Brown (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 56,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T16:35:17.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1614,
-      "customEmojiId": "5226757899656653098",
       "gift_id": 593359277077,
       "name": "Electric Skull",
       "model": "Metal Shade (4%)",
@@ -13791,6 +13771,26 @@
   ],
   "Ruby Eyes": [
     {
+      "gift_num": 6316,
+      "customEmojiId": "5235588562870625501",
+      "gift_id": 7458933,
+      "name": "Electric Skull",
+      "model": "Ruby Eyes (4%)",
+      "asset": "TON",
+      "symbol": "Ring (0.4%)",
+      "backdrop": "Pacific Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 26.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T06:58:45.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6164,
       "customEmojiId": "5235588562870625501",
       "gift_id": 593396459468,
@@ -14349,26 +14349,6 @@
       "auction": null,
       "export_at": "2025-06-23T11:42:08.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 1568,
-      "customEmojiId": "5235588562870625501",
-      "gift_id": 5042101,
-      "name": "Electric Skull",
-      "model": "Ruby Eyes (4%)",
-      "asset": "TON",
-      "symbol": "Paw Print (0.5%)",
-      "backdrop": "Fandango (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 86,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-01T07:51:14.000Z",
-      "premarketData": {}
     }
   ],
   "Deadman": [
@@ -14900,6 +14880,53 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 7901,
+      "customEmojiId": "5235583627953203318",
+      "gift_id": 7458391,
+      "name": "Electric Skull",
+      "model": "Deadman (4%)",
+      "asset": "TON",
+      "symbol": "Voodoo (0.8%)",
+      "backdrop": "Fandango (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 25,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "R41FAP8N",
+      "auction": {
+        "_id": "68885bf8450b5b469c1df0c0",
+        "gift_id": 7458391,
+        "seller": 0,
+        "auction_id": "R41FAP8N",
+        "startingBid": 20,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 25,
+            "asset": "TON",
+            "_id": "68885cd7450b5b469c1e1935",
+            "timestamp": "2025-07-29T05:32:07.666Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-29T06:28:22.172Z",
+        "status": "finished",
+        "gift_name": "Electric Skull",
+        "gift_num": 7901,
+        "model": "Deadman (4%)",
+        "backdrop": "Fandango (1.5%)",
+        "symbol": "Voodoo (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T05:28:24.670Z",
+        "__v": 0,
+        "winningBid": 25,
+        "winningBidder": 2004898219
+      },
+      "export_at": "2025-08-12T05:27:54.000Z",
       "premarketData": {}
     }
   ],
@@ -16944,6 +16971,26 @@
   ],
   "Zombie": [
     {
+      "gift_num": 1389,
+      "customEmojiId": "5235865523836705972",
+      "gift_id": 7353898,
+      "name": "Electric Skull",
+      "model": "Zombie (4%)",
+      "asset": "TON",
+      "symbol": "Casket (0.8%)",
+      "backdrop": "Camo Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 32.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T15:26:36.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 667,
       "customEmojiId": "5235865523836705972",
       "gift_id": 593126021269,
@@ -17052,26 +17099,6 @@
         "winningBidder": 8173622469
       },
       "export_at": "2025-08-10T10:05:13.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1389,
-      "customEmojiId": "5235865523836705972",
-      "gift_id": 7353898,
-      "name": "Electric Skull",
-      "model": "Zombie (4%)",
-      "asset": "TON",
-      "symbol": "Casket (0.8%)",
-      "backdrop": "Camo Green (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 35.75,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T15:26:36.000Z",
       "premarketData": {}
     },
     {
