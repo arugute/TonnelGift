@@ -1992,23 +1992,184 @@
       "premarketData": {}
     },
     {
-      "gift_num": 84611,
+      "gift_num": 71083,
       "customEmojiId": "5393518002152958211",
-      "gift_id": 7333554,
+      "gift_id": 7426478,
       "name": "Pet Snake",
       "model": "Dragon (0.4%)",
       "asset": "TON",
-      "symbol": "Toilet Paper (0.8%)",
-      "backdrop": "Satin Gold (1%)",
+      "symbol": "Bowtie (0.5%)",
+      "backdrop": "Carrot Juice (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 14,
-      "status": "forsale",
+      "price": 9,
+      "status": "auction",
       "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T02:42:18.000Z",
+      "auction_id": "2BFRQQLJ",
+      "auction": {
+        "_id": "6886f6b6450b5b469c7bce5d",
+        "gift_id": 7426478,
+        "seller": 0,
+        "auction_id": "2BFRQQLJ",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.12,
+            "asset": "TON",
+            "_id": "68888cbd450b5b469c5b4f16",
+            "timestamp": "2025-07-29T08:56:29.194Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.23,
+            "asset": "TON",
+            "_id": "6888aec0450b5b469cac503d",
+            "timestamp": "2025-07-29T11:21:36.971Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.742,
+            "asset": "TON",
+            "_id": "6888affa450b5b469cacf411",
+            "timestamp": "2025-07-29T11:26:50.253Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.93,
+            "asset": "TON",
+            "_id": "6888d98c54445e0f68a9c8a4",
+            "timestamp": "2025-07-29T14:24:12.732Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.13,
+            "asset": "TON",
+            "_id": "6888da0e54445e0f68a9f711",
+            "timestamp": "2025-07-29T14:26:22.608Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.34,
+            "asset": "TON",
+            "_id": "6888e89654445e0f68ff16a3",
+            "timestamp": "2025-07-29T15:28:22.083Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.56,
+            "asset": "TON",
+            "_id": "6888e8f254445e0f68ff4558",
+            "timestamp": "2025-07-29T15:29:54.377Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.79,
+            "asset": "TON",
+            "_id": "6888e9ca54445e0f68ff8ade",
+            "timestamp": "2025-07-29T15:33:30.710Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.23,
+            "asset": "TON",
+            "_id": "6888e9ef54445e0f68ff9474",
+            "timestamp": "2025-07-29T15:34:07.361Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.49,
+            "asset": "TON",
+            "_id": "6888ea1d54445e0f68ffa6eb",
+            "timestamp": "2025-07-29T15:34:53.154Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.76,
+            "asset": "TON",
+            "_id": "6888ea2a54445e0f68ffa880",
+            "timestamp": "2025-07-29T15:35:06.913Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.05,
+            "asset": "TON",
+            "_id": "6888f35554445e0f6807d629",
+            "timestamp": "2025-07-29T16:14:13.303Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.35,
+            "asset": "TON",
+            "_id": "6888f38654445e0f6808852e",
+            "timestamp": "2025-07-29T16:15:02.559Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.67,
+            "asset": "TON",
+            "_id": "6888f39554445e0f6808bc8d",
+            "timestamp": "2025-07-29T16:15:17.086Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7,
+            "asset": "TON",
+            "_id": "6888f3b654445e0f6809316d",
+            "timestamp": "2025-07-29T16:15:50.399Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.35,
+            "asset": "TON",
+            "_id": "6888f3c754445e0f68095241",
+            "timestamp": "2025-07-29T16:16:07.592Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.72,
+            "asset": "TON",
+            "_id": "6888f86e54445e0f680f6308",
+            "timestamp": "2025-07-29T16:35:58.409Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.11,
+            "asset": "TON",
+            "_id": "6888f88d54445e0f680f9181",
+            "timestamp": "2025-07-29T16:36:29.804Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.52,
+            "asset": "TON",
+            "_id": "688906d554445e0f685f4cdb",
+            "timestamp": "2025-07-29T17:37:25.864Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9,
+            "asset": "TON",
+            "_id": "68891d3654445e0f686f16d9",
+            "timestamp": "2025-07-29T19:12:54.917Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-29T19:25:35.823Z",
+        "status": "finished",
+        "gift_name": "Pet Snake",
+        "gift_num": 71083,
+        "model": "Dragon (0.4%)",
+        "backdrop": "Carrot Juice (1.5%)",
+        "symbol": "Bowtie (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T07:15:36.815Z",
+        "__v": 0,
+        "winningBid": 9,
+        "winningBidder": 5200658949
+      },
+      "export_at": "2025-08-10T09:22:07.000Z",
       "premarketData": {}
     },
     {
@@ -2844,26 +3005,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 16230,
-      "customEmojiId": "5397743893489937399",
-      "gift_id": 7453667,
-      "name": "Pet Snake",
-      "model": "Pure Gold (1.5%)",
-      "asset": "TON",
-      "symbol": "Alert Serpent (0.8%)",
-      "backdrop": "French Violet (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 37.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T18:41:58.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 22689,
       "customEmojiId": "5397743893489937399",
       "gift_id": 7451578,
@@ -3349,6 +3490,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-03T12:14:08.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 86072,
+      "customEmojiId": "5397743893489937399",
+      "gift_id": 7310478,
+      "name": "Pet Snake",
+      "model": "Pure Gold (1.5%)",
+      "asset": "TON",
+      "symbol": "Teru Bōzu (1%)",
+      "backdrop": "Gunmetal (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-03T12:16:01.000Z",
       "premarketData": {}
     }
   ],
@@ -5208,6 +5369,26 @@
   ],
   "Hooded": [
     {
+      "gift_num": 72565,
+      "customEmojiId": "5393439644769612068",
+      "gift_id": 7154382,
+      "name": "Pet Snake",
+      "model": "Hooded (1%)",
+      "asset": "TON",
+      "symbol": "Coconut (0.5%)",
+      "backdrop": "Ranger Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.25,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-25T11:47:42.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 76981,
       "customEmojiId": "5393439644769612068",
       "gift_id": 7465800,
@@ -5365,26 +5546,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-21T23:54:31.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 72565,
-      "customEmojiId": "5393439644769612068",
-      "gift_id": 7154382,
-      "name": "Pet Snake",
-      "model": "Hooded (1%)",
-      "asset": "TON",
-      "symbol": "Coconut (0.5%)",
-      "backdrop": "Ranger Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T11:47:42.000Z",
       "premarketData": {}
     },
     {
@@ -9581,6 +9742,26 @@
   ],
   "Rainforest": [
     {
+      "gift_num": 93951,
+      "customEmojiId": "5402617483075021203",
+      "gift_id": 7466783,
+      "name": "Pet Snake",
+      "model": "Rainforest (5%)",
+      "asset": "TON",
+      "symbol": "Tiki Mask (1%)",
+      "backdrop": "Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T18:17:10.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 7965,
       "customEmojiId": "5402617483075021203",
       "gift_id": 7446574,
@@ -10158,26 +10339,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-06T15:21:16.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 39567,
-      "customEmojiId": "5402617483075021203",
-      "gift_id": 5978321,
-      "name": "Pet Snake",
-      "model": "Rainforest (5%)",
-      "asset": "TON",
-      "symbol": "Doghouse (0.8%)",
-      "backdrop": "Shamrock Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T14:11:28.000Z",
       "premarketData": {}
     }
   ],
@@ -14755,6 +14916,26 @@
   ],
   "Yaaaaaay!": [
     {
+      "gift_num": 15132,
+      "customEmojiId": "5393421193590106500",
+      "gift_id": 7458443,
+      "name": "Pet Snake",
+      "model": "Yaaaaaay! (0.5%)",
+      "asset": "TON",
+      "symbol": "Cocktail (0.6%)",
+      "backdrop": "Navy Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T05:38:43.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 92795,
       "customEmojiId": "5393421193590106500",
       "gift_id": 7448494,
@@ -15396,26 +15577,6 @@
       "auction": null,
       "export_at": "2025-06-18T16:36:49.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 2466,
-      "customEmojiId": "5393421193590106500",
-      "gift_id": 5713825,
-      "name": "Pet Snake",
-      "model": "Yaaaaaay! (0.5%)",
-      "asset": "TON",
-      "symbol": "Festive Wreath (0.6%)",
-      "backdrop": "Azure Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 25,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-19T01:29:56.000Z",
-      "premarketData": {}
     }
   ],
   "Fast Food": [
@@ -16022,6 +16183,26 @@
   ],
   "Mojito": [
     {
+      "gift_num": 11325,
+      "customEmojiId": "5400102152657988970",
+      "gift_id": 7453762,
+      "name": "Pet Snake",
+      "model": "Mojito (5%)",
+      "asset": "TON",
+      "symbol": "Banana (1%)",
+      "backdrop": "Electric Indigo (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T18:48:36.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 66891,
       "customEmojiId": "5400102152657988970",
       "gift_id": 7458629,
@@ -16139,26 +16320,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-10T16:22:36.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11325,
-      "customEmojiId": "5400102152657988970",
-      "gift_id": 7453762,
-      "name": "Pet Snake",
-      "model": "Mojito (5%)",
-      "asset": "TON",
-      "symbol": "Banana (1%)",
-      "backdrop": "Electric Indigo (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T18:48:36.000Z",
       "premarketData": {}
     },
     {
@@ -19015,6 +19176,26 @@
   ],
   "Sunflower": [
     {
+      "gift_num": 90135,
+      "customEmojiId": "5393572174575465191",
+      "gift_id": 7421088,
+      "name": "Pet Snake",
+      "model": "Sunflower (0.3%)",
+      "asset": "TON",
+      "symbol": "Sun (1%)",
+      "backdrop": "Mexican Pink (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.19,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T23:42:45.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 91642,
       "customEmojiId": "5393572174575465191",
       "gift_id": 7413352,
@@ -19072,26 +19253,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-26T20:52:21.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 90135,
-      "customEmojiId": "5393572174575465191",
-      "gift_id": 7421088,
-      "name": "Pet Snake",
-      "model": "Sunflower (0.3%)",
-      "asset": "TON",
-      "symbol": "Sun (1%)",
-      "backdrop": "Mexican Pink (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.29,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T23:42:45.000Z",
       "premarketData": {}
     },
     {
@@ -21647,6 +21808,26 @@
   ],
   "Cold-Blooded": [
     {
+      "gift_num": 40188,
+      "customEmojiId": "5402186650610590541",
+      "gift_id": 7455763,
+      "name": "Pet Snake",
+      "model": "Cold-Blooded (5%)",
+      "asset": "TON",
+      "symbol": "Love Lock (0.5%)",
+      "backdrop": "Marine Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T21:03:58.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 63210,
       "customEmojiId": "5402186650610590541",
       "gift_id": 7445174,
@@ -22280,26 +22461,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-03T10:02:05.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7488,
-      "customEmojiId": "5402186650610590541",
-      "gift_id": 6275567,
-      "name": "Pet Snake",
-      "model": "Cold-Blooded (5%)",
-      "asset": "TON",
-      "symbol": "Teru Bōzu (1%)",
-      "backdrop": "Light Olive (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-26T07:35:49.000Z",
       "premarketData": {}
     }
   ],
@@ -22977,6 +23138,26 @@
   ],
   "Tempest": [
     {
+      "gift_num": 71899,
+      "customEmojiId": "5402469731905070969",
+      "gift_id": 7467647,
+      "name": "Pet Snake",
+      "model": "Tempest (4.5%)",
+      "asset": "TON",
+      "symbol": "Banana (1%)",
+      "backdrop": "Cappuccino (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T19:31:40.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 86846,
       "customEmojiId": "5402469731905070969",
       "gift_id": 7452710,
@@ -23014,26 +23195,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-12T13:50:33.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 43857,
-      "customEmojiId": "5402469731905070969",
-      "gift_id": 7465409,
-      "name": "Pet Snake",
-      "model": "Tempest (4.5%)",
-      "asset": "TON",
-      "symbol": "Hippo (0.5%)",
-      "backdrop": "Burgundy (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-12T16:24:31.000Z",
       "premarketData": {}
     },
     {
@@ -23578,6 +23739,26 @@
     }
   ],
   "Hisssmas": [
+    {
+      "gift_num": 13166,
+      "customEmojiId": "5393558022658222342",
+      "gift_id": 5847053,
+      "name": "Pet Snake",
+      "model": "Hisssmas (0.7%)",
+      "asset": "TON",
+      "symbol": "Greek Sun (1%)",
+      "backdrop": "Old Gold (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-22T07:01:44.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 8678,
       "customEmojiId": "5393558022658222342",
@@ -24594,9 +24775,125 @@
       "auction": null,
       "export_at": "2025-06-20T10:34:57.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 18392,
+      "customEmojiId": "5393422065468468357",
+      "gift_id": 7460863,
+      "name": "Pet Snake",
+      "model": "Dobby (0.5%)",
+      "asset": "TON",
+      "symbol": "Cocktail (0.6%)",
+      "backdrop": "Burgundy (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2.92,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ODMNB1L0",
+      "auction": {
+        "_id": "68889df4450b5b469c8895ba",
+        "gift_id": 7460863,
+        "seller": 0,
+        "auction_id": "ODMNB1L0",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68890bfc54445e0f68699940",
+            "timestamp": "2025-07-29T17:59:24.602Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "68890d2b54445e0f6869f6a9",
+            "timestamp": "2025-07-29T18:04:27.093Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "68890e0254445e0f686a2d10",
+            "timestamp": "2025-07-29T18:08:02.714Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "6889105d54445e0f686b3fd4",
+            "timestamp": "2025-07-29T18:18:05.410Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "6889108e54445e0f686b48fc",
+            "timestamp": "2025-07-29T18:18:54.672Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.56,
+            "asset": "TON",
+            "_id": "6889109c54445e0f686b49b6",
+            "timestamp": "2025-07-29T18:19:08.888Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.69,
+            "asset": "TON",
+            "_id": "6889135b54445e0f686bd55a",
+            "timestamp": "2025-07-29T18:30:51.371Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.92,
+            "asset": "TON",
+            "_id": "6889147954445e0f686c3a79",
+            "timestamp": "2025-07-29T18:35:37.389Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-29T18:54:05.541Z",
+        "status": "finished",
+        "gift_name": "Pet Snake",
+        "gift_num": 18392,
+        "model": "Dobby (0.5%)",
+        "backdrop": "Burgundy (1.2%)",
+        "symbol": "Cocktail (0.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T17:34:07.111Z",
+        "__v": 0,
+        "winningBid": 2.92,
+        "winningBidder": 7268317549
+      },
+      "export_at": "2025-08-12T10:07:37.000Z",
+      "premarketData": {}
     }
   ],
   "Black Mamba": [
+    {
+      "gift_num": 10823,
+      "customEmojiId": "5393222817640640340",
+      "gift_id": 7467044,
+      "name": "Pet Snake",
+      "model": "Black Mamba (2%)",
+      "asset": "TON",
+      "symbol": "Crown (0.8%)",
+      "backdrop": "Chestnut (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T18:39:00.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 91710,
       "customEmojiId": "5393222817640640340",
@@ -24675,26 +24972,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-12T14:26:50.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7943,
-      "customEmojiId": "5393222817640640340",
-      "gift_id": 6490634,
-      "name": "Pet Snake",
-      "model": "Black Mamba (2%)",
-      "asset": "TON",
-      "symbol": "Unicorn Head (0.5%)",
-      "backdrop": "Jade Green (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-30T13:35:52.000Z",
       "premarketData": {}
     },
     {
@@ -25935,6 +26212,26 @@
   ],
   "Poopsicle": [
     {
+      "gift_num": 84834,
+      "customEmojiId": "5393320781549693514",
+      "gift_id": 7458422,
+      "name": "Pet Snake",
+      "model": "Poopsicle (1.5%)",
+      "asset": "TON",
+      "symbol": "Magic Wand (0.6%)",
+      "backdrop": "Tomato (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T05:34:37.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 9730,
       "customEmojiId": "5393320781549693514",
       "gift_id": 7460422,
@@ -26512,26 +26809,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-03T13:37:19.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 87629,
-      "customEmojiId": "5393320781549693514",
-      "gift_id": 7310961,
-      "name": "Pet Snake",
-      "model": "Poopsicle (1.5%)",
-      "asset": "TON",
-      "symbol": "Turtle (1%)",
-      "backdrop": "Pistachio (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8.98,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-03T12:58:03.000Z",
       "premarketData": {}
     }
   ],
@@ -27139,6 +27416,26 @@
   ],
   "Snakey Mouse": [
     {
+      "gift_num": 93000,
+      "customEmojiId": "5393578483882421257",
+      "gift_id": 7467491,
+      "name": "Pet Snake",
+      "model": "Snakey Mouse (0.7%)",
+      "asset": "TON",
+      "symbol": "Leprechaun (0.5%)",
+      "backdrop": "Light Olive (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T19:17:19.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4325,
       "customEmojiId": "5393578483882421257",
       "gift_id": 6982134,
@@ -27716,26 +28013,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-03T04:15:20.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 81050,
-      "customEmojiId": "5393578483882421257",
-      "gift_id": 7295932,
-      "name": "Pet Snake",
-      "model": "Snakey Mouse (0.7%)",
-      "asset": "TON",
-      "symbol": "Wontons (0.8%)",
-      "backdrop": "Ranger Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.98,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T12:01:36.000Z",
       "premarketData": {}
     }
   ],
@@ -30476,26 +30753,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 77381,
-      "customEmojiId": "5393115911609673644",
-      "gift_id": 7086678,
-      "name": "Pet Snake",
-      "model": "Pink Leo (2%)",
-      "asset": "TON",
-      "symbol": "Genie Lamp (0.5%)",
-      "backdrop": "Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 35,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-22T17:17:14.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 56050,
       "customEmojiId": "5393115911609673644",
       "gift_id": 7377215,
@@ -30984,6 +31241,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-27T18:15:03.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 65040,
+      "customEmojiId": "5393115911609673644",
+      "gift_id": 6948315,
+      "name": "Pet Snake",
+      "model": "Pink Leo (2%)",
+      "asset": "TON",
+      "symbol": "Diamonds (0.8%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-16T22:46:58.000Z",
       "premarketData": {}
     }
   ],
@@ -32305,6 +32582,26 @@
   ],
   "Lava Viper": [
     {
+      "gift_num": 11345,
+      "customEmojiId": "5402586486296048225",
+      "gift_id": 7453759,
+      "name": "Pet Snake",
+      "model": "Lava Viper (5%)",
+      "asset": "TON",
+      "symbol": "Snowflake (0.4%)",
+      "backdrop": "Purple (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T18:48:32.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 24841,
       "customEmojiId": "5402586486296048225",
       "gift_id": 7461350,
@@ -32422,26 +32719,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-26T11:44:04.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11345,
-      "customEmojiId": "5402586486296048225",
-      "gift_id": 7453759,
-      "name": "Pet Snake",
-      "model": "Lava Viper (5%)",
-      "asset": "TON",
-      "symbol": "Snowflake (0.4%)",
-      "backdrop": "Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T18:48:32.000Z",
       "premarketData": {}
     },
     {
