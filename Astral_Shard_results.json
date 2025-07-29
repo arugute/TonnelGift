@@ -804,6 +804,26 @@
   ],
   "Muffin": [
     {
+      "gift_num": 2557,
+      "customEmojiId": "5235851831480970469",
+      "gift_id": 7462568,
+      "name": "Astral Shard",
+      "model": "Muffin (1.3%)",
+      "asset": "TON",
+      "symbol": "Knight (1%)",
+      "backdrop": "Satin Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 130,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T12:25:24.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4235,
       "customEmojiId": "5235851831480970469",
       "gift_id": 6139074,
@@ -2370,26 +2390,6 @@
   ],
   "Arctite": [
     {
-      "gift_num": 2672,
-      "customEmojiId": "5228888010161941058",
-      "gift_id": 7460590,
-      "name": "Astral Shard",
-      "model": "Arctite (1.7%)",
-      "asset": "TON",
-      "symbol": "Flower Cross (0.8%)",
-      "backdrop": "Onyx Black (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 929092,
-      "price": 170,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-12T09:48:34.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2917,
       "customEmojiId": "5228888010161941058",
       "gift_id": 7453482,
@@ -2758,10 +2758,38 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 78,
-      "status": "forsale",
+      "price": 76.5,
+      "status": "auction",
       "limited": false,
-      "auction": null,
+      "auction_id": "7N0CHJNJ",
+      "auction": {
+        "_id": "6888b75c450b5b469c0c0545",
+        "gift_id": 7459480,
+        "seller": 0,
+        "auction_id": "7N0CHJNJ",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 76.5,
+            "asset": "TON",
+            "_id": "6888b7a9450b5b469c0c1a93",
+            "timestamp": "2025-07-29T11:59:37.816Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-29T12:58:17.160Z",
+        "status": "finished",
+        "gift_name": "Astral Shard",
+        "gift_num": 717,
+        "model": "Spinel (2.4%)",
+        "backdrop": "Malachite (2%)",
+        "symbol": "Bottlenose (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T11:58:20.285Z",
+        "__v": 0,
+        "winningBid": 76.5,
+        "winningBidder": 8173622469
+      },
       "export_at": "2025-08-12T08:04:57.000Z",
       "premarketData": {}
     },
@@ -3091,6 +3119,24 @@
     }
   ],
   "True Opal": [
+    {
+      "gift_num": 5261,
+      "customEmojiId": "5228778054704195989",
+      "gift_id": 596287800957,
+      "name": "Astral Shard",
+      "model": "True Opal (2.3%)",
+      "asset": "TON",
+      "symbol": "Pizza Slice (0.2%)",
+      "backdrop": "Pacific Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 489.595,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 491,
       "customEmojiId": "5228778054704195989",
@@ -3903,6 +3949,24 @@
     }
   ],
   "Tanzanite": [
+    {
+      "gift_num": 2691,
+      "customEmojiId": "5229006173302185555",
+      "gift_id": 583244336608,
+      "name": "Astral Shard",
+      "model": "Tanzanite (2.4%)",
+      "asset": "TON",
+      "symbol": "The Eye (0.8%)",
+      "backdrop": "Burgundy (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 2069,
       "customEmojiId": "5229006173302185555",
@@ -6048,6 +6112,24 @@
     }
   ],
   "Red Ruby": [
+    {
+      "gift_num": 2943,
+      "customEmojiId": "5231242025902302930",
+      "gift_id": 583934341572,
+      "name": "Astral Shard",
+      "model": "Red Ruby (2.4%)",
+      "asset": "TON",
+      "symbol": "Champagne (1%)",
+      "backdrop": "Khaki Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 275.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 2625,
       "customEmojiId": "5231242025902302930",
