@@ -3697,26 +3697,6 @@
   ],
   "Amethyst": [
     {
-      "gift_num": 155,
-      "customEmojiId": "5398047985764426100",
-      "gift_id": 7455614,
-      "name": "Ion Gem",
-      "model": "Amethyst (3%)",
-      "asset": "TON",
-      "symbol": "Cursor (0.4%)",
-      "backdrop": "Dark Lilac (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T20:52:30.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 1564,
       "customEmojiId": "5398047985764426100",
       "gift_id": 584121822908,
@@ -4948,6 +4928,26 @@
   ],
   "Anime Battle": [
     {
+      "gift_num": 2021,
+      "customEmojiId": "5217638240978233667",
+      "gift_id": 7455829,
+      "name": "Ion Gem",
+      "model": "Anime Battle (1.5%)",
+      "asset": "TON",
+      "symbol": "Tree of Life (0.5%)",
+      "backdrop": "Steel Grey (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 929329,
+      "price": 170,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T21:09:07.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1939,
       "customEmojiId": "5217638240978233667",
       "gift_id": 5967338,
@@ -5141,6 +5141,26 @@
     }
   ],
   "Orchestra": [
+    {
+      "gift_num": 4406,
+      "customEmojiId": "5429547847143944015",
+      "gift_id": 7147282,
+      "name": "Ion Gem",
+      "model": "Orchestra (1.5%)",
+      "asset": "TON",
+      "symbol": "Turkey (0.5%)",
+      "backdrop": "Moonstone (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 80,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-25T01:43:30.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 1679,
       "customEmojiId": "5429547847143944015",
@@ -5520,6 +5540,26 @@
     }
   ],
   "Ice Crystal": [
+    {
+      "gift_num": 146,
+      "customEmojiId": "5422695733629315195",
+      "gift_id": 7454958,
+      "name": "Ion Gem",
+      "model": "Ice Crystal (2%)",
+      "asset": "TON",
+      "symbol": "Venetian Mask (0.4%)",
+      "backdrop": "Azure Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 122,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T20:02:46.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 782,
       "customEmojiId": "5422695733629315195",
@@ -5934,6 +5974,60 @@
       "auction": null,
       "export_at": "2025-04-18T10:42:59.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 3725,
+      "customEmojiId": "5409268733854114222",
+      "gift_id": 7462343,
+      "name": "Ion Gem",
+      "model": "Pink Sapphire (2%)",
+      "asset": "TON",
+      "symbol": "Scissors (0.5%)",
+      "backdrop": "Raspberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 67.77,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "90IH7BA9",
+      "auction": {
+        "_id": "6888b973450b5b469c0d9eca",
+        "gift_id": 7462343,
+        "seller": 0,
+        "auction_id": "90IH7BA9",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 64.54,
+            "asset": "TON",
+            "_id": "6888b9b7450b5b469c0e060b",
+            "timestamp": "2025-07-29T12:08:23.010Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 67.77,
+            "asset": "TON",
+            "_id": "6888bf8a450b5b469c11d360",
+            "timestamp": "2025-07-29T12:33:14.017Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-29T13:07:14.382Z",
+        "status": "finished",
+        "gift_name": "Ion Gem",
+        "gift_num": 3725,
+        "model": "Pink Sapphire (2%)",
+        "backdrop": "Raspberry (1.5%)",
+        "symbol": "Scissors (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T12:07:15.398Z",
+        "__v": 0,
+        "winningBid": 67.77,
+        "winningBidder": 714535170
+      },
+      "export_at": "2025-08-12T12:06:41.000Z",
+      "premarketData": {}
     }
   ],
   "Live Wire": [
@@ -6270,6 +6364,26 @@
     {
       "gift_num": 844,
       "customEmojiId": "5397783664887095934",
+      "gift_id": 7462735,
+      "name": "Ion Gem",
+      "model": "Time Stone (2%)",
+      "asset": "TON",
+      "symbol": "Unicorn (0.4%)",
+      "backdrop": "Cappuccino (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 130,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T12:39:03.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 844,
+      "customEmojiId": "5397783664887095934",
       "gift_id": 584118492590,
       "name": "Ion Gem",
       "model": "Time Stone (2%)",
@@ -6599,6 +6713,26 @@
     }
   ],
   "Garnet": [
+    {
+      "gift_num": 2633,
+      "customEmojiId": "5397857993591117394",
+      "gift_id": 7462529,
+      "name": "Ion Gem",
+      "model": "Garnet (2%)",
+      "asset": "TON",
+      "symbol": "Pawn (0.5%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 110,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T12:21:47.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 4013,
       "customEmojiId": "5397857993591117394",
