@@ -1318,6 +1318,88 @@
       "auction": null,
       "export_at": "2025-07-19T09:26:03.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 2932,
+      "customEmojiId": "5399981309458146118",
+      "gift_id": 7467699,
+      "name": "Precious Peach",
+      "model": "Clear Sky (1.5%)",
+      "asset": "TON",
+      "symbol": "Sun Mountain (0.4%)",
+      "backdrop": "Sky Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 263.7268,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "GZNBL6W1",
+      "auction": {
+        "_id": "6889228c54445e0f68717ef8",
+        "gift_id": 7467699,
+        "seller": 0,
+        "auction_id": "GZNBL6W1",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688922ef54445e0f6871ae4d",
+            "timestamp": "2025-07-29T19:37:19.525Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6889235f54445e0f6871ff0a",
+            "timestamp": "2025-07-29T19:39:11.641Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "6889241254445e0f6872a6a5",
+            "timestamp": "2025-07-29T19:42:10.683Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "6889242754445e0f6872bc4d",
+            "timestamp": "2025-07-29T19:42:31.533Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6,
+            "asset": "TON",
+            "_id": "6889243154445e0f6872c783",
+            "timestamp": "2025-07-29T19:42:41.688Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 263.7268,
+            "asset": "TON",
+            "_id": "688925a754445e0f6873ddf6",
+            "timestamp": "2025-07-29T19:48:55.814Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-29T21:35:39.359Z",
+        "status": "finished",
+        "gift_name": "Precious Peach",
+        "gift_num": 2932,
+        "model": "Clear Sky (1.5%)",
+        "backdrop": "Sky Blue (2%)",
+        "symbol": "Sun Mountain (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T19:35:40.572Z",
+        "__v": 0,
+        "winningBid": 263.7268,
+        "winningBidder": 7631154640
+      },
+      "export_at": "2025-08-12T19:35:27.000Z",
+      "premarketData": {}
     }
   ],
   "Peach Black": [
