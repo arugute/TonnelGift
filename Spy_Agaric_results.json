@@ -1,6 +1,26 @@
 {
   "Acidic": [
     {
+      "gift_num": 80633,
+      "customEmojiId": "5400258953324030206",
+      "gift_id": 6649318,
+      "name": "Spy Agaric",
+      "model": "Acidic (2%)",
+      "asset": "TON",
+      "symbol": "Lollipop (1.5%)",
+      "backdrop": "Jade Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.32,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-05T07:43:47.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 56107,
       "customEmojiId": "5400258953324030206",
       "gift_id": 7449723,
@@ -318,26 +338,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T20:18:32.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 80633,
-      "customEmojiId": "5400258953324030206",
-      "gift_id": 6649318,
-      "name": "Spy Agaric",
-      "model": "Acidic (2%)",
-      "asset": "TON",
-      "symbol": "Lollipop (1.5%)",
-      "backdrop": "Jade Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-05T07:43:47.000Z",
       "premarketData": {}
     },
     {
@@ -1267,6 +1267,89 @@
       "premarketData": {}
     },
     {
+      "gift_num": 5193,
+      "customEmojiId": "5420527011368035095",
+      "gift_id": 7451616,
+      "name": "Spy Agaric",
+      "model": "Bliss (1%)",
+      "asset": "TON",
+      "symbol": "Illuminati (1.5%)",
+      "backdrop": "Copper (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.87,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "TU5RFV1Z",
+      "auction": {
+        "_id": "6889397154445e0f68829b82",
+        "gift_id": 7451616,
+        "seller": 0,
+        "auction_id": "TU5RFV1Z",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68893e3b54445e0f68bce781",
+            "timestamp": "2025-07-29T21:33:47.142Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "68893e8254445e0f68bcf949",
+            "timestamp": "2025-07-29T21:34:58.187Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "688949fb54445e0f68e19999",
+            "timestamp": "2025-07-29T22:23:55.030Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "68896b7554445e0f68f446d4",
+            "timestamp": "2025-07-30T00:46:45.757Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.73,
+            "asset": "TON",
+            "_id": "6889704954445e0f68f95e01",
+            "timestamp": "2025-07-30T01:07:21.846Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.87,
+            "asset": "TON",
+            "_id": "68898d8954445e0f68033b21",
+            "timestamp": "2025-07-30T03:12:09.531Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T03:23:19.874Z",
+        "status": "finished",
+        "gift_name": "Spy Agaric",
+        "gift_num": 5193,
+        "model": "Bliss (1%)",
+        "backdrop": "Copper (2%)",
+        "symbol": "Illuminati (1.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T21:13:21.230Z",
+        "__v": 0,
+        "winningBid": 2.87,
+        "winningBidder": 1213042087
+      },
+      "export_at": "2025-08-11T15:48:56.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 41467,
       "customEmojiId": "5420527011368035095",
       "gift_id": 7222069,
@@ -1852,26 +1935,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T10:50:21.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 9433,
-      "customEmojiId": "5420527011368035095",
-      "gift_id": 6114448,
-      "name": "Spy Agaric",
-      "model": "Bliss (1%)",
-      "asset": "TON",
-      "symbol": "Magic Wand (1.8%)",
-      "backdrop": "Dark Lilac (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T10:51:40.000Z",
       "premarketData": {}
     }
   ],
@@ -6289,7 +6352,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.5,
+      "price": 3.4,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -8782,7 +8845,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.63,
+      "price": 3.45,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -11883,26 +11946,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 71847,
-      "customEmojiId": "5420133124212287339",
-      "gift_id": 7078191,
-      "name": "Spy Agaric",
-      "model": "Skin Cap (1.5%)",
-      "asset": "TON",
-      "symbol": "Garden Pot (0.4%)",
-      "backdrop": "Copper (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-22T12:13:48.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 82499,
       "customEmojiId": "5420133124212287339",
       "gift_id": 6963281,
@@ -12160,6 +12203,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-03T14:31:39.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 42638,
+      "customEmojiId": "5420133124212287339",
+      "gift_id": 6600920,
+      "name": "Spy Agaric",
+      "model": "Skin Cap (1.5%)",
+      "asset": "TON",
+      "symbol": "Evil Pumpkin (1.5%)",
+      "backdrop": "Turquoise (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.85,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-03T13:27:59.000Z",
       "premarketData": {}
     }
   ],
@@ -40385,6 +40448,26 @@
   ],
   "Lab Rat": [
     {
+      "gift_num": 62308,
+      "customEmojiId": "5406788411715510501",
+      "gift_id": 6787753,
+      "name": "Spy Agaric",
+      "model": "Lab Rat (1.5%)",
+      "asset": "TON",
+      "symbol": "Skull (1.8%)",
+      "backdrop": "Steel Grey (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-10T21:27:35.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 53638,
       "customEmojiId": "5406788411715510501",
       "gift_id": 7464124,
@@ -40482,26 +40565,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-10T15:51:33.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 62308,
-      "customEmojiId": "5406788411715510501",
-      "gift_id": 6787753,
-      "name": "Spy Agaric",
-      "model": "Lab Rat (1.5%)",
-      "asset": "TON",
-      "symbol": "Skull (1.8%)",
-      "backdrop": "Steel Grey (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-10T21:27:35.000Z",
       "premarketData": {}
     },
     {
