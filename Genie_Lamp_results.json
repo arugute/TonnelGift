@@ -1,6 +1,26 @@
 {
   "Mystic Aura": [
     {
+      "gift_num": 5801,
+      "customEmojiId": "5217595875420826544",
+      "gift_id": 7461010,
+      "name": "Genie Lamp",
+      "model": "Mystic Aura (3%)",
+      "asset": "TON",
+      "symbol": "Tulip (0.2%)",
+      "backdrop": "Purple (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 100,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T10:23:03.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1581,
       "customEmojiId": "5217595875420826544",
       "gift_id": 7209615,
@@ -4118,6 +4138,54 @@
       "premarketData": {}
     },
     {
+      "gift_num": 3563,
+      "customEmojiId": "5231074071206192943",
+      "gift_id": 6817331,
+      "name": "Genie Lamp",
+      "model": "Copper Pot (3%)",
+      "asset": "TON",
+      "symbol": "Diamond (0.8%)",
+      "backdrop": "Shamrock Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 38,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "DPYOA43Y",
+      "auction": {
+        "_id": "6889369254445e0f687f9fae",
+        "gift_id": 6817331,
+        "seller": 0,
+        "auction_id": "DPYOA43Y",
+        "startingBid": 38,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 38,
+            "asset": "TON",
+            "_id": "6889bd3754445e0f680f50cc",
+            "timestamp": "2025-07-30T06:35:35.324Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T07:34:54.950Z",
+        "status": "finished",
+        "gift_name": "Genie Lamp",
+        "gift_num": 3563,
+        "model": "Copper Pot (3%)",
+        "backdrop": "Shamrock Green (2%)",
+        "symbol": "Diamond (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T06:34:56.185Z",
+        "__v": 0,
+        "winningBid": 38,
+        "winningBidder": 7631154640
+      },
+      "export_at": "2025-07-12T09:27:01.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 375,
       "customEmojiId": "5231074071206192943",
       "gift_id": 5726125,
@@ -6791,26 +6859,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 4496,
-      "customEmojiId": "5222179193936176933",
-      "gift_id": 7393650,
-      "name": "Genie Lamp",
-      "model": "To The Moon (1.5%)",
-      "asset": "TON",
-      "symbol": "Mannaz Rune (1%)",
-      "backdrop": "Neon Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 925466,
-      "price": 1666,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T08:44:20.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 5953,
       "customEmojiId": "5222179193936176933",
       "gift_id": 7324363,
@@ -7583,6 +7631,81 @@
     }
   ],
   "Arabian Night": [
+    {
+      "gift_num": 1335,
+      "customEmojiId": "5228682027825391859",
+      "gift_id": 7471651,
+      "name": "Genie Lamp",
+      "model": "Arabian Night (3%)",
+      "asset": "TON",
+      "symbol": "Firebird (1%)",
+      "backdrop": "Dark Lilac (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-13T06:46:20.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 1335,
+      "customEmojiId": "5228682027825391859",
+      "gift_id": 7466147,
+      "name": "Genie Lamp",
+      "model": "Arabian Night (3%)",
+      "asset": "TON",
+      "symbol": "Firebird (1%)",
+      "backdrop": "Dark Lilac (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 42.53,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ENS4910T",
+      "auction": {
+        "_id": "688903fa54445e0f685ec161",
+        "gift_id": 7466147,
+        "seller": 0,
+        "auction_id": "ENS4910T",
+        "startingBid": 40.5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 40.5,
+            "asset": "TON",
+            "_id": "6889b70c54445e0f680dd510",
+            "timestamp": "2025-07-30T06:09:16.711Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 42.53,
+            "asset": "TON",
+            "_id": "6889bd1154445e0f680f3e06",
+            "timestamp": "2025-07-30T06:34:57.957Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T06:45:32.227Z",
+        "status": "finished",
+        "gift_name": "Genie Lamp",
+        "gift_num": 1335,
+        "model": "Arabian Night (3%)",
+        "backdrop": "Dark Lilac (2%)",
+        "symbol": "Firebird (1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T00:35:32.657Z",
+        "__v": 0,
+        "winningBid": 42.53,
+        "winningBidder": 1099109349
+      },
+      "export_at": "2025-08-12T17:24:49.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 846,
       "customEmojiId": "5228682027825391859",
