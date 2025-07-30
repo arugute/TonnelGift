@@ -8415,6 +8415,26 @@
   ],
   "PXL PNK": [
     {
+      "gift_num": 17438,
+      "customEmojiId": "5429335581270240097",
+      "gift_id": 7429914,
+      "name": "Trapped Heart",
+      "model": "PXL PNK (0.6%)",
+      "asset": "TON",
+      "symbol": "Lovely Rain (0.6%)",
+      "backdrop": "Cobalt Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 930083,
+      "price": 150,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T12:30:28.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 21538,
       "customEmojiId": "5429335581270240097",
       "gift_id": 7438379,
@@ -14429,6 +14449,26 @@
   ],
   "Sandy Red": [
     {
+      "gift_num": 3161,
+      "customEmojiId": "5395578246425242394",
+      "gift_id": 7360672,
+      "name": "Trapped Heart",
+      "model": "Sandy Red (2.6%)",
+      "asset": "TON",
+      "symbol": "Candle (1.2%)",
+      "backdrop": "Fandango (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T23:45:19.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 22681,
       "customEmojiId": "5395578246425242394",
       "gift_id": 7470069,
@@ -14615,26 +14655,6 @@
         "winningBidder": 2043556897
       },
       "export_at": "2025-06-29T07:46:35.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3161,
-      "customEmojiId": "5395578246425242394",
-      "gift_id": 7360672,
-      "name": "Trapped Heart",
-      "model": "Sandy Red (2.6%)",
-      "asset": "TON",
-      "symbol": "Candle (1.2%)",
-      "backdrop": "Fandango (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T23:45:19.000Z",
       "premarketData": {}
     },
     {
@@ -17161,6 +17181,68 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-10T09:35:55.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 4832,
+      "customEmojiId": "5433884183564937859",
+      "gift_id": 7451629,
+      "name": "Trapped Heart",
+      "model": "Mystic Mark (2%)",
+      "asset": "TON",
+      "symbol": "Loving Heart (0.4%)",
+      "backdrop": "Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "Y4HL9CXB",
+      "auction": {
+        "_id": "68879f0a450b5b469c77019c",
+        "gift_id": 7451629,
+        "seller": 0,
+        "auction_id": "Y4HL9CXB",
+        "startingBid": 6,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 6,
+            "asset": "TON",
+            "_id": "688961e654445e0f68f2ca3a",
+            "timestamp": "2025-07-30T00:05:58.042Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.3,
+            "asset": "TON",
+            "_id": "688964e354445e0f68f36344",
+            "timestamp": "2025-07-30T00:18:43.000Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7,
+            "asset": "TON",
+            "_id": "6889652c54445e0f68f36505",
+            "timestamp": "2025-07-30T00:19:56.113Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T00:52:41.732Z",
+        "status": "finished",
+        "gift_name": "Trapped Heart",
+        "gift_num": 4832,
+        "model": "Mystic Mark (2%)",
+        "backdrop": "Purple (2%)",
+        "symbol": "Loving Heart (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T23:52:42.063Z",
+        "__v": 0,
+        "winningBid": 7,
+        "winningBidder": 6107699701
+      },
+      "export_at": "2025-08-11T15:50:07.000Z",
       "premarketData": {}
     },
     {
