@@ -9003,6 +9003,26 @@
   ],
   "Gothic Cola": [
     {
+      "gift_num": 1607,
+      "customEmojiId": "5289677435376268187",
+      "gift_id": 7471273,
+      "name": "Love Potion",
+      "model": "Gothic Cola (1%)",
+      "asset": "TON",
+      "symbol": "Sweets Box (0.4%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 12,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-13T05:10:10.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 20944,
       "customEmojiId": "5289677435376268187",
       "gift_id": 7470672,
@@ -9580,60 +9600,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-14T10:46:02.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 25804,
-      "customEmojiId": "5289677435376268187",
-      "gift_id": 7411276,
-      "name": "Love Potion",
-      "model": "Gothic Cola (1%)",
-      "asset": "TON",
-      "symbol": "Mustache (0.2%)",
-      "backdrop": "Hunter Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 8.4,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "S3B8PYNM",
-      "auction": {
-        "_id": "6884fad042ce74605e6fe996",
-        "gift_id": 7411276,
-        "seller": 0,
-        "auction_id": "S3B8PYNM",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 8,
-            "asset": "TON",
-            "_id": "6884fb1c42ce74605e6ffc60",
-            "timestamp": "2025-07-26T15:58:20.412Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8.4,
-            "asset": "TON",
-            "_id": "6884fcf4696acf4cd81253c0",
-            "timestamp": "2025-07-26T16:06:12.144Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-26T16:57:03.450Z",
-        "status": "finished",
-        "gift_name": "Love Potion",
-        "gift_num": 25804,
-        "model": "Gothic Cola (1%)",
-        "backdrop": "Hunter Green (2%)",
-        "symbol": "Mustache (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-26T15:57:04.643Z",
-        "__v": 0,
-        "winningBid": 8.4,
-        "winningBidder": 267374200
-      },
-      "export_at": "2025-08-09T15:55:31.000Z",
       "premarketData": {}
     }
   ],
@@ -18576,6 +18542,81 @@
     {
       "gift_num": 15200,
       "customEmojiId": "5287371901226740723",
+      "gift_id": 7467052,
+      "name": "Love Potion",
+      "model": "Bubble Gum (1%)",
+      "asset": "TON",
+      "symbol": "Napkins (0.2%)",
+      "backdrop": "Hunter Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 9.5,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ZCFARPJW",
+      "auction": {
+        "_id": "6889158254445e0f686c8644",
+        "gift_id": 7467052,
+        "seller": 0,
+        "auction_id": "ZCFARPJW",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "68893aa854445e0f689d7c21",
+            "timestamp": "2025-07-29T21:18:32.459Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6889421454445e0f68d56557",
+            "timestamp": "2025-07-29T21:50:12.162Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.5,
+            "asset": "TON",
+            "_id": "6889469354445e0f68e07235",
+            "timestamp": "2025-07-29T22:09:23.778Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7,
+            "asset": "TON",
+            "_id": "6889482154445e0f68e10340",
+            "timestamp": "2025-07-29T22:16:01.956Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.5,
+            "asset": "TON",
+            "_id": "6889934d54445e0f6803d39c",
+            "timestamp": "2025-07-30T03:36:45.627Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T06:40:01.197Z",
+        "status": "finished",
+        "gift_name": "Love Potion",
+        "gift_num": 15200,
+        "model": "Bubble Gum (1%)",
+        "backdrop": "Hunter Green (2%)",
+        "symbol": "Napkins (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T18:40:02.344Z",
+        "__v": 0,
+        "winningBid": 9.5,
+        "winningBidder": 822224993
+      },
+      "export_at": "2025-08-12T18:39:45.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 15200,
+      "customEmojiId": "5287371901226740723",
       "gift_id": 7463047,
       "name": "Love Potion",
       "model": "Bubble Gum (1%)",
@@ -20897,6 +20938,26 @@
   ],
   "Rusty Water": [
     {
+      "gift_num": 1356,
+      "customEmojiId": "5287473829390607716",
+      "gift_id": 7468851,
+      "name": "Love Potion",
+      "model": "Rusty Water (2.5%)",
+      "asset": "TON",
+      "symbol": "Old Candle (0.5%)",
+      "backdrop": "Orange (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.99,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T21:11:48.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 16811,
       "customEmojiId": "5287473829390607716",
       "gift_id": 7466465,
@@ -21474,26 +21535,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T13:15:39.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2264,
-      "customEmojiId": "5287473829390607716",
-      "gift_id": 6021324,
-      "name": "Love Potion",
-      "model": "Rusty Water (2.5%)",
-      "asset": "TON",
-      "symbol": "Genie Lamp (0.5%)",
-      "backdrop": "Pistachio (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 19,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T17:44:56.000Z",
       "premarketData": {}
     }
   ],
@@ -22739,6 +22780,26 @@
   ],
   "First Aid": [
     {
+      "gift_num": 11010,
+      "customEmojiId": "5276064794229632925",
+      "gift_id": 7428453,
+      "name": "Love Potion",
+      "model": "First Aid (1.5%)",
+      "asset": "TON",
+      "symbol": "Heart Lock (0.5%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 22,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T11:14:29.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 17822,
       "customEmojiId": "5276064794229632925",
       "gift_id": -321946875,
@@ -22816,26 +22877,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-25T14:35:46.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11010,
-      "customEmojiId": "5276064794229632925",
-      "gift_id": 7428453,
-      "name": "Love Potion",
-      "model": "First Aid (1.5%)",
-      "asset": "TON",
-      "symbol": "Heart Lock (0.5%)",
-      "backdrop": "Persimmon (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 25,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-10T11:14:29.000Z",
       "premarketData": {}
     },
     {
