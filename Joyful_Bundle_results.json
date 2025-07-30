@@ -1841,26 +1841,6 @@
   ],
   "Candy Basket": [
     {
-      "gift_num": 13112,
-      "customEmojiId": "5278750261186163602",
-      "gift_id": 7470079,
-      "name": "Joyful Bundle",
-      "model": "Candy Basket (2.5%)",
-      "asset": "TON",
-      "symbol": "Amour Scoops (0.5%)",
-      "backdrop": "Rifle Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-12T23:13:54.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 21328,
       "customEmojiId": "5278750261186163602",
       "gift_id": 7463788,
@@ -1878,6 +1858,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-12T14:11:44.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 13112,
+      "customEmojiId": "5278750261186163602",
+      "gift_id": 7470079,
+      "name": "Joyful Bundle",
+      "model": "Candy Basket (2.5%)",
+      "asset": "TON",
+      "symbol": "Amour Scoops (0.5%)",
+      "backdrop": "Rifle Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T23:13:54.000Z",
       "premarketData": {}
     },
     {
