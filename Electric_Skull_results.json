@@ -2905,6 +2905,68 @@
       "premarketData": {}
     },
     {
+      "gift_num": 530,
+      "customEmojiId": "5226438096391792510",
+      "gift_id": 7462549,
+      "name": "Electric Skull",
+      "model": "Indigo Husk (4%)",
+      "asset": "TON",
+      "symbol": "Arabian Horse (0.4%)",
+      "backdrop": "Navy Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 25.52,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "B2WQ4L42",
+      "auction": {
+        "_id": "6889af3c54445e0f680c5322",
+        "gift_id": 7462549,
+        "seller": 0,
+        "auction_id": "B2WQ4L42",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6889afb654445e0f680c667b",
+            "timestamp": "2025-07-30T05:37:58.960Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 24.3,
+            "asset": "TON",
+            "_id": "6889b27154445e0f680cdd45",
+            "timestamp": "2025-07-30T05:49:37.136Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 25.52,
+            "asset": "TON",
+            "_id": "6889f64b54445e0f68535066",
+            "timestamp": "2025-07-30T10:39:07.074Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T17:35:53.820Z",
+        "status": "finished",
+        "gift_name": "Electric Skull",
+        "gift_num": 530,
+        "model": "Indigo Husk (4%)",
+        "backdrop": "Navy Blue (1.2%)",
+        "symbol": "Arabian Horse (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T05:35:56.045Z",
+        "__v": 0,
+        "winningBid": 25.52,
+        "winningBidder": 5221332741
+      },
+      "export_at": "2025-08-12T12:23:03.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6445,
       "customEmojiId": "5226438096391792510",
       "gift_id": 593367563358,
@@ -3416,26 +3478,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T12:52:46.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 180,
-      "customEmojiId": "5226438096391792510",
-      "gift_id": 4845974,
-      "name": "Electric Skull",
-      "model": "Indigo Husk (4%)",
-      "asset": "TON",
-      "symbol": "Gravestone (0.8%)",
-      "backdrop": "Amber (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 766229,
-      "price": 220,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-28T14:43:39.000Z",
       "premarketData": {}
     }
   ],
@@ -5875,6 +5917,26 @@
   ],
   "Red Death": [
     {
+      "gift_num": 4511,
+      "customEmojiId": "5235554624039049914",
+      "gift_id": 7432988,
+      "name": "Electric Skull",
+      "model": "Red Death (3%)",
+      "asset": "TON",
+      "symbol": "Fish (0.5%)",
+      "backdrop": "Caramel (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 32,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T14:58:23.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2569,
       "customEmojiId": "5235554624039049914",
       "gift_id": 7474705,
@@ -5892,26 +5954,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-13T11:58:51.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4511,
-      "customEmojiId": "5235554624039049914",
-      "gift_id": 7432988,
-      "name": "Electric Skull",
-      "model": "Red Death (3%)",
-      "asset": "TON",
-      "symbol": "Fish (0.5%)",
-      "backdrop": "Caramel (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 36,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-10T14:58:23.000Z",
       "premarketData": {}
     },
     {
@@ -7746,6 +7788,26 @@
   ],
   "Gentleman": [
     {
+      "gift_num": 736,
+      "customEmojiId": "5330537898804537169",
+      "gift_id": 7215313,
+      "name": "Electric Skull",
+      "model": "Gentleman (1%)",
+      "asset": "TON",
+      "symbol": "Pizza Slice (0.5%)",
+      "backdrop": "Cyberpunk (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-28T14:53:30.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6996,
       "customEmojiId": "5330537898804537169",
       "gift_id": 7462843,
@@ -8208,6 +8270,26 @@
   ],
   "Solar Stone": [
     {
+      "gift_num": 572,
+      "customEmojiId": "5226710341483783844",
+      "gift_id": 6621382,
+      "name": "Electric Skull",
+      "model": "Solar Stone (4%)",
+      "asset": "TON",
+      "symbol": "Cow Skull (0.8%)",
+      "backdrop": "Amber (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 70,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-04T07:39:58.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 160,
       "customEmojiId": "5226710341483783844",
       "gift_id": 593379608593,
@@ -8339,26 +8421,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-03-29T05:38:08.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 572,
-      "customEmojiId": "5226710341483783844",
-      "gift_id": 6621382,
-      "name": "Electric Skull",
-      "model": "Solar Stone (4%)",
-      "asset": "TON",
-      "symbol": "Cow Skull (0.8%)",
-      "backdrop": "Amber (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 80,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-04T07:39:58.000Z",
       "premarketData": {}
     },
     {
@@ -14515,6 +14577,26 @@
     }
   ],
   "Deadman": [
+    {
+      "gift_num": 6819,
+      "customEmojiId": "5235583627953203318",
+      "gift_id": 7446706,
+      "name": "Electric Skull",
+      "model": "Deadman (4%)",
+      "asset": "TON",
+      "symbol": "Basketball (0.4%)",
+      "backdrop": "Black (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 113.1,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T10:01:05.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 7901,
       "customEmojiId": "5235583627953203318",
