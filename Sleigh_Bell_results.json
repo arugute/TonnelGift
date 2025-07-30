@@ -281,26 +281,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 5280,
-      "customEmojiId": "5273899044085720825",
-      "gift_id": 7334665,
-      "name": "Sleigh Bell",
-      "model": "Poké Bell (1.5%)",
-      "asset": "TON",
-      "symbol": "Double Axe (0.5%)",
-      "backdrop": "Tomato (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T07:22:40.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 15430,
       "customEmojiId": "5273899044085720825",
       "gift_id": 6984298,
@@ -1861,7 +1841,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 6.6,
+      "price": 6.05,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -1906,26 +1886,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-17T22:29:59.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15286,
-      "customEmojiId": "5467507992171673116",
-      "gift_id": 7444566,
-      "name": "Sleigh Bell",
-      "model": "Bronze (4%)",
-      "asset": "TON",
-      "symbol": "Sun Mountain (0.4%)",
-      "backdrop": "Sapphire (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T06:45:52.000Z",
       "premarketData": {}
     },
     {
@@ -2447,6 +2407,26 @@
       "auction": null,
       "export_at": "2025-06-23T11:49:44.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 692,
+      "customEmojiId": "5467507992171673116",
+      "gift_id": 5760167,
+      "name": "Sleigh Bell",
+      "model": "Bronze (4%)",
+      "asset": "TON",
+      "symbol": "Mountain Lion (0.4%)",
+      "backdrop": "Pacific Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 40,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-20T02:29:54.000Z",
+      "premarketData": {}
     }
   ],
   "Raspberry": [
@@ -2468,26 +2448,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-12T19:48:11.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16287,
-      "customEmojiId": "5213407947299775188",
-      "gift_id": 7479777,
-      "name": "Sleigh Bell",
-      "model": "Raspberry (3%)",
-      "asset": "TON",
-      "symbol": "Tie (0.4%)",
-      "backdrop": "Purple (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-13T19:14:11.000Z",
       "premarketData": {}
     },
     {
@@ -3012,6 +2972,131 @@
     }
   ],
   "Satin Brass": [
+    {
+      "gift_num": 15026,
+      "customEmojiId": "5224534021425357611",
+      "gift_id": 7473131,
+      "name": "Sleigh Bell",
+      "model": "Satin Brass (2.5%)",
+      "asset": "TON",
+      "symbol": "Ice Cream (0.5%)",
+      "backdrop": "Pure Gold (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10.56,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "CEG2Y1ZK",
+      "auction": {
+        "_id": "688a7f1654445e0f68f48a1a",
+        "gift_id": 7473131,
+        "seller": 0,
+        "auction_id": "CEG2Y1ZK",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 3,
+            "asset": "TON",
+            "_id": "688a7f6354445e0f68f4c64d",
+            "timestamp": "2025-07-30T20:24:03.271Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.1,
+            "asset": "TON",
+            "_id": "688a7fbf54445e0f68f4eec6",
+            "timestamp": "2025-07-30T20:25:35.069Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.5,
+            "asset": "TON",
+            "_id": "688a88ce54445e0f680200f6",
+            "timestamp": "2025-07-30T21:04:14.044Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.83,
+            "asset": "TON",
+            "_id": "688a8a3954445e0f6803f991",
+            "timestamp": "2025-07-30T21:10:17.374Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.5,
+            "asset": "TON",
+            "_id": "688a8a4454445e0f68040327",
+            "timestamp": "2025-07-30T21:10:28.690Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.88,
+            "asset": "TON",
+            "_id": "688a8b5954445e0f6806b007",
+            "timestamp": "2025-07-30T21:15:05.492Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.27,
+            "asset": "TON",
+            "_id": "688a8b7854445e0f6806e667",
+            "timestamp": "2025-07-30T21:15:36.037Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.68,
+            "asset": "TON",
+            "_id": "688a8c2354445e0f680813ac",
+            "timestamp": "2025-07-30T21:18:27.507Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.11111111111111,
+            "asset": "TON",
+            "_id": "688a8c3354445e0f6808244e",
+            "timestamp": "2025-07-30T21:18:43.859Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.57,
+            "asset": "TON",
+            "_id": "688a8cb354445e0f6808b573",
+            "timestamp": "2025-07-30T21:20:51.344Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.055555555555555,
+            "asset": "TON",
+            "_id": "688a8e9754445e0f680a04da",
+            "timestamp": "2025-07-30T21:28:55.453Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.56,
+            "asset": "TON",
+            "_id": "688a8ea954445e0f680a0ad4",
+            "timestamp": "2025-07-30T21:29:13.002Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T21:42:45.581Z",
+        "status": "finished",
+        "gift_name": "Sleigh Bell",
+        "gift_num": 15026,
+        "model": "Satin Brass (2.5%)",
+        "backdrop": "Pure Gold (1%)",
+        "symbol": "Ice Cream (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T20:22:46.328Z",
+        "__v": 0,
+        "winningBid": 10.56,
+        "winningBidder": 1058384145
+      },
+      "export_at": "2025-08-13T09:37:21.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 17164,
       "customEmojiId": "5224534021425357611",
@@ -3556,6 +3641,26 @@
     }
   ],
   "Darth Vader": [
+    {
+      "gift_num": 5050,
+      "customEmojiId": "5262879553868556890",
+      "gift_id": 7481036,
+      "name": "Sleigh Bell",
+      "model": "Darth Vader (0.5%)",
+      "asset": "TON",
+      "symbol": "Crown (0.4%)",
+      "backdrop": "Pacific Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 21.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-13T20:49:40.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 13182,
       "customEmojiId": "5262879553868556890",
@@ -5582,26 +5687,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 17262,
-      "customEmojiId": "5222461283093211889",
-      "gift_id": 7465630,
-      "name": "Sleigh Bell",
-      "model": "Arctic Igloo (2%)",
-      "asset": "TON",
-      "symbol": "Sushi Rolls (0.3%)",
-      "backdrop": "Feldgrau (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-12T16:43:06.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 17150,
       "customEmojiId": "5222461283093211889",
       "gift_id": 7463562,
@@ -6132,26 +6217,6 @@
   ],
   "Obsidian Oak": [
     {
-      "gift_num": 13543,
-      "customEmojiId": "5276260030558004901",
-      "gift_id": 7479779,
-      "name": "Sleigh Bell",
-      "model": "Obsidian Oak (2%)",
-      "asset": "TON",
-      "symbol": "Leprechaun (0.5%)",
-      "backdrop": "Cappuccino (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-13T19:14:16.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 5287,
       "customEmojiId": "5276260030558004901",
       "gift_id": 7118105,
@@ -6189,26 +6254,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-12T18:19:55.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 17255,
-      "customEmojiId": "5276260030558004901",
-      "gift_id": 7453053,
-      "name": "Sleigh Bell",
-      "model": "Obsidian Oak (2%)",
-      "asset": "TON",
-      "symbol": "Hard Hat (0.5%)",
-      "backdrop": "Coral Red (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T17:51:21.000Z",
       "premarketData": {}
     },
     {
@@ -7266,26 +7311,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 11875,
-      "customEmojiId": "5470108663588873536",
-      "gift_id": 6685113,
-      "name": "Sleigh Bell",
-      "model": "Purple Gold (4%)",
-      "asset": "TON",
-      "symbol": "The Eye (0.5%)",
-      "backdrop": "Gunmetal (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 18,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-06T15:52:22.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 3917,
       "customEmojiId": "5470108663588873536",
       "gift_id": 6635549,
@@ -7443,6 +7468,109 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-03-18T19:16:50.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 16892,
+      "customEmojiId": "5470108663588873536",
+      "gift_id": 7452397,
+      "name": "Sleigh Bell",
+      "model": "Purple Gold (4%)",
+      "asset": "TON",
+      "symbol": "Deerstalker (0.5%)",
+      "backdrop": "Black (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 28,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "U2YJ3LS3",
+      "auction": {
+        "_id": "6887aafb450b5b469c8fbba7",
+        "gift_id": 7452397,
+        "seller": 0,
+        "auction_id": "U2YJ3LS3",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5.2,
+            "asset": "TON",
+            "_id": "6887ab90450b5b469c900370",
+            "timestamp": "2025-07-28T16:55:44.633Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.46,
+            "asset": "TON",
+            "_id": "6887abb6450b5b469c9020b2",
+            "timestamp": "2025-07-28T16:56:22.949Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6,
+            "asset": "TON",
+            "_id": "6887abeb450b5b469c9048f1",
+            "timestamp": "2025-07-28T16:57:15.737Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7,
+            "asset": "TON",
+            "_id": "6887ac0d450b5b469c905aa1",
+            "timestamp": "2025-07-28T16:57:49.210Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8,
+            "asset": "TON",
+            "_id": "6887ac42450b5b469c90b80f",
+            "timestamp": "2025-07-28T16:58:42.233Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 20,
+            "asset": "TON",
+            "_id": "6887adb6450b5b469c9a5a4a",
+            "timestamp": "2025-07-28T17:04:54.936Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 25,
+            "asset": "TON",
+            "_id": "6887ae0c450b5b469c9f658f",
+            "timestamp": "2025-07-28T17:06:20.268Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 26.25,
+            "asset": "TON",
+            "_id": "6887b769450b5b469cd7c88d",
+            "timestamp": "2025-07-28T17:46:17.193Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 28,
+            "asset": "TON",
+            "_id": "6887b77a450b5b469cd80f08",
+            "timestamp": "2025-07-28T17:46:34.216Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-28T18:04:40.830Z",
+        "status": "finished",
+        "gift_name": "Sleigh Bell",
+        "gift_num": 16892,
+        "model": "Purple Gold (4%)",
+        "backdrop": "Black (1.2%)",
+        "symbol": "Deerstalker (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-28T16:54:42.048Z",
+        "__v": 0,
+        "winningBid": 28,
+        "winningBidder": 800601683
+      },
+      "export_at": "2025-08-11T16:52:00.000Z",
       "premarketData": {}
     }
   ],
@@ -8152,6 +8280,26 @@
   ],
   "Sparkles": [
     {
+      "gift_num": 15523,
+      "customEmojiId": "5262619566613230117",
+      "gift_id": 7481476,
+      "name": "Sleigh Bell",
+      "model": "Sparkles (3%)",
+      "asset": "TON",
+      "symbol": "All-Seeing Eye (0.4%)",
+      "backdrop": "Cappuccino (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-13T21:15:50.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 17259,
       "customEmojiId": "5262619566613230117",
       "gift_id": 7456069,
@@ -8289,26 +8437,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-08T18:13:22.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 13140,
-      "customEmojiId": "5262619566613230117",
-      "gift_id": 7347234,
-      "name": "Sleigh Bell",
-      "model": "Sparkles (3%)",
-      "asset": "TON",
-      "symbol": "Worker Ant (0.1%)",
-      "backdrop": "Mexican Pink (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T04:40:47.000Z",
       "premarketData": {}
     },
     {
@@ -8554,23 +8682,23 @@
   ],
   "Fairycore": [
     {
-      "gift_num": 14566,
+      "gift_num": 13737,
       "customEmojiId": "5230965597512162916",
-      "gift_id": 7480628,
+      "gift_id": 7386212,
       "name": "Sleigh Bell",
       "model": "Fairycore (5%)",
       "asset": "TON",
-      "symbol": "Sharp Sword (0.3%)",
-      "backdrop": "Mexican Pink (1.2%)",
+      "symbol": "Elf Hat (0.4%)",
+      "backdrop": "French Violet (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 6.1,
+      "price": 20,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-08-13T20:18:28.000Z",
+      "export_at": "2025-08-08T18:16:02.000Z",
       "premarketData": {}
     },
     {
@@ -8734,26 +8862,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 13737,
-      "customEmojiId": "5230965597512162916",
-      "gift_id": 7386212,
-      "name": "Sleigh Bell",
-      "model": "Fairycore (5%)",
-      "asset": "TON",
-      "symbol": "Elf Hat (0.4%)",
-      "backdrop": "French Violet (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T18:16:02.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 16141,
       "customEmojiId": "5230965597512162916",
       "gift_id": 7011038,
@@ -8851,26 +8959,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-01T18:16:49.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 13368,
-      "customEmojiId": "5230965597512162916",
-      "gift_id": 7287892,
-      "name": "Sleigh Bell",
-      "model": "Fairycore (5%)",
-      "asset": "TON",
-      "symbol": "Lemon (0.5%)",
-      "backdrop": "Rifle Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 25,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-01T19:55:50.000Z",
       "premarketData": {}
     },
     {
@@ -9438,6 +9526,26 @@
   ],
   "Golden Zebra": [
     {
+      "gift_num": 17299,
+      "customEmojiId": "5273730041417589569",
+      "gift_id": 7465222,
+      "name": "Sleigh Bell",
+      "model": "Golden Zebra (2%)",
+      "asset": "TON",
+      "symbol": "Chef Hat (0.5%)",
+      "backdrop": "Raspberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T16:06:53.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 17323,
       "customEmojiId": "5273730041417589569",
       "gift_id": 7474261,
@@ -9900,6 +10008,26 @@
   ],
   "Disco Blast": [
     {
+      "gift_num": 3833,
+      "customEmojiId": "5264837062523118211",
+      "gift_id": 6435184,
+      "name": "Sleigh Bell",
+      "model": "Disco Blast (0.5%)",
+      "asset": "TON",
+      "symbol": "Grenade (0.4%)",
+      "backdrop": "Tactical Pine (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 24,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-29T11:01:42.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 16205,
       "customEmojiId": "5264837062523118211",
       "gift_id": 7479256,
@@ -9957,26 +10085,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-25T13:01:31.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3833,
-      "customEmojiId": "5264837062523118211",
-      "gift_id": 6435184,
-      "name": "Sleigh Bell",
-      "model": "Disco Blast (0.5%)",
-      "asset": "TON",
-      "symbol": "Grenade (0.4%)",
-      "backdrop": "Tactical Pine (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 27,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-29T11:01:42.000Z",
       "premarketData": {}
     },
     {
@@ -13875,26 +13983,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 16533,
-      "customEmojiId": "5226498032660408145",
-      "gift_id": 7334838,
-      "name": "Sleigh Bell",
-      "model": "Rose Gold (2.5%)",
-      "asset": "TON",
-      "symbol": "Obon Lantern (0.5%)",
-      "backdrop": "Caramel (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T07:48:57.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 6804,
       "customEmojiId": "5226498032660408145",
       "gift_id": 7356542,
@@ -15163,46 +15251,6 @@
   ],
   "Truffle": [
     {
-      "gift_num": 15660,
-      "customEmojiId": "5235803023472617378",
-      "gift_id": 7479780,
-      "name": "Sleigh Bell",
-      "model": "Truffle (4%)",
-      "asset": "TON",
-      "symbol": "Evil Dragon (0.3%)",
-      "backdrop": "Rosewood (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-13T19:14:21.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11577,
-      "customEmojiId": "5235803023472617378",
-      "gift_id": 7471042,
-      "name": "Sleigh Bell",
-      "model": "Truffle (4%)",
-      "asset": "TON",
-      "symbol": "Birthday Cake (0.4%)",
-      "backdrop": "Hunter Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-13T03:54:47.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 16037,
       "customEmojiId": "5235803023472617378",
       "gift_id": 7429169,
@@ -15240,26 +15288,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-06T21:53:41.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4897,
-      "customEmojiId": "5235803023472617378",
-      "gift_id": 7454770,
-      "name": "Sleigh Bell",
-      "model": "Truffle (4%)",
-      "asset": "TON",
-      "symbol": "Gem (0.5%)",
-      "backdrop": "Electric Purple (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T19:52:30.000Z",
       "premarketData": {}
     },
     {
@@ -15340,26 +15368,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-17T16:29:26.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16910,
-      "customEmojiId": "5235803023472617378",
-      "gift_id": 7342081,
-      "name": "Sleigh Bell",
-      "model": "Truffle (4%)",
-      "asset": "TON",
-      "symbol": "Moon (0.4%)",
-      "backdrop": "Turquoise (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T18:37:32.000Z",
       "premarketData": {}
     },
     {
@@ -15807,6 +15815,26 @@
   ],
   "Candy Cloud": [
     {
+      "gift_num": 2765,
+      "customEmojiId": "5276402683601773323",
+      "gift_id": 7481237,
+      "name": "Sleigh Bell",
+      "model": "Candy Cloud (3%)",
+      "asset": "TON",
+      "symbol": "Plume Shako (0.3%)",
+      "backdrop": "Emerald (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 14,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-13T21:01:37.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 11568,
       "customEmojiId": "5276402683601773323",
       "gift_id": 7475029,
@@ -15864,26 +15892,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-25T19:33:10.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 10925,
-      "customEmojiId": "5276402683601773323",
-      "gift_id": 7437209,
-      "name": "Sleigh Bell",
-      "model": "Candy Cloud (3%)",
-      "asset": "TON",
-      "symbol": "Sun Mountain (0.4%)",
-      "backdrop": "Pacific Green (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-10T18:22:51.000Z",
       "premarketData": {}
     },
     {
@@ -16449,26 +16457,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 9305,
-      "customEmojiId": "5224607658639649548",
-      "gift_id": 7423995,
-      "name": "Sleigh Bell",
-      "model": "Joker (2.5%)",
-      "asset": "TON",
-      "symbol": "Mayan Moth (0.5%)",
-      "backdrop": "Mint Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-10T06:37:38.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 6366,
       "customEmojiId": "5224607658639649548",
       "gift_id": 7280386,
@@ -16776,26 +16764,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-22T05:45:22.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16958,
-      "customEmojiId": "5215256114676919139",
-      "gift_id": 7329568,
-      "name": "Sleigh Bell",
-      "model": "Golden Dusk (1.5%)",
-      "asset": "TON",
-      "symbol": "Heater Shield (0.5%)",
-      "backdrop": "Gunmetal (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T18:56:30.000Z",
       "premarketData": {}
     },
     {
@@ -17881,7 +17849,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 25,
+      "price": 14,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -19384,6 +19352,26 @@
     }
   ],
   "Deutschland": [
+    {
+      "gift_num": 2275,
+      "customEmojiId": "5262480177744604562",
+      "gift_id": 7481607,
+      "name": "Sleigh Bell",
+      "model": "Deutschland (2.5%)",
+      "asset": "TON",
+      "symbol": "Mafdet (0.5%)",
+      "backdrop": "Coral Red (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-13T21:24:13.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 5069,
       "customEmojiId": "5262480177744604562",
