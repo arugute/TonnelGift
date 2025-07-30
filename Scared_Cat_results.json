@@ -5401,6 +5401,54 @@
       "premarketData": {}
     },
     {
+      "gift_num": 19228,
+      "customEmojiId": "5398005697516429909",
+      "gift_id": 7215918,
+      "name": "Scared Cat",
+      "model": "Purrrple (1%)",
+      "asset": "TON",
+      "symbol": "Cash (0.2%)",
+      "backdrop": "Ivory White (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 43,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "QECVNBNB",
+      "auction": {
+        "_id": "6886c5eb450b5b469c758d62",
+        "gift_id": 7215918,
+        "seller": 0,
+        "auction_id": "QECVNBNB",
+        "startingBid": 43,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 43,
+            "asset": "TON",
+            "_id": "68897b2054445e0f68007025",
+            "timestamp": "2025-07-30T01:53:36.151Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T02:12:27.157Z",
+        "status": "finished",
+        "gift_name": "Scared Cat",
+        "gift_num": 19228,
+        "model": "Purrrple (1%)",
+        "backdrop": "Ivory White (1%)",
+        "symbol": "Cash (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T14:02:28.844Z",
+        "__v": 0,
+        "winningBid": 43,
+        "winningBidder": 2062986674
+      },
+      "export_at": "2025-07-28T15:29:13.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2600,
       "customEmojiId": "5398005697516429909",
       "gift_id": 7281792,
@@ -13334,7 +13382,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 46.39,
+      "price": 44.07,
       "status": "forsale",
       "limited": false,
       "auction": null,
