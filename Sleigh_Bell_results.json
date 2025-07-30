@@ -6818,6 +6818,54 @@
       "premarketData": {}
     },
     {
+      "gift_num": 15304,
+      "customEmojiId": "5470108663588873536",
+      "gift_id": 7310079,
+      "name": "Sleigh Bell",
+      "model": "Purple Gold (4%)",
+      "asset": "TON",
+      "symbol": "Shield (0.3%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "CIE9V6OV",
+      "auction": {
+        "_id": "687cd6deaace4cd2f6052c29",
+        "gift_id": 7310079,
+        "seller": 0,
+        "auction_id": "CIE9V6OV",
+        "startingBid": 10,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "6889247c54445e0f68731994",
+            "timestamp": "2025-07-29T19:43:56.165Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T03:48:59.774Z",
+        "status": "finished",
+        "gift_name": "Sleigh Bell",
+        "gift_num": 15304,
+        "model": "Purple Gold (4%)",
+        "backdrop": "Onyx Black (1.5%)",
+        "symbol": "Shield (0.3%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T15:49:01.015Z",
+        "__v": 0,
+        "winningBid": 10,
+        "winningBidder": 542538781
+      },
+      "export_at": "2025-08-03T11:44:56.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3114,
       "customEmojiId": "5470108663588873536",
       "gift_id": 6181662,
@@ -7335,109 +7383,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-03-18T19:16:50.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16892,
-      "customEmojiId": "5470108663588873536",
-      "gift_id": 7452397,
-      "name": "Sleigh Bell",
-      "model": "Purple Gold (4%)",
-      "asset": "TON",
-      "symbol": "Deerstalker (0.5%)",
-      "backdrop": "Black (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 28,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "U2YJ3LS3",
-      "auction": {
-        "_id": "6887aafb450b5b469c8fbba7",
-        "gift_id": 7452397,
-        "seller": 0,
-        "auction_id": "U2YJ3LS3",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 5.2,
-            "asset": "TON",
-            "_id": "6887ab90450b5b469c900370",
-            "timestamp": "2025-07-28T16:55:44.633Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 5.46,
-            "asset": "TON",
-            "_id": "6887abb6450b5b469c9020b2",
-            "timestamp": "2025-07-28T16:56:22.949Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6,
-            "asset": "TON",
-            "_id": "6887abeb450b5b469c9048f1",
-            "timestamp": "2025-07-28T16:57:15.737Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7,
-            "asset": "TON",
-            "_id": "6887ac0d450b5b469c905aa1",
-            "timestamp": "2025-07-28T16:57:49.210Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 8,
-            "asset": "TON",
-            "_id": "6887ac42450b5b469c90b80f",
-            "timestamp": "2025-07-28T16:58:42.233Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "6887adb6450b5b469c9a5a4a",
-            "timestamp": "2025-07-28T17:04:54.936Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 25,
-            "asset": "TON",
-            "_id": "6887ae0c450b5b469c9f658f",
-            "timestamp": "2025-07-28T17:06:20.268Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 26.25,
-            "asset": "TON",
-            "_id": "6887b769450b5b469cd7c88d",
-            "timestamp": "2025-07-28T17:46:17.193Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 28,
-            "asset": "TON",
-            "_id": "6887b77a450b5b469cd80f08",
-            "timestamp": "2025-07-28T17:46:34.216Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-28T18:04:40.830Z",
-        "status": "finished",
-        "gift_name": "Sleigh Bell",
-        "gift_num": 16892,
-        "model": "Purple Gold (4%)",
-        "backdrop": "Black (1.2%)",
-        "symbol": "Deerstalker (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-28T16:54:42.048Z",
-        "__v": 0,
-        "winningBid": 28,
-        "winningBidder": 800601683
-      },
-      "export_at": "2025-08-11T16:52:00.000Z",
       "premarketData": {}
     }
   ],
@@ -9767,7 +9712,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 15.06,
+      "price": 14.31,
       "status": "forsale",
       "limited": false,
       "auction": null,
