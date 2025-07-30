@@ -1187,6 +1187,26 @@
   ],
   "Hollow Gold": [
     {
+      "gift_num": 2558,
+      "customEmojiId": "5206422840122828411",
+      "gift_id": 7471796,
+      "name": "Mad Pumpkin",
+      "model": "Hollow Gold (3%)",
+      "asset": "TON",
+      "symbol": "Voodoo Doll (1.6%)",
+      "backdrop": "Aquamarine (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-13T07:09:09.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 7428,
       "customEmojiId": "5206422840122828411",
       "gift_id": 7441857,
@@ -3935,7 +3955,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 25,
+      "price": 20,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -6931,6 +6951,67 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T14:16:30.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 1061,
+      "customEmojiId": "5438114614682347576",
+      "gift_id": 7435304,
+      "name": "Mad Pumpkin",
+      "model": "Shamrock (3%)",
+      "asset": "TON",
+      "symbol": "Treats (2.4%)",
+      "backdrop": "Cappuccino (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 13.5,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "REBA8J0Q",
+      "auction": {
+        "_id": "688657f9450b5b469c7b62d2",
+        "gift_id": 7435304,
+        "seller": 0,
+        "auction_id": "REBA8J0Q",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 11,
+            "asset": "TON",
+            "_id": "68891f0354445e0f686ff71e",
+            "timestamp": "2025-07-29T19:20:35.819Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.55,
+            "asset": "TON",
+            "_id": "68894b6754445e0f68e23e17",
+            "timestamp": "2025-07-29T22:29:59.944Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.5,
+            "asset": "TON",
+            "_id": "688996eb54445e0f68045d3e",
+            "timestamp": "2025-07-30T03:52:11.617Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T06:44:23.201Z",
+        "status": "finished",
+        "gift_name": "Mad Pumpkin",
+        "gift_num": 1061,
+        "model": "Shamrock (3%)",
+        "backdrop": "Cappuccino (1.5%)",
+        "symbol": "Treats (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T18:44:24.573Z",
+        "__v": 0,
+        "winningBid": 13.5,
+        "winningBidder": 7172770086
+      },
+      "export_at": "2025-08-10T16:45:24.000Z",
       "premarketData": {}
     },
     {
