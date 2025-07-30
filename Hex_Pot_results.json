@@ -5983,6 +5983,95 @@
       "auction": null,
       "export_at": "2025-06-20T16:30:23.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 39695,
+      "customEmojiId": "5431470300275434326",
+      "gift_id": 7476958,
+      "name": "Hex Pot",
+      "model": "Gummy Worm (1.3%)",
+      "asset": "TON",
+      "symbol": "Black Widow (2.4%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 3.84,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "CBWUURUB",
+      "auction": {
+        "_id": "688a38d454445e0f682fc451",
+        "gift_id": 7476958,
+        "seller": 0,
+        "auction_id": "CBWUURUB",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688a40dc54445e0f68355c72",
+            "timestamp": "2025-07-30T15:57:16.274Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3,
+            "asset": "TON",
+            "_id": "688a428c54445e0f6835be5e",
+            "timestamp": "2025-07-30T16:04:28.401Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.15,
+            "asset": "TON",
+            "_id": "688a43a554445e0f6836b1ef",
+            "timestamp": "2025-07-30T16:09:09.071Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.31,
+            "asset": "TON",
+            "_id": "688a43e254445e0f6836eb55",
+            "timestamp": "2025-07-30T16:10:10.890Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.48,
+            "asset": "TON",
+            "_id": "688a43f554445e0f6836f029",
+            "timestamp": "2025-07-30T16:10:29.747Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.66,
+            "asset": "TON",
+            "_id": "688a489954445e0f68580a87",
+            "timestamp": "2025-07-30T16:30:17.988Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.84,
+            "asset": "TON",
+            "_id": "688a48ac54445e0f685817cd",
+            "timestamp": "2025-07-30T16:30:36.319Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T16:46:32.671Z",
+        "status": "finished",
+        "gift_name": "Hex Pot",
+        "gift_num": 39695,
+        "model": "Gummy Worm (1.3%)",
+        "backdrop": "Onyx Black (2%)",
+        "symbol": "Black Widow (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T15:46:33.281Z",
+        "__v": 0,
+        "winningBid": 3.84,
+        "winningBidder": 836783308
+      },
+      "export_at": "2025-08-13T15:22:20.000Z",
+      "premarketData": {}
     }
   ],
   "Rainbow Pearl": [
@@ -6914,7 +7003,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.88,
+      "price": 3.55,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -12598,26 +12687,6 @@
   ],
   "Coldbrew": [
     {
-      "gift_num": 12369,
-      "customEmojiId": "5431677936174393134",
-      "gift_id": 7024686,
-      "name": "Hex Pot",
-      "model": "Coldbrew (0.4%)",
-      "asset": "TON",
-      "symbol": "Treats (2.4%)",
-      "backdrop": "Chestnut (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-20T09:41:46.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 20668,
       "customEmojiId": "5431677936174393134",
       "gift_id": 6669486,
@@ -12635,6 +12704,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-05T22:37:03.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 12369,
+      "customEmojiId": "5431677936174393134",
+      "gift_id": 7024686,
+      "name": "Hex Pot",
+      "model": "Coldbrew (0.4%)",
+      "asset": "TON",
+      "symbol": "Treats (2.4%)",
+      "backdrop": "Chestnut (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-20T09:41:46.000Z",
       "premarketData": {}
     },
     {
@@ -14723,6 +14812,26 @@
   ],
   "Malibu": [
     {
+      "gift_num": 35975,
+      "customEmojiId": "5431515629360276937",
+      "gift_id": 5999767,
+      "name": "Hex Pot",
+      "model": "Malibu (0.8%)",
+      "asset": "TON",
+      "symbol": "Nice Ghost (2%)",
+      "backdrop": "Indigo Dye (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.99,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-23T16:01:52.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 41873,
       "customEmojiId": "5431515629360276937",
       "gift_id": 7470415,
@@ -16252,6 +16361,54 @@
     }
   ],
   "Ice Citrus": [
+    {
+      "gift_num": 15929,
+      "customEmojiId": "5431710779789307531",
+      "gift_id": 7467498,
+      "name": "Hex Pot",
+      "model": "Ice Citrus (0.8%)",
+      "asset": "TON",
+      "symbol": "Ice Pop (0.2%)",
+      "backdrop": "Dark Lilac (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.5,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "WKGO3MKM",
+      "auction": {
+        "_id": "688a30f654445e0f68f90f21",
+        "gift_id": 7467498,
+        "seller": 0,
+        "auction_id": "WKGO3MKM",
+        "startingBid": 2.5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.5,
+            "asset": "TON",
+            "_id": "688a4a9d54445e0f68ad5fe5",
+            "timestamp": "2025-07-30T16:38:53.749Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T16:49:25.083Z",
+        "status": "finished",
+        "gift_name": "Hex Pot",
+        "gift_num": 15929,
+        "model": "Ice Citrus (0.8%)",
+        "backdrop": "Dark Lilac (1.5%)",
+        "symbol": "Ice Pop (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T14:49:26.143Z",
+        "__v": 0,
+        "winningBid": 2.5,
+        "winningBidder": 1201383173
+      },
+      "export_at": "2025-08-12T19:17:46.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 41796,
       "customEmojiId": "5431710779789307531",
@@ -19826,6 +19983,26 @@
   ],
   "Peppermint": [
     {
+      "gift_num": 22709,
+      "customEmojiId": "5431379697940324229",
+      "gift_id": 6284693,
+      "name": "Hex Pot",
+      "model": "Peppermint (0.8%)",
+      "asset": "TON",
+      "symbol": "Cauldron (2.4%)",
+      "backdrop": "Aquamarine (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-26T10:56:11.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 21551,
       "customEmojiId": "5431379697940324229",
       "gift_id": 7374974,
@@ -21129,6 +21306,26 @@
   ],
   "Strike": [
     {
+      "gift_num": 35095,
+      "customEmojiId": "5431583330929767226",
+      "gift_id": 7151282,
+      "name": "Hex Pot",
+      "model": "Strike (0.8%)",
+      "asset": "TON",
+      "symbol": "Sun Lion (0.2%)",
+      "backdrop": "Pacific Cyan (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-25T09:14:24.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 15930,
       "customEmojiId": "5431583330929767226",
       "gift_id": 7467496,
@@ -21261,26 +21458,6 @@
         "winningBidder": 1675094585
       },
       "export_at": "2025-08-04T16:33:50.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 35095,
-      "customEmojiId": "5431583330929767226",
-      "gift_id": 7151282,
-      "name": "Hex Pot",
-      "model": "Strike (0.8%)",
-      "asset": "TON",
-      "symbol": "Sun Lion (0.2%)",
-      "backdrop": "Pacific Cyan (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T09:14:24.000Z",
       "premarketData": {}
     },
     {
@@ -23168,6 +23345,26 @@
   ],
   "Petalwine": [
     {
+      "gift_num": 17916,
+      "customEmojiId": "5434079510087622289",
+      "gift_id": 7241917,
+      "name": "Hex Pot",
+      "model": "Petalwine (1.3%)",
+      "asset": "TON",
+      "symbol": "Croissant (0.2%)",
+      "backdrop": "Light Olive (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T23:51:11.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 36300,
       "customEmojiId": "5434079510087622289",
       "gift_id": 7287304,
@@ -23285,26 +23482,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-26T11:16:39.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 17916,
-      "customEmojiId": "5434079510087622289",
-      "gift_id": 7241917,
-      "name": "Hex Pot",
-      "model": "Petalwine (1.3%)",
-      "asset": "TON",
-      "symbol": "Croissant (0.2%)",
-      "backdrop": "Light Olive (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T23:51:11.000Z",
       "premarketData": {}
     },
     {
@@ -23760,7 +23937,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3,
+      "price": 2.7,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -26372,26 +26549,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 45533,
-      "customEmojiId": "5431834582221612850",
-      "gift_id": 7344606,
-      "name": "Hex Pot",
-      "model": "Citrus (2.5%)",
-      "asset": "TON",
-      "symbol": "Fish Skeleton (2.4%)",
-      "backdrop": "Battleship Grey (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T21:31:12.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 20802,
       "customEmojiId": "5431834582221612850",
       "gift_id": 7292552,
@@ -26710,29 +26867,29 @@
       "auction": null,
       "export_at": "2025-06-23T18:15:05.000Z",
       "premarketData": {}
-    }
-  ],
-  "Spectral Dew": [
+    },
     {
-      "gift_num": 39560,
-      "customEmojiId": "5431483142227649918",
-      "gift_id": 7375669,
+      "gift_num": 27672,
+      "customEmojiId": "5431834582221612850",
+      "gift_id": 5873589,
       "name": "Hex Pot",
-      "model": "Spectral Dew (1.3%)",
+      "model": "Citrus (2.5%)",
       "asset": "TON",
       "symbol": "Half Moon (1.6%)",
-      "backdrop": "Hunter Green (2%)",
+      "backdrop": "Pistachio (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.18,
+      "price": 12,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-08-07T23:51:29.000Z",
+      "export_at": "2025-06-22T15:22:32.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Spectral Dew": [
     {
       "gift_num": 35141,
       "customEmojiId": "5431483142227649918",
@@ -26751,6 +26908,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-13T07:37:11.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 39560,
+      "customEmojiId": "5431483142227649918",
+      "gift_id": 7375669,
+      "name": "Hex Pot",
+      "model": "Spectral Dew (1.3%)",
+      "asset": "TON",
+      "symbol": "Half Moon (1.6%)",
+      "backdrop": "Hunter Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.18,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T23:51:29.000Z",
       "premarketData": {}
     },
     {
@@ -33387,6 +33564,26 @@
     }
   ],
   "Fairy Fluff": [
+    {
+      "gift_num": 12594,
+      "customEmojiId": "5431739581839993462",
+      "gift_id": 7477579,
+      "name": "Hex Pot",
+      "model": "Fairy Fluff (1.3%)",
+      "asset": "TON",
+      "symbol": "Spooky Cat (2.4%)",
+      "backdrop": "Silver Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-13T16:14:58.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 45611,
       "customEmojiId": "5431739581839993462",
