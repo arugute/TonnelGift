@@ -3101,7 +3101,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 74,
+      "price": 70,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -4247,6 +4247,26 @@
   ],
   "Crystal Punk": [
     {
+      "gift_num": 4461,
+      "customEmojiId": "5237722654810597423",
+      "gift_id": 6665240,
+      "name": "Astral Shard",
+      "model": "Crystal Punk (1.3%)",
+      "asset": "TON",
+      "symbol": "Flipper (0.2%)",
+      "backdrop": "Pacific Cyan (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 930056,
+      "price": 190,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-05T19:35:33.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4581,
       "customEmojiId": "5237722654810597423",
       "gift_id": 7251937,
@@ -4434,26 +4454,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-18T13:19:07.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4461,
-      "customEmojiId": "5237722654810597423",
-      "gift_id": 6665240,
-      "name": "Astral Shard",
-      "model": "Crystal Punk (1.3%)",
-      "asset": "TON",
-      "symbol": "Flipper (0.2%)",
-      "backdrop": "Pacific Cyan (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 859633,
-      "price": 249,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-05T19:35:33.000Z",
       "premarketData": {}
     }
   ],
@@ -4832,6 +4832,102 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-02-21T06:35:53.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3803,
+      "customEmojiId": "5235477774189225492",
+      "gift_id": 7470010,
+      "name": "Astral Shard",
+      "model": "Excalibrite (1.3%)",
+      "asset": "TON",
+      "symbol": "Alkonost (1%)",
+      "backdrop": "Turquoise (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 115,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "HT3D5VY8",
+      "auction": {
+        "_id": "6889537554445e0f68e54bea",
+        "gift_id": 7470010,
+        "seller": 0,
+        "auction_id": "HT3D5VY8",
+        "startingBid": 25,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 72.5,
+            "asset": "TON",
+            "_id": "6889553154445e0f68e64c30",
+            "timestamp": "2025-07-29T23:11:45.282Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 76.13,
+            "asset": "TON",
+            "_id": "6889572c54445e0f68e74630",
+            "timestamp": "2025-07-29T23:20:12.288Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 79.94,
+            "asset": "TON",
+            "_id": "6889575754445e0f68e752f5",
+            "timestamp": "2025-07-29T23:20:55.453Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 83.94,
+            "asset": "TON",
+            "_id": "688957f554445e0f68e7964d",
+            "timestamp": "2025-07-29T23:23:33.819Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 88.14,
+            "asset": "TON",
+            "_id": "6889582454445e0f68e7a773",
+            "timestamp": "2025-07-29T23:24:20.742Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 95,
+            "asset": "TON",
+            "_id": "68895ee254445e0f68f14732",
+            "timestamp": "2025-07-29T23:53:06.464Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 100,
+            "asset": "TON",
+            "_id": "68895ef654445e0f68f160d7",
+            "timestamp": "2025-07-29T23:53:26.405Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 115,
+            "asset": "TON",
+            "_id": "68895f0f54445e0f68f19016",
+            "timestamp": "2025-07-29T23:53:51.396Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T00:04:20.200Z",
+        "status": "finished",
+        "gift_name": "Astral Shard",
+        "gift_num": 3803,
+        "model": "Excalibrite (1.3%)",
+        "backdrop": "Turquoise (2%)",
+        "symbol": "Alkonost (1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T23:04:21.334Z",
+        "__v": 0,
+        "winningBid": 115,
+        "winningBidder": 6641030173
+      },
+      "export_at": "2025-08-12T23:04:02.000Z",
       "premarketData": {}
     }
   ],
