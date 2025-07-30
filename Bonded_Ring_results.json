@@ -2291,6 +2291,26 @@
   ],
   "Atomic Core": [
     {
+      "gift_num": 5948,
+      "customEmojiId": "5422599187059470713",
+      "gift_id": 7407723,
+      "name": "Bonded Ring",
+      "model": "Atomic Core (2.1%)",
+      "asset": "TON",
+      "symbol": "Scorpion (0.4%)",
+      "backdrop": "Dark Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 70,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T14:22:32.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6113,
       "customEmojiId": "5422599187059470713",
       "gift_id": 7476287,
@@ -2348,26 +2368,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-11T00:55:21.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5948,
-      "customEmojiId": "5422599187059470713",
-      "gift_id": 7407723,
-      "name": "Bonded Ring",
-      "model": "Atomic Core (2.1%)",
-      "asset": "TON",
-      "symbol": "Scorpion (0.4%)",
-      "backdrop": "Dark Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T14:22:32.000Z",
       "premarketData": {}
     },
     {
@@ -4419,7 +4419,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 65,
+      "price": 56.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -4688,6 +4688,26 @@
     }
   ],
   "Hourglass": [
+    {
+      "gift_num": 382,
+      "customEmojiId": "5345802307063804294",
+      "gift_id": 7477560,
+      "name": "Bonded Ring",
+      "model": "Hourglass (0.8%)",
+      "asset": "TON",
+      "symbol": "Neptune (0.2%)",
+      "backdrop": "Pistachio (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 100,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-13T16:14:11.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 7504,
       "customEmojiId": "5345802307063804294",
@@ -9499,6 +9519,96 @@
   ],
   "Hamster Wheel": [
     {
+      "gift_num": 7357,
+      "customEmojiId": "5415619513016151380",
+      "gift_id": 7447158,
+      "name": "Bonded Ring",
+      "model": "Hamster Wheel (1.8%)",
+      "asset": "TON",
+      "symbol": "Knight (0.5%)",
+      "backdrop": "Gunship Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 60.78,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "4CY4K44Q",
+      "auction": {
+        "_id": "688993e654445e0f6803efe6",
+        "gift_id": 7447158,
+        "seller": 0,
+        "auction_id": "4CY4K44Q",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 12,
+            "asset": "TON",
+            "_id": "68899e1154445e0f6805d1f7",
+            "timestamp": "2025-07-30T04:22:41.536Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.6,
+            "asset": "TON",
+            "_id": "6889a12d54445e0f6806e950",
+            "timestamp": "2025-07-30T04:35:57.568Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 50,
+            "asset": "TON",
+            "_id": "6889d1ca54445e0f6813415a",
+            "timestamp": "2025-07-30T08:03:22.300Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 52.5,
+            "asset": "TON",
+            "_id": "688a08be54445e0f6894a0c7",
+            "timestamp": "2025-07-30T11:57:50.675Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 55.13,
+            "asset": "TON",
+            "_id": "688a0c0754445e0f68a31cb6",
+            "timestamp": "2025-07-30T12:11:51.928Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 57.89,
+            "asset": "TON",
+            "_id": "688a33a254445e0f68faba0d",
+            "timestamp": "2025-07-30T15:00:50.192Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 60.78,
+            "asset": "TON",
+            "_id": "688a375354445e0f682e9f34",
+            "timestamp": "2025-07-30T15:16:35.473Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T15:39:17.359Z",
+        "status": "finished",
+        "gift_name": "Bonded Ring",
+        "gift_num": 7357,
+        "model": "Hamster Wheel (1.8%)",
+        "backdrop": "Gunship Green (1.5%)",
+        "symbol": "Knight (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T03:39:18.336Z",
+        "__v": 0,
+        "winningBid": 60.78,
+        "winningBidder": 6789917689
+      },
+      "export_at": "2025-08-11T10:39:01.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 979,
       "customEmojiId": "5415619513016151380",
       "gift_id": 7458012,
@@ -11658,26 +11768,6 @@
     }
   ],
   "Solid Magma": [
-    {
-      "gift_num": 7423,
-      "customEmojiId": "5417908790714463509",
-      "gift_id": 7462185,
-      "name": "Bonded Ring",
-      "model": "Solid Magma (2.1%)",
-      "asset": "TON",
-      "symbol": "Mushroom (0.4%)",
-      "backdrop": "Marine Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 85,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-12T11:57:14.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 5815,
       "customEmojiId": "5417908790714463509",
