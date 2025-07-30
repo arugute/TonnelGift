@@ -1333,26 +1333,6 @@
   ],
   "Red Carpet": [
     {
-      "gift_num": 1339,
-      "customEmojiId": "5233662523441438894",
-      "gift_id": 7328526,
-      "name": "Mini Oscar",
-      "model": "Red Carpet (0.5%)",
-      "asset": "TON",
-      "symbol": "Sword (0.5%)",
-      "backdrop": "French Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 917858,
-      "price": 190,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T17:33:16.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 591,
       "customEmojiId": "5233662523441438894",
       "gift_id": -451405235,
@@ -3104,6 +3084,24 @@
     }
   ],
   "Chieftain": [
+    {
+      "gift_num": 926,
+      "customEmojiId": "5233600624372769681",
+      "gift_id": 584162025520,
+      "name": "Mini Oscar",
+      "model": "Chieftain (1.5%)",
+      "asset": "TON",
+      "symbol": "Boat (0.2%)",
+      "backdrop": "Fandango (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 220.32,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 3265,
       "customEmojiId": "5233600624372769681",
@@ -6468,7 +6466,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 74,
+      "price": 73,
       "status": "forsale",
       "limited": false,
       "auction": null,
