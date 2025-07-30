@@ -2692,7 +2692,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 85,
+      "price": 82,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -4386,6 +4386,165 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-07T13:43:48.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 13301,
+      "customEmojiId": "5292042944449110542",
+      "gift_id": 7477290,
+      "name": "Loot Bag",
+      "model": "Lust Beat (0.5%)",
+      "asset": "TON",
+      "symbol": "Nordic Wolf (0.5%)",
+      "backdrop": "Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 204,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "YC5NVGLO",
+      "auction": {
+        "_id": "688a3fb554445e0f68351412",
+        "gift_id": 7477290,
+        "seller": 0,
+        "auction_id": "YC5NVGLO",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 50,
+            "asset": "TON",
+            "_id": "688a400c54445e0f683526d8",
+            "timestamp": "2025-07-30T15:53:48.843Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 77,
+            "asset": "TON",
+            "_id": "688a402154445e0f68353142",
+            "timestamp": "2025-07-30T15:54:09.296Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 80.85,
+            "asset": "TON",
+            "_id": "688a43d854445e0f6836de2b",
+            "timestamp": "2025-07-30T16:10:00.573Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 84.89,
+            "asset": "TON",
+            "_id": "688a47c954445e0f68389080",
+            "timestamp": "2025-07-30T16:26:49.375Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 89.13,
+            "asset": "TON",
+            "_id": "688a481854445e0f683d2e1e",
+            "timestamp": "2025-07-30T16:28:08.035Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 100,
+            "asset": "TON",
+            "_id": "688a482d54445e0f683ff9e1",
+            "timestamp": "2025-07-30T16:28:29.484Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 105,
+            "asset": "TON",
+            "_id": "688a483d54445e0f6844a29a",
+            "timestamp": "2025-07-30T16:28:45.793Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 120,
+            "asset": "TON",
+            "_id": "688a485754445e0f6847848b",
+            "timestamp": "2025-07-30T16:29:11.648Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 126,
+            "asset": "TON",
+            "_id": "688a486554445e0f684c053c",
+            "timestamp": "2025-07-30T16:29:25.905Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 132.3,
+            "asset": "TON",
+            "_id": "688a487954445e0f684fe21f",
+            "timestamp": "2025-07-30T16:29:45.999Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 150,
+            "asset": "TON",
+            "_id": "688a531a54445e0f68c6a312",
+            "timestamp": "2025-07-30T17:15:06.324Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 157.5,
+            "asset": "TON",
+            "_id": "688a594754445e0f68cc9e24",
+            "timestamp": "2025-07-30T17:41:27.828Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 165.38,
+            "asset": "TON",
+            "_id": "688a5a1254445e0f68cd1ac7",
+            "timestamp": "2025-07-30T17:44:50.140Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 173.65,
+            "asset": "TON",
+            "_id": "688a5a1c54445e0f68cd1ddf",
+            "timestamp": "2025-07-30T17:45:00.648Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 182.33,
+            "asset": "TON",
+            "_id": "688a5b5854445e0f68cd63a4",
+            "timestamp": "2025-07-30T17:50:16.559Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 191.45,
+            "asset": "TON",
+            "_id": "688a5b6b54445e0f68cd71f4",
+            "timestamp": "2025-07-30T17:50:35.268Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 204,
+            "asset": "TON",
+            "_id": "688a5b9c54445e0f68cd7e95",
+            "timestamp": "2025-07-30T17:51:24.048Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T18:02:20.100Z",
+        "status": "finished",
+        "gift_name": "Loot Bag",
+        "gift_num": 13301,
+        "model": "Lust Beat (0.5%)",
+        "backdrop": "Purple (2%)",
+        "symbol": "Nordic Wolf (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T15:52:21.683Z",
+        "__v": 0,
+        "winningBid": 204,
+        "winningBidder": 343300737
+      },
+      "export_at": "2025-08-13T15:52:04.000Z",
       "premarketData": {}
     }
   ],
@@ -11667,6 +11826,26 @@
   ],
   "Reptile Noir": [
     {
+      "gift_num": 2103,
+      "customEmojiId": "5287636501276944971",
+      "gift_id": 7479374,
+      "name": "Loot Bag",
+      "model": "Reptile Noir (1.5%)",
+      "asset": "TON",
+      "symbol": "Worker Ant (0.5%)",
+      "backdrop": "Cyberpunk (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 931342,
+      "price": 1500,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-13T18:42:28.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1336,
       "customEmojiId": "5287636501276944971",
       "gift_id": 6693247,
@@ -11704,26 +11883,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-10T19:48:46.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 665,
-      "customEmojiId": "5287636501276944971",
-      "gift_id": 7374723,
-      "name": "Loot Bag",
-      "model": "Reptile Noir (1.5%)",
-      "asset": "TON",
-      "symbol": "Wise Raven (0.5%)",
-      "backdrop": "Orange (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 110,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-07T21:51:36.000Z",
       "premarketData": {}
     },
     {
@@ -13588,26 +13747,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T06:11:41.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3213,
-      "customEmojiId": "5287328925783977903",
-      "gift_id": 7424774,
-      "name": "Loot Bag",
-      "model": "Tangerine (2%)",
-      "asset": "TON",
-      "symbol": "Celtic Wolf (0.5%)",
-      "backdrop": "Onyx Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 927429,
-      "price": 200,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-10T07:57:14.000Z",
       "premarketData": {}
     },
     {
@@ -17145,23 +17284,21 @@
   ],
   "Studded Green": [
     {
-      "gift_num": 11881,
+      "gift_num": 6912,
       "customEmojiId": "5287682912693546156",
-      "gift_id": 7441701,
+      "gift_id": 587320366228,
       "name": "Loot Bag",
       "model": "Studded Green (2%)",
       "asset": "TON",
-      "symbol": "Sparks (0.2%)",
-      "backdrop": "Mint Green (1.5%)",
+      "symbol": "Coin (0.2%)",
+      "backdrop": "Midnight Blue (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 930069,
-      "price": 154.7,
+      "price": 550.8,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-08-10T22:55:50.000Z",
       "premarketData": {}
     },
     {
