@@ -1,6 +1,24 @@
 {
   "Lily Pond": [
     {
+      "gift_num": 3196,
+      "customEmojiId": "5397581432056994384",
+      "gift_id": 603075609792,
+      "name": "Kissed Frog",
+      "model": "Lily Pond (4%)",
+      "asset": "TON",
+      "symbol": "Severed Hand (1.2%)",
+      "backdrop": "Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 13862,
       "customEmojiId": "5397581432056994384",
       "gift_id": 592501350488,
@@ -558,26 +576,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-04T23:49:56.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 8992,
-      "customEmojiId": "5397581432056994384",
-      "gift_id": 6580704,
-      "name": "Kissed Frog",
-      "model": "Lily Pond (4%)",
-      "asset": "TON",
-      "symbol": "Bow Tie (0.4%)",
-      "backdrop": "Turquoise (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 65,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-02T19:17:08.000Z",
       "premarketData": {}
     }
   ],
@@ -1330,6 +1328,68 @@
     }
   ],
   "Ectofrog": [
+    {
+      "gift_num": 6762,
+      "customEmojiId": "5400359893645420272",
+      "gift_id": 7468952,
+      "name": "Kissed Frog",
+      "model": "Ectofrog (2.5%)",
+      "asset": "TON",
+      "symbol": "Fluffy Wolf (0.6%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 29.16,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "NMH3JJA2",
+      "auction": {
+        "_id": "68893add54445e0f68a52882",
+        "gift_id": 7468952,
+        "seller": 0,
+        "auction_id": "NMH3JJA2",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6889d4b554445e0f6813abff",
+            "timestamp": "2025-07-30T08:15:49.484Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 27.77,
+            "asset": "TON",
+            "_id": "6889e0cf54445e0f681d4ae5",
+            "timestamp": "2025-07-30T09:07:27.186Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 29.16,
+            "asset": "TON",
+            "_id": "688a000954445e0f687a7b3b",
+            "timestamp": "2025-07-30T11:20:41.912Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T13:41:45.026Z",
+        "status": "finished",
+        "gift_name": "Kissed Frog",
+        "gift_num": 6762,
+        "model": "Ectofrog (2.5%)",
+        "backdrop": "Persimmon (2%)",
+        "symbol": "Fluffy Wolf (0.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T07:41:47.176Z",
+        "__v": 0,
+        "winningBid": 29.16,
+        "winningBidder": 7169794195
+      },
+      "export_at": "2025-08-12T21:19:03.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 6826,
       "customEmojiId": "5400359893645420272",
@@ -2303,26 +2363,6 @@
   ],
   "Toadberry": [
     {
-      "gift_num": 10233,
-      "customEmojiId": "5395719056928040777",
-      "gift_id": 7363011,
-      "name": "Kissed Frog",
-      "model": "Toadberry (4%)",
-      "asset": "TON",
-      "symbol": "Autumn Leaves (0.8%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 120,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-07T07:28:01.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 11468,
       "customEmojiId": "5395719056928040777",
       "gift_id": 579651879933,
@@ -2880,6 +2920,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T07:17:36.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 6723,
+      "customEmojiId": "5395719056928040777",
+      "gift_id": 5922756,
+      "name": "Kissed Frog",
+      "model": "Toadberry (4%)",
+      "asset": "TON",
+      "symbol": "Watermelon (0.6%)",
+      "backdrop": "Moonstone (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 80,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-23T07:18:25.000Z",
       "premarketData": {}
     }
   ],
@@ -3977,6 +4037,26 @@
   ],
   "Melon": [
     {
+      "gift_num": 8587,
+      "customEmojiId": "5400291242888160110",
+      "gift_id": 5482729,
+      "name": "Kissed Frog",
+      "model": "Melon (3%)",
+      "asset": "TON",
+      "symbol": "Rabbit (0.2%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 58.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-14T07:47:39.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 11574,
       "customEmojiId": "5400291242888160110",
       "gift_id": 7459803,
@@ -4546,26 +4626,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-27T08:32:53.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6810,
-      "customEmojiId": "5400291242888160110",
-      "gift_id": 1668401,
-      "name": "Kissed Frog",
-      "model": "Melon (3%)",
-      "asset": "TON",
-      "symbol": "Night Bats (1.2%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 353559,
-      "price": 250,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-03-26T01:58:41.000Z",
       "premarketData": {}
     }
   ],
@@ -5689,26 +5749,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 2653,
-      "customEmojiId": "5395471336099308503",
-      "gift_id": 7448060,
-      "name": "Kissed Frog",
-      "model": "Sky Leaper (4%)",
-      "asset": "TON",
-      "symbol": "Kitsune (0.2%)",
-      "backdrop": "Sapphire (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 70,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T11:44:53.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 7038,
       "customEmojiId": "5395471336099308503",
       "gift_id": 7390635,
@@ -6210,6 +6250,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-03-26T12:13:19.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 2750,
+      "customEmojiId": "5395471336099308503",
+      "gift_id": 4973216,
+      "name": "Kissed Frog",
+      "model": "Sky Leaper (4%)",
+      "asset": "TON",
+      "symbol": "Champagne (0.6%)",
+      "backdrop": "Azure Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 70,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-05-31T07:27:29.000Z",
       "premarketData": {}
     }
   ],
@@ -7296,6 +7356,26 @@
     }
   ],
   "Cupid": [
+    {
+      "gift_num": 8679,
+      "customEmojiId": "5411274247358143530",
+      "gift_id": 7379027,
+      "name": "Kissed Frog",
+      "model": "Cupid (1.5%)",
+      "asset": "TON",
+      "symbol": "Melon (0.6%)",
+      "backdrop": "Cappuccino (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 55,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T09:12:36.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 724,
       "customEmojiId": "5411274247358143530",
@@ -15770,6 +15850,24 @@
   ],
   "Duskhopper": [
     {
+      "gift_num": 9470,
+      "customEmojiId": "5400110858556693819",
+      "gift_id": 604430525516,
+      "name": "Kissed Frog",
+      "model": "Duskhopper (2.5%)",
+      "asset": "TON",
+      "symbol": "Sunflower (0.4%)",
+      "backdrop": "Electric Indigo (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 2528,
       "customEmojiId": "5400110858556693819",
       "gift_id": 603044365623,
@@ -18181,6 +18279,26 @@
   ],
   "Banana Pox": [
     {
+      "gift_num": 12231,
+      "customEmojiId": "5395561856830038316",
+      "gift_id": 7156262,
+      "name": "Kissed Frog",
+      "model": "Banana Pox (3%)",
+      "asset": "TON",
+      "symbol": "Toilet (0.2%)",
+      "backdrop": "Pine Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 70,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-25T13:25:51.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 8031,
       "customEmojiId": "5395561856830038316",
       "gift_id": 603304958898,
@@ -18740,26 +18858,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T07:30:41.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 9308,
-      "customEmojiId": "5395561856830038316",
-      "gift_id": 3141193,
-      "name": "Kissed Frog",
-      "model": "Banana Pox (3%)",
-      "asset": "TON",
-      "symbol": "Blood Drop (0.8%)",
-      "backdrop": "Cyberpunk (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 729323,
-      "price": 87,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-04-29T15:26:56.000Z",
       "premarketData": {}
     }
   ]
