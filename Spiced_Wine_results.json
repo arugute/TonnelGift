@@ -5883,6 +5883,26 @@
   ],
   "Blueberry": [
     {
+      "gift_num": 22644,
+      "customEmojiId": "5429336749501346193",
+      "gift_id": 7483961,
+      "name": "Spiced Wine",
+      "model": "Blueberry (1.3%)",
+      "asset": "TON",
+      "symbol": "Champagne (0.4%)",
+      "backdrop": "Cobalt Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.1,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T01:54:51.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 22445,
       "customEmojiId": "5429336749501346193",
       "gift_id": 7467681,
@@ -8714,6 +8734,96 @@
       "premarketData": {}
     },
     {
+      "gift_num": 66132,
+      "customEmojiId": "5429549814238966079",
+      "gift_id": 7469656,
+      "name": "Spiced Wine",
+      "model": "Desaturated (1.3%)",
+      "asset": "TON",
+      "symbol": "Flamingo (0.4%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 40.2,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "0XXIXO9R",
+      "auction": {
+        "_id": "688a126b54445e0f68bf0c1c",
+        "gift_id": 7469656,
+        "seller": 0,
+        "auction_id": "0XXIXO9R",
+        "startingBid": 30,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 30,
+            "asset": "TON",
+            "_id": "688a403b54445e0f6835351b",
+            "timestamp": "2025-07-30T15:54:35.071Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 31.5,
+            "asset": "TON",
+            "_id": "688a862f54445e0f68fe433a",
+            "timestamp": "2025-07-30T20:53:03.301Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 33.08,
+            "asset": "TON",
+            "_id": "688a866e54445e0f68fec59c",
+            "timestamp": "2025-07-30T20:54:06.701Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 34.73,
+            "asset": "TON",
+            "_id": "688a86bd54445e0f68ff5284",
+            "timestamp": "2025-07-30T20:55:25.692Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 36.47,
+            "asset": "TON",
+            "_id": "688aa43454445e0f6826f3db",
+            "timestamp": "2025-07-30T23:01:08.013Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 38.29,
+            "asset": "TON",
+            "_id": "688aa46154445e0f6827104c",
+            "timestamp": "2025-07-30T23:01:53.112Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 40.2,
+            "asset": "TON",
+            "_id": "688aa59954445e0f68282ea8",
+            "timestamp": "2025-07-30T23:07:05.966Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-31T00:39:04.241Z",
+        "status": "finished",
+        "gift_name": "Spiced Wine",
+        "gift_num": 66132,
+        "model": "Desaturated (1.3%)",
+        "backdrop": "Black (2%)",
+        "symbol": "Flamingo (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T12:39:07.271Z",
+        "__v": 0,
+        "winningBid": 40.2,
+        "winningBidder": 1004235745
+      },
+      "export_at": "2025-08-12T22:20:03.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 68673,
       "customEmojiId": "5429549814238966079",
       "gift_id": 7455099,
@@ -9214,26 +9324,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T14:56:48.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2773,
-      "customEmojiId": "5429549814238966079",
-      "gift_id": 5983151,
-      "name": "Spiced Wine",
-      "model": "Desaturated (1.3%)",
-      "asset": "TON",
-      "symbol": "Viking (0.5%)",
-      "backdrop": "Grape (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T14:34:02.000Z",
       "premarketData": {}
     }
   ],
@@ -17022,7 +17112,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2.61,
+      "price": 2.48,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -28423,26 +28513,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-29T05:51:05.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 31508,
-      "customEmojiId": "5429128310443499155",
-      "gift_id": 7467703,
-      "name": "Spiced Wine",
-      "model": "Magmarita (0.4%)",
-      "asset": "TON",
-      "symbol": "Plum (0.5%)",
-      "backdrop": "Sky Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-12T19:35:42.000Z",
       "premarketData": {}
     },
     {
@@ -43821,6 +43891,75 @@
       "premarketData": {}
     },
     {
+      "gift_num": 21293,
+      "customEmojiId": "5429328829581651325",
+      "gift_id": 7442584,
+      "name": "Spiced Wine",
+      "model": "Hot Cold (1.3%)",
+      "asset": "TON",
+      "symbol": "Ouroboros (0.4%)",
+      "backdrop": "Desert Sand (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.32,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "RD4LM7T9",
+      "auction": {
+        "_id": "688816f2450b5b469cdbd361",
+        "gift_id": 7442584,
+        "seller": 0,
+        "auction_id": "RD4LM7T9",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688a728f54445e0f68e3b650",
+            "timestamp": "2025-07-30T19:29:19.274Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688a845d54445e0f68f78b9b",
+            "timestamp": "2025-07-30T20:45:17.023Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "688a848054445e0f68f81ab1",
+            "timestamp": "2025-07-30T20:45:52.636Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "688abf3454445e0f6830d4d7",
+            "timestamp": "2025-07-31T00:56:20.258Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-31T01:41:08.866Z",
+        "status": "finished",
+        "gift_name": "Spiced Wine",
+        "gift_num": 21293,
+        "model": "Hot Cold (1.3%)",
+        "backdrop": "Desert Sand (1.5%)",
+        "symbol": "Ouroboros (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T01:41:11.850Z",
+        "__v": 0,
+        "winningBid": 2.32,
+        "winningBidder": 245631500
+      },
+      "export_at": "2025-08-11T00:56:38.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 40105,
       "customEmojiId": "5429328829581651325",
       "gift_id": 7431559,
@@ -44339,26 +44478,6 @@
       "auction": null,
       "export_at": "2025-06-21T12:11:12.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 34859,
-      "customEmojiId": "5429328829581651325",
-      "gift_id": 5977680,
-      "name": "Spiced Wine",
-      "model": "Hot Cold (1.3%)",
-      "asset": "TON",
-      "symbol": "Oak Leaf (0.3%)",
-      "backdrop": "Shamrock Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T14:07:50.000Z",
-      "premarketData": {}
     }
   ],
   "Chocolate Cherry": [
@@ -44724,6 +44843,26 @@
     }
   ],
   "Aquarium": [
+    {
+      "gift_num": 56630,
+      "customEmojiId": "5429425895842541010",
+      "gift_id": 7483997,
+      "name": "Spiced Wine",
+      "model": "Aquarium (0.8%)",
+      "asset": "TON",
+      "symbol": "Champagne (0.4%)",
+      "backdrop": "Light Olive (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T01:58:04.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 8522,
       "customEmojiId": "5429425895842541010",
@@ -47650,6 +47789,26 @@
   ],
   "Blew Bubble": [
     {
+      "gift_num": 6595,
+      "customEmojiId": "5429256583936761967",
+      "gift_id": 7428138,
+      "name": "Spiced Wine",
+      "model": "Blew Bubble (0.8%)",
+      "asset": "TON",
+      "symbol": "Lemon (0.3%)",
+      "backdrop": "Aquamarine (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T10:52:40.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 45315,
       "customEmojiId": "5429256583936761967",
       "gift_id": 7479800,
@@ -47827,26 +47986,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-09T23:01:39.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6595,
-      "customEmojiId": "5429256583936761967",
-      "gift_id": 7428138,
-      "name": "Spiced Wine",
-      "model": "Blew Bubble (0.8%)",
-      "asset": "TON",
-      "symbol": "Lemon (0.3%)",
-      "backdrop": "Aquamarine (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-10T10:52:40.000Z",
       "premarketData": {}
     },
     {
