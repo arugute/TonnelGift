@@ -603,6 +603,82 @@
   ],
   "Autumn": [
     {
+      "gift_num": 12322,
+      "customEmojiId": "5334862797727624913",
+      "gift_id": 7459419,
+      "name": "Snow Globe",
+      "model": "Autumn (1.5%)",
+      "asset": "TON",
+      "symbol": "Toilet (0.4%)",
+      "backdrop": "Old Gold (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.59,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "7Z66TKDS",
+      "auction": {
+        "_id": "68888008450b5b469c4be867",
+        "gift_id": 7459419,
+        "seller": 0,
+        "auction_id": "7Z66TKDS",
+        "startingBid": 2.88,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.88,
+            "asset": "TON",
+            "_id": "688b066f54445e0f68aa97da",
+            "timestamp": "2025-07-31T06:00:15.582Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.1,
+            "asset": "TON",
+            "_id": "688b07ff54445e0f68aab24a",
+            "timestamp": "2025-07-31T06:06:55.110Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.26,
+            "asset": "TON",
+            "_id": "688b080954445e0f68aab2ab",
+            "timestamp": "2025-07-31T06:07:05.738Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.42,
+            "asset": "TON",
+            "_id": "688b088b54445e0f68aad285",
+            "timestamp": "2025-07-31T06:09:15.187Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.59,
+            "asset": "TON",
+            "_id": "688b08f454445e0f68aaeb4d",
+            "timestamp": "2025-07-31T06:11:00.765Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-31T06:21:30.766Z",
+        "status": "finished",
+        "gift_name": "Snow Globe",
+        "gift_num": 12322,
+        "model": "Autumn (1.5%)",
+        "backdrop": "Old Gold (1.2%)",
+        "symbol": "Toilet (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-31T05:21:35.268Z",
+        "__v": 0,
+        "winningBid": 3.59,
+        "winningBidder": 1412062069
+      },
+      "export_at": "2025-08-12T08:00:49.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 19664,
       "customEmojiId": "5334862797727624913",
       "gift_id": 7407322,
@@ -1662,6 +1738,26 @@
     }
   ],
   "Party Cat": [
+    {
+      "gift_num": 38070,
+      "customEmojiId": "5334517825954405712",
+      "gift_id": 7486597,
+      "name": "Snow Globe",
+      "model": "Party Cat (1%)",
+      "asset": "TON",
+      "symbol": "Jingle Bell (1.8%)",
+      "backdrop": "Sky Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T06:46:22.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 29405,
       "customEmojiId": "5334517825954405712",
@@ -7801,6 +7897,26 @@
   ],
   "Ocean Oasis": [
     {
+      "gift_num": 30971,
+      "customEmojiId": "5336847484935234575",
+      "gift_id": 7381307,
+      "name": "Snow Globe",
+      "model": "Ocean Oasis (3%)",
+      "asset": "TON",
+      "symbol": "Pizza Slice (0.5%)",
+      "backdrop": "Rifle Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.39,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T12:12:31.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 18759,
       "customEmojiId": "5336847484935234575",
       "gift_id": 7477266,
@@ -7978,26 +8094,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-09T21:20:08.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 30971,
-      "customEmojiId": "5336847484935234575",
-      "gift_id": 7381307,
-      "name": "Snow Globe",
-      "model": "Ocean Oasis (3%)",
-      "asset": "TON",
-      "symbol": "Pizza Slice (0.5%)",
-      "backdrop": "Rifle Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T12:12:31.000Z",
       "premarketData": {}
     },
     {
@@ -16858,6 +16954,26 @@
   ],
   "House of Cards": [
     {
+      "gift_num": 34765,
+      "customEmojiId": "5334797290886424319",
+      "gift_id": 7486929,
+      "name": "Snow Globe",
+      "model": "House of Cards (1%)",
+      "asset": "TON",
+      "symbol": "Ornament (1.5%)",
+      "backdrop": "Satin Gold (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 25.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T07:03:32.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 37054,
       "customEmojiId": "5334797290886424319",
       "gift_id": 7424139,
@@ -21916,6 +22032,26 @@
   ],
   "Apocalypse": [
     {
+      "gift_num": 23161,
+      "customEmojiId": "5336976720501171302",
+      "gift_id": 7486057,
+      "name": "Snow Globe",
+      "model": "Apocalypse (2%)",
+      "asset": "TON",
+      "symbol": "Hot Drink (1.5%)",
+      "backdrop": "Cappuccino (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T06:12:41.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 34692,
       "customEmojiId": "5336976720501171302",
       "gift_id": 7341840,
@@ -22605,26 +22741,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T19:34:12.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 20282,
-      "customEmojiId": "5336976720501171302",
-      "gift_id": 5910275,
-      "name": "Snow Globe",
-      "model": "Apocalypse (2%)",
-      "asset": "TON",
-      "symbol": "Bowler Hat (0.4%)",
-      "backdrop": "Rosewood (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-22T23:30:09.000Z",
       "premarketData": {}
     }
   ],
@@ -28464,6 +28580,26 @@
   ],
   "Minehouse": [
     {
+      "gift_num": 35945,
+      "customEmojiId": "5337003057240635264",
+      "gift_id": 7218080,
+      "name": "Snow Globe",
+      "model": "Minehouse (1.5%)",
+      "asset": "TON",
+      "symbol": "Cow Skull (0.5%)",
+      "backdrop": "Mint Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-28T17:38:43.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 17870,
       "customEmojiId": "5337003057240635264",
       "gift_id": 7475020,
@@ -29118,26 +29254,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T11:00:34.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15162,
-      "customEmojiId": "5337003057240635264",
-      "gift_id": 6199706,
-      "name": "Snow Globe",
-      "model": "Minehouse (1.5%)",
-      "asset": "TON",
-      "symbol": "Candle (1.2%)",
-      "backdrop": "Pacific Cyan (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 22,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-25T03:28:23.000Z",
       "premarketData": {}
     }
   ],
