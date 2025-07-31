@@ -1530,6 +1530,26 @@
   ],
   "Pamplona": [
     {
+      "gift_num": 14786,
+      "customEmojiId": "5433858624214557424",
+      "gift_id": 7452655,
+      "name": "Skull Flower",
+      "model": "Pamplona (1%)",
+      "asset": "TON",
+      "symbol": "Loveberry (0.4%)",
+      "backdrop": "Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T17:15:04.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3565,
       "customEmojiId": "5433858624214557424",
       "gift_id": 6383678,
@@ -3302,6 +3322,26 @@
   ],
   "Wreath": [
     {
+      "gift_num": 2337,
+      "customEmojiId": "5411413004866576979",
+      "gift_id": 7368955,
+      "name": "Skull Flower",
+      "model": "Wreath (3%)",
+      "asset": "TON",
+      "symbol": "Amour Scoops (0.6%)",
+      "backdrop": "Chocolate (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.6,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T15:11:56.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 13755,
       "customEmojiId": "5411413004866576979",
       "gift_id": 7406475,
@@ -3419,26 +3459,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-11T07:45:02.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2337,
-      "customEmojiId": "5411413004866576979",
-      "gift_id": 7368955,
-      "name": "Skull Flower",
-      "model": "Wreath (3%)",
-      "asset": "TON",
-      "symbol": "Amour Scoops (0.6%)",
-      "backdrop": "Chocolate (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8.1,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-07T15:11:56.000Z",
       "premarketData": {}
     },
     {
@@ -14455,6 +14475,123 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-16T13:32:39.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 1747,
+      "customEmojiId": "5431637761050307864",
+      "gift_id": 7482280,
+      "name": "Skull Flower",
+      "model": "Cobweb (1%)",
+      "asset": "TON",
+      "symbol": "Ice Pop (0.4%)",
+      "backdrop": "Sky Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 9.45,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "TRAFK9JW",
+      "auction": {
+        "_id": "688a974554445e0f681cd83f",
+        "gift_id": 7482280,
+        "seller": 0,
+        "auction_id": "TRAFK9JW",
+        "startingBid": 5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5.3,
+            "asset": "TON",
+            "_id": "688a97a254445e0f681cf874",
+            "timestamp": "2025-07-30T22:07:30.638Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.08,
+            "asset": "TON",
+            "_id": "688a994254445e0f681d96b4",
+            "timestamp": "2025-07-30T22:14:26.815Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.38,
+            "asset": "TON",
+            "_id": "688a9ed654445e0f68220a2b",
+            "timestamp": "2025-07-30T22:38:14.118Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.7,
+            "asset": "TON",
+            "_id": "688aa06c54445e0f68231c1f",
+            "timestamp": "2025-07-30T22:45:00.094Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.04,
+            "asset": "TON",
+            "_id": "688aa10e54445e0f6823cc09",
+            "timestamp": "2025-07-30T22:47:42.384Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.39,
+            "asset": "TON",
+            "_id": "688aa16354445e0f6824135a",
+            "timestamp": "2025-07-30T22:49:07.403Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.76,
+            "asset": "TON",
+            "_id": "688aa49954445e0f68273650",
+            "timestamp": "2025-07-30T23:02:49.160Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.16,
+            "asset": "TON",
+            "_id": "688aa51154445e0f6827d212",
+            "timestamp": "2025-07-30T23:04:49.045Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.57,
+            "asset": "TON",
+            "_id": "688aa5c054445e0f68284844",
+            "timestamp": "2025-07-30T23:07:44.148Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9,
+            "asset": "TON",
+            "_id": "688aa7a254445e0f6829ee38",
+            "timestamp": "2025-07-30T23:15:46.066Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.45,
+            "asset": "TON",
+            "_id": "688aa97654445e0f682a888f",
+            "timestamp": "2025-07-30T23:23:34.801Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-30T23:35:55.592Z",
+        "status": "finished",
+        "gift_name": "Skull Flower",
+        "gift_num": 1747,
+        "model": "Cobweb (1%)",
+        "backdrop": "Sky Blue (1.5%)",
+        "symbol": "Ice Pop (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T22:05:57.457Z",
+        "__v": 0,
+        "winningBid": 9.45,
+        "winningBidder": 1411535728
+      },
+      "export_at": "2025-08-13T22:05:07.000Z",
       "premarketData": {}
     }
   ],
