@@ -805,6 +805,26 @@
   ],
   "Neon Club": [
     {
+      "gift_num": 1839,
+      "customEmojiId": "5431544869497627696",
+      "gift_id": 7365079,
+      "name": "Sharp Tongue",
+      "model": "Neon Club (1.5%)",
+      "asset": "TON",
+      "symbol": "Jaws (0.8%)",
+      "backdrop": "Dark Lilac (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 52,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T10:27:23.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5672,
       "customEmojiId": "5431544869497627696",
       "gift_id": 6688974,
@@ -882,26 +902,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-09T13:06:38.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1839,
-      "customEmojiId": "5431544869497627696",
-      "gift_id": 7365079,
-      "name": "Sharp Tongue",
-      "model": "Neon Club (1.5%)",
-      "asset": "TON",
-      "symbol": "Jaws (0.8%)",
-      "backdrop": "Dark Lilac (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 59,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-07T10:27:23.000Z",
       "premarketData": {}
     },
     {
@@ -3504,6 +3504,26 @@
     }
   ],
   "Punk Girl": [
+    {
+      "gift_num": 3005,
+      "customEmojiId": "5431662302493434267",
+      "gift_id": 7499847,
+      "name": "Sharp Tongue",
+      "model": "Punk Girl (1.5%)",
+      "asset": "TON",
+      "symbol": "Magic Wand (1%)",
+      "backdrop": "Malachite (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 40,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T10:26:45.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3546,
       "customEmojiId": "5431662302493434267",
@@ -6913,6 +6933,60 @@
       "auction": null,
       "export_at": "2025-07-15T15:08:30.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 3283,
+      "customEmojiId": "5409197355792623383",
+      "gift_id": 7473031,
+      "name": "Sharp Tongue",
+      "model": "Minimalipstick (2%)",
+      "asset": "TON",
+      "symbol": "Trophy (0.2%)",
+      "backdrop": "Chestnut (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 34.66,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "JARUKSKW",
+      "auction": {
+        "_id": "6889e68454445e0f68293cec",
+        "gift_id": 7473031,
+        "seller": 0,
+        "auction_id": "JARUKSKW",
+        "startingBid": 33.01,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 33.01,
+            "asset": "TON",
+            "_id": "688b379df250e6e56fa8080b",
+            "timestamp": "2025-07-31T09:30:05.236Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 34.66,
+            "asset": "TON",
+            "_id": "688b37ddf250e6e56fa8acd3",
+            "timestamp": "2025-07-31T09:31:09.648Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-31T09:41:46.751Z",
+        "status": "finished",
+        "gift_name": "Sharp Tongue",
+        "gift_num": 3283,
+        "model": "Minimalipstick (2%)",
+        "backdrop": "Chestnut (1.5%)",
+        "symbol": "Trophy (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T09:31:48.897Z",
+        "__v": 0,
+        "winningBid": 34.66,
+        "winningBidder": 6231008009
+      },
+      "export_at": "2025-08-13T09:31:05.000Z",
+      "premarketData": {}
     }
   ],
   "Vampire": [
@@ -8554,6 +8628,26 @@
   ],
   "Golden Girl": [
     {
+      "gift_num": 6190,
+      "customEmojiId": "5431693720179203380",
+      "gift_id": 7479187,
+      "name": "Sharp Tongue",
+      "model": "Golden Girl (2%)",
+      "asset": "TON",
+      "symbol": "Maple Leaf (0.2%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 45,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-13T18:28:54.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1404,
       "customEmojiId": "5431693720179203380",
       "gift_id": 7460296,
@@ -8571,26 +8665,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-12T09:24:48.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6190,
-      "customEmojiId": "5431693720179203380",
-      "gift_id": 7479187,
-      "name": "Sharp Tongue",
-      "model": "Golden Girl (2%)",
-      "asset": "TON",
-      "symbol": "Maple Leaf (0.2%)",
-      "backdrop": "Rosewood (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 61.4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-13T18:28:54.000Z",
       "premarketData": {}
     },
     {
@@ -9578,6 +9652,26 @@
   ],
   "Lizard": [
     {
+      "gift_num": 3273,
+      "customEmojiId": "5429649320041278274",
+      "gift_id": 7476453,
+      "name": "Sharp Tongue",
+      "model": "Lizard (2%)",
+      "asset": "TON",
+      "symbol": "Shiny Heart (0.6%)",
+      "backdrop": "Amber (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 30.35,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-13T14:31:59.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5048,
       "customEmojiId": "5429649320041278274",
       "gift_id": 6989931,
@@ -10418,7 +10512,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 60,
+      "price": 45,
       "status": "forsale",
       "limited": false,
       "auction": null,
