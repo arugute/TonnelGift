@@ -12985,6 +12985,74 @@
       "auction": null,
       "export_at": "2025-03-15T10:28:55.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 7418,
+      "customEmojiId": "5431600072712283970",
+      "gift_id": 7470421,
+      "name": "Signet Ring",
+      "model": "Saturn Ring (1%)",
+      "asset": "TON",
+      "symbol": "Moon (0.8%)",
+      "backdrop": "Indigo Dye (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 46.31,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "VBADB6HU",
+      "auction": {
+        "_id": "688962f854445e0f68f2fc41",
+        "gift_id": 7470421,
+        "seller": 0,
+        "auction_id": "VBADB6HU",
+        "startingBid": 40,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 40,
+            "asset": "TON",
+            "_id": "688ab20954445e0f682c08f2",
+            "timestamp": "2025-07-31T00:00:09.270Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 42,
+            "asset": "TON",
+            "_id": "688ab2a554445e0f682c6cdc",
+            "timestamp": "2025-07-31T00:02:45.465Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 44.1,
+            "asset": "TON",
+            "_id": "688ab32954445e0f682ccba1",
+            "timestamp": "2025-07-31T00:04:57.970Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 46.31,
+            "asset": "TON",
+            "_id": "688ab50b54445e0f682e2fd7",
+            "timestamp": "2025-07-31T00:12:59.992Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-31T01:00:59.427Z",
+        "status": "finished",
+        "gift_name": "Signet Ring",
+        "gift_num": 7418,
+        "model": "Saturn Ring (1%)",
+        "backdrop": "Indigo Dye (2%)",
+        "symbol": "Moon (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T22:01:00.010Z",
+        "__v": 0,
+        "winningBid": 46.31,
+        "winningBidder": 1217246987
+      },
+      "export_at": "2025-08-13T00:09:49.000Z",
+      "premarketData": {}
     }
   ],
   "Black Opal": [
