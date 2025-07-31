@@ -38321,6 +38321,26 @@
   ],
   "Lunaris": [
     {
+      "gift_num": 10782,
+      "customEmojiId": "5420366134778026706",
+      "gift_id": 7484271,
+      "name": "Sakura Flower",
+      "model": "Lunaris (1.5%)",
+      "asset": "TON",
+      "symbol": "Ball (0.5%)",
+      "backdrop": "French Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.6,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T02:55:18.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 39181,
       "customEmojiId": "5420366134778026706",
       "gift_id": 7465597,
@@ -38954,26 +38974,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-16T13:04:47.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 67089,
-      "customEmojiId": "5420366134778026706",
-      "gift_id": 1589895,
-      "name": "Sakura Flower",
-      "model": "Lunaris (1.5%)",
-      "asset": "TON",
-      "symbol": "Cavalier Hat (0.5%)",
-      "backdrop": "Old Gold (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 11,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-03-31T08:26:01.000Z",
       "premarketData": {}
     }
   ],
@@ -48627,6 +48627,54 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-13T21:10:51.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 56419,
+      "customEmojiId": "5307521615741872806",
+      "gift_id": 7480764,
+      "name": "Sakura Flower",
+      "model": "Venus Flytrap (0.4%)",
+      "asset": "TON",
+      "symbol": "Shark Knife (0.5%)",
+      "backdrop": "Indigo Dye (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ZAO5LWL0",
+      "auction": {
+        "_id": "688a817154445e0f68f5d10f",
+        "gift_id": 7480764,
+        "seller": 0,
+        "auction_id": "ZAO5LWL0",
+        "startingBid": 8,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 8,
+            "asset": "TON",
+            "_id": "688ad44b54445e0f6833f10c",
+            "timestamp": "2025-07-31T02:26:19.305Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-31T02:42:47.080Z",
+        "status": "finished",
+        "gift_name": "Sakura Flower",
+        "gift_num": 56419,
+        "model": "Venus Flytrap (0.4%)",
+        "backdrop": "Indigo Dye (1.5%)",
+        "symbol": "Shark Knife (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T20:32:49.080Z",
+        "__v": 0,
+        "winningBid": 8,
+        "winningBidder": 5061839298
+      },
+      "export_at": "2025-08-13T20:28:14.000Z",
       "premarketData": {}
     },
     {
