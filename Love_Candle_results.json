@@ -13802,6 +13802,81 @@
       "premarketData": {}
     },
     {
+      "gift_num": 15831,
+      "customEmojiId": "5406933585905081805",
+      "gift_id": 7483018,
+      "name": "Love Candle",
+      "model": "Peach Perfume (3%)",
+      "asset": "TON",
+      "symbol": "Mask (1%)",
+      "backdrop": "Midnight Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 7.7,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "99Q6UGZS",
+      "auction": {
+        "_id": "688aa48254445e0f682727cc",
+        "gift_id": 7483018,
+        "seller": 0,
+        "auction_id": "99Q6UGZS",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688b1b1154445e0f68c1f232",
+            "timestamp": "2025-07-31T07:28:17.288Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688b30449aae995539465c81",
+            "timestamp": "2025-07-31T08:58:44.990Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.2,
+            "asset": "TON",
+            "_id": "688bb35bf250e6e56f99b83f",
+            "timestamp": "2025-07-31T18:18:03.070Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.2,
+            "asset": "TON",
+            "_id": "688bd441f250e6e56f601134",
+            "timestamp": "2025-07-31T20:38:25.749Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.7,
+            "asset": "TON",
+            "_id": "688bf205f250e6e56f076828",
+            "timestamp": "2025-07-31T22:45:25.145Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-31T23:02:25.035Z",
+        "status": "finished",
+        "gift_name": "Love Candle",
+        "gift_num": 15831,
+        "model": "Peach Perfume (3%)",
+        "backdrop": "Midnight Blue (1%)",
+        "symbol": "Mask (1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T23:02:26.404Z",
+        "__v": 0,
+        "winningBid": 7.7,
+        "winningBidder": 1615173680
+      },
+      "export_at": "2025-08-13T23:01:31.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6797,
       "customEmojiId": "5406933585905081805",
       "gift_id": 7422567,
@@ -17437,26 +17512,6 @@
   ],
   "Cyberpunk": [
     {
-      "gift_num": 1027,
-      "customEmojiId": "5204379518021689308",
-      "gift_id": 7412226,
-      "name": "Love Candle",
-      "model": "Cyberpunk (0.5%)",
-      "asset": "TON",
-      "symbol": "Eggplant (0.6%)",
-      "backdrop": "Pure Gold (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 13.85,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T16:24:23.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 11938,
       "customEmojiId": "5204379518021689308",
       "gift_id": 7339555,
@@ -17763,6 +17818,26 @@
     }
   ],
   "Waikiki": [
+    {
+      "gift_num": 14570,
+      "customEmojiId": "5215444934324150008",
+      "gift_id": 7323174,
+      "name": "Love Candle",
+      "model": "Waikiki (0.5%)",
+      "asset": "TON",
+      "symbol": "Flipper (0.5%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 934789,
+      "price": 190,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T10:07:33.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 7453,
       "customEmojiId": "5215444934324150008",
