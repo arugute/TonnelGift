@@ -14298,6 +14298,110 @@
       "premarketData": {}
     },
     {
+      "gift_num": 10057,
+      "customEmojiId": "5431637761050307864",
+      "gift_id": 7381791,
+      "name": "Skull Flower",
+      "model": "Cobweb (1%)",
+      "asset": "TON",
+      "symbol": "Love Lock (0.6%)",
+      "backdrop": "Pacific Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.39,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "EDZWHT0Q",
+      "auction": {
+        "_id": "68837d61aace4cd2f6aaa15d",
+        "gift_id": 7381791,
+        "seller": 0,
+        "auction_id": "EDZWHT0Q",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "688ac0a954445e0f6831ce41",
+            "timestamp": "2025-07-31T01:02:33.099Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "688ac2dd54445e0f68321197",
+            "timestamp": "2025-07-31T01:11:57.534Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.51,
+            "asset": "TON",
+            "_id": "688ac6a154445e0f6832632e",
+            "timestamp": "2025-07-31T01:28:01.749Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.79,
+            "asset": "TON",
+            "_id": "688acb0a54445e0f6832dda6",
+            "timestamp": "2025-07-31T01:46:50.932Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.08,
+            "asset": "TON",
+            "_id": "688acb2654445e0f6832de27",
+            "timestamp": "2025-07-31T01:47:18.571Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.38,
+            "asset": "TON",
+            "_id": "688acd0f54445e0f68332934",
+            "timestamp": "2025-07-31T01:55:27.819Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.7,
+            "asset": "TON",
+            "_id": "688acf8a54445e0f683350a9",
+            "timestamp": "2025-07-31T02:06:02.112Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.04,
+            "asset": "TON",
+            "_id": "688ad07054445e0f68335f91",
+            "timestamp": "2025-07-31T02:09:52.294Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.39,
+            "asset": "TON",
+            "_id": "688ad10654445e0f683361ae",
+            "timestamp": "2025-07-31T02:12:22.678Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-31T02:31:42.154Z",
+        "status": "finished",
+        "gift_name": "Skull Flower",
+        "gift_num": 10057,
+        "model": "Cobweb (1%)",
+        "backdrop": "Pacific Green (1%)",
+        "symbol": "Love Lock (0.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-31T01:01:44.777Z",
+        "__v": 0,
+        "winningBid": 7.39,
+        "winningBidder": 1629189191
+      },
+      "export_at": "2025-08-08T12:46:18.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12691,
       "customEmojiId": "5431637761050307864",
       "gift_id": 6821199,
@@ -15739,26 +15843,6 @@
   ],
   "Sunburst": [
     {
-      "gift_num": 1118,
-      "customEmojiId": "5411354511706974413",
-      "gift_id": 7483921,
-      "name": "Skull Flower",
-      "model": "Sunburst (3%)",
-      "asset": "TON",
-      "symbol": "Pearl (0.6%)",
-      "backdrop": "Onyx Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-14T01:44:41.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 13171,
       "customEmojiId": "5411354511706974413",
       "gift_id": 6611854,
@@ -16378,6 +16462,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-01T19:27:13.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 14331,
+      "customEmojiId": "5411354511706974413",
+      "gift_id": 2943086,
+      "name": "Skull Flower",
+      "model": "Sunburst (3%)",
+      "asset": "TON",
+      "symbol": "Heart (0.4%)",
+      "backdrop": "Pistachio (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 441244,
+      "price": 1570,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-04-25T06:02:32.000Z",
       "premarketData": {}
     }
   ],
@@ -17356,6 +17460,26 @@
     }
   ],
   "Joyful Duck": [
+    {
+      "gift_num": 19477,
+      "customEmojiId": "5433828181486362172",
+      "gift_id": 7484293,
+      "name": "Skull Flower",
+      "model": "Joyful Duck (1.5%)",
+      "asset": "TON",
+      "symbol": "Apple (0.4%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 130,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T02:58:45.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 6044,
       "customEmojiId": "5433828181486362172",
@@ -20902,6 +21026,26 @@
   ],
   "Neon Green": [
     {
+      "gift_num": 8500,
+      "customEmojiId": "5413409455989613521",
+      "gift_id": 7484315,
+      "name": "Skull Flower",
+      "model": "Neon Green (2%)",
+      "asset": "TON",
+      "symbol": "Lips (0.4%)",
+      "backdrop": "Emerald (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T03:02:02.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 10986,
       "customEmojiId": "5413409455989613521",
       "gift_id": 7465755,
@@ -21549,60 +21693,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-06T15:00:26.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 18531,
-      "customEmojiId": "5413409455989613521",
-      "gift_id": 7351950,
-      "name": "Skull Flower",
-      "model": "Neon Green (2%)",
-      "asset": "TON",
-      "symbol": "Dessert (0.4%)",
-      "backdrop": "Jade Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 7.35,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "TUF4VTFP",
-      "auction": {
-        "_id": "6880de96aace4cd2f62e1793",
-        "gift_id": 7351950,
-        "seller": 0,
-        "auction_id": "TUF4VTFP",
-        "startingBid": 7,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 7,
-            "asset": "TON",
-            "_id": "6880e666aace4cd2f634902d",
-            "timestamp": "2025-07-23T13:40:54.190Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 7.35,
-            "asset": "TON",
-            "_id": "6880ebe8aace4cd2f637ff45",
-            "timestamp": "2025-07-23T14:04:24.418Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-23T14:17:33.360Z",
-        "status": "finished",
-        "gift_name": "Skull Flower",
-        "gift_num": 18531,
-        "model": "Neon Green (2%)",
-        "backdrop": "Jade Green (2%)",
-        "symbol": "Dessert (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-23T13:07:34.330Z",
-        "__v": 0,
-        "winningBid": 7.35,
-        "winningBidder": 7913679325
-      },
-      "export_at": "2025-08-06T13:05:20.000Z",
       "premarketData": {}
     }
   ]
