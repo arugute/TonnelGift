@@ -2916,6 +2916,88 @@
       "auction": null,
       "export_at": "2025-06-24T02:30:58.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 4537,
+      "customEmojiId": "5395582820565409693",
+      "gift_id": 7473559,
+      "name": "Love Candle",
+      "model": "Porcelain (3%)",
+      "asset": "TON",
+      "symbol": "Bell Pepper (0.5%)",
+      "backdrop": "Battleship Grey (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.95,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "3OO0PCY0",
+      "auction": {
+        "_id": "6889f01254445e0f6842483e",
+        "gift_id": 7473559,
+        "seller": 0,
+        "auction_id": "3OO0PCY0",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688a00d054445e0f687af70c",
+            "timestamp": "2025-07-30T11:24:00.720Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.5,
+            "asset": "TON",
+            "_id": "688a3c3e54445e0f6832d819",
+            "timestamp": "2025-07-30T15:37:34.078Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6,
+            "asset": "TON",
+            "_id": "688b4174f250e6e56fb210d7",
+            "timestamp": "2025-07-31T10:12:04.385Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.3,
+            "asset": "TON",
+            "_id": "688b4286f250e6e56fb28db7",
+            "timestamp": "2025-07-31T10:16:38.665Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.62,
+            "asset": "TON",
+            "_id": "688b4c87f250e6e56fb71f6c",
+            "timestamp": "2025-07-31T10:59:19.984Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.95,
+            "asset": "TON",
+            "_id": "688b5168f250e6e56fbcfb3c",
+            "timestamp": "2025-07-31T11:20:08.582Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-31T11:31:38.136Z",
+        "status": "finished",
+        "gift_name": "Love Candle",
+        "gift_num": 4537,
+        "model": "Porcelain (3%)",
+        "backdrop": "Battleship Grey (1%)",
+        "symbol": "Bell Pepper (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T11:21:39.810Z",
+        "__v": 0,
+        "winningBid": 6.95,
+        "winningBidder": 1316152640
+      },
+      "export_at": "2025-08-13T10:11:59.000Z",
+      "premarketData": {}
     }
   ],
   "Passion": [
@@ -4638,7 +4720,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 8.4,
+      "price": 7.98,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -7408,6 +7490,26 @@
   ],
   "White Wax": [
     {
+      "gift_num": 16325,
+      "customEmojiId": "5442920683086569143",
+      "gift_id": 6758705,
+      "name": "Love Candle",
+      "model": "White Wax (2%)",
+      "asset": "TON",
+      "symbol": "Tribal Shield (0.5%)",
+      "backdrop": "Burgundy (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-09T18:04:13.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 14743,
       "customEmojiId": "5442920683086569143",
       "gift_id": 6503661,
@@ -7425,26 +7527,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T18:25:57.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16325,
-      "customEmojiId": "5442920683086569143",
-      "gift_id": 6758705,
-      "name": "Love Candle",
-      "model": "White Wax (2%)",
-      "asset": "TON",
-      "symbol": "Tribal Shield (0.5%)",
-      "backdrop": "Burgundy (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-09T18:04:13.000Z",
       "premarketData": {}
     },
     {
@@ -14193,6 +14275,26 @@
   ],
   "Phantom": [
     {
+      "gift_num": 17641,
+      "customEmojiId": "5204162785382001796",
+      "gift_id": 7228723,
+      "name": "Love Candle",
+      "model": "Phantom (0.5%)",
+      "asset": "TON",
+      "symbol": "Watermelon (1%)",
+      "backdrop": "Pure Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 30,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T10:52:29.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5245,
       "customEmojiId": "5204162785382001796",
       "gift_id": 4350753,
@@ -15234,6 +15336,26 @@
     }
   ],
   "Serenity": [
+    {
+      "gift_num": 6837,
+      "customEmojiId": "5404473922559172311",
+      "gift_id": 7197070,
+      "name": "Love Candle",
+      "model": "Serenity (3%)",
+      "asset": "TON",
+      "symbol": "Bell Pepper (0.5%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T15:23:07.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 18222,
       "customEmojiId": "5404473922559172311",
@@ -16690,6 +16812,26 @@
     }
   ],
   "Afterglow": [
+    {
+      "gift_num": 17185,
+      "customEmojiId": "5411174509627596173",
+      "gift_id": 7518011,
+      "name": "Love Candle",
+      "model": "Afterglow (3%)",
+      "asset": "TON",
+      "symbol": "Cherry (0.4%)",
+      "backdrop": "Hunter Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8.6,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T12:35:09.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 9169,
       "customEmojiId": "5411174509627596173",
