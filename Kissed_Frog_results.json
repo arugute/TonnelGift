@@ -1981,6 +1981,26 @@
   ],
   "Toadstool": [
     {
+      "gift_num": 3014,
+      "customEmojiId": "5411466520159084129",
+      "gift_id": 6481355,
+      "name": "Kissed Frog",
+      "model": "Toadstool (1.5%)",
+      "asset": "TON",
+      "symbol": "Hammerhead (0.2%)",
+      "backdrop": "Indigo Dye (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 53,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-30T10:34:24.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4983,
       "customEmojiId": "5411466520159084129",
       "gift_id": 7422199,
@@ -1998,26 +2018,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-10T01:26:19.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3014,
-      "customEmojiId": "5411466520159084129",
-      "gift_id": 6481355,
-      "name": "Kissed Frog",
-      "model": "Toadstool (1.5%)",
-      "asset": "TON",
-      "symbol": "Hammerhead (0.2%)",
-      "backdrop": "Indigo Dye (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 55,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-30T10:34:24.000Z",
       "premarketData": {}
     },
     {
@@ -2354,6 +2354,61 @@
     }
   ],
   "Toadberry": [
+    {
+      "gift_num": 10233,
+      "customEmojiId": "5395719056928040777",
+      "gift_id": 7487742,
+      "name": "Kissed Frog",
+      "model": "Toadberry (4%)",
+      "asset": "TON",
+      "symbol": "Autumn Leaves (0.8%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 105,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "QI8PBA0L",
+      "auction": {
+        "_id": "688b1dd754445e0f68c4d88a",
+        "gift_id": 7487742,
+        "seller": 0,
+        "auction_id": "QI8PBA0L",
+        "startingBid": 100,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 100,
+            "asset": "TON",
+            "_id": "688b292454445e0f68201655",
+            "timestamp": "2025-07-31T08:28:20.003Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 105,
+            "asset": "TON",
+            "_id": "688b2a5c54445e0f68269801",
+            "timestamp": "2025-07-31T08:33:32.699Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-31T08:50:05.800Z",
+        "status": "finished",
+        "gift_name": "Kissed Frog",
+        "gift_num": 10233,
+        "model": "Toadberry (4%)",
+        "backdrop": "Black (2%)",
+        "symbol": "Autumn Leaves (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-31T07:40:07.002Z",
+        "__v": 0,
+        "winningBid": 105,
+        "winningBidder": 7391870586
+      },
+      "export_at": "2025-08-14T07:37:47.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 120,
       "customEmojiId": "5395719056928040777",
@@ -2910,26 +2965,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T07:13:55.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6743,
-      "customEmojiId": "5395719056928040777",
-      "gift_id": 5922712,
-      "name": "Kissed Frog",
-      "model": "Toadberry (4%)",
-      "asset": "TON",
-      "symbol": "Treats (1%)",
-      "backdrop": "Lavender (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T07:17:36.000Z",
       "premarketData": {}
     }
   ],
@@ -4621,6 +4656,26 @@
   ],
   "Poison": [
     {
+      "gift_num": 1774,
+      "customEmojiId": "5399988280190068467",
+      "gift_id": 6461219,
+      "name": "Kissed Frog",
+      "model": "Poison (2.5%)",
+      "asset": "TON",
+      "symbol": "Cicada (0.2%)",
+      "backdrop": "Silver Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-29T20:35:53.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 9041,
       "customEmojiId": "5399988280190068467",
       "gift_id": 7455788,
@@ -4792,26 +4847,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-28T11:30:01.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1774,
-      "customEmojiId": "5399988280190068467",
-      "gift_id": 6461219,
-      "name": "Kissed Frog",
-      "model": "Poison (2.5%)",
-      "asset": "TON",
-      "symbol": "Cicada (0.2%)",
-      "backdrop": "Silver Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 75,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-29T20:35:53.000Z",
       "premarketData": {}
     },
     {
@@ -5063,6 +5098,24 @@
     }
   ],
   "Minty Bloom": [
+    {
+      "gift_num": 2796,
+      "customEmojiId": "5400148211887269564",
+      "gift_id": 603040267795,
+      "name": "Kissed Frog",
+      "model": "Minty Bloom (2.5%)",
+      "asset": "TON",
+      "symbol": "Vortex (0.2%)",
+      "backdrop": "Light Olive (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 367.196,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 711,
       "customEmojiId": "5400148211887269564",
@@ -5740,7 +5793,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 29.2,
+      "price": 29,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -6907,6 +6960,26 @@
     }
   ],
   "Desert Frog": [
+    {
+      "gift_num": 10357,
+      "customEmojiId": "5409289770603929958",
+      "gift_id": 7490670,
+      "name": "Kissed Frog",
+      "model": "Desert Frog (1.5%)",
+      "asset": "TON",
+      "symbol": "Chocolate (0.6%)",
+      "backdrop": "Mint Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 53.77,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T08:42:44.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 13878,
       "customEmojiId": "5409289770603929958",
