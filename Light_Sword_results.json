@@ -1359,23 +1359,23 @@
   ],
   "The Tempest": [
     {
-      "gift_num": 100932,
+      "gift_num": 97273,
       "customEmojiId": "5449631646795983100",
-      "gift_id": 7279128,
+      "gift_id": 6805073,
       "name": "Light Sword",
       "model": "The Tempest (1%)",
       "asset": "TON",
-      "symbol": "Mountain Goat (0.4%)",
-      "backdrop": "Amber (1.5%)",
+      "symbol": "Hard Hat (0.5%)",
+      "backdrop": "Cyberpunk (1%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 5.7,
+      "price": 15,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-08-01T09:46:40.000Z",
+      "export_at": "2025-07-11T17:15:42.000Z",
       "premarketData": {}
     },
     {
@@ -5201,6 +5201,26 @@
   ],
   "Valhalla": [
     {
+      "gift_num": 35856,
+      "customEmojiId": "5449881845820845745",
+      "gift_id": 7484153,
+      "name": "Light Sword",
+      "model": "Valhalla (3%)",
+      "asset": "TON",
+      "symbol": "Twin Koi (0.5%)",
+      "backdrop": "Gunship Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T02:32:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 87396,
       "customEmojiId": "5449881845820845745",
       "gift_id": 7479089,
@@ -5884,29 +5904,29 @@
       "auction": null,
       "export_at": "2025-08-10T12:26:35.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Hyperdrive": [
     {
-      "gift_num": 12740,
-      "customEmojiId": "5449881845820845745",
-      "gift_id": 6264264,
+      "gift_num": 108654,
+      "customEmojiId": "5449486726009482945",
+      "gift_id": 7483948,
       "name": "Light Sword",
-      "model": "Valhalla (3%)",
+      "model": "Hyperdrive (3%)",
       "asset": "TON",
-      "symbol": "Wontons (0.5%)",
-      "backdrop": "Copper (1.2%)",
+      "symbol": "Pearl (0.5%)",
+      "backdrop": "Light Olive (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.5,
+      "price": 3,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-06-25T22:49:23.000Z",
+      "export_at": "2025-08-14T01:52:22.000Z",
       "premarketData": {}
-    }
-  ],
-  "Hyperdrive": [
+    },
     {
       "gift_num": 16448,
       "customEmojiId": "5449486726009482945",
@@ -6485,26 +6505,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T08:36:49.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 72627,
-      "customEmojiId": "5449486726009482945",
-      "gift_id": 7412505,
-      "name": "Light Sword",
-      "model": "Hyperdrive (3%)",
-      "asset": "TON",
-      "symbol": "Horned Helm (0.5%)",
-      "backdrop": "Caramel (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T16:34:52.000Z",
       "premarketData": {}
     }
   ],
@@ -16931,6 +16931,103 @@
       "premarketData": {}
     },
     {
+      "gift_num": 102811,
+      "customEmojiId": "5449758567374547220",
+      "gift_id": 6874985,
+      "name": "Light Sword",
+      "model": "Eva Unit-01 (0.5%)",
+      "asset": "TON",
+      "symbol": "Tricorne (0.4%)",
+      "backdrop": "Fandango (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.04,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "SX5RMOD4",
+      "auction": {
+        "_id": "688a383954445e0f682edd4f",
+        "gift_id": 6874985,
+        "seller": 0,
+        "auction_id": "SX5RMOD4",
+        "startingBid": 5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "688ab83554445e0f682ede5c",
+            "timestamp": "2025-07-31T00:26:29.464Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "688ac1a954445e0f6831f73f",
+            "timestamp": "2025-07-31T01:06:49.307Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.51,
+            "asset": "TON",
+            "_id": "688ac57b54445e0f683249c5",
+            "timestamp": "2025-07-31T01:23:07.691Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.79,
+            "asset": "TON",
+            "_id": "688ac5d454445e0f683257ac",
+            "timestamp": "2025-07-31T01:24:36.989Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.08,
+            "asset": "TON",
+            "_id": "688ac67a54445e0f68326297",
+            "timestamp": "2025-07-31T01:27:22.610Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.38,
+            "asset": "TON",
+            "_id": "688ac69954445e0f68326310",
+            "timestamp": "2025-07-31T01:27:53.655Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.7,
+            "asset": "TON",
+            "_id": "688ac73254445e0f683267e1",
+            "timestamp": "2025-07-31T01:30:26.173Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.04,
+            "asset": "TON",
+            "_id": "688ac76354445e0f683273f7",
+            "timestamp": "2025-07-31T01:31:15.609Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-31T01:48:08.771Z",
+        "status": "finished",
+        "gift_name": "Light Sword",
+        "gift_num": 102811,
+        "model": "Eva Unit-01 (0.5%)",
+        "backdrop": "Fandango (1.2%)",
+        "symbol": "Tricorne (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-30T19:38:10.445Z",
+        "__v": 0,
+        "winningBid": 7.04,
+        "winningBidder": 1782024271
+      },
+      "export_at": "2025-07-14T17:35:01.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 112483,
       "customEmojiId": "5449758567374547220",
       "gift_id": 7366120,
@@ -17329,29 +17426,29 @@
       "auction": null,
       "export_at": "2025-07-19T16:38:20.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Doom Slayer": [
     {
-      "gift_num": 82580,
-      "customEmojiId": "5449758567374547220",
-      "gift_id": 7112143,
+      "gift_num": 71341,
+      "customEmojiId": "5449841584797413927",
+      "gift_id": 7339983,
       "name": "Light Sword",
-      "model": "Eva Unit-01 (0.5%)",
+      "model": "Doom Slayer (0.5%)",
       "asset": "TON",
-      "symbol": "Blood Drop (0.3%)",
-      "backdrop": "Aquamarine (1.2%)",
+      "symbol": "Greek Helmet (0.3%)",
+      "backdrop": "Ivory White (1.2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 14,
+      "price": 21,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-07-23T19:56:31.000Z",
+      "export_at": "2025-08-05T16:04:40.000Z",
       "premarketData": {}
-    }
-  ],
-  "Doom Slayer": [
+    },
     {
       "gift_num": 38907,
       "customEmojiId": "5449841584797413927",
@@ -17570,26 +17667,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T16:55:53.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 71341,
-      "customEmojiId": "5449841584797413927",
-      "gift_id": 7339983,
-      "name": "Light Sword",
-      "model": "Doom Slayer (0.5%)",
-      "asset": "TON",
-      "symbol": "Greek Helmet (0.3%)",
-      "backdrop": "Ivory White (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T16:04:40.000Z",
       "premarketData": {}
     },
     {
@@ -24277,6 +24354,26 @@
   ],
   "Jedi Princess": [
     {
+      "gift_num": 91108,
+      "customEmojiId": "5449460711392571960",
+      "gift_id": 6453365,
+      "name": "Light Sword",
+      "model": "Jedi Princess (3%)",
+      "asset": "TON",
+      "symbol": "Ushanka (0.5%)",
+      "backdrop": "Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 31,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-29T17:45:57.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 21394,
       "customEmojiId": "5449460711392571960",
       "gift_id": 7483458,
@@ -24854,26 +24951,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-09T16:55:17.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 18762,
-      "customEmojiId": "5449460711392571960",
-      "gift_id": 7426766,
-      "name": "Light Sword",
-      "model": "Jedi Princess (3%)",
-      "asset": "TON",
-      "symbol": "Moon Cross (0.5%)",
-      "backdrop": "Seal Brown (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.92,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-10T09:38:31.000Z",
       "premarketData": {}
     }
   ],
@@ -26154,6 +26231,26 @@
   ],
   "Sensei": [
     {
+      "gift_num": 39223,
+      "customEmojiId": "5447273129929895043",
+      "gift_id": 6193079,
+      "name": "Light Sword",
+      "model": "Sensei (3%)",
+      "asset": "TON",
+      "symbol": "Bone (0.5%)",
+      "backdrop": "Camo Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.93,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-24T23:20:50.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 43980,
       "customEmojiId": "5447273129929895043",
       "gift_id": 7483099,
@@ -26731,96 +26828,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-30T14:28:43.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 36652,
-      "customEmojiId": "5447273129929895043",
-      "gift_id": 7405463,
-      "name": "Light Sword",
-      "model": "Sensei (3%)",
-      "asset": "TON",
-      "symbol": "Smartphone (0.2%)",
-      "backdrop": "Navy Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.02,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "SJGHLX4Q",
-      "auction": {
-        "_id": "68861e8e450b5b469cbc7366",
-        "gift_id": 7405463,
-        "seller": 0,
-        "auction_id": "SJGHLX4Q",
-        "startingBid": 3,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 3,
-            "asset": "TON",
-            "_id": "688629e0450b5b469ccd8647",
-            "timestamp": "2025-07-27T13:30:08.213Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.15,
-            "asset": "TON",
-            "_id": "68862ad4450b5b469ccde3cb",
-            "timestamp": "2025-07-27T13:34:12.626Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.31,
-            "asset": "TON",
-            "_id": "68862eba450b5b469cd037b6",
-            "timestamp": "2025-07-27T13:50:50.044Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.48,
-            "asset": "TON",
-            "_id": "6886313a450b5b469cd1132d",
-            "timestamp": "2025-07-27T14:01:30.846Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.651,
-            "asset": "TON",
-            "_id": "68863156450b5b469cd11536",
-            "timestamp": "2025-07-27T14:01:58.253Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.83,
-            "asset": "TON",
-            "_id": "68863506450b5b469cd217b5",
-            "timestamp": "2025-07-27T14:17:42.073Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.02,
-            "asset": "TON",
-            "_id": "68863805450b5b469cd31af5",
-            "timestamp": "2025-07-27T14:30:29.396Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-27T14:41:50.089Z",
-        "status": "finished",
-        "gift_name": "Light Sword",
-        "gift_num": 36652,
-        "model": "Sensei (3%)",
-        "backdrop": "Navy Blue (1.2%)",
-        "symbol": "Smartphone (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-27T12:41:50.809Z",
-        "__v": 0,
-        "winningBid": 4.02,
-        "winningBidder": 533769176
-      },
-      "export_at": "2025-08-09T13:33:29.000Z",
       "premarketData": {}
     }
   ],
@@ -28660,6 +28667,26 @@
   ],
   "Quasar": [
     {
+      "gift_num": 41496,
+      "customEmojiId": "5449717589091579466",
+      "gift_id": 7477350,
+      "name": "Light Sword",
+      "model": "Quasar (3%)",
+      "asset": "TON",
+      "symbol": "Radar (0.5%)",
+      "backdrop": "Fire Engine (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-13T15:57:50.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 16205,
       "customEmojiId": "5449717589091579466",
       "gift_id": 6158626,
@@ -28677,26 +28704,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T17:01:42.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 41496,
-      "customEmojiId": "5449717589091579466",
-      "gift_id": 7477350,
-      "name": "Light Sword",
-      "model": "Quasar (3%)",
-      "asset": "TON",
-      "symbol": "Radar (0.5%)",
-      "backdrop": "Fire Engine (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-13T15:57:50.000Z",
       "premarketData": {}
     },
     {
@@ -29262,6 +29269,26 @@
   ],
   "Gaslight": [
     {
+      "gift_num": 11752,
+      "customEmojiId": "5449754916652348061",
+      "gift_id": 7423517,
+      "name": "Light Sword",
+      "model": "Gaslight (3%)",
+      "asset": "TON",
+      "symbol": "Owl (0.3%)",
+      "backdrop": "Malachite (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T05:27:04.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 33582,
       "customEmojiId": "5449754916652348061",
       "gift_id": 6362191,
@@ -29359,26 +29386,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-06T17:36:28.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11752,
-      "customEmojiId": "5449754916652348061",
-      "gift_id": 7423517,
-      "name": "Light Sword",
-      "model": "Gaslight (3%)",
-      "asset": "TON",
-      "symbol": "Owl (0.3%)",
-      "backdrop": "Malachite (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-10T05:27:04.000Z",
       "premarketData": {}
     },
     {
