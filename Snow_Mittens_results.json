@@ -1117,6 +1117,26 @@
   ],
   "Mistletoe": [
     {
+      "gift_num": 4296,
+      "customEmojiId": "5228762000116440005",
+      "gift_id": 7619981,
+      "name": "Snow Mittens",
+      "model": "Mistletoe (1.3%)",
+      "asset": "TON",
+      "symbol": "Monstera (0.2%)",
+      "backdrop": "Midnight Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T13:08:31.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 26245,
       "customEmojiId": "5228762000116440005",
       "gift_id": 7472652,
@@ -5728,26 +5748,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 1407,
-      "customEmojiId": "5228749926963373707",
-      "gift_id": 7353916,
-      "name": "Snow Mittens",
-      "model": "Woodman (0.8%)",
-      "asset": "TON",
-      "symbol": "Bowtie (2.4%)",
-      "backdrop": "Indigo Dye (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T15:28:02.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 13471,
       "customEmojiId": "5228749926963373707",
       "gift_id": 5852402,
@@ -7928,6 +7928,26 @@
     }
   ],
   "Arborist": [
+    {
+      "gift_num": 30,
+      "customEmojiId": "5229180196787087040",
+      "gift_id": 7621439,
+      "name": "Snow Mittens",
+      "model": "Arborist (0.8%)",
+      "asset": "TON",
+      "symbol": "Magic Wand (2%)",
+      "backdrop": "Battleship Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T13:42:34.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 10529,
       "customEmojiId": "5229180196787087040",
@@ -11822,6 +11842,61 @@
   ],
   "Dinosaurs": [
     {
+      "gift_num": 20183,
+      "customEmojiId": "5226542000240619683",
+      "gift_id": 7611180,
+      "name": "Snow Mittens",
+      "model": "Dinosaurs (0.8%)",
+      "asset": "TON",
+      "symbol": "Winter House (2%)",
+      "backdrop": "Aquamarine (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.78,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "XA9ZA1GK",
+      "auction": {
+        "_id": "688c8768eb94b7cc33624ce9",
+        "gift_id": 7611180,
+        "seller": 0,
+        "auction_id": "XA9ZA1GK",
+        "startingBid": 3.6,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 3.6,
+            "asset": "TON",
+            "_id": "688cb464eb94b7cc332a0cc7",
+            "timestamp": "2025-08-01T12:34:44.599Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.78,
+            "asset": "TON",
+            "_id": "688cbb11eb94b7cc33350314",
+            "timestamp": "2025-08-01T13:03:13.752Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-01T13:23:56.011Z",
+        "status": "finished",
+        "gift_name": "Snow Mittens",
+        "gift_num": 20183,
+        "model": "Dinosaurs (0.8%)",
+        "backdrop": "Aquamarine (1.5%)",
+        "symbol": "Winter House (2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-01T12:23:57.436Z",
+        "__v": 0,
+        "winningBid": 3.78,
+        "winningBidder": 1366263482
+      },
+      "export_at": "2025-08-15T09:22:33.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2755,
       "customEmojiId": "5226542000240619683",
       "gift_id": 7550722,
@@ -14426,7 +14501,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.6,
+      "price": 3.4,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -18595,7 +18670,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.89,
+      "price": 3.81,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -27286,26 +27361,6 @@
     }
   ],
   "Sencha": [
-    {
-      "gift_num": 26827,
-      "customEmojiId": "5226920562953056118",
-      "gift_id": 7503219,
-      "name": "Snow Mittens",
-      "model": "Sencha (1.3%)",
-      "asset": "TON",
-      "symbol": "Bowtie (2.4%)",
-      "backdrop": "Azure Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-14T10:57:55.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 26031,
       "customEmojiId": "5226920562953056118",
