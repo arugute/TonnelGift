@@ -1385,6 +1385,26 @@
   ],
   "Ultraviolet": [
     {
+      "gift_num": 2551,
+      "customEmojiId": "5429110297350663181",
+      "gift_id": 7329038,
+      "name": "Ion Gem",
+      "model": "Ultraviolet (2%)",
+      "asset": "TON",
+      "symbol": "Turkey (0.5%)",
+      "backdrop": "Lemongrass (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 100,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T18:13:05.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1777,
       "customEmojiId": "5429110297350663181",
       "gift_id": 7443673,
@@ -4867,8 +4887,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 935852,
-      "price": 150,
+      "message_in_channel": 936652,
+      "price": 1500,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -6147,6 +6167,26 @@
     }
   ],
   "Himalaya": [
+    {
+      "gift_num": 433,
+      "customEmojiId": "5395503758807425293",
+      "gift_id": 7635032,
+      "name": "Ion Gem",
+      "model": "Himalaya (3%)",
+      "asset": "TON",
+      "symbol": "Coat of Arms (0.5%)",
+      "backdrop": "Strawberry (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 936525,
+      "price": 160,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T19:46:15.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2393,
       "customEmojiId": "5395503758807425293",
@@ -9277,6 +9317,60 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 2099,
+      "customEmojiId": "5422543584412854547",
+      "gift_id": 7635927,
+      "name": "Ion Gem",
+      "model": "Sweet Tooth (2%)",
+      "asset": "TON",
+      "symbol": "Crusader Cross (0.2%)",
+      "backdrop": "Desert Sand (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 66.68,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "61SYI10P",
+      "auction": {
+        "_id": "688d1feeeb94b7cc33d64bdb",
+        "gift_id": 7635927,
+        "seller": 0,
+        "auction_id": "61SYI10P",
+        "startingBid": 50,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 63.5,
+            "asset": "TON",
+            "_id": "688d2076eb94b7cc33f17861",
+            "timestamp": "2025-08-01T20:15:50.652Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 66.68,
+            "asset": "TON",
+            "_id": "688d2457eb94b7cc330cae82",
+            "timestamp": "2025-08-01T20:32:23.941Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-01T21:13:29.936Z",
+        "status": "finished",
+        "gift_name": "Ion Gem",
+        "gift_num": 2099,
+        "model": "Sweet Tooth (2%)",
+        "backdrop": "Desert Sand (2%)",
+        "symbol": "Crusader Cross (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-01T20:13:34.132Z",
+        "__v": 0,
+        "winningBid": 66.68,
+        "winningBidder": 1008207772
+      },
+      "export_at": "2025-08-15T20:12:40.000Z",
       "premarketData": {}
     }
   ],
