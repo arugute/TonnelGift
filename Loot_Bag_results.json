@@ -1,6 +1,24 @@
 {
   "Orange Croc": [
     {
+      "gift_num": 5120,
+      "customEmojiId": "5287763086848058642",
+      "gift_id": 587312180020,
+      "name": "Loot Bag",
+      "model": "Orange Croc (1.5%)",
+      "asset": "TON",
+      "symbol": "Fish (0.4%)",
+      "backdrop": "Caramel (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 5468,
       "customEmojiId": "5287763086848058642",
       "gift_id": 587275036714,
@@ -12915,6 +12933,54 @@
   ],
   "Cherry Red": [
     {
+      "gift_num": 14270,
+      "customEmojiId": "5287719600304185486",
+      "gift_id": 7483118,
+      "name": "Loot Bag",
+      "model": "Cherry Red (2%)",
+      "asset": "TON",
+      "symbol": "Grenade (0.5%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 86.5,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "N7CHV83P",
+      "auction": {
+        "_id": "688c0113eb94b7cc33828ba0",
+        "gift_id": 7483118,
+        "seller": 0,
+        "auction_id": "N7CHV83P",
+        "startingBid": 75,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 86.5,
+            "asset": "TON",
+            "_id": "688c018deb94b7cc33837fa5",
+            "timestamp": "2025-07-31T23:51:41.441Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-01T00:49:38.046Z",
+        "status": "finished",
+        "gift_name": "Loot Bag",
+        "gift_num": 14270,
+        "model": "Cherry Red (2%)",
+        "backdrop": "Persimmon (2%)",
+        "symbol": "Grenade (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-31T23:49:39.461Z",
+        "__v": 0,
+        "winningBid": 86.5,
+        "winningBidder": 5339041731
+      },
+      "export_at": "2025-08-13T23:17:43.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 8485,
       "customEmojiId": "5287719600304185486",
       "gift_id": 587053267795,
@@ -13946,6 +14012,26 @@
     }
   ],
   "Tangerine": [
+    {
+      "gift_num": 11423,
+      "customEmojiId": "5287328925783977903",
+      "gift_id": 7384078,
+      "name": "Loot Bag",
+      "model": "Tangerine (2%)",
+      "asset": "TON",
+      "symbol": "Unicorn (0.5%)",
+      "backdrop": "Jade Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 92,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T15:36:21.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 922,
       "customEmojiId": "5287328925783977903",
