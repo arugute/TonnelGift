@@ -6878,6 +6878,26 @@
   ],
   "Vampire": [
     {
+      "gift_num": 7211,
+      "customEmojiId": "5431446506156613308",
+      "gift_id": 7117039,
+      "name": "Sharp Tongue",
+      "model": "Vampire (2%)",
+      "asset": "TON",
+      "symbol": "Spooky Cat (1.2%)",
+      "backdrop": "Purple (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 69,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-23T23:06:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 305,
       "customEmojiId": "5431446506156613308",
       "gift_id": 7424582,
@@ -8102,6 +8122,53 @@
       "premarketData": {}
     },
     {
+      "gift_num": 4486,
+      "customEmojiId": "5413645301233771348",
+      "gift_id": 7632616,
+      "name": "Sharp Tongue",
+      "model": "Queen (2.5%)",
+      "asset": "TON",
+      "symbol": "Loveberry (0.4%)",
+      "backdrop": "Pure Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 30.05,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "KOE736QT",
+      "auction": {
+        "_id": "688d08b6eb94b7cc3391572a",
+        "gift_id": 7632616,
+        "seller": 0,
+        "auction_id": "KOE736QT",
+        "startingBid": 25,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 30.05,
+            "asset": "TON",
+            "_id": "688d0ac0eb94b7cc3391e8db",
+            "timestamp": "2025-08-01T18:43:12.920Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-01T19:34:29.442Z",
+        "status": "finished",
+        "gift_name": "Sharp Tongue",
+        "gift_num": 4486,
+        "model": "Queen (2.5%)",
+        "backdrop": "Pure Gold (2%)",
+        "symbol": "Loveberry (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-01T18:34:30.617Z",
+        "__v": 0,
+        "winningBid": 30.05,
+        "winningBidder": 7172770086
+      },
+      "export_at": "2025-08-15T18:29:27.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4529,
       "customEmojiId": "5413645301233771348",
       "gift_id": 7382573,
@@ -8339,26 +8406,6 @@
     }
   ],
   "Comics": [
-    {
-      "gift_num": 5870,
-      "customEmojiId": "5431792916743871350",
-      "gift_id": 7477654,
-      "name": "Sharp Tongue",
-      "model": "Comics (1.5%)",
-      "asset": "TON",
-      "symbol": "Sweets Box (0.6%)",
-      "backdrop": "Orange (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 41,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-13T16:19:45.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 4081,
       "customEmojiId": "5431792916743871350",
@@ -9830,7 +9877,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 36.27,
+      "price": 34.78,
       "status": "forsale",
       "limited": false,
       "auction": null,
