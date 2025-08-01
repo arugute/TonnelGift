@@ -14828,26 +14828,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 6819,
-      "customEmojiId": "5235583627953203318",
-      "gift_id": 7446706,
-      "name": "Electric Skull",
-      "model": "Deadman (4%)",
-      "asset": "TON",
-      "symbol": "Basketball (0.4%)",
-      "backdrop": "Black (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 109.98,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T10:01:05.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 8994,
       "customEmojiId": "5235583627953203318",
       "gift_id": 7483987,
@@ -15403,6 +15383,53 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 7901,
+      "customEmojiId": "5235583627953203318",
+      "gift_id": 7458391,
+      "name": "Electric Skull",
+      "model": "Deadman (4%)",
+      "asset": "TON",
+      "symbol": "Voodoo (0.8%)",
+      "backdrop": "Fandango (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 25,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "R41FAP8N",
+      "auction": {
+        "_id": "68885bf8450b5b469c1df0c0",
+        "gift_id": 7458391,
+        "seller": 0,
+        "auction_id": "R41FAP8N",
+        "startingBid": 20,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 25,
+            "asset": "TON",
+            "_id": "68885cd7450b5b469c1e1935",
+            "timestamp": "2025-07-29T05:32:07.666Z"
+          }
+        ],
+        "auctionEndTime": "2025-07-29T06:28:22.172Z",
+        "status": "finished",
+        "gift_name": "Electric Skull",
+        "gift_num": 7901,
+        "model": "Deadman (4%)",
+        "backdrop": "Fandango (1.5%)",
+        "symbol": "Voodoo (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-29T05:28:24.670Z",
+        "__v": 0,
+        "winningBid": 25,
+        "winningBidder": 2004898219
+      },
+      "export_at": "2025-08-12T05:27:54.000Z",
       "premarketData": {}
     }
   ],
