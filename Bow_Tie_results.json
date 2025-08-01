@@ -778,6 +778,26 @@
   ],
   "Football": [
     {
+      "gift_num": 39375,
+      "customEmojiId": "5397937231442766605",
+      "gift_id": 7390219,
+      "name": "Bow Tie",
+      "model": "Football (3%)",
+      "asset": "TON",
+      "symbol": "Paschal Lamb (0.5%)",
+      "backdrop": "Persimmon (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T00:47:18.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 23119,
       "customEmojiId": "5397937231442766605",
       "gift_id": 7202274,
@@ -795,26 +815,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-27T20:04:27.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 39375,
-      "customEmojiId": "5397937231442766605",
-      "gift_id": 7390219,
-      "name": "Bow Tie",
-      "model": "Football (3%)",
-      "asset": "TON",
-      "symbol": "Paschal Lamb (0.5%)",
-      "backdrop": "Persimmon (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T00:47:18.000Z",
       "premarketData": {}
     },
     {
@@ -4364,6 +4364,201 @@
       "premarketData": {}
     },
     {
+      "gift_num": 24147,
+      "customEmojiId": "5418311181905457701",
+      "gift_id": 7383821,
+      "name": "Bow Tie",
+      "model": "Utyan (2%)",
+      "asset": "TON",
+      "symbol": "Plume Shako (0.5%)",
+      "backdrop": "Celtic Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6.38,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "KO7UJ88M",
+      "auction": {
+        "_id": "688c2361eb94b7cc3329b39b",
+        "gift_id": 7383821,
+        "seller": 0,
+        "auction_id": "KO7UJ88M",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688c255deb94b7cc3332d513",
+            "timestamp": "2025-08-01T02:24:29.028Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688c2605eb94b7cc3336208e",
+            "timestamp": "2025-08-01T02:27:17.444Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "688c263ceb94b7cc33374257",
+            "timestamp": "2025-08-01T02:28:12.856Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "688c2698eb94b7cc33392f98",
+            "timestamp": "2025-08-01T02:29:44.892Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "688c26a5eb94b7cc33396e7d",
+            "timestamp": "2025-08-01T02:29:57.391Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.56,
+            "asset": "TON",
+            "_id": "688c2820eb94b7cc333f120f",
+            "timestamp": "2025-08-01T02:36:16.516Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.69,
+            "asset": "TON",
+            "_id": "688c28cfeb94b7cc33413d1d",
+            "timestamp": "2025-08-01T02:39:11.646Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.83,
+            "asset": "TON",
+            "_id": "688c292feb94b7cc334274a0",
+            "timestamp": "2025-08-01T02:40:47.396Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.97,
+            "asset": "TON",
+            "_id": "688c29b6eb94b7cc334427ea",
+            "timestamp": "2025-08-01T02:43:02.124Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.12,
+            "asset": "TON",
+            "_id": "688c2abfeb94b7cc3346ed94",
+            "timestamp": "2025-08-01T02:47:27.423Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.28,
+            "asset": "TON",
+            "_id": "688c2d3aeb94b7cc334ac278",
+            "timestamp": "2025-08-01T02:58:02.582Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.45,
+            "asset": "TON",
+            "_id": "688c2d50eb94b7cc334ad1f2",
+            "timestamp": "2025-08-01T02:58:24.677Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.62,
+            "asset": "TON",
+            "_id": "688c2ed6eb94b7cc334c1693",
+            "timestamp": "2025-08-01T03:04:54.315Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.8,
+            "asset": "TON",
+            "_id": "688c2f0ceb94b7cc334c4648",
+            "timestamp": "2025-08-01T03:05:48.930Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.99,
+            "asset": "TON",
+            "_id": "688c2f79eb94b7cc334c5e74",
+            "timestamp": "2025-08-01T03:07:37.162Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.265,
+            "asset": "TON",
+            "_id": "688c2f91eb94b7cc334c6e71",
+            "timestamp": "2025-08-01T03:08:01.996Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "688c3119eb94b7cc334d9eb1",
+            "timestamp": "2025-08-01T03:14:33.677Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "688c3157eb94b7cc334df8c7",
+            "timestamp": "2025-08-01T03:15:35.747Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.51,
+            "asset": "TON",
+            "_id": "688c3176eb94b7cc334e4c20",
+            "timestamp": "2025-08-01T03:16:06.997Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.79,
+            "asset": "TON",
+            "_id": "688c3515eb94b7cc33504bfb",
+            "timestamp": "2025-08-01T03:31:33.550Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.08,
+            "asset": "TON",
+            "_id": "688c36a9eb94b7cc33515863",
+            "timestamp": "2025-08-01T03:38:17.366Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.38,
+            "asset": "TON",
+            "_id": "688c36bfeb94b7cc3351852d",
+            "timestamp": "2025-08-01T03:38:39.799Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-01T03:56:00.877Z",
+        "status": "finished",
+        "gift_name": "Bow Tie",
+        "gift_num": 24147,
+        "model": "Utyan (2%)",
+        "backdrop": "Celtic Blue (1.2%)",
+        "symbol": "Plume Shako (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-01T02:16:01.339Z",
+        "__v": 0,
+        "winningBid": 6.38,
+        "winningBidder": 1483482076
+      },
+      "export_at": "2025-08-08T15:15:27.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 8384,
       "customEmojiId": "5418311181905457701",
       "gift_id": 7343958,
@@ -4481,26 +4676,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-06T15:01:13.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2557,
-      "customEmojiId": "5418311181905457701",
-      "gift_id": 6531441,
-      "name": "Bow Tie",
-      "model": "Utyan (2%)",
-      "asset": "TON",
-      "symbol": "Pilot Hat (0.3%)",
-      "backdrop": "Seal Brown (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-01T12:57:01.000Z",
       "premarketData": {}
     }
   ],
@@ -15469,6 +15644,26 @@
   ],
   "Dark Lord": [
     {
+      "gift_num": 26864,
+      "customEmojiId": "5413333581097363171",
+      "gift_id": 7602676,
+      "name": "Bow Tie",
+      "model": "Dark Lord (0.5%)",
+      "asset": "TON",
+      "symbol": "Bottle (0.4%)",
+      "backdrop": "Pine Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 11,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T04:18:35.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 905,
       "customEmojiId": "5413333581097363171",
       "gift_id": 7284334,
@@ -16047,26 +16242,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T07:13:19.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 24742,
-      "customEmojiId": "5413333581097363171",
-      "gift_id": 6585823,
-      "name": "Bow Tie",
-      "model": "Dark Lord (0.5%)",
-      "asset": "TON",
-      "symbol": "Burger (0.4%)",
-      "backdrop": "Steel Grey (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 838173,
-      "price": 310,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-02T22:09:51.000Z",
       "premarketData": {}
     }
   ],
@@ -18388,26 +18563,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 3139,
-      "customEmojiId": "5413558792002496766",
-      "gift_id": 7478067,
-      "name": "Bow Tie",
-      "model": "Gamepad (2%)",
-      "asset": "TON",
-      "symbol": "Hersir (0.5%)",
-      "backdrop": "Black (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 47,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-13T16:53:51.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 35773,
       "customEmojiId": "5413558792002496766",
       "gift_id": 7467769,
@@ -18885,6 +19040,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T15:35:09.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 17120,
+      "customEmojiId": "5413558792002496766",
+      "gift_id": 6494488,
+      "name": "Bow Tie",
+      "model": "Gamepad (2%)",
+      "asset": "TON",
+      "symbol": "Ancient Urn (0.5%)",
+      "backdrop": "Feldgrau (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-30T14:57:27.000Z",
       "premarketData": {}
     }
   ],
