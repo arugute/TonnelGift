@@ -1238,6 +1238,26 @@
   ],
   "Sunny Doodle": [
     {
+      "gift_num": 1013,
+      "customEmojiId": "5411583081276532165",
+      "gift_id": 7628599,
+      "name": "Perfume Bottle",
+      "model": "Sunny Doodle (2%)",
+      "asset": "TON",
+      "symbol": "Sunflower (0.4%)",
+      "backdrop": "Light Olive (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 73,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T16:46:30.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2060,
       "customEmojiId": "5411583081276532165",
       "gift_id": 7290467,
@@ -6420,6 +6440,61 @@
     }
   ],
   "Candy Luxe": [
+    {
+      "gift_num": 4014,
+      "customEmojiId": "5409157159193698726",
+      "gift_id": 7619686,
+      "name": "Perfume Bottle",
+      "model": "Candy Luxe (3%)",
+      "asset": "TON",
+      "symbol": "Anchor (0.4%)",
+      "backdrop": "Platinum (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 70.04,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "RBHN82HW",
+      "auction": {
+        "_id": "688ced87eb94b7cc3353a7d2",
+        "gift_id": 7619686,
+        "seller": 0,
+        "auction_id": "RBHN82HW",
+        "startingBid": 15,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 66.7,
+            "asset": "TON",
+            "_id": "688cedb1eb94b7cc3354481c",
+            "timestamp": "2025-08-01T16:39:13.010Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 70.04,
+            "asset": "TON",
+            "_id": "688cef4eeb94b7cc33597ad7",
+            "timestamp": "2025-08-01T16:46:06.376Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-01T17:38:30.381Z",
+        "status": "finished",
+        "gift_name": "Perfume Bottle",
+        "gift_num": 4014,
+        "model": "Candy Luxe (3%)",
+        "backdrop": "Platinum (2%)",
+        "symbol": "Anchor (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-01T16:38:31.143Z",
+        "__v": 0,
+        "winningBid": 70.04,
+        "winningBidder": 7172770086
+      },
+      "export_at": "2025-08-15T13:01:33.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2005,
       "customEmojiId": "5409157159193698726",
