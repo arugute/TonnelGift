@@ -688,8 +688,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 933960,
-      "price": 150,
+      "message_in_channel": 0,
+      "price": 130,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -1745,6 +1745,26 @@
     }
   ],
   "Succubus": [
+    {
+      "gift_num": 1424,
+      "customEmojiId": "5409036264454253231",
+      "gift_id": 7488175,
+      "name": "Nail Bracelet",
+      "model": "Succubus (1.5%)",
+      "asset": "TON",
+      "symbol": "Glasses (0.4%)",
+      "backdrop": "Navy Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 935173,
+      "price": 225,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T07:53:47.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 1271,
       "customEmojiId": "5409036264454253231",
