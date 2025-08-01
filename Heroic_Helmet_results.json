@@ -487,6 +487,7 @@
       "backdropData": {},
       "message_in_channel": 896386,
       "price": 290,
+      "promoted": true,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -2259,6 +2260,26 @@
     }
   ],
   "Biker Warrior": [
+    {
+      "gift_num": 1218,
+      "customEmojiId": "5389076821285299579",
+      "gift_id": 7630123,
+      "name": "Heroic Helmet",
+      "model": "Biker Warrior (2%)",
+      "asset": "TON",
+      "symbol": "Wise Raven (0.4%)",
+      "backdrop": "Electric Indigo (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 936313,
+      "price": 350,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T17:24:44.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2192,
       "customEmojiId": "5389076821285299579",
