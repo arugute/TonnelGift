@@ -1729,7 +1729,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 75,
+      "price": 70,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3350,6 +3350,26 @@
   ],
   "Vulnerability": [
     {
+      "gift_num": 381,
+      "customEmojiId": "5431485233876721301",
+      "gift_id": 7627301,
+      "name": "Magic Potion",
+      "model": "Vulnerability (1.5%)",
+      "asset": "TON",
+      "symbol": "Spider Web (2.4%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 60,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T16:08:32.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1954,
       "customEmojiId": "5431485233876721301",
       "gift_id": 3058953,
@@ -3926,6 +3946,26 @@
   ],
   "Bloodlust": [
     {
+      "gift_num": 3837,
+      "customEmojiId": "5431619361410410411",
+      "gift_id": 7628517,
+      "name": "Magic Potion",
+      "model": "Bloodlust (1.5%)",
+      "asset": "TON",
+      "symbol": "Severed Hand (2.4%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 936248,
+      "price": 150,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T16:44:28.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 391,
       "customEmojiId": "5431619361410410411",
       "gift_id": 5136940,
@@ -3944,29 +3984,77 @@
       "auction": null,
       "export_at": "2025-06-03T04:17:51.000Z",
       "premarketData": {}
-    }
-  ],
-  "Emerald Elixir": [
+    },
     {
-      "gift_num": 1810,
-      "customEmojiId": "5431829192037656134",
-      "gift_id": 7272015,
+      "gift_num": 543,
+      "customEmojiId": "5431619361410410411",
+      "gift_id": 7627209,
       "name": "Magic Potion",
-      "model": "Emerald Elixir (1.5%)",
+      "model": "Bloodlust (1.5%)",
       "asset": "TON",
-      "symbol": "Ghost (1.6%)",
-      "backdrop": "Lemongrass (1.5%)",
+      "symbol": "Witch's Hat (2.4%)",
+      "backdrop": "Pacific Green (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 0,
-      "price": 80,
-      "status": "forsale",
+      "price": 48.56,
+      "status": "auction",
       "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T19:29:36.000Z",
+      "auction_id": "L4GXYT5R",
+      "auction": {
+        "_id": "688ce60eeb94b7cc33c5f1bc",
+        "gift_id": 7627209,
+        "seller": 0,
+        "auction_id": "L4GXYT5R",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688ce6f3eb94b7cc33f74782",
+            "timestamp": "2025-08-01T16:10:27.923Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688ce84feb94b7cc332cab43",
+            "timestamp": "2025-08-01T16:16:15.704Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 46.25,
+            "asset": "TON",
+            "_id": "688ce879eb94b7cc3332b72e",
+            "timestamp": "2025-08-01T16:16:57.692Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 48.56,
+            "asset": "TON",
+            "_id": "688cedeceb94b7cc33552d86",
+            "timestamp": "2025-08-01T16:40:12.385Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-01T17:06:26.973Z",
+        "status": "finished",
+        "gift_name": "Magic Potion",
+        "gift_num": 543,
+        "model": "Bloodlust (1.5%)",
+        "backdrop": "Pacific Green (2%)",
+        "symbol": "Witch's Hat (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-01T16:06:38.298Z",
+        "__v": 0,
+        "winningBid": 48.56,
+        "winningBidder": 7172770086
+      },
+      "export_at": "2025-08-15T16:05:58.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Emerald Elixir": [
     {
       "gift_num": 1189,
       "customEmojiId": "5431829192037656134",
@@ -4722,6 +4810,26 @@
   ],
   "Anaglyph": [
     {
+      "gift_num": 290,
+      "customEmojiId": "5431344874345489231",
+      "gift_id": 7625105,
+      "name": "Magic Potion",
+      "model": "Anaglyph (1.5%)",
+      "asset": "TON",
+      "symbol": "Candle (2.4%)",
+      "backdrop": "Moonstone (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T15:12:08.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3441,
       "customEmojiId": "5431344874345489231",
       "gift_id": 4847865,
@@ -5257,6 +5365,26 @@
     }
   ],
   "Heartbreaker": [
+    {
+      "gift_num": 3329,
+      "customEmojiId": "5427307248604964056",
+      "gift_id": 7628521,
+      "name": "Magic Potion",
+      "model": "Heartbreaker (2%)",
+      "asset": "TON",
+      "symbol": "Blood Drop (1.6%)",
+      "backdrop": "Mystic Pearl (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 936247,
+      "price": 150,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T16:44:36.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3788,
       "customEmojiId": "5427307248604964056",
