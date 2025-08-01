@@ -1021,6 +1021,53 @@
       "auction": null,
       "export_at": "2025-06-23T11:54:43.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 125,
+      "customEmojiId": "5228793417802213024",
+      "gift_id": 7530313,
+      "name": "Hypno Lollipop",
+      "model": "Glowing Pink (1.3%)",
+      "asset": "TON",
+      "symbol": "Shell (0.4%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 3.5,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ZQB6TSLQ",
+      "auction": {
+        "_id": "688b7840f250e6e56f1a1781",
+        "gift_id": 7530313,
+        "seller": 0,
+        "auction_id": "ZQB6TSLQ",
+        "startingBid": 3.5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 3.5,
+            "asset": "TON",
+            "_id": "688c0487eb94b7cc33857ee9",
+            "timestamp": "2025-08-01T00:04:23.849Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-01T01:59:57.014Z",
+        "status": "finished",
+        "gift_name": "Hypno Lollipop",
+        "gift_num": 125,
+        "model": "Glowing Pink (1.3%)",
+        "backdrop": "English Violet (1.5%)",
+        "symbol": "Shell (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-31T19:59:59.597Z",
+        "__v": 0,
+        "winningBid": 3.5,
+        "winningBidder": 6892984033
+      },
+      "export_at": "2025-08-14T14:05:13.000Z",
+      "premarketData": {}
     }
   ],
   "Sugar Buzz": [
@@ -38929,7 +38976,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2.26,
+      "price": 2.15,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -42099,6 +42146,26 @@
   ],
   "Tamagotchi": [
     {
+      "gift_num": 54087,
+      "customEmojiId": "5228965955228426097",
+      "gift_id": 7297521,
+      "name": "Hypno Lollipop",
+      "model": "Tamagotchi (0.5%)",
+      "asset": "TON",
+      "symbol": "Scarab (0.4%)",
+      "backdrop": "Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 25,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T14:02:17.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 24251,
       "customEmojiId": "5228965955228426097",
       "gift_id": 7474245,
@@ -42136,26 +42203,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-14T12:21:23.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 54087,
-      "customEmojiId": "5228965955228426097",
-      "gift_id": 7297521,
-      "name": "Hypno Lollipop",
-      "model": "Tamagotchi (0.5%)",
-      "asset": "TON",
-      "symbol": "Scarab (0.4%)",
-      "backdrop": "Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 27,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T14:02:17.000Z",
       "premarketData": {}
     },
     {
