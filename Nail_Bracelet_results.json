@@ -1899,7 +1899,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 115,
+      "price": 103,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -7831,6 +7831,60 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-28T10:52:49.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 4122,
+      "customEmojiId": "5420355882691095132",
+      "gift_id": 7634548,
+      "name": "Nail Bracelet",
+      "model": "Explosive (2.5%)",
+      "asset": "TON",
+      "symbol": "Piggy Bank (0.5%)",
+      "backdrop": "Mystic Pearl (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 97.65,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "IUR6YNQC",
+      "auction": {
+        "_id": "688d15d5eb94b7cc339fa104",
+        "gift_id": 7634548,
+        "seller": 0,
+        "auction_id": "IUR6YNQC",
+        "startingBid": 90,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 93,
+            "asset": "TON",
+            "_id": "688d1611eb94b7cc33a02627",
+            "timestamp": "2025-08-01T19:31:29.104Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 97.65,
+            "asset": "TON",
+            "_id": "688d2158eb94b7cc3306fd38",
+            "timestamp": "2025-08-01T20:19:36.127Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-01T22:30:24.864Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 4122,
+        "model": "Explosive (2.5%)",
+        "backdrop": "Mystic Pearl (1.2%)",
+        "symbol": "Piggy Bank (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-01T19:30:29.572Z",
+        "__v": 0,
+        "winningBid": 97.65,
+        "winningBidder": 7172770086
+      },
+      "export_at": "2025-08-15T19:29:18.000Z",
       "premarketData": {}
     }
   ]
