@@ -1108,6 +1108,62 @@
       "premarketData": {}
     }
   ],
+  "Morningstar": [
+    {
+      "gift_num": 2196,
+      "customEmojiId": "5427094574709368308",
+      "gift_id": 7574527,
+      "name": "Precious Peach",
+      "model": "Morningstar (1%)",
+      "asset": "TON",
+      "symbol": "Dolphin (0.6%)",
+      "backdrop": "Carrot Juice (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 285,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "5I391S6O",
+      "auction": {
+        "_id": "688bc211f250e6e56f3bfa29",
+        "gift_id": 7574527,
+        "seller": 0,
+        "auction_id": "5I391S6O",
+        "startingBid": 10,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 266.5,
+            "asset": "TON",
+            "_id": "688c2db6eb94b7cc334b6457",
+            "timestamp": "2025-08-01T03:00:06.066Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 285,
+            "asset": "TON",
+            "_id": "688c5ebdeb94b7cc33e0e6fc",
+            "timestamp": "2025-08-01T06:29:17.250Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-01T08:16:34.112Z",
+        "status": "finished",
+        "gift_name": "Precious Peach",
+        "gift_num": 2196,
+        "model": "Morningstar (1%)",
+        "backdrop": "Carrot Juice (1%)",
+        "symbol": "Dolphin (0.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-07-31T20:16:35.999Z",
+        "__v": 0,
+        "winningBid": 285,
+        "winningBidder": 1068757024
+      },
+      "export_at": "2025-08-14T19:17:44.000Z",
+      "premarketData": {}
+    }
+  ],
   "Stardust": [
     {
       "gift_num": 934,
@@ -1121,8 +1177,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 935134,
-      "price": 290,
+      "message_in_channel": 935394,
+      "price": 270,
       "status": "forsale",
       "limited": false,
       "auction": null,
