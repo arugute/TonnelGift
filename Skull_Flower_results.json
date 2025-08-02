@@ -6496,6 +6496,95 @@
       "premarketData": {}
     },
     {
+      "gift_num": 2257,
+      "customEmojiId": "5413348003597540258",
+      "gift_id": 7655656,
+      "name": "Skull Flower",
+      "model": "Nightshade (3%)",
+      "asset": "TON",
+      "symbol": "Melon (0.4%)",
+      "backdrop": "Battleship Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 5.75,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "HGY989GZ",
+      "auction": {
+        "_id": "688e1b2feb94b7cc33e71d88",
+        "gift_id": 7655656,
+        "seller": 0,
+        "auction_id": "HGY989GZ",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688e21d4eb94b7cc332295f2",
+            "timestamp": "2025-08-02T14:33:56.495Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.5,
+            "asset": "TON",
+            "_id": "688e21f9eb94b7cc33230c63",
+            "timestamp": "2025-08-02T14:34:33.584Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.73,
+            "asset": "TON",
+            "_id": "688e221deb94b7cc33237f39",
+            "timestamp": "2025-08-02T14:35:09.405Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.97,
+            "asset": "TON",
+            "_id": "688e2246eb94b7cc3323f357",
+            "timestamp": "2025-08-02T14:35:50.122Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.22,
+            "asset": "TON",
+            "_id": "688e2273eb94b7cc33247539",
+            "timestamp": "2025-08-02T14:36:35.523Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.48,
+            "asset": "TON",
+            "_id": "688e22e3eb94b7cc332596e4",
+            "timestamp": "2025-08-02T14:38:27.092Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.75,
+            "asset": "TON",
+            "_id": "688e280ceb94b7cc332f233d",
+            "timestamp": "2025-08-02T15:00:28.914Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T15:15:34.302Z",
+        "status": "finished",
+        "gift_name": "Skull Flower",
+        "gift_num": 2257,
+        "model": "Nightshade (3%)",
+        "backdrop": "Battleship Grey (1.5%)",
+        "symbol": "Melon (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T14:05:35.136Z",
+        "__v": 0,
+        "winningBid": 5.75,
+        "winningBidder": 1327322028
+      },
+      "export_at": "2025-08-16T14:05:11.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 11229,
       "customEmojiId": "5413348003597540258",
       "gift_id": 7418628,
@@ -11838,7 +11927,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 10,
+      "price": 9,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -17602,7 +17691,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 21,
+      "price": 18,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -18236,26 +18325,6 @@
   ],
   "Luau Lily": [
     {
-      "gift_num": 18843,
-      "customEmojiId": "5413567265972969035",
-      "gift_id": 5763217,
-      "name": "Skull Flower",
-      "model": "Luau Lily (2%)",
-      "asset": "TON",
-      "symbol": "Sauron (0.8%)",
-      "backdrop": "Chestnut (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5.89,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-20T06:40:33.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 1599,
       "customEmojiId": "5413567265972969035",
       "gift_id": 7376807,
@@ -18790,7 +18859,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 10.34,
+      "price": 9.82,
       "status": "forsale",
       "limited": false,
       "auction": null,
