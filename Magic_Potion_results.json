@@ -3120,6 +3120,26 @@
   ],
   "Color Drain": [
     {
+      "gift_num": 3957,
+      "customEmojiId": "5398015150739447811",
+      "gift_id": 7661035,
+      "name": "Magic Potion",
+      "model": "Color Drain (2%)",
+      "asset": "TON",
+      "symbol": "Lollipop (2%)",
+      "backdrop": "Roman Silver (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 937952,
+      "price": 200,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-16T17:23:26.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4046,
       "customEmojiId": "5398015150739447811",
       "gift_id": 7619995,
@@ -4866,6 +4886,82 @@
       "premarketData": {}
     },
     {
+      "gift_num": 389,
+      "customEmojiId": "5393244494340580496",
+      "gift_id": 7406003,
+      "name": "Magic Potion",
+      "model": "Saltwater (2.5%)",
+      "asset": "TON",
+      "symbol": "Eyeball (1.6%)",
+      "backdrop": "French Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 49.89,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "2ZKY49ZA",
+      "auction": {
+        "_id": "688daf31eb94b7cc335960ef",
+        "gift_id": 7406003,
+        "seller": 0,
+        "auction_id": "2ZKY49ZA",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "688db288eb94b7cc335fe656",
+            "timestamp": "2025-08-02T06:39:04.988Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 40,
+            "asset": "TON",
+            "_id": "688deecceb94b7cc3394d8ff",
+            "timestamp": "2025-08-02T10:56:12.520Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 45.25,
+            "asset": "TON",
+            "_id": "688e2af6eb94b7cc333270e8",
+            "timestamp": "2025-08-02T15:12:54.367Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 47.51,
+            "asset": "TON",
+            "_id": "688e3d00eb94b7cc3374d7fc",
+            "timestamp": "2025-08-02T16:29:52.023Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 49.89,
+            "asset": "TON",
+            "_id": "688e436deb94b7cc337887fc",
+            "timestamp": "2025-08-02T16:57:17.806Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T18:25:47.277Z",
+        "status": "finished",
+        "gift_name": "Magic Potion",
+        "gift_num": 389,
+        "model": "Saltwater (2.5%)",
+        "backdrop": "French Blue (2%)",
+        "symbol": "Eyeball (1.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T06:25:48.078Z",
+        "__v": 0,
+        "winningBid": 49.89,
+        "winningBidder": 7562870280
+      },
+      "export_at": "2025-08-09T13:42:14.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2208,
       "customEmojiId": "5393244494340580496",
       "gift_id": 7338610,
@@ -5293,6 +5389,60 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-06T04:00:29.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3449,
+      "customEmojiId": "5397669796714144829",
+      "gift_id": 7656119,
+      "name": "Magic Potion",
+      "model": "Dark Side (2.5%)",
+      "asset": "TON",
+      "symbol": "Illuminati (1.6%)",
+      "backdrop": "Navy Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 47.25,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "DYN22BRK",
+      "auction": {
+        "_id": "688e1e68eb94b7cc331a8818",
+        "gift_id": 7656119,
+        "seller": 0,
+        "auction_id": "DYN22BRK",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 45,
+            "asset": "TON",
+            "_id": "688e1ec7eb94b7cc331ad38e",
+            "timestamp": "2025-08-02T14:20:55.015Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 47.25,
+            "asset": "TON",
+            "_id": "688e2b40eb94b7cc3332f0d8",
+            "timestamp": "2025-08-02T15:14:08.144Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T17:19:17.641Z",
+        "status": "finished",
+        "gift_name": "Magic Potion",
+        "gift_num": 3449,
+        "model": "Dark Side (2.5%)",
+        "backdrop": "Navy Blue (2%)",
+        "symbol": "Illuminati (1.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T14:19:20.051Z",
+        "__v": 0,
+        "winningBid": 47.25,
+        "winningBidder": 1429752975
+      },
+      "export_at": "2025-08-16T14:18:43.000Z",
       "premarketData": {}
     }
   ],
