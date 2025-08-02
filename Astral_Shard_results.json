@@ -1,6 +1,26 @@
 {
   "Labradorite": [
     {
+      "gift_num": 4858,
+      "customEmojiId": "5229057940543005628",
+      "gift_id": 6273091,
+      "name": "Astral Shard",
+      "model": "Labradorite (2.3%)",
+      "asset": "TON",
+      "symbol": "Money Bag (0.8%)",
+      "backdrop": "Shamrock Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 70,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-26T06:13:06.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2631,
       "customEmojiId": "5229057940543005628",
       "gift_id": 583262733671,
@@ -748,7 +768,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 75.5,
+      "price": 71,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -1918,7 +1938,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 85,
+      "price": 75,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3325,10 +3345,52 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 936946,
-      "price": 300,
-      "status": "forsale",
+      "price": 132.3,
+      "status": "auction",
       "limited": false,
-      "auction": null,
+      "auction_id": "HFJ2MD90",
+      "auction": {
+        "_id": "688d0531eb94b7cc338f303f",
+        "gift_id": 7621396,
+        "seller": 0,
+        "auction_id": "HFJ2MD90",
+        "startingBid": 120,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 120,
+            "asset": "TON",
+            "_id": "688deeddeb94b7cc3394e4dc",
+            "timestamp": "2025-08-02T10:56:29.741Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 126,
+            "asset": "TON",
+            "_id": "688df460eb94b7cc33a3584c",
+            "timestamp": "2025-08-02T11:20:00.963Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 132.3,
+            "asset": "TON",
+            "_id": "688df550eb94b7cc33a46ff4",
+            "timestamp": "2025-08-02T11:24:00.522Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T11:43:29.207Z",
+        "status": "finished",
+        "gift_name": "Astral Shard",
+        "gift_num": 5031,
+        "model": "Elven Might (0.8%)",
+        "backdrop": "Lavender (2%)",
+        "symbol": "Gem (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T10:43:29.945Z",
+        "__v": 0,
+        "winningBid": 132.3,
+        "winningBidder": 1216923257
+      },
       "export_at": "2025-08-15T13:41:35.000Z",
       "premarketData": {}
     },
@@ -4075,26 +4137,6 @@
     }
   ],
   "Jurassic": [
-    {
-      "gift_num": 470,
-      "customEmojiId": "5229213023222131686",
-      "gift_id": 7649546,
-      "name": "Astral Shard",
-      "model": "Jurassic (2%)",
-      "asset": "TON",
-      "symbol": "Scorpion (0.8%)",
-      "backdrop": "Cyberpunk (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 937340,
-      "price": 200,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-16T10:05:36.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 4875,
       "customEmojiId": "5229213023222131686",
@@ -5613,8 +5655,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 936163,
-      "price": 170,
+      "message_in_channel": 937474,
+      "price": 200,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -5991,6 +6033,24 @@
     }
   ],
   "Ocean Jasper": [
+    {
+      "gift_num": 5317,
+      "customEmojiId": "5228884879130782046",
+      "gift_id": 601958491805,
+      "name": "Astral Shard",
+      "model": "Ocean Jasper (2.4%)",
+      "asset": "TON",
+      "symbol": "Scarab (0.8%)",
+      "backdrop": "Desert Sand (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 3976,
       "customEmojiId": "5228884879130782046",
@@ -6998,26 +7058,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-15T16:24:34.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 503,
-      "customEmojiId": "5228909326084630459",
-      "gift_id": 7468497,
-      "name": "Astral Shard",
-      "model": "Galactite (2%)",
-      "asset": "TON",
-      "symbol": "Gem (0.8%)",
-      "backdrop": "Jade Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-12T20:42:43.000Z",
       "premarketData": {}
     },
     {
@@ -8136,26 +8176,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-22T13:09:30.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5286,
-      "customEmojiId": "5235686127347720748",
-      "gift_id": 7607983,
-      "name": "Astral Shard",
-      "model": "Silver Art (2%)",
-      "asset": "TON",
-      "symbol": "Bishop (0.5%)",
-      "backdrop": "Emerald (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 90,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T08:00:30.000Z",
       "premarketData": {}
     },
     {
@@ -9890,26 +9910,6 @@
     }
   ],
   "Dark Soul": [
-    {
-      "gift_num": 2156,
-      "customEmojiId": "5231048980007250548",
-      "gift_id": 7634890,
-      "name": "Astral Shard",
-      "model": "Dark Soul (0.8%)",
-      "asset": "TON",
-      "symbol": "Mayan Moth (1%)",
-      "backdrop": "Pistachio (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 937273,
-      "price": 350,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T19:40:47.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 260,
       "customEmojiId": "5231048980007250548",
