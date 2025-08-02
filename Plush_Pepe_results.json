@@ -197,26 +197,6 @@
   ],
   "X-Ray": [
     {
-      "gift_num": 249,
-      "customEmojiId": "5424897213606159288",
-      "gift_id": 7617383,
-      "name": "Plush Pepe",
-      "model": "X-Ray (2%)",
-      "asset": "TON",
-      "symbol": "Genie Lamp (0.4%)",
-      "backdrop": "Chocolate (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 936852,
-      "price": 4000,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T12:01:30.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 309,
       "customEmojiId": "5424897213606159288",
       "gift_id": 7597011,
@@ -316,6 +296,28 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    }
+  ],
+  "Pink Galaxy": [
+    {
+      "gift_num": 1305,
+      "customEmojiId": "5424760337293402339",
+      "gift_id": 7643025,
+      "name": "Plush Pepe",
+      "model": "Pink Galaxy (2%)",
+      "asset": "TON",
+      "symbol": "Gear (0.2%)",
+      "backdrop": "Electric Indigo (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 936967,
+      "price": 9999,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-16T02:19:04.000Z",
       "premarketData": {}
     }
   ],
