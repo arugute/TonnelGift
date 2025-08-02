@@ -9385,6 +9385,60 @@
       "premarketData": {}
     },
     {
+      "gift_num": 17347,
+      "customEmojiId": "5431631662196745687",
+      "gift_id": 7658250,
+      "name": "Mad Pumpkin",
+      "model": "Chuckle-ate (2%)",
+      "asset": "TON",
+      "symbol": "Crow (2.4%)",
+      "backdrop": "Pine Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 12.71,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "OTIWW58F",
+      "auction": {
+        "_id": "688e3031eb94b7cc3356b084",
+        "gift_id": 7658250,
+        "seller": 0,
+        "auction_id": "OTIWW58F",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 12.1,
+            "asset": "TON",
+            "_id": "688e30c7eb94b7cc3359038e",
+            "timestamp": "2025-08-02T15:37:43.299Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.71,
+            "asset": "TON",
+            "_id": "688e34f6eb94b7cc336774ed",
+            "timestamp": "2025-08-02T15:55:34.622Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T16:35:12.447Z",
+        "status": "finished",
+        "gift_name": "Mad Pumpkin",
+        "gift_num": 17347,
+        "model": "Chuckle-ate (2%)",
+        "backdrop": "Pine Green (2%)",
+        "symbol": "Crow (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T15:35:13.330Z",
+        "__v": 0,
+        "winningBid": 12.71,
+        "winningBidder": 7973410569
+      },
+      "export_at": "2025-08-16T15:34:47.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 14154,
       "customEmojiId": "5431631662196745687",
       "gift_id": 7386472,
@@ -11829,26 +11883,6 @@
   ],
   "Cucurbita": [
     {
-      "gift_num": 17625,
-      "customEmojiId": "5206492860974653199",
-      "gift_id": 7391038,
-      "name": "Mad Pumpkin",
-      "model": "Cucurbita (3%)",
-      "asset": "TON",
-      "symbol": "Scarecrow (2%)",
-      "backdrop": "Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 70,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T05:01:50.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 15262,
       "customEmojiId": "5206492860974653199",
       "gift_id": 6098708,
@@ -13237,6 +13271,26 @@
     }
   ],
   "Bee Movie": [
+    {
+      "gift_num": 15210,
+      "customEmojiId": "5424753070208738822",
+      "gift_id": 7397971,
+      "name": "Mad Pumpkin",
+      "model": "Bee Movie (2%)",
+      "asset": "TON",
+      "symbol": "Half Moon (2.4%)",
+      "backdrop": "Silver Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 23,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T11:08:04.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 16259,
       "customEmojiId": "5424753070208738822",
@@ -14913,6 +14967,26 @@
   ],
   "Silver Surfer": [
     {
+      "gift_num": 12290,
+      "customEmojiId": "5434099490275484023",
+      "gift_id": 7609766,
+      "name": "Mad Pumpkin",
+      "model": "Silver Surfer (3%)",
+      "asset": "TON",
+      "symbol": "Gravestone (2.4%)",
+      "backdrop": "Battleship Grey (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 13.6,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T08:43:42.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 8593,
       "customEmojiId": "5434099490275484023",
       "gift_id": 7640538,
@@ -15704,6 +15778,26 @@
   ],
   "Let It Snow": [
     {
+      "gift_num": 17595,
+      "customEmojiId": "5436132693433672122",
+      "gift_id": 7338532,
+      "name": "Mad Pumpkin",
+      "model": "Let It Snow (3%)",
+      "asset": "TON",
+      "symbol": "Spooky Cat (2.4%)",
+      "backdrop": "Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T14:17:19.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 10427,
       "customEmojiId": "5436132693433672122",
       "gift_id": 7484873,
@@ -15761,26 +15855,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T22:15:10.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 17595,
-      "customEmojiId": "5436132693433672122",
-      "gift_id": 7338532,
-      "name": "Mad Pumpkin",
-      "model": "Let It Snow (3%)",
-      "asset": "TON",
-      "symbol": "Spooky Cat (2.4%)",
-      "backdrop": "Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 55,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-05T14:17:19.000Z",
       "premarketData": {}
     },
     {
@@ -19427,26 +19501,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-25T01:42:01.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 8196,
-      "customEmojiId": "5438564134549479307",
-      "gift_id": 5982651,
-      "name": "Mad Pumpkin",
-      "model": "Heat Stroke (1.5%)",
-      "asset": "TON",
-      "symbol": "Illuminati (2.4%)",
-      "backdrop": "Copper (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 33.33,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T14:31:42.000Z",
       "premarketData": {}
     },
     {
