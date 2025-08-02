@@ -4673,6 +4673,53 @@
       "auction": null,
       "export_at": "2025-06-28T10:52:45.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 3953,
+      "customEmojiId": "5425027699007583317",
+      "gift_id": 7643897,
+      "name": "Nail Bracelet",
+      "model": "Rusty Nail (2.5%)",
+      "asset": "TON",
+      "symbol": "Shortsword (0.5%)",
+      "backdrop": "Battleship Grey (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 94,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "KW7JHQ8J",
+      "auction": {
+        "_id": "688d9291eb94b7cc33429144",
+        "gift_id": 7643897,
+        "seller": 0,
+        "auction_id": "KW7JHQ8J",
+        "startingBid": 50,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 94,
+            "asset": "TON",
+            "_id": "688d92b0eb94b7cc3342928e",
+            "timestamp": "2025-08-02T04:23:12.219Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T06:22:39.756Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 3953,
+        "model": "Rusty Nail (2.5%)",
+        "backdrop": "Battleship Grey (1.2%)",
+        "symbol": "Shortsword (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T04:22:41.578Z",
+        "__v": 0,
+        "winningBid": 94,
+        "winningBidder": 7172770086
+      },
+      "export_at": "2025-08-16T04:17:21.000Z",
+      "premarketData": {}
     }
   ],
   "Mario Pipe": [
@@ -5808,6 +5855,53 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-29T12:23:37.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3952,
+      "customEmojiId": "5422626095029580789",
+      "gift_id": 7643903,
+      "name": "Nail Bracelet",
+      "model": "Monster Eye (2%)",
+      "asset": "TON",
+      "symbol": "Bastet (0.2%)",
+      "backdrop": "Burgundy (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 95.5,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "F86EIZP0",
+      "auction": {
+        "_id": "688d927feb94b7cc33428e1f",
+        "gift_id": 7643903,
+        "seller": 0,
+        "auction_id": "F86EIZP0",
+        "startingBid": 50,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 95.5,
+            "asset": "TON",
+            "_id": "688d9302eb94b7cc3342a003",
+            "timestamp": "2025-08-02T04:24:34.645Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T06:22:20.875Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 3952,
+        "model": "Monster Eye (2%)",
+        "backdrop": "Burgundy (1.5%)",
+        "symbol": "Bastet (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T04:22:23.484Z",
+        "__v": 0,
+        "winningBid": 95.5,
+        "winningBidder": 7172770086
+      },
+      "export_at": "2025-08-16T04:17:45.000Z",
       "premarketData": {}
     }
   ],
