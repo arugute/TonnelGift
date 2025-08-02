@@ -18179,7 +18179,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 100,
+      "price": 50,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -18870,6 +18870,26 @@
   ],
   "Banana Pox": [
     {
+      "gift_num": 2751,
+      "customEmojiId": "5395561856830038316",
+      "gift_id": 7623823,
+      "name": "Kissed Frog",
+      "model": "Banana Pox (3%)",
+      "asset": "TON",
+      "symbol": "Scorpion (0.2%)",
+      "backdrop": "Cappuccino (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 28,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T14:36:52.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3365,
       "customEmojiId": "5395561856830038316",
       "gift_id": 7641365,
@@ -19427,26 +19447,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T07:24:57.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6612,
-      "customEmojiId": "5395561856830038316",
-      "gift_id": 5923315,
-      "name": "Kissed Frog",
-      "model": "Banana Pox (3%)",
-      "asset": "TON",
-      "symbol": "Illuminati (1.2%)",
-      "backdrop": "Persimmon (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 120,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T07:26:18.000Z",
       "premarketData": {}
     }
   ]
