@@ -1709,7 +1709,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 70,
+      "price": 68,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -1856,6 +1856,60 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T05:44:19.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 1625,
+      "customEmojiId": "5431739526005416104",
+      "gift_id": 7651821,
+      "name": "Magic Potion",
+      "model": "Tainted Love (1.5%)",
+      "asset": "TON",
+      "symbol": "Gravestone (2.4%)",
+      "backdrop": "Raspberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 48.3,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "46PT3XOS",
+      "auction": {
+        "_id": "688df7b7eb94b7cc33a7a58f",
+        "gift_id": 7651821,
+        "seller": 0,
+        "auction_id": "46PT3XOS",
+        "startingBid": 45,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 46,
+            "asset": "TON",
+            "_id": "688e05f9eb94b7cc33cc55dc",
+            "timestamp": "2025-08-02T12:35:05.906Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 48.3,
+            "asset": "TON",
+            "_id": "688e06c1eb94b7cc33ce5e78",
+            "timestamp": "2025-08-02T12:38:25.883Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T14:34:50.713Z",
+        "status": "finished",
+        "gift_name": "Magic Potion",
+        "gift_num": 1625,
+        "model": "Tainted Love (1.5%)",
+        "backdrop": "Raspberry (1.5%)",
+        "symbol": "Gravestone (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T12:34:46.535Z",
+        "__v": 0,
+        "winningBid": 48.3,
+        "winningBidder": 7172770086
+      },
+      "export_at": "2025-08-16T11:33:37.000Z",
       "premarketData": {}
     }
   ],
@@ -2475,26 +2529,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-16T11:49:31.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1607,
-      "customEmojiId": "5398095363548668030",
-      "gift_id": 7640115,
-      "name": "Magic Potion",
-      "model": "Dimensional (2.5%)",
-      "asset": "TON",
-      "symbol": "Candy (0.2%)",
-      "backdrop": "Caramel (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 58,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T22:43:21.000Z",
       "premarketData": {}
     },
     {
@@ -4505,26 +4539,6 @@
     }
   ],
   "Purple Rain": [
-    {
-      "gift_num": 3116,
-      "customEmojiId": "5398120441862710563",
-      "gift_id": 7614932,
-      "name": "Magic Potion",
-      "model": "Purple Rain (2.5%)",
-      "asset": "TON",
-      "symbol": "Ladybug (0.2%)",
-      "backdrop": "Light Olive (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 65,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T11:01:30.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 3199,
       "customEmojiId": "5398120441862710563",
