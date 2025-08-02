@@ -1696,6 +1696,26 @@
   ],
   "Gryffindor": [
     {
+      "gift_num": 9108,
+      "customEmojiId": "5416093247908896917",
+      "gift_id": 7625228,
+      "name": "Berry Box",
+      "model": "Gryffindor (1.5%)",
+      "asset": "TON",
+      "symbol": "Ladybug (1.1%)",
+      "backdrop": "Mystic Pearl (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T15:16:27.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 19424,
       "customEmojiId": "5416093247908896917",
       "gift_id": 6576026,
@@ -1713,26 +1733,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-02T17:01:07.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 9108,
-      "customEmojiId": "5416093247908896917",
-      "gift_id": 7625228,
-      "name": "Berry Box",
-      "model": "Gryffindor (1.5%)",
-      "asset": "TON",
-      "symbol": "Ladybug (1.1%)",
-      "backdrop": "Mystic Pearl (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T15:16:27.000Z",
       "premarketData": {}
     },
     {
@@ -4428,26 +4428,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 21538,
-      "customEmojiId": "5413773832425074539",
-      "gift_id": 7378308,
-      "name": "Berry Box",
-      "model": "Refraction (2%)",
-      "asset": "TON",
-      "symbol": "Love Lock (1.1%)",
-      "backdrop": "Fandango (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T08:28:01.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 6859,
       "customEmojiId": "5413773832425074539",
       "gift_id": 7479216,
@@ -6739,6 +6719,116 @@
       "premarketData": {}
     },
     {
+      "gift_num": 40498,
+      "customEmojiId": "5413627932386027496",
+      "gift_id": 7644335,
+      "name": "Berry Box",
+      "model": "Alpha (1.5%)",
+      "asset": "TON",
+      "symbol": "Candy (1.1%)",
+      "backdrop": "Satin Gold (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 3.12,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "OQ0NGVVC",
+      "auction": {
+        "_id": "688d9d81eb94b7cc3343b059",
+        "gift_id": 7644335,
+        "seller": 0,
+        "auction_id": "OQ0NGVVC",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688da7b6eb94b7cc33454882",
+            "timestamp": "2025-08-02T05:52:54.720Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688da97aeb94b7cc334658d6",
+            "timestamp": "2025-08-02T06:00:26.295Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "688dabeaeb94b7cc334e58ad",
+            "timestamp": "2025-08-02T06:10:50.919Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "688dac22eb94b7cc334f2c3c",
+            "timestamp": "2025-08-02T06:11:46.808Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "688daccfeb94b7cc3351e03a",
+            "timestamp": "2025-08-02T06:14:39.328Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.56,
+            "asset": "TON",
+            "_id": "688dace5eb94b7cc33523b60",
+            "timestamp": "2025-08-02T06:15:01.602Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.69,
+            "asset": "TON",
+            "_id": "688dad44eb94b7cc3353b60f",
+            "timestamp": "2025-08-02T06:16:36.216Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.83,
+            "asset": "TON",
+            "_id": "688dae12eb94b7cc3356a6dc",
+            "timestamp": "2025-08-02T06:20:02.965Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.97,
+            "asset": "TON",
+            "_id": "688dae9deb94b7cc3357eb34",
+            "timestamp": "2025-08-02T06:22:21.595Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.12,
+            "asset": "TON",
+            "_id": "688db1abeb94b7cc335cf7cb",
+            "timestamp": "2025-08-02T06:35:23.175Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T06:49:20.134Z",
+        "status": "finished",
+        "gift_name": "Berry Box",
+        "gift_num": 40498,
+        "model": "Alpha (1.5%)",
+        "backdrop": "Satin Gold (1%)",
+        "symbol": "Candy (1.1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T05:09:21.448Z",
+        "__v": 0,
+        "winningBid": 3.12,
+        "winningBidder": 6717061598
+      },
+      "export_at": "2025-08-16T05:08:58.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 40536,
       "customEmojiId": "5413627932386027496",
       "gift_id": 7526849,
@@ -6787,26 +6877,6 @@
     }
   ],
   "Starberry": [
-    {
-      "gift_num": 32354,
-      "customEmojiId": "5429133503058963467",
-      "gift_id": 7616164,
-      "name": "Berry Box",
-      "model": "Starberry (1.5%)",
-      "asset": "TON",
-      "symbol": "Flower Tulip (1.1%)",
-      "backdrop": "Raspberry (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6.55,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T11:28:44.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 9399,
       "customEmojiId": "5429133503058963467",
@@ -7644,7 +7714,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 11,
+      "price": 8.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -10595,7 +10665,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.2,
+      "price": 4.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -11286,6 +11356,26 @@
     }
   ],
   "Unicorns": [
+    {
+      "gift_num": 35279,
+      "customEmojiId": "5431516514123536333",
+      "gift_id": 5601800,
+      "name": "Berry Box",
+      "model": "Unicorns (1.5%)",
+      "asset": "TON",
+      "symbol": "Lovely Bra (1.1%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-17T07:56:33.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 22674,
       "customEmojiId": "5431516514123536333",
@@ -14509,6 +14599,26 @@
     }
   ],
   "RGBerry": [
+    {
+      "gift_num": 14772,
+      "customEmojiId": "5415801306096884123",
+      "gift_id": 7642816,
+      "name": "Berry Box",
+      "model": "RGBerry (2%)",
+      "asset": "TON",
+      "symbol": "Broken Heart (0.5%)",
+      "backdrop": "Cyberpunk (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-16T01:52:04.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 39225,
       "customEmojiId": "5415801306096884123",
@@ -25158,26 +25268,6 @@
     }
   ],
   "Tuxedo": [
-    {
-      "gift_num": 11076,
-      "customEmojiId": "5413354892725085660",
-      "gift_id": 7624987,
-      "name": "Berry Box",
-      "model": "Tuxedo (1.5%)",
-      "asset": "TON",
-      "symbol": "Chili (1.1%)",
-      "backdrop": "Fandango (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T15:08:15.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 10920,
       "customEmojiId": "5413354892725085660",
