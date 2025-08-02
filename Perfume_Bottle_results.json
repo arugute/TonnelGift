@@ -386,7 +386,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 135,
+      "price": 90,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -1416,6 +1416,26 @@
   ],
   "Jade Steel": [
     {
+      "gift_num": 294,
+      "customEmojiId": "5411563406031347556",
+      "gift_id": 7471655,
+      "name": "Perfume Bottle",
+      "model": "Jade Steel (2%)",
+      "asset": "TON",
+      "symbol": "Cat Mask (0.6%)",
+      "backdrop": "Pacific Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 97,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-13T06:47:08.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1135,
       "customEmojiId": "5411563406031347556",
       "gift_id": 7567976,
@@ -2435,26 +2455,6 @@
     }
   ],
   "Cotton Candy": [
-    {
-      "gift_num": 4202,
-      "customEmojiId": "5411537915400448260",
-      "gift_id": 7634255,
-      "name": "Perfume Bottle",
-      "model": "Cotton Candy (4%)",
-      "asset": "TON",
-      "symbol": "Rabbit (0.4%)",
-      "backdrop": "Orange (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 70,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T19:20:21.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 934,
       "customEmojiId": "5411537915400448260",
@@ -4111,6 +4111,24 @@
     }
   ],
   "Grape Juice": [
+    {
+      "gift_num": 3065,
+      "customEmojiId": "5411623488328852188",
+      "gift_id": 580104117655,
+      "name": "Perfume Bottle",
+      "model": "Grape Juice (2%)",
+      "asset": "TON",
+      "symbol": "Crown (0.4%)",
+      "backdrop": "Steel Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 550.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 2964,
       "customEmojiId": "5411623488328852188",
