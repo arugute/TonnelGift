@@ -16540,6 +16540,26 @@
   ],
   "Emerald": [
     {
+      "gift_num": 37911,
+      "customEmojiId": "5334743741234178039",
+      "gift_id": 7475245,
+      "name": "Snow Globe",
+      "model": "Emerald (3%)",
+      "asset": "TON",
+      "symbol": "Snowflake (1.2%)",
+      "backdrop": "Black (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 17,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-13T12:50:10.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1031,
       "customEmojiId": "5334743741234178039",
       "gift_id": 6196422,
@@ -16577,26 +16597,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-14T05:52:05.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 37911,
-      "customEmojiId": "5334743741234178039",
-      "gift_id": 7475245,
-      "name": "Snow Globe",
-      "model": "Emerald (3%)",
-      "asset": "TON",
-      "symbol": "Snowflake (1.2%)",
-      "backdrop": "Black (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-13T12:50:10.000Z",
       "premarketData": {}
     },
     {
@@ -24722,6 +24722,96 @@
       "premarketData": {}
     },
     {
+      "gift_num": 32651,
+      "customEmojiId": "5334835039353986984",
+      "gift_id": 7612732,
+      "name": "Snow Globe",
+      "model": "Midas Manor (3%)",
+      "asset": "TON",
+      "symbol": "Candy (1.5%)",
+      "backdrop": "Caramel (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16.66,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "VA1AA1QB",
+      "auction": {
+        "_id": "688cb83eeb94b7cc332f3d21",
+        "gift_id": 7612732,
+        "seller": 0,
+        "auction_id": "VA1AA1QB",
+        "startingBid": 5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "688d2db5eb94b7cc3310ca9e",
+            "timestamp": "2025-08-01T21:12:21.058Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11,
+            "asset": "TON",
+            "_id": "688d347aeb94b7cc33130474",
+            "timestamp": "2025-08-01T21:41:14.438Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.55,
+            "asset": "TON",
+            "_id": "688d52cceb94b7cc331c02a9",
+            "timestamp": "2025-08-01T23:50:36.504Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.13,
+            "asset": "TON",
+            "_id": "688d6066eb94b7cc331ecf49",
+            "timestamp": "2025-08-02T00:48:38.836Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.74,
+            "asset": "TON",
+            "_id": "688d6090eb94b7cc331ed235",
+            "timestamp": "2025-08-02T00:49:20.668Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.38,
+            "asset": "TON",
+            "_id": "688d609eeb94b7cc331ed39d",
+            "timestamp": "2025-08-02T00:49:34.285Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 16.66,
+            "asset": "TON",
+            "_id": "688d6347eb94b7cc331f4ff4",
+            "timestamp": "2025-08-02T01:00:55.058Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T01:11:08.933Z",
+        "status": "finished",
+        "gift_name": "Snow Globe",
+        "gift_num": 32651,
+        "model": "Midas Manor (3%)",
+        "backdrop": "Caramel (1.5%)",
+        "symbol": "Candy (1.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-01T12:51:10.644Z",
+        "__v": 0,
+        "winningBid": 16.66,
+        "winningBidder": 655001641
+      },
+      "export_at": "2025-08-15T10:02:49.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 30801,
       "customEmojiId": "5334835039353986984",
       "gift_id": 6956577,
@@ -25250,26 +25340,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-25T20:54:41.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16345,
-      "customEmojiId": "5334835039353986984",
-      "gift_id": 7127696,
-      "name": "Snow Globe",
-      "model": "Midas Manor (3%)",
-      "asset": "TON",
-      "symbol": "Sun Mountain (0.4%)",
-      "backdrop": "Gunship Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 12,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T11:38:36.000Z",
       "premarketData": {}
     }
   ],
@@ -25877,6 +25947,26 @@
   ],
   "Happy Town": [
     {
+      "gift_num": 14631,
+      "customEmojiId": "5337180808757143920",
+      "gift_id": 7243026,
+      "name": "Snow Globe",
+      "model": "Happy Town (1.5%)",
+      "asset": "TON",
+      "symbol": "Moon Eagle (0.2%)",
+      "backdrop": "Amber (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-30T03:04:18.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 22119,
       "customEmojiId": "5337180808757143920",
       "gift_id": 7610836,
@@ -25974,26 +26064,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-11T19:31:23.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 14631,
-      "customEmojiId": "5337180808757143920",
-      "gift_id": 7243026,
-      "name": "Snow Globe",
-      "model": "Happy Town (1.5%)",
-      "asset": "TON",
-      "symbol": "Moon Eagle (0.2%)",
-      "backdrop": "Amber (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-30T03:04:18.000Z",
       "premarketData": {}
     },
     {
