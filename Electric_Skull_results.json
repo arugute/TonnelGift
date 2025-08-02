@@ -2875,7 +2875,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 26.16,
+      "price": 24.85,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -4261,26 +4261,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 1673,
-      "customEmojiId": "5269299701047388200",
-      "gift_id": 7205631,
-      "name": "Electric Skull",
-      "model": "Dead Kitty (1.5%)",
-      "asset": "TON",
-      "symbol": "Flying Witch (0.5%)",
-      "backdrop": "Platinum (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 48,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-28T00:03:56.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2287,
       "customEmojiId": "5269299701047388200",
       "gift_id": 6817767,
@@ -4977,6 +4957,166 @@
       "premarketData": {}
     },
     {
+      "gift_num": 1614,
+      "customEmojiId": "5226757899656653098",
+      "gift_id": 7468032,
+      "name": "Electric Skull",
+      "model": "Metal Shade (4%)",
+      "asset": "TON",
+      "symbol": "Old Scull (0.8%)",
+      "backdrop": "Seal Brown (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 23,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "KLVQWEPK",
+      "auction": {
+        "_id": "68892b3254445e0f6877210a",
+        "gift_id": 7468032,
+        "seller": 0,
+        "auction_id": "KLVQWEPK",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688d7a66eb94b7cc33246d98",
+            "timestamp": "2025-08-02T02:39:34.761Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688da5a7eb94b7cc3344e577",
+            "timestamp": "2025-08-02T05:44:07.083Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "688dcdc9eb94b7cc3373dae4",
+            "timestamp": "2025-08-02T08:35:21.048Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "688dd699eb94b7cc338b313f",
+            "timestamp": "2025-08-02T09:12:57.391Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "688dd7afeb94b7cc338b8ce4",
+            "timestamp": "2025-08-02T09:17:35.008Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.9,
+            "asset": "TON",
+            "_id": "688de79beb94b7cc3391215c",
+            "timestamp": "2025-08-02T10:25:31.595Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.3,
+            "asset": "TON",
+            "_id": "688de802eb94b7cc33916400",
+            "timestamp": "2025-08-02T10:27:14.556Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.72,
+            "asset": "TON",
+            "_id": "688e05a8eb94b7cc33cbd785",
+            "timestamp": "2025-08-02T12:33:44.936Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.16,
+            "asset": "TON",
+            "_id": "688e084aeb94b7cc33d204ef",
+            "timestamp": "2025-08-02T12:44:58.188Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.62,
+            "asset": "TON",
+            "_id": "688e08f0eb94b7cc33d2ecf3",
+            "timestamp": "2025-08-02T12:47:44.796Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.1,
+            "asset": "TON",
+            "_id": "688e091aeb94b7cc33d332d2",
+            "timestamp": "2025-08-02T12:48:26.216Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.61,
+            "asset": "TON",
+            "_id": "688e0ab5eb94b7cc33d5e8c3",
+            "timestamp": "2025-08-02T12:55:17.591Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.14,
+            "asset": "TON",
+            "_id": "688e0ac5eb94b7cc33d5fb28",
+            "timestamp": "2025-08-02T12:55:33.911Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.7,
+            "asset": "TON",
+            "_id": "688e119feb94b7cc33dfcae6",
+            "timestamp": "2025-08-02T13:24:47.645Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.29,
+            "asset": "TON",
+            "_id": "688e11c8eb94b7cc33dff21d",
+            "timestamp": "2025-08-02T13:25:28.322Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15,
+            "asset": "TON",
+            "_id": "688e11deeb94b7cc33e00333",
+            "timestamp": "2025-08-02T13:25:50.008Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 23,
+            "asset": "TON",
+            "_id": "688e11f9eb94b7cc33e01230",
+            "timestamp": "2025-08-02T13:26:17.100Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T14:32:20.419Z",
+        "status": "finished",
+        "gift_name": "Electric Skull",
+        "gift_num": 1614,
+        "model": "Metal Shade (4%)",
+        "backdrop": "Seal Brown (1%)",
+        "symbol": "Old Scull (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T02:32:22.192Z",
+        "__v": 0,
+        "winningBid": 23,
+        "winningBidder": 5245054432
+      },
+      "export_at": "2025-08-12T20:02:28.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5385,
       "customEmojiId": "5226757899656653098",
       "gift_id": 6941421,
@@ -5502,26 +5642,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 385,
-      "customEmojiId": "5226757899656653098",
-      "gift_id": 1432769,
-      "name": "Electric Skull",
-      "model": "Metal Shade (4%)",
-      "asset": "TON",
-      "symbol": "Beetle (0.5%)",
-      "backdrop": "Marine Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 75,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-03-28T11:06:04.000Z",
       "premarketData": {}
     }
   ],
@@ -13696,6 +13816,81 @@
   ],
   "Tangerine": [
     {
+      "gift_num": 40,
+      "customEmojiId": "5224384659642672434",
+      "gift_id": 7450364,
+      "name": "Electric Skull",
+      "model": "Tangerine (4%)",
+      "asset": "TON",
+      "symbol": "Lemon Slice (0.5%)",
+      "backdrop": "Copper (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 55,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T14:20:43.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3777,
+      "customEmojiId": "5224384659642672434",
+      "gift_id": 7649330,
+      "name": "Electric Skull",
+      "model": "Tangerine (4%)",
+      "asset": "TON",
+      "symbol": "Severed Hand (0.8%)",
+      "backdrop": "Pistachio (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 24.29,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "YYYNODTE",
+      "auction": {
+        "_id": "688de342eb94b7cc338fb30a",
+        "gift_id": 7649330,
+        "seller": 0,
+        "auction_id": "YYYNODTE",
+        "startingBid": 22,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 23.13,
+            "asset": "TON",
+            "_id": "688e1c29eb94b7cc33ef5471",
+            "timestamp": "2025-08-02T14:09:45.966Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 24.29,
+            "asset": "TON",
+            "_id": "688e28b4eb94b7cc332fb4f9",
+            "timestamp": "2025-08-02T15:03:16.629Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T15:17:01.657Z",
+        "status": "finished",
+        "gift_name": "Electric Skull",
+        "gift_num": 3777,
+        "model": "Tangerine (4%)",
+        "backdrop": "Pistachio (1.5%)",
+        "symbol": "Severed Hand (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T14:07:02.706Z",
+        "__v": 0,
+        "winningBid": 24.29,
+        "winningBidder": 1264794963
+      },
+      "export_at": "2025-08-16T09:57:11.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3777,
       "customEmojiId": "5224384659642672434",
       "gift_id": 7647879,
@@ -14236,49 +14431,27 @@
       "auction": null,
       "export_at": "2025-06-24T10:21:51.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 8562,
-      "customEmojiId": "5224384659642672434",
-      "gift_id": 6631820,
-      "name": "Electric Skull",
-      "model": "Tangerine (4%)",
-      "asset": "TON",
-      "symbol": "Dagger (0.8%)",
-      "backdrop": "Black (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 842855,
-      "price": 540,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-04T14:39:11.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1236,
-      "customEmojiId": "5224384659642672434",
-      "gift_id": 6081439,
-      "name": "Electric Skull",
-      "model": "Tangerine (4%)",
-      "asset": "TON",
-      "symbol": "Fire (0.5%)",
-      "backdrop": "Silver Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 70,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T04:21:59.000Z",
-      "premarketData": {}
     }
   ],
   "Ruby Eyes": [
+    {
+      "gift_num": 5310,
+      "customEmojiId": "5235588562870625501",
+      "gift_id": 593353541578,
+      "name": "Electric Skull",
+      "model": "Ruby Eyes (4%)",
+      "asset": "TON",
+      "symbol": "Gem (0.5%)",
+      "backdrop": "Chestnut (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 110.154,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 6316,
       "customEmojiId": "5235588562870625501",
@@ -14835,26 +15008,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-17T09:04:06.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5175,
-      "customEmojiId": "5235588562870625501",
-      "gift_id": 6060670,
-      "name": "Electric Skull",
-      "model": "Ruby Eyes (4%)",
-      "asset": "TON",
-      "symbol": "Coin Purse (0.5%)",
-      "backdrop": "Carmine (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T21:55:00.000Z",
       "premarketData": {}
     }
   ],
