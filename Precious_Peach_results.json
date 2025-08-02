@@ -1,26 +1,4 @@
 {
-  "Soap Bubble": [
-    {
-      "gift_num": 583,
-      "customEmojiId": "5375447498485688613",
-      "gift_id": 7656856,
-      "name": "Precious Peach",
-      "model": "Soap Bubble (1.5%)",
-      "asset": "TON",
-      "symbol": "Lovely Rain (0.4%)",
-      "backdrop": "Mystic Pearl (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 937705,
-      "price": 280,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-16T14:46:26.000Z",
-      "premarketData": {}
-    }
-  ],
   "Purple Glow": [
     {
       "gift_num": 1177,
@@ -168,48 +146,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-22T15:06:45.000Z",
-      "premarketData": {}
-    }
-  ],
-  "Iron Blush": [
-    {
-      "gift_num": 2040,
-      "customEmojiId": "5377517342009874693",
-      "gift_id": 7387154,
-      "name": "Precious Peach",
-      "model": "Iron Blush (1.5%)",
-      "asset": "TON",
-      "symbol": "Yogi Shaman (0.4%)",
-      "backdrop": "Mystic Pearl (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 927660,
-      "price": 278,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T19:26:28.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2351,
-      "customEmojiId": "5377517342009874693",
-      "gift_id": 7356813,
-      "name": "Precious Peach",
-      "model": "Iron Blush (1.5%)",
-      "asset": "TON",
-      "symbol": "Shield (0.4%)",
-      "backdrop": "Electric Purple (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 919993,
-      "price": 290,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T19:00:40.000Z",
       "premarketData": {}
     }
   ],
@@ -361,26 +297,6 @@
     {
       "gift_num": 913,
       "customEmojiId": "5402234569560710325",
-      "gift_id": 7446075,
-      "name": "Precious Peach",
-      "model": "Faded Silver (1.5%)",
-      "asset": "TON",
-      "symbol": "Fleur-de-lis (0.5%)",
-      "backdrop": "Pacific Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 930295,
-      "price": 333,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T09:06:35.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 913,
-      "customEmojiId": "5402234569560710325",
       "gift_id": 603041978051,
       "name": "Precious Peach",
       "model": "Faded Silver (1.5%)",
@@ -477,90 +393,6 @@
       "premarketData": {}
     }
   ],
-  "Golden Shine": [
-    {
-      "gift_num": 242,
-      "customEmojiId": "5375389043980786854",
-      "gift_id": 7323593,
-      "name": "Precious Peach",
-      "model": "Golden Shine (1.5%)",
-      "asset": "TON",
-      "symbol": "Ladybug (0.4%)",
-      "backdrop": "Aquamarine (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 918242,
-      "price": 250,
-      "promoted": true,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T10:39:13.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 914,
-      "customEmojiId": "5375389043980786854",
-      "gift_id": 7420648,
-      "name": "Precious Peach",
-      "model": "Golden Shine (1.5%)",
-      "asset": "TON",
-      "symbol": "UFO (0.2%)",
-      "backdrop": "French Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 285.6,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "AX3Y9YGA",
-      "auction": {
-        "_id": "68855eda450b5b469c26ae7c",
-        "gift_id": 7420648,
-        "seller": 0,
-        "auction_id": "AX3Y9YGA",
-        "startingBid": 150,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 150,
-            "asset": "TON",
-            "_id": "68863a5e450b5b469cd3d7f6",
-            "timestamp": "2025-07-27T14:40:30.821Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 272,
-            "asset": "TON",
-            "_id": "6886c632450b5b469c759692",
-            "timestamp": "2025-07-28T00:37:06.848Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 285.6,
-            "asset": "TON",
-            "_id": "68871e77450b5b469ce66120",
-            "timestamp": "2025-07-28T06:53:43.144Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-28T07:55:23.856Z",
-        "status": "finished",
-        "gift_name": "Precious Peach",
-        "gift_num": 914,
-        "model": "Golden Shine (1.5%)",
-        "backdrop": "French Blue (2%)",
-        "symbol": "UFO (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-27T07:55:24.720Z",
-        "__v": 0,
-        "winningBid": 285.6,
-        "winningBidder": 6550341008
-      },
-      "export_at": "2025-08-09T23:03:25.000Z",
-      "premarketData": {}
-    }
-  ],
   "Christmas": [
     {
       "gift_num": 2333,
@@ -642,28 +474,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-03-01T08:16:33.000Z",
-      "premarketData": {}
-    }
-  ],
-  "Twilight": [
-    {
-      "gift_num": 91,
-      "customEmojiId": "5375240399457642084",
-      "gift_id": 7450892,
-      "name": "Precious Peach",
-      "model": "Twilight (1.5%)",
-      "asset": "TON",
-      "symbol": "Viking (0.2%)",
-      "backdrop": "Emerald (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 927936,
-      "price": 250,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T14:56:46.000Z",
       "premarketData": {}
     }
   ],
@@ -919,26 +729,6 @@
   ],
   "Bismuth": [
     {
-      "gift_num": 1115,
-      "customEmojiId": "5397688144814431049",
-      "gift_id": 7389945,
-      "name": "Precious Peach",
-      "model": "Bismuth (1.5%)",
-      "asset": "TON",
-      "symbol": "Fleur-de-lis (0.5%)",
-      "backdrop": "Shamrock Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 923939,
-      "price": 280,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T00:01:44.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2520,
       "customEmojiId": "5397688144814431049",
       "gift_id": 6473732,
@@ -977,48 +767,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-29T23:12:31.000Z",
-      "premarketData": {}
-    }
-  ],
-  "Iridescent": [
-    {
-      "gift_num": 2450,
-      "customEmojiId": "5399818444298284160",
-      "gift_id": 7387553,
-      "name": "Precious Peach",
-      "model": "Iridescent (1.5%)",
-      "asset": "TON",
-      "symbol": "Flashlight (0.2%)",
-      "backdrop": "Silver Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 923078,
-      "price": 265,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T19:58:05.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1028,
-      "customEmojiId": "5399818444298284160",
-      "gift_id": 6252264,
-      "name": "Precious Peach",
-      "model": "Iridescent (1.5%)",
-      "asset": "TON",
-      "symbol": "UFO (0.2%)",
-      "backdrop": "Jade Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 915866,
-      "price": 320,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-25T19:09:59.000Z",
       "premarketData": {}
     }
   ],
@@ -1108,62 +856,6 @@
       "premarketData": {}
     }
   ],
-  "Morningstar": [
-    {
-      "gift_num": 2196,
-      "customEmojiId": "5427094574709368308",
-      "gift_id": 7574527,
-      "name": "Precious Peach",
-      "model": "Morningstar (1%)",
-      "asset": "TON",
-      "symbol": "Dolphin (0.6%)",
-      "backdrop": "Carrot Juice (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 285,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "5I391S6O",
-      "auction": {
-        "_id": "688bc211f250e6e56f3bfa29",
-        "gift_id": 7574527,
-        "seller": 0,
-        "auction_id": "5I391S6O",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 266.5,
-            "asset": "TON",
-            "_id": "688c2db6eb94b7cc334b6457",
-            "timestamp": "2025-08-01T03:00:06.066Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 285,
-            "asset": "TON",
-            "_id": "688c5ebdeb94b7cc33e0e6fc",
-            "timestamp": "2025-08-01T06:29:17.250Z"
-          }
-        ],
-        "auctionEndTime": "2025-08-01T08:16:34.112Z",
-        "status": "finished",
-        "gift_name": "Precious Peach",
-        "gift_num": 2196,
-        "model": "Morningstar (1%)",
-        "backdrop": "Carrot Juice (1%)",
-        "symbol": "Dolphin (0.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-31T20:16:35.999Z",
-        "__v": 0,
-        "winningBid": 285,
-        "winningBidder": 1068757024
-      },
-      "export_at": "2025-08-14T19:17:44.000Z",
-      "premarketData": {}
-    }
-  ],
   "Stardust": [
     {
       "gift_num": 934,
@@ -1223,26 +915,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2825,
-      "customEmojiId": "5377364801951388561",
-      "gift_id": 7481134,
-      "name": "Precious Peach",
-      "model": "Elegance (1.5%)",
-      "asset": "TON",
-      "symbol": "Calm Wolf (0.5%)",
-      "backdrop": "Electric Indigo (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 932928,
-      "price": 273,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-13T20:55:01.000Z",
       "premarketData": {}
     },
     {
@@ -1328,28 +1000,6 @@
       "premarketData": {}
     }
   ],
-  "Juicy Tones": [
-    {
-      "gift_num": 2035,
-      "customEmojiId": "5375264507109073788",
-      "gift_id": 7330583,
-      "name": "Precious Peach",
-      "model": "Juicy Tones (1.5%)",
-      "asset": "TON",
-      "symbol": "Maple Leaf (0.2%)",
-      "backdrop": "Indigo Dye (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 917366,
-      "price": 277,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T20:12:23.000Z",
-      "premarketData": {}
-    }
-  ],
   "Bubbling Blue": [
     {
       "gift_num": 2358,
@@ -1412,88 +1062,6 @@
       "auction": null,
       "export_at": "2025-07-19T09:26:03.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 2932,
-      "customEmojiId": "5399981309458146118",
-      "gift_id": 7467699,
-      "name": "Precious Peach",
-      "model": "Clear Sky (1.5%)",
-      "asset": "TON",
-      "symbol": "Sun Mountain (0.4%)",
-      "backdrop": "Sky Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 263.7268,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "GZNBL6W1",
-      "auction": {
-        "_id": "6889228c54445e0f68717ef8",
-        "gift_id": 7467699,
-        "seller": 0,
-        "auction_id": "GZNBL6W1",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "688922ef54445e0f6871ae4d",
-            "timestamp": "2025-07-29T19:37:19.525Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "6889235f54445e0f6871ff0a",
-            "timestamp": "2025-07-29T19:39:11.641Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.21,
-            "asset": "TON",
-            "_id": "6889241254445e0f6872a6a5",
-            "timestamp": "2025-07-29T19:42:10.683Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.32,
-            "asset": "TON",
-            "_id": "6889242754445e0f6872bc4d",
-            "timestamp": "2025-07-29T19:42:31.533Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 6,
-            "asset": "TON",
-            "_id": "6889243154445e0f6872c783",
-            "timestamp": "2025-07-29T19:42:41.688Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 263.7268,
-            "asset": "TON",
-            "_id": "688925a754445e0f6873ddf6",
-            "timestamp": "2025-07-29T19:48:55.814Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-29T21:35:39.359Z",
-        "status": "finished",
-        "gift_name": "Precious Peach",
-        "gift_num": 2932,
-        "model": "Clear Sky (1.5%)",
-        "backdrop": "Sky Blue (2%)",
-        "symbol": "Sun Mountain (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-29T19:35:40.572Z",
-        "__v": 0,
-        "winningBid": 263.7268,
-        "winningBidder": 7631154640
-      },
-      "export_at": "2025-08-12T19:35:27.000Z",
-      "premarketData": {}
     }
   ],
   "Peach Black": [
@@ -1535,26 +1103,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-12T10:24:05.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1757,
-      "customEmojiId": "5402109753516122192",
-      "gift_id": 7330576,
-      "name": "Precious Peach",
-      "model": "Peach Black (1.5%)",
-      "asset": "TON",
-      "symbol": "Monstera (0.2%)",
-      "backdrop": "Shamrock Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 917358,
-      "price": 277,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T20:11:45.000Z",
       "premarketData": {}
     }
   ],
@@ -1888,26 +1436,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 2077,
-      "customEmojiId": "5400371223769147290",
-      "gift_id": 7387149,
-      "name": "Precious Peach",
-      "model": "Bright Coral (1.5%)",
-      "asset": "TON",
-      "symbol": "Piñata (0.2%)",
-      "backdrop": "Lavender (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 927663,
-      "price": 280,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T19:26:21.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 1751,
       "customEmojiId": "5400371223769147290",
       "gift_id": 7387146,
@@ -1950,26 +1478,6 @@
   ],
   "Honey Gold": [
     {
-      "gift_num": 1155,
-      "customEmojiId": "5377438572309667018",
-      "gift_id": 7407246,
-      "name": "Precious Peach",
-      "model": "Honey Gold (1.5%)",
-      "asset": "TON",
-      "symbol": "Scorpion (0.2%)",
-      "backdrop": "Indigo Dye (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 924140,
-      "price": 255,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T14:08:20.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2121,
       "customEmojiId": "5377438572309667018",
       "gift_id": 5647025,
@@ -2007,67 +1515,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-17T22:25:33.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2380,
-      "customEmojiId": "5377438572309667018",
-      "gift_id": 7346697,
-      "name": "Precious Peach",
-      "model": "Honey Gold (1.5%)",
-      "asset": "TON",
-      "symbol": "Genie Lamp (0.4%)",
-      "backdrop": "Khaki Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 275.63,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "6SE4QKUY",
-      "auction": {
-        "_id": "68803d0aaace4cd2f69d36bc",
-        "gift_id": 7346697,
-        "seller": 0,
-        "auction_id": "6SE4QKUY",
-        "startingBid": 250,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 250,
-            "asset": "TON",
-            "_id": "688048d8aace4cd2f6a7850d",
-            "timestamp": "2025-07-23T02:28:40.232Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 262.5,
-            "asset": "TON",
-            "_id": "6880bbb4aace4cd2f6259c83",
-            "timestamp": "2025-07-23T10:38:44.992Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 275.63,
-            "asset": "TON",
-            "_id": "6880c6abaace4cd2f627a115",
-            "timestamp": "2025-07-23T11:25:31.970Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-23T13:38:11.586Z",
-        "status": "finished",
-        "gift_name": "Precious Peach",
-        "gift_num": 2380,
-        "model": "Honey Gold (1.5%)",
-        "backdrop": "Khaki Green (2%)",
-        "symbol": "Genie Lamp (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-23T01:38:18.360Z",
-        "__v": 0,
-        "winningBid": 275.63,
-        "winningBidder": 6550341008
-      },
-      "export_at": "2025-08-06T01:36:33.000Z",
       "premarketData": {}
     }
   ],
@@ -2137,26 +1584,6 @@
   ],
   "Soft Sunset": [
     {
-      "gift_num": 2795,
-      "customEmojiId": "5377856880649463290",
-      "gift_id": 7380432,
-      "name": "Precious Peach",
-      "model": "Soft Sunset (2%)",
-      "asset": "TON",
-      "symbol": "Lingerie (0.2%)",
-      "backdrop": "Lavender (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 932044,
-      "price": 260,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T11:00:29.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2369,
       "customEmojiId": "5377856880649463290",
       "gift_id": 6240857,
@@ -2217,90 +1644,6 @@
       "auction": null,
       "export_at": "2025-08-09T00:02:02.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 1824,
-      "customEmojiId": "5399879896690353173",
-      "gift_id": 7330570,
-      "name": "Precious Peach",
-      "model": "Cozy Warmth (1.5%)",
-      "asset": "TON",
-      "symbol": "Rook (0.4%)",
-      "backdrop": "Light Olive (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 917355,
-      "price": 275,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T20:11:15.000Z",
-      "premarketData": {}
-    }
-  ],
-  "Juicy Orange": [
-    {
-      "gift_num": 2022,
-      "customEmojiId": "5402615919706922027",
-      "gift_id": 7347299,
-      "name": "Precious Peach",
-      "model": "Juicy Orange (1.5%)",
-      "asset": "TON",
-      "symbol": "Cicada (0.5%)",
-      "backdrop": "Chestnut (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 919228,
-      "price": 281.14,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "846NEFOI",
-      "auction": {
-        "_id": "68806d26aace4cd2f6ec4a9c",
-        "gift_id": 7347299,
-        "seller": 0,
-        "auction_id": "846NEFOI",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 255,
-            "asset": "TON",
-            "_id": "6880b197aace4cd2f623c984",
-            "timestamp": "2025-07-23T09:55:35.702Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 267.75,
-            "asset": "TON",
-            "_id": "6880b943aace4cd2f62538d9",
-            "timestamp": "2025-07-23T10:28:19.411Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 281.14,
-            "asset": "TON",
-            "_id": "6880bca2aace4cd2f625dc7d",
-            "timestamp": "2025-07-23T10:42:42.536Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-23T11:01:44.263Z",
-        "status": "finished",
-        "gift_name": "Precious Peach",
-        "gift_num": 2022,
-        "model": "Juicy Orange (1.5%)",
-        "backdrop": "Chestnut (1.5%)",
-        "symbol": "Cicada (0.5%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-23T09:51:45.986Z",
-        "__v": 0,
-        "winningBid": 281.14,
-        "winningBidder": 809365453
-      },
-      "export_at": "2025-08-06T05:02:40.000Z",
-      "premarketData": {}
     }
   ],
   "Airy Bright": [
@@ -2326,26 +1669,6 @@
     }
   ],
   "Mardi Gras": [
-    {
-      "gift_num": 1783,
-      "customEmojiId": "5395452476897913921",
-      "gift_id": 7330594,
-      "name": "Precious Peach",
-      "model": "Mardi Gras (1.5%)",
-      "asset": "TON",
-      "symbol": "Sparks (0.4%)",
-      "backdrop": "Amber (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 917357,
-      "price": 276,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T20:12:54.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 1687,
       "customEmojiId": "5395452476897913921",
@@ -2531,26 +1854,6 @@
       "auction": null,
       "export_at": "2025-08-08T19:26:35.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 417,
-      "customEmojiId": "5399976829807255488",
-      "gift_id": 7231581,
-      "name": "Precious Peach",
-      "model": "Ripe Green (1.5%)",
-      "asset": "TON",
-      "symbol": "Romantic Cake (0.4%)",
-      "backdrop": "Pistachio (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 918133,
-      "price": 274.9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T13:42:11.000Z",
-      "premarketData": {}
     }
   ],
   "Ogre Green": [
@@ -2612,28 +1915,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-16T13:32:09.000Z",
-      "premarketData": {}
-    }
-  ],
-  "Lush Green": [
-    {
-      "gift_num": 1543,
-      "customEmojiId": "5397993212046501396",
-      "gift_id": 7388932,
-      "name": "Precious Peach",
-      "model": "Lush Green (1.5%)",
-      "asset": "TON",
-      "symbol": "Dice (0.5%)",
-      "backdrop": "Lavender (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 923301,
-      "price": 275,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T22:05:31.000Z",
       "premarketData": {}
     }
   ]
