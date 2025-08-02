@@ -5494,6 +5494,61 @@
   ],
   "Ouroboros": [
     {
+      "gift_num": 191,
+      "customEmojiId": "5334898067999058688",
+      "gift_id": 7290339,
+      "name": "Nail Bracelet",
+      "model": "Ouroboros (1.5%)",
+      "asset": "TON",
+      "symbol": "Star Crown (0.5%)",
+      "backdrop": "Tactical Pine (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 937056,
+      "price": 105,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "61EH27WO",
+      "auction": {
+        "_id": "688d9bb6eb94b7cc33438341",
+        "gift_id": 7290339,
+        "seller": 0,
+        "auction_id": "61EH27WO",
+        "startingBid": 100,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 100,
+            "asset": "TON",
+            "_id": "688d9bdeeb94b7cc3343840b",
+            "timestamp": "2025-08-02T05:02:22.392Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 105,
+            "asset": "TON",
+            "_id": "688db367eb94b7cc33626d5d",
+            "timestamp": "2025-08-02T06:42:47.351Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T08:01:41.210Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 191,
+        "model": "Ouroboros (1.5%)",
+        "backdrop": "Tactical Pine (1.5%)",
+        "symbol": "Star Crown (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T05:01:42.193Z",
+        "__v": 0,
+        "winningBid": 105,
+        "winningBidder": 1221560017
+      },
+      "export_at": "2025-08-01T23:34:03.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4334,
       "customEmojiId": "5334898067999058688",
       "gift_id": 6787897,
