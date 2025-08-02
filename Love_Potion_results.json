@@ -6340,6 +6340,54 @@
       "premarketData": {}
     },
     {
+      "gift_num": 19220,
+      "customEmojiId": "5289878688953819208",
+      "gift_id": 7491370,
+      "name": "Love Potion",
+      "model": "Astral Guide (0.5%)",
+      "asset": "TON",
+      "symbol": "Ouroboros (0.5%)",
+      "backdrop": "Dark Lilac (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 14.8,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "9H1YOOWJ",
+      "auction": {
+        "_id": "688b9276f250e6e56f2e981c",
+        "gift_id": 7491370,
+        "seller": 0,
+        "auction_id": "9H1YOOWJ",
+        "startingBid": 14.8,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 14.8,
+            "asset": "TON",
+            "_id": "688d6445eb94b7cc331f657c",
+            "timestamp": "2025-08-02T01:05:09.368Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T02:34:25.267Z",
+        "status": "finished",
+        "gift_name": "Love Potion",
+        "gift_num": 19220,
+        "model": "Astral Guide (0.5%)",
+        "backdrop": "Dark Lilac (1.5%)",
+        "symbol": "Ouroboros (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-01T20:34:26.269Z",
+        "__v": 0,
+        "winningBid": 14.8,
+        "winningBidder": 5719309768
+      },
+      "export_at": "2025-08-14T08:54:21.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 17262,
       "customEmojiId": "5289878688953819208",
       "gift_id": 7428741,
