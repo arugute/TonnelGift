@@ -2156,6 +2156,68 @@
   ],
   "Golden Flame": [
     {
+      "gift_num": 3636,
+      "customEmojiId": "5228897991665936286",
+      "gift_id": 7290340,
+      "name": "Genie Lamp",
+      "model": "Golden Flame (3.5%)",
+      "asset": "TON",
+      "symbol": "Illuminati (0.8%)",
+      "backdrop": "Caramel (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 41.36,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "GRLR4HDO",
+      "auction": {
+        "_id": "688d9b7feb94b7cc3343798f",
+        "gift_id": 7290340,
+        "seller": 0,
+        "auction_id": "GRLR4HDO",
+        "startingBid": 20,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 37.5,
+            "asset": "TON",
+            "_id": "688d9ba6eb94b7cc334382d6",
+            "timestamp": "2025-08-02T05:01:26.819Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 39.39,
+            "asset": "TON",
+            "_id": "688dc275eb94b7cc336e2a0f",
+            "timestamp": "2025-08-02T07:47:01.312Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 41.36,
+            "asset": "TON",
+            "_id": "688dc598eb94b7cc336faf4f",
+            "timestamp": "2025-08-02T08:00:24.734Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T08:10:46.219Z",
+        "status": "finished",
+        "gift_name": "Genie Lamp",
+        "gift_num": 3636,
+        "model": "Golden Flame (3.5%)",
+        "backdrop": "Caramel (2%)",
+        "symbol": "Illuminati (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T05:00:47.369Z",
+        "__v": 0,
+        "winningBid": 41.36,
+        "winningBidder": 493231104
+      },
+      "export_at": "2025-08-01T23:34:18.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1589,
       "customEmojiId": "5228897991665936286",
       "gift_id": 7630466,
@@ -2392,7 +2454,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 69.84,
+      "price": 64.94,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -4905,6 +4967,26 @@
     }
   ],
   "Meowgical": [
+    {
+      "gift_num": 6014,
+      "customEmojiId": "5231103792379880791",
+      "gift_id": 7646746,
+      "name": "Genie Lamp",
+      "model": "Meowgical (2%)",
+      "asset": "TON",
+      "symbol": "Crusader (0.5%)",
+      "backdrop": "Azure Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 36.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-16T08:10:16.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2334,
       "customEmojiId": "5231103792379880791",
