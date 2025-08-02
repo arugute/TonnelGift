@@ -714,8 +714,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 0,
-      "price": 149.44,
+      "message_in_channel": 937518,
+      "price": 280,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -2567,6 +2567,186 @@
       "premarketData": {}
     },
     {
+      "gift_num": 3082,
+      "customEmojiId": "5413361597169031482",
+      "gift_id": 7619704,
+      "name": "Sharp Tongue",
+      "model": "Sunset (2.5%)",
+      "asset": "TON",
+      "symbol": "Candle (1.2%)",
+      "backdrop": "Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 135,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "1RXQIY88",
+      "auction": {
+        "_id": "688cbbf2eb94b7cc3336a654",
+        "gift_id": 7619704,
+        "seller": 0,
+        "auction_id": "1RXQIY88",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688cbc24eb94b7cc33370e07",
+            "timestamp": "2025-08-01T13:07:48.731Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688cbc3eeb94b7cc33372da9",
+            "timestamp": "2025-08-01T13:08:14.570Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "688cbc50eb94b7cc33374514",
+            "timestamp": "2025-08-01T13:08:32.419Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "688cbc61eb94b7cc3337553d",
+            "timestamp": "2025-08-01T13:08:49.624Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "688cbca7eb94b7cc333782ef",
+            "timestamp": "2025-08-01T13:09:59.087Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.5,
+            "asset": "TON",
+            "_id": "688cc605eb94b7cc334b531d",
+            "timestamp": "2025-08-01T13:49:57.381Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.03,
+            "asset": "TON",
+            "_id": "688cc743eb94b7cc33504711",
+            "timestamp": "2025-08-01T13:55:15.892Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.58,
+            "asset": "TON",
+            "_id": "688cc762eb94b7cc3350b9fd",
+            "timestamp": "2025-08-01T13:55:46.941Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 32.6,
+            "asset": "TON",
+            "_id": "688cddfaeb94b7cc337e3137",
+            "timestamp": "2025-08-01T15:32:10.879Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 34.23,
+            "asset": "TON",
+            "_id": "688d0bd3eb94b7cc339245b3",
+            "timestamp": "2025-08-01T18:47:47.071Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 80,
+            "asset": "TON",
+            "_id": "688dbc65eb94b7cc336cd390",
+            "timestamp": "2025-08-02T07:21:09.638Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 84,
+            "asset": "TON",
+            "_id": "688df5b1eb94b7cc33a5178d",
+            "timestamp": "2025-08-02T11:25:37.505Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 90,
+            "asset": "TON",
+            "_id": "688df5d8eb94b7cc33a54317",
+            "timestamp": "2025-08-02T11:26:16.698Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 94.5,
+            "asset": "TON",
+            "_id": "688df626eb94b7cc33a5b3ec",
+            "timestamp": "2025-08-02T11:27:34.861Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 99.23,
+            "asset": "TON",
+            "_id": "688df643eb94b7cc33a5d497",
+            "timestamp": "2025-08-02T11:28:03.894Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 104.19,
+            "asset": "TON",
+            "_id": "688df792eb94b7cc33a76fd5",
+            "timestamp": "2025-08-02T11:33:38.548Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 109.4,
+            "asset": "TON",
+            "_id": "688df7edeb94b7cc33a84ee0",
+            "timestamp": "2025-08-02T11:35:09.378Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 120,
+            "asset": "TON",
+            "_id": "688df832eb94b7cc33a95ddc",
+            "timestamp": "2025-08-02T11:36:18.093Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 126,
+            "asset": "TON",
+            "_id": "688e070aeb94b7cc33cf7a3b",
+            "timestamp": "2025-08-02T12:39:38.056Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 135,
+            "asset": "TON",
+            "_id": "688e0af4eb94b7cc33d635a2",
+            "timestamp": "2025-08-02T12:56:20.221Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T13:06:56.727Z",
+        "status": "finished",
+        "gift_name": "Sharp Tongue",
+        "gift_num": 3082,
+        "model": "Sunset (2.5%)",
+        "backdrop": "Black (1.5%)",
+        "symbol": "Candle (1.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-01T13:06:58.245Z",
+        "__v": 0,
+        "winningBid": 135,
+        "winningBidder": 1048537788
+      },
+      "export_at": "2025-08-15T13:02:01.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 40,
       "customEmojiId": "5413361597169031482",
       "gift_id": 7380253,
@@ -2939,6 +3119,26 @@
   ],
   "Tangy Coil": [
     {
+      "gift_num": 3879,
+      "customEmojiId": "5406860021705235060",
+      "gift_id": 7187791,
+      "name": "Sharp Tongue",
+      "model": "Tangy Coil (2.5%)",
+      "asset": "TON",
+      "symbol": "Ring (0.4%)",
+      "backdrop": "Sky Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 35,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-27T03:19:35.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 7657,
       "customEmojiId": "5406860021705235060",
       "gift_id": 7458927,
@@ -2956,26 +3156,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-12T06:57:32.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3879,
-      "customEmojiId": "5406860021705235060",
-      "gift_id": 7187791,
-      "name": "Sharp Tongue",
-      "model": "Tangy Coil (2.5%)",
-      "asset": "TON",
-      "symbol": "Ring (0.4%)",
-      "backdrop": "Sky Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-27T03:19:35.000Z",
       "premarketData": {}
     },
     {
@@ -3626,26 +3806,6 @@
     }
   ],
   "Daring Kiss": [
-    {
-      "gift_num": 5790,
-      "customEmojiId": "5411546677133729620",
-      "gift_id": 7584090,
-      "name": "Sharp Tongue",
-      "model": "Daring Kiss (2.5%)",
-      "asset": "TON",
-      "symbol": "Witch's Hat (0.8%)",
-      "backdrop": "English Violet (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 40,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-14T20:42:38.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 5901,
       "customEmojiId": "5411546677133729620",
@@ -6621,6 +6781,26 @@
     }
   ],
   "Minimalipstick": [
+    {
+      "gift_num": 3283,
+      "customEmojiId": "5409197355792623383",
+      "gift_id": 7495849,
+      "name": "Sharp Tongue",
+      "model": "Minimalipstick (2%)",
+      "asset": "TON",
+      "symbol": "Trophy (0.2%)",
+      "backdrop": "Chestnut (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 45,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T09:42:58.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3842,
       "customEmojiId": "5409197355792623383",
@@ -9702,6 +9882,26 @@
     }
   ],
   "High Voltage": [
+    {
+      "gift_num": 3846,
+      "customEmojiId": "5431378830356930458",
+      "gift_id": 7647845,
+      "name": "Sharp Tongue",
+      "model": "High Voltage (2%)",
+      "asset": "TON",
+      "symbol": "Pearl (0.4%)",
+      "backdrop": "Strawberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 45,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-16T08:49:09.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 773,
       "customEmojiId": "5431378830356930458",
