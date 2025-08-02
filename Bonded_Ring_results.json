@@ -1387,6 +1387,46 @@
   ],
   "Love Whisper": [
     {
+      "gift_num": 1878,
+      "customEmojiId": "5413646207471878157",
+      "gift_id": 5876450,
+      "name": "Bonded Ring",
+      "model": "Love Whisper (3.5%)",
+      "asset": "TON",
+      "symbol": "Banner (0.5%)",
+      "backdrop": "Khaki Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-22T16:00:43.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3663,
+      "customEmojiId": "5413646207471878157",
+      "gift_id": 6600351,
+      "name": "Bonded Ring",
+      "model": "Love Whisper (3.5%)",
+      "asset": "TON",
+      "symbol": "Yogi Shaman (0.4%)",
+      "backdrop": "English Violet (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 91,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-03T13:11:32.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5445,
       "customEmojiId": "5413646207471878157",
       "gift_id": 7459990,
@@ -1404,26 +1444,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-12T08:53:29.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1878,
-      "customEmojiId": "5413646207471878157",
-      "gift_id": 5876450,
-      "name": "Bonded Ring",
-      "model": "Love Whisper (3.5%)",
-      "asset": "TON",
-      "symbol": "Banner (0.5%)",
-      "backdrop": "Khaki Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 928089,
-      "price": 222,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-22T16:00:43.000Z",
       "premarketData": {}
     },
     {
@@ -1684,26 +1704,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-11T13:59:24.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3663,
-      "customEmojiId": "5413646207471878157",
-      "gift_id": 6600351,
-      "name": "Bonded Ring",
-      "model": "Love Whisper (3.5%)",
-      "asset": "TON",
-      "symbol": "Yogi Shaman (0.4%)",
-      "backdrop": "English Violet (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-03T13:11:32.000Z",
       "premarketData": {}
     },
     {
@@ -4807,6 +4807,123 @@
       "premarketData": {}
     },
     {
+      "gift_num": 3858,
+      "customEmojiId": "5404398872300646973",
+      "gift_id": 7637274,
+      "name": "Bonded Ring",
+      "model": "Golden Star (1.8%)",
+      "asset": "TON",
+      "symbol": "Nemean Lion (0.4%)",
+      "backdrop": "Strawberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 51,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "IRUCT7U6",
+      "auction": {
+        "_id": "688d2926eb94b7cc330f51d2",
+        "gift_id": 7637274,
+        "seller": 0,
+        "auction_id": "IRUCT7U6",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688d2ddbeb94b7cc3310d49a",
+            "timestamp": "2025-08-01T21:12:59.110Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688d32bfeb94b7cc3312804b",
+            "timestamp": "2025-08-01T21:33:51.173Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "688d32deeb94b7cc33128a5d",
+            "timestamp": "2025-08-01T21:34:22.273Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7,
+            "asset": "TON",
+            "_id": "688d332eeb94b7cc33129edc",
+            "timestamp": "2025-08-01T21:35:42.296Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.35,
+            "asset": "TON",
+            "_id": "688d3381eb94b7cc3312b330",
+            "timestamp": "2025-08-01T21:37:05.340Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 21,
+            "asset": "TON",
+            "_id": "688d33b4eb94b7cc3312c504",
+            "timestamp": "2025-08-01T21:37:56.394Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 22.05,
+            "asset": "TON",
+            "_id": "688d33c8eb94b7cc3312ca06",
+            "timestamp": "2025-08-01T21:38:16.101Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 35,
+            "asset": "TON",
+            "_id": "688d3447eb94b7cc3312fa06",
+            "timestamp": "2025-08-01T21:40:23.556Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 36.75,
+            "asset": "TON",
+            "_id": "688d5c13eb94b7cc331e7dd7",
+            "timestamp": "2025-08-02T00:30:11.411Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 45,
+            "asset": "TON",
+            "_id": "688d9715eb94b7cc3342e469",
+            "timestamp": "2025-08-02T04:41:57.216Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 51,
+            "asset": "TON",
+            "_id": "688da5f0eb94b7cc3344f139",
+            "timestamp": "2025-08-02T05:45:20.772Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T08:51:41.960Z",
+        "status": "finished",
+        "gift_name": "Bonded Ring",
+        "gift_num": 3858,
+        "model": "Golden Star (1.8%)",
+        "backdrop": "Strawberry (1.5%)",
+        "symbol": "Nemean Lion (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-01T20:52:54.361Z",
+        "__v": 0,
+        "winningBid": 51,
+        "winningBidder": 7219701161
+      },
+      "export_at": "2025-08-15T20:50:39.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1494,
       "customEmojiId": "5404398872300646973",
       "gift_id": 7630744,
@@ -6946,6 +7063,26 @@
   ],
   "Zebra": [
     {
+      "gift_num": 6159,
+      "customEmojiId": "5420083650484005187",
+      "gift_id": 6969311,
+      "name": "Bonded Ring",
+      "model": "Zebra (2.1%)",
+      "asset": "TON",
+      "symbol": "Money Bag (0.5%)",
+      "backdrop": "Gunmetal (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 60,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-17T19:18:31.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3464,
       "customEmojiId": "5420083650484005187",
       "gift_id": 6966890,
@@ -7003,26 +7140,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-07T16:50:37.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6159,
-      "customEmojiId": "5420083650484005187",
-      "gift_id": 6969311,
-      "name": "Bonded Ring",
-      "model": "Zebra (2.1%)",
-      "asset": "TON",
-      "symbol": "Money Bag (0.5%)",
-      "backdrop": "Gunmetal (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 78,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-17T19:18:31.000Z",
       "premarketData": {}
     },
     {
@@ -12117,6 +12234,26 @@
   ],
   "Solid Magma": [
     {
+      "gift_num": 5815,
+      "customEmojiId": "5417908790714463509",
+      "gift_id": 6989006,
+      "name": "Bonded Ring",
+      "model": "Solid Magma (2.1%)",
+      "asset": "TON",
+      "symbol": "Origami (0.5%)",
+      "backdrop": "Silver Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 87,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-18T17:33:37.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3920,
       "customEmojiId": "5417908790714463509",
       "gift_id": 7450848,
@@ -12155,26 +12292,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-22T13:13:53.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5815,
-      "customEmojiId": "5417908790714463509",
-      "gift_id": 6989006,
-      "name": "Bonded Ring",
-      "model": "Solid Magma (2.1%)",
-      "asset": "TON",
-      "symbol": "Origami (0.5%)",
-      "backdrop": "Silver Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 90,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-18T17:33:37.000Z",
       "premarketData": {}
     },
     {
@@ -14201,6 +14318,26 @@
   ],
   "Spectrum": [
     {
+      "gift_num": 6255,
+      "customEmojiId": "5230981634920055629",
+      "gift_id": 7579427,
+      "name": "Bonded Ring",
+      "model": "Spectrum (3.5%)",
+      "asset": "TON",
+      "symbol": "Horned Helm (0.5%)",
+      "backdrop": "Caramel (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T20:03:28.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2102,
       "customEmojiId": "5230981634920055629",
       "gift_id": 7502006,
@@ -14258,26 +14395,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-15T19:04:43.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6255,
-      "customEmojiId": "5230981634920055629",
-      "gift_id": 7579427,
-      "name": "Bonded Ring",
-      "model": "Spectrum (3.5%)",
-      "asset": "TON",
-      "symbol": "Horned Helm (0.5%)",
-      "backdrop": "Caramel (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 56,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-14T20:03:28.000Z",
       "premarketData": {}
     },
     {
@@ -14972,26 +15089,6 @@
   ],
   "Spatial Grid": [
     {
-      "gift_num": 260,
-      "customEmojiId": "5382358156699528294",
-      "gift_id": 7563845,
-      "name": "Bonded Ring",
-      "model": "Spatial Grid (0.8%)",
-      "asset": "TON",
-      "symbol": "Rhino Warrior (0.4%)",
-      "backdrop": "Battleship Grey (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 80,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-14T18:00:49.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 7175,
       "customEmojiId": "5382358156699528294",
       "gift_id": 7478182,
@@ -15009,6 +15106,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-13T17:03:39.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 260,
+      "customEmojiId": "5382358156699528294",
+      "gift_id": 7563845,
+      "name": "Bonded Ring",
+      "model": "Spatial Grid (0.8%)",
+      "asset": "TON",
+      "symbol": "Rhino Warrior (0.4%)",
+      "backdrop": "Battleship Grey (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 80,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T18:00:49.000Z",
       "premarketData": {}
     },
     {
