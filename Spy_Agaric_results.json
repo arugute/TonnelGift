@@ -1,26 +1,6 @@
 {
   "Acidic": [
     {
-      "gift_num": 83291,
-      "customEmojiId": "5400258953324030206",
-      "gift_id": 7496530,
-      "name": "Spy Agaric",
-      "model": "Acidic (2%)",
-      "asset": "TON",
-      "symbol": "Night Bats (1.8%)",
-      "backdrop": "Orange (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-14T09:51:24.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 82055,
       "customEmojiId": "5400258953324030206",
       "gift_id": 7539956,
@@ -668,6 +648,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-03T13:01:32.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 42706,
+      "customEmojiId": "5400258953324030206",
+      "gift_id": 6599972,
+      "name": "Spy Agaric",
+      "model": "Acidic (2%)",
+      "asset": "TON",
+      "symbol": "Black Widow (1.8%)",
+      "backdrop": "English Violet (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.85,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-03T13:03:16.000Z",
       "premarketData": {}
     }
   ],
@@ -33970,6 +33970,117 @@
       "premarketData": {}
     },
     {
+      "gift_num": 81564,
+      "customEmojiId": "5426958746368630587",
+      "gift_id": 7313324,
+      "name": "Spy Agaric",
+      "model": "Ocean Star (0.5%)",
+      "asset": "TON",
+      "symbol": "Skull (1.8%)",
+      "backdrop": "Dark Lilac (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "U4T2JV3B",
+      "auction": {
+        "_id": "688d7e9deb94b7cc33251127",
+        "gift_id": 7313324,
+        "seller": 0,
+        "auction_id": "U4T2JV3B",
+        "startingBid": 3,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 3,
+            "asset": "TON",
+            "_id": "688d7eceeb94b7cc33251239",
+            "timestamp": "2025-08-02T02:58:22.520Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.15,
+            "asset": "TON",
+            "_id": "688d8584eb94b7cc3325b715",
+            "timestamp": "2025-08-02T03:27:00.830Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.31,
+            "asset": "TON",
+            "_id": "688d85adeb94b7cc3325b8fb",
+            "timestamp": "2025-08-02T03:27:41.564Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.48,
+            "asset": "TON",
+            "_id": "688d85cfeb94b7cc3325bc4b",
+            "timestamp": "2025-08-02T03:28:15.039Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.77,
+            "asset": "TON",
+            "_id": "688d875ceb94b7cc3325ddab",
+            "timestamp": "2025-08-02T03:34:52.783Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4,
+            "asset": "TON",
+            "_id": "688d8797eb94b7cc3326c542",
+            "timestamp": "2025-08-02T03:35:51.317Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.2,
+            "asset": "TON",
+            "_id": "688d88e4eb94b7cc333915b2",
+            "timestamp": "2025-08-02T03:41:24.170Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.41,
+            "asset": "TON",
+            "_id": "688d8be8eb94b7cc33420d81",
+            "timestamp": "2025-08-02T03:54:16.240Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.63,
+            "asset": "TON",
+            "_id": "688d8c25eb94b7cc33421045",
+            "timestamp": "2025-08-02T03:55:17.099Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "688d8c51eb94b7cc3342111e",
+            "timestamp": "2025-08-02T03:56:01.128Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T04:07:33.214Z",
+        "status": "finished",
+        "gift_name": "Spy Agaric",
+        "gift_num": 81564,
+        "model": "Ocean Star (0.5%)",
+        "backdrop": "Dark Lilac (1.5%)",
+        "symbol": "Skull (1.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T02:57:33.946Z",
+        "__v": 0,
+        "winningBid": 5,
+        "winningBidder": 1663226957
+      },
+      "export_at": "2025-08-03T15:54:26.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 59118,
       "customEmojiId": "5426958746368630587",
       "gift_id": 7220709,
@@ -35938,6 +36049,26 @@
   ],
   "Mickey Cap": [
     {
+      "gift_num": 71658,
+      "customEmojiId": "5429453005676108498",
+      "gift_id": 6506366,
+      "name": "Spy Agaric",
+      "model": "Mickey Cap (0.5%)",
+      "asset": "TON",
+      "symbol": "Mushroom (0.4%)",
+      "backdrop": "Electric Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-30T19:27:57.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 68304,
       "customEmojiId": "5429453005676108498",
       "gift_id": 7423898,
@@ -36259,6 +36390,26 @@
     }
   ],
   "Liquid Metal": [
+    {
+      "gift_num": 45691,
+      "customEmojiId": "5431750143164572464",
+      "gift_id": 7643747,
+      "name": "Spy Agaric",
+      "model": "Liquid Metal (1.5%)",
+      "asset": "TON",
+      "symbol": "Sakura (0.2%)",
+      "backdrop": "Moonstone (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-16T03:55:23.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 76896,
       "customEmojiId": "5431750143164572464",
@@ -36879,26 +37030,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T21:18:19.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 76063,
-      "customEmojiId": "5431750143164572464",
-      "gift_id": 6513940,
-      "name": "Spy Agaric",
-      "model": "Liquid Metal (1.5%)",
-      "asset": "TON",
-      "symbol": "Sun Lion (0.5%)",
-      "backdrop": "Pine Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8.08,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-30T22:35:45.000Z",
       "premarketData": {}
     }
   ],
