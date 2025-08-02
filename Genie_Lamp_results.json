@@ -2920,6 +2920,26 @@
   ],
   "Crypto Dream": [
     {
+      "gift_num": 5321,
+      "customEmojiId": "5231365360183174106",
+      "gift_id": 7458317,
+      "name": "Genie Lamp",
+      "model": "Crypto Dream (2%)",
+      "asset": "TON",
+      "symbol": "Crusader (0.5%)",
+      "backdrop": "Grape (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 65,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T05:03:57.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5488,
       "customEmojiId": "5231365360183174106",
       "gift_id": 6538842,
@@ -2977,26 +2997,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T18:44:01.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5321,
-      "customEmojiId": "5231365360183174106",
-      "gift_id": 7458317,
-      "name": "Genie Lamp",
-      "model": "Crypto Dream (2%)",
-      "asset": "TON",
-      "symbol": "Crusader (0.5%)",
-      "backdrop": "Grape (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 67,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-12T05:03:57.000Z",
       "premarketData": {}
     },
     {
@@ -8040,6 +8040,53 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-06T10:22:13.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 5849,
+      "customEmojiId": "5228682027825391859",
+      "gift_id": 7640676,
+      "name": "Genie Lamp",
+      "model": "Arabian Night (3%)",
+      "asset": "TON",
+      "symbol": "Champagne (1%)",
+      "backdrop": "Midnight Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 50,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "IHSP8K9A",
+      "auction": {
+        "_id": "688d4a99eb94b7cc331a7ea1",
+        "gift_id": 7640676,
+        "seller": 0,
+        "auction_id": "IHSP8K9A",
+        "startingBid": 50,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 50,
+            "asset": "TON",
+            "_id": "688d60adeb94b7cc331ed5dd",
+            "timestamp": "2025-08-02T00:49:49.557Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T01:36:30.720Z",
+        "status": "finished",
+        "gift_name": "Genie Lamp",
+        "gift_num": 5849,
+        "model": "Arabian Night (3%)",
+        "backdrop": "Midnight Blue (2%)",
+        "symbol": "Champagne (1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T00:36:32.046Z",
+        "__v": 0,
+        "winningBid": 50,
+        "winningBidder": 262284544
+      },
+      "export_at": "2025-08-15T23:15:01.000Z",
       "premarketData": {}
     }
   ],
