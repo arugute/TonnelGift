@@ -18258,7 +18258,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.4,
+      "price": 6.6,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -20661,26 +20661,6 @@
   ],
   "Choco Crunch": [
     {
-      "gift_num": 36040,
-      "customEmojiId": "5222001085937377404",
-      "gift_id": 7639620,
-      "name": "Cookie Heart",
-      "model": "Choco Crunch (1%)",
-      "asset": "TON",
-      "symbol": "Like (0.2%)",
-      "backdrop": "French Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T22:18:43.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 52207,
       "customEmojiId": "5222001085937377404",
       "gift_id": 7479129,
@@ -20698,6 +20678,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-13T18:23:39.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 36040,
+      "customEmojiId": "5222001085937377404",
+      "gift_id": 7639620,
+      "name": "Cookie Heart",
+      "model": "Choco Crunch (1%)",
+      "asset": "TON",
+      "symbol": "Like (0.2%)",
+      "backdrop": "French Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T22:18:43.000Z",
       "premarketData": {}
     },
     {
@@ -35596,6 +35596,26 @@
   ],
   "Cold Heart": [
     {
+      "gift_num": 133152,
+      "customEmojiId": "5226498556646416535",
+      "gift_id": 7637533,
+      "name": "Cookie Heart",
+      "model": "Cold Heart (0.2%)",
+      "asset": "TON",
+      "symbol": "Bunny Ears (0.4%)",
+      "backdrop": "Copper (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.85,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T20:58:31.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 124038,
       "customEmojiId": "5226498556646416535",
       "gift_id": 7476877,
@@ -36283,137 +36303,6 @@
         "winningBidder": 784223580
       },
       "export_at": "2025-08-11T09:30:04.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 26042,
-      "customEmojiId": "5226498556646416535",
-      "gift_id": 7419088,
-      "name": "Cookie Heart",
-      "model": "Cold Heart (0.2%)",
-      "asset": "TON",
-      "symbol": "Pearl (0.6%)",
-      "backdrop": "Roman Silver (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 4.1,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "ST9AS9BA",
-      "auction": {
-        "_id": "68854997450b5b469cfaee70",
-        "gift_id": 7419088,
-        "seller": 0,
-        "auction_id": "ST9AS9BA",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2,
-            "asset": "TON",
-            "_id": "68854cab450b5b469cfd5763",
-            "timestamp": "2025-07-26T21:46:19.311Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.1,
-            "asset": "TON",
-            "_id": "68854ded450b5b469cfeac69",
-            "timestamp": "2025-07-26T21:51:41.448Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.5,
-            "asset": "TON",
-            "_id": "68854e10450b5b469cfeded9",
-            "timestamp": "2025-07-26T21:52:16.301Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.63,
-            "asset": "TON",
-            "_id": "68855337450b5b469c182664",
-            "timestamp": "2025-07-26T22:14:15.637Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.76,
-            "asset": "TON",
-            "_id": "688554c4450b5b469c1e3eca",
-            "timestamp": "2025-07-26T22:20:52.822Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.9,
-            "asset": "TON",
-            "_id": "68855530450b5b469c1fe1a1",
-            "timestamp": "2025-07-26T22:22:40.593Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.05,
-            "asset": "TON",
-            "_id": "6885553e450b5b469c200196",
-            "timestamp": "2025-07-26T22:22:54.060Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.2,
-            "asset": "TON",
-            "_id": "68855783450b5b469c2394fb",
-            "timestamp": "2025-07-26T22:32:35.415Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.36,
-            "asset": "TON",
-            "_id": "6885581e450b5b469c23b12c",
-            "timestamp": "2025-07-26T22:35:10.394Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.53,
-            "asset": "TON",
-            "_id": "6885587d450b5b469c23cb6e",
-            "timestamp": "2025-07-26T22:36:45.087Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.71,
-            "asset": "TON",
-            "_id": "68855c4d450b5b469c26013e",
-            "timestamp": "2025-07-26T22:53:01.910Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.9,
-            "asset": "TON",
-            "_id": "68855dca450b5b469c266a70",
-            "timestamp": "2025-07-26T22:59:22.982Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 4.1,
-            "asset": "TON",
-            "_id": "68855de0450b5b469c266b8d",
-            "timestamp": "2025-07-26T22:59:44.783Z"
-          }
-        ],
-        "auctionEndTime": "2025-07-26T23:13:10.626Z",
-        "status": "finished",
-        "gift_name": "Cookie Heart",
-        "gift_num": 26042,
-        "model": "Cold Heart (0.2%)",
-        "backdrop": "Roman Silver (1.5%)",
-        "symbol": "Pearl (0.6%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-07-26T21:33:11.842Z",
-        "__v": 0,
-        "winningBid": 4.1,
-        "winningBidder": 1541711659
-      },
-      "export_at": "2025-08-09T21:29:45.000Z",
       "premarketData": {}
     }
   ],
@@ -39287,6 +39176,26 @@
   ],
   "The Triangle": [
     {
+      "gift_num": 4576,
+      "customEmojiId": "5222263426834786717",
+      "gift_id": 7629957,
+      "name": "Cookie Heart",
+      "model": "The Triangle (1%)",
+      "asset": "TON",
+      "symbol": "Flying Heart (0.6%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T17:21:03.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 67070,
       "customEmojiId": "5222263426834786717",
       "gift_id": 7598838,
@@ -39864,26 +39773,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-29T18:33:14.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 30793,
-      "customEmojiId": "5222263426834786717",
-      "gift_id": 4918033,
-      "name": "Cookie Heart",
-      "model": "The Triangle (1%)",
-      "asset": "TON",
-      "symbol": "Narcissus (0.6%)",
-      "backdrop": "Platinum (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-30T08:23:12.000Z",
       "premarketData": {}
     }
   ],
@@ -48671,6 +48560,26 @@
   ],
   "Pixel Beat": [
     {
+      "gift_num": 37886,
+      "customEmojiId": "5235967413345872280",
+      "gift_id": 7042786,
+      "name": "Cookie Heart",
+      "model": "Pixel Beat (1%)",
+      "asset": "TON",
+      "symbol": "Christmas Tree (1.2%)",
+      "backdrop": "Pacific Cyan (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-20T23:10:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 26325,
       "customEmojiId": "5235967413345872280",
       "gift_id": 7616036,
@@ -49339,26 +49248,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-11T10:59:47.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 75071,
-      "customEmojiId": "5235967413345872280",
-      "gift_id": 5458488,
-      "name": "Cookie Heart",
-      "model": "Pixel Beat (1%)",
-      "asset": "TON",
-      "symbol": "Heart Shades (0.4%)",
-      "backdrop": "Azure Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 13,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-13T10:26:15.000Z",
       "premarketData": {}
     }
   ],
@@ -50228,26 +50117,6 @@
   ],
   "Graveyard": [
     {
-      "gift_num": 90133,
-      "customEmojiId": "5231471329911268326",
-      "gift_id": 7483799,
-      "name": "Cookie Heart",
-      "model": "Graveyard (1%)",
-      "asset": "TON",
-      "symbol": "Paw (0.6%)",
-      "backdrop": "Navy Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-14T01:10:22.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 36632,
       "customEmojiId": "5231471329911268326",
       "gift_id": 7553477,
@@ -50825,6 +50694,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T15:54:10.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 64264,
+      "customEmojiId": "5231471329911268326",
+      "gift_id": 5553609,
+      "name": "Cookie Heart",
+      "model": "Graveyard (1%)",
+      "asset": "TON",
+      "symbol": "Ring (0.6%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 33,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-16T08:26:38.000Z",
       "premarketData": {}
     }
   ],
@@ -51621,6 +51510,26 @@
   ],
   "Liquorice": [
     {
+      "gift_num": 116878,
+      "customEmojiId": "5222244155316530227",
+      "gift_id": 7264800,
+      "name": "Cookie Heart",
+      "model": "Liquorice (1%)",
+      "asset": "TON",
+      "symbol": "Snowflake (1.2%)",
+      "backdrop": "Dark Lilac (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.1,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-31T10:39:42.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 97576,
       "customEmojiId": "5222244155316530227",
       "gift_id": 7539078,
@@ -51938,26 +51847,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-03T09:00:13.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 116878,
-      "customEmojiId": "5222244155316530227",
-      "gift_id": 7264800,
-      "name": "Cookie Heart",
-      "model": "Liquorice (1%)",
-      "asset": "TON",
-      "symbol": "Snowflake (1.2%)",
-      "backdrop": "Dark Lilac (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T10:39:42.000Z",
       "premarketData": {}
     },
     {
@@ -56971,6 +56860,26 @@
   ],
   "Rainbow": [
     {
+      "gift_num": 39333,
+      "customEmojiId": "5224556230701242893",
+      "gift_id": 7642764,
+      "name": "Cookie Heart",
+      "model": "Rainbow (1.5%)",
+      "asset": "TON",
+      "symbol": "Cupcake (1%)",
+      "backdrop": "Electric Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-16T01:48:26.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 103175,
       "customEmojiId": "5224556230701242893",
       "gift_id": 5413719,
@@ -57549,26 +57458,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-19T14:16:56.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 100835,
-      "customEmojiId": "5224556230701242893",
-      "gift_id": 4718652,
-      "name": "Cookie Heart",
-      "model": "Rainbow (1.5%)",
-      "asset": "TON",
-      "symbol": "Cunning Fox (0.4%)",
-      "backdrop": "Neon Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-26T12:38:42.000Z",
       "premarketData": {}
     }
   ],
