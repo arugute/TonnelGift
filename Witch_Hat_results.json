@@ -1,6 +1,131 @@
 {
   "Bat Swarm": [
     {
+      "gift_num": 9761,
+      "customEmojiId": "5240397242614964095",
+      "gift_id": 7648595,
+      "name": "Witch Hat",
+      "model": "Bat Swarm (0.5%)",
+      "asset": "TON",
+      "symbol": "Evil Pumpkin (2.4%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 12.62,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "VNL009XQ",
+      "auction": {
+        "_id": "688e8144eb94b7cc33150a47",
+        "gift_id": 7648595,
+        "seller": 0,
+        "auction_id": "VNL009XQ",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688e821aeb94b7cc3315d33e",
+            "timestamp": "2025-08-02T21:24:42.559Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7,
+            "asset": "TON",
+            "_id": "688e833eeb94b7cc33164770",
+            "timestamp": "2025-08-02T21:29:34.365Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.777777777777778,
+            "asset": "TON",
+            "_id": "688e8580eb94b7cc33171793",
+            "timestamp": "2025-08-02T21:39:12.845Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.2,
+            "asset": "TON",
+            "_id": "688e85e2eb94b7cc33175a61",
+            "timestamp": "2025-08-02T21:40:50.565Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.88888888888888,
+            "asset": "TON",
+            "_id": "688e8624eb94b7cc33178eee",
+            "timestamp": "2025-08-02T21:41:56.590Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.33,
+            "asset": "TON",
+            "_id": "688e86b1eb94b7cc3317fc75",
+            "timestamp": "2025-08-02T21:44:17.601Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.888888,
+            "asset": "TON",
+            "_id": "688e8a5ceb94b7cc331c572a",
+            "timestamp": "2025-08-02T21:59:56.374Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.38,
+            "asset": "TON",
+            "_id": "688e8bcceb94b7cc331d8768",
+            "timestamp": "2025-08-02T22:06:04.580Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.9,
+            "asset": "TON",
+            "_id": "688e8c6feb94b7cc331ded9b",
+            "timestamp": "2025-08-02T22:08:47.755Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.45,
+            "asset": "TON",
+            "_id": "688e8cc3eb94b7cc331e0ff1",
+            "timestamp": "2025-08-02T22:10:11.089Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.02,
+            "asset": "TON",
+            "_id": "688e8e0feb94b7cc331e99dd",
+            "timestamp": "2025-08-02T22:15:43.476Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.62,
+            "asset": "TON",
+            "_id": "688e8fd7eb94b7cc331fda23",
+            "timestamp": "2025-08-02T22:23:19.723Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T22:41:13.881Z",
+        "status": "finished",
+        "gift_name": "Witch Hat",
+        "gift_num": 9761,
+        "model": "Bat Swarm (0.5%)",
+        "backdrop": "Onyx Black (2%)",
+        "symbol": "Evil Pumpkin (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T21:21:08.265Z",
+        "__v": 0,
+        "winningBid": 12.62,
+        "winningBidder": 6521984835
+      },
+      "export_at": "2025-08-16T09:22:57.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 17665,
       "customEmojiId": "5240397242614964095",
       "gift_id": 7465361,
@@ -533,24 +658,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 20.82,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 12815,
-      "customEmojiId": "5240397242614964095",
-      "gift_id": 582101091046,
-      "name": "Witch Hat",
-      "model": "Bat Swarm (0.5%)",
-      "asset": "TON",
-      "symbol": "Human Scull (2.4%)",
-      "backdrop": "Persimmon (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 19.829,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -4785,6 +4892,44 @@
   ],
   "Witch Hazel": [
     {
+      "gift_num": 25978,
+      "customEmojiId": "5240161646478910571",
+      "gift_id": 582128054421,
+      "name": "Witch Hat",
+      "model": "Witch Hazel (1.5%)",
+      "asset": "TON",
+      "symbol": "Paw (0.2%)",
+      "backdrop": "Turquoise (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.885,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 63948,
+      "customEmojiId": "5240161646478910571",
+      "gift_id": 7669340,
+      "name": "Witch Hat",
+      "model": "Witch Hazel (1.5%)",
+      "asset": "TON",
+      "symbol": "Ghost (2.4%)",
+      "backdrop": "Grape (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-16T23:13:34.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 61843,
       "customEmojiId": "5240161646478910571",
       "gift_id": 591330903180,
@@ -5296,46 +5441,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 54185,
-      "customEmojiId": "5240161646478910571",
-      "gift_id": 4626285,
-      "name": "Witch Hat",
-      "model": "Witch Hazel (1.5%)",
-      "asset": "TON",
-      "symbol": "Crystal Ball (2%)",
-      "backdrop": "Silver Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-24T10:59:47.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1920,
-      "customEmojiId": "5240161646478910571",
-      "gift_id": 7151488,
-      "name": "Witch Hat",
-      "model": "Witch Hazel (1.5%)",
-      "asset": "TON",
-      "symbol": "Autumn Leaves (2.4%)",
-      "backdrop": "Onyx Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T09:23:45.000Z",
       "premarketData": {}
     }
   ],
@@ -7285,6 +7390,26 @@
   ],
   "Lorendale": [
     {
+      "gift_num": 18103,
+      "customEmojiId": "5240488076878307352",
+      "gift_id": 6007996,
+      "name": "Witch Hat",
+      "model": "Lorendale (1.5%)",
+      "asset": "TON",
+      "symbol": "Sauron (2.4%)",
+      "backdrop": "Moonstone (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-23T16:29:55.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 36995,
       "customEmojiId": "5240488076878307352",
       "gift_id": 7619590,
@@ -7818,24 +7943,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-01T02:57:02.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 10355,
-      "customEmojiId": "5240488076878307352",
-      "gift_id": 582368975458,
-      "name": "Witch Hat",
-      "model": "Lorendale (1.5%)",
-      "asset": "TON",
-      "symbol": "Crystal Ball (2%)",
-      "backdrop": "Persimmon (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 4.406,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
@@ -11027,6 +11134,26 @@
   ],
   "Cone of Cold": [
     {
+      "gift_num": 29997,
+      "customEmojiId": "5237749476881360298",
+      "gift_id": 7452230,
+      "name": "Witch Hat",
+      "model": "Cone of Cold (0.5%)",
+      "asset": "TON",
+      "symbol": "Garden Pot (0.2%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T16:37:21.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 69236,
       "customEmojiId": "5237749476881360298",
       "gift_id": 581205391937,
@@ -11080,26 +11207,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-06T11:15:44.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 29997,
-      "customEmojiId": "5237749476881360298",
-      "gift_id": 7452230,
-      "name": "Witch Hat",
-      "model": "Cone of Cold (0.5%)",
-      "asset": "TON",
-      "symbol": "Garden Pot (0.2%)",
-      "backdrop": "Persimmon (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T16:37:21.000Z",
       "premarketData": {}
     },
     {
@@ -18077,6 +18184,26 @@
   ],
   "Classic": [
     {
+      "gift_num": 46065,
+      "customEmojiId": "5238221764370131936",
+      "gift_id": 7640596,
+      "name": "Witch Hat",
+      "model": "Classic (1.5%)",
+      "asset": "TON",
+      "symbol": "Birthday Cake (0.2%)",
+      "backdrop": "Amber (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T23:10:03.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 49517,
       "customEmojiId": "5238221764370131936",
       "gift_id": 583928573861,
@@ -18601,24 +18728,6 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "price": 550.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 1003,
-      "customEmojiId": "5238221764370131936",
-      "gift_id": 582319211390,
-      "name": "Witch Hat",
-      "model": "Classic (1.5%)",
-      "asset": "TON",
-      "symbol": "Crow (2.4%)",
-      "backdrop": "Navy Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 27.54,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -19765,6 +19874,24 @@
   ],
   "Baba Yaga": [
     {
+      "gift_num": 19645,
+      "customEmojiId": "5237939924321200916",
+      "gift_id": 582102230930,
+      "name": "Witch Hat",
+      "model": "Baba Yaga (1.5%)",
+      "asset": "TON",
+      "symbol": "Treats (2%)",
+      "backdrop": "Copper (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.61,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 39788,
       "customEmojiId": "5237939924321200916",
       "gift_id": 582351988862,
@@ -20298,24 +20425,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-01T21:20:55.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 49013,
-      "customEmojiId": "5237939924321200916",
-      "gift_id": 583266393842,
-      "name": "Witch Hat",
-      "model": "Baba Yaga (1.5%)",
-      "asset": "TON",
-      "symbol": "Spider Web (2%)",
-      "backdrop": "Dark Lilac (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 10.328,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
       "premarketData": {}
     }
   ],
@@ -22404,6 +22513,24 @@
     }
   ],
   "Arctic": [
+    {
+      "gift_num": 42456,
+      "customEmojiId": "5240096277076662697",
+      "gift_id": 582368428708,
+      "name": "Witch Hat",
+      "model": "Arctic (0.5%)",
+      "asset": "TON",
+      "symbol": "Baphomet (1.6%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 7.155,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 7739,
       "customEmojiId": "5240096277076662697",
@@ -31501,6 +31628,24 @@
   ],
   "Downtown": [
     {
+      "gift_num": 31104,
+      "customEmojiId": "5238158851689177535",
+      "gift_id": 582347466262,
+      "name": "Witch Hat",
+      "model": "Downtown (1%)",
+      "asset": "TON",
+      "symbol": "Croissant (0.2%)",
+      "backdrop": "Pure Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 7.711,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 50423,
       "customEmojiId": "5238158851689177535",
       "gift_id": 584388689842,
@@ -32032,26 +32177,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-26T20:16:15.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 73601,
-      "customEmojiId": "5238158851689177535",
-      "gift_id": 6008866,
-      "name": "Witch Hat",
-      "model": "Downtown (1%)",
-      "asset": "TON",
-      "symbol": "Melon (0.2%)",
-      "backdrop": "Black (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 898159,
-      "price": 180,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T16:32:05.000Z",
       "premarketData": {}
     }
   ],
@@ -33729,6 +33854,24 @@
   ],
   "Picasso": [
     {
+      "gift_num": 33859,
+      "customEmojiId": "5240362943006142019",
+      "gift_id": 582095265782,
+      "name": "Witch Hat",
+      "model": "Picasso (1.5%)",
+      "asset": "TON",
+      "symbol": "Baphomet (1.6%)",
+      "backdrop": "Pistachio (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 4.621,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 54601,
       "customEmojiId": "5240362943006142019",
       "gift_id": 587286122454,
@@ -34257,29 +34400,29 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
+    }
+  ],
+  "Spellcaster": [
     {
-      "gift_num": 69033,
-      "customEmojiId": "5240362943006142019",
-      "gift_id": 3938169,
+      "gift_num": 52381,
+      "customEmojiId": "5240489318123857883",
+      "gift_id": 7669392,
       "name": "Witch Hat",
-      "model": "Picasso (1.5%)",
+      "model": "Spellcaster (1.5%)",
       "asset": "TON",
-      "symbol": "Spooky Cat (2.4%)",
-      "backdrop": "Hunter Green (1%)",
+      "symbol": "Crystal Ball (2%)",
+      "backdrop": "Indigo Dye (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2.8,
+      "price": 6,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-05-18T14:10:51.000Z",
+      "export_at": "2025-08-16T23:16:46.000Z",
       "premarketData": {}
-    }
-  ],
-  "Spellcaster": [
+    },
     {
       "gift_num": 30017,
       "customEmojiId": "5240489318123857883",
@@ -34854,24 +34997,6 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
-    {
-      "gift_num": 68241,
-      "customEmojiId": "5240489318123857883",
-      "gift_id": 604611494392,
-      "name": "Witch Hat",
-      "model": "Spellcaster (1.5%)",
-      "asset": "TON",
-      "symbol": "Ice Pop (0.2%)",
-      "backdrop": "Electric Purple (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 55.08,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
     }
   ],
   "Wild Magic": [
@@ -35426,6 +35551,24 @@
   ],
   "Hallowed": [
     {
+      "gift_num": 20759,
+      "customEmojiId": "5237845392091014064",
+      "gift_id": 582098764033,
+      "name": "Witch Hat",
+      "model": "Hallowed (1.5%)",
+      "asset": "TON",
+      "symbol": "Moose Head (0.2%)",
+      "backdrop": "Midnight Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 12.239,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 51872,
       "customEmojiId": "5237845392091014064",
       "gift_id": 585270030875,
@@ -35961,26 +36104,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 68865,
-      "customEmojiId": "5237845392091014064",
-      "gift_id": 3937074,
-      "name": "Witch Hat",
-      "model": "Hallowed (1.5%)",
-      "asset": "TON",
-      "symbol": "Maple Leaf (0.2%)",
-      "backdrop": "Chestnut (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-18T13:58:49.000Z",
       "premarketData": {}
     }
   ],
@@ -37038,6 +37161,82 @@
   ],
   "Aeromancy": [
     {
+      "gift_num": 8069,
+      "customEmojiId": "5237969920372795440",
+      "gift_id": 5906287,
+      "name": "Witch Hat",
+      "model": "Aeromancy (1.5%)",
+      "asset": "TON",
+      "symbol": "Happy Smile (2.4%)",
+      "backdrop": "Neon Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.36,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "RXMT0OI0",
+      "auction": {
+        "_id": "688e95d0eb94b7cc33247750",
+        "gift_id": 5906287,
+        "seller": 0,
+        "auction_id": "RXMT0OI0",
+        "startingBid": 2.4,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.4,
+            "asset": "TON",
+            "_id": "688e9f52eb94b7cc33308727",
+            "timestamp": "2025-08-02T23:29:22.269Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.52,
+            "asset": "TON",
+            "_id": "688ea103eb94b7cc33320319",
+            "timestamp": "2025-08-02T23:36:35.807Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.65,
+            "asset": "TON",
+            "_id": "688ea121eb94b7cc33323252",
+            "timestamp": "2025-08-02T23:37:05.211Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.2,
+            "asset": "TON",
+            "_id": "688ea15eeb94b7cc3332b7a7",
+            "timestamp": "2025-08-02T23:38:06.996Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.36,
+            "asset": "TON",
+            "_id": "688ea3d3eb94b7cc33360b3a",
+            "timestamp": "2025-08-02T23:48:35.678Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-02T23:58:43.175Z",
+        "status": "finished",
+        "gift_name": "Witch Hat",
+        "gift_num": 8069,
+        "model": "Aeromancy (1.5%)",
+        "backdrop": "Neon Blue (2%)",
+        "symbol": "Happy Smile (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T22:48:48.675Z",
+        "__v": 0,
+        "winningBid": 3.36,
+        "winningBidder": 7609554392
+      },
+      "export_at": "2025-06-22T22:08:37.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 27509,
       "customEmojiId": "5237969920372795440",
       "gift_id": 582125566776,
@@ -37569,26 +37768,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 30579,
-      "customEmojiId": "5237969920372795440",
-      "gift_id": 7364146,
-      "name": "Witch Hat",
-      "model": "Aeromancy (1.5%)",
-      "asset": "TON",
-      "symbol": "Sauron (2.4%)",
-      "backdrop": "Orange (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-07T09:21:02.000Z",
       "premarketData": {}
     }
   ],
@@ -46002,6 +46181,24 @@
   ],
   "Pinstripe": [
     {
+      "gift_num": 28237,
+      "customEmojiId": "5238114317173285869",
+      "gift_id": 582326087632,
+      "name": "Witch Hat",
+      "model": "Pinstripe (1%)",
+      "asset": "TON",
+      "symbol": "Flying Witch (2.4%)",
+      "backdrop": "Turquoise (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.059,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 52604,
       "customEmojiId": "5238114317173285869",
       "gift_id": 585972867483,
@@ -46537,26 +46734,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 54251,
-      "customEmojiId": "5238114317173285869",
-      "gift_id": 5879849,
-      "name": "Witch Hat",
-      "model": "Pinstripe (1%)",
-      "asset": "TON",
-      "symbol": "Sauron (2.4%)",
-      "backdrop": "Satin Gold (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-22T16:50:07.000Z",
       "premarketData": {}
     }
   ],
@@ -49147,6 +49324,26 @@
   ],
   "Ethereal": [
     {
+      "gift_num": 13423,
+      "customEmojiId": "5238194315234142984",
+      "gift_id": 7463847,
+      "name": "Witch Hat",
+      "model": "Ethereal (1.5%)",
+      "asset": "TON",
+      "symbol": "Human Scull (2.4%)",
+      "backdrop": "Cyberpunk (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T14:15:35.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 67147,
       "customEmojiId": "5238194315234142984",
       "gift_id": 7639860,
@@ -49440,26 +49637,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 13423,
-      "customEmojiId": "5238194315234142984",
-      "gift_id": 7463847,
-      "name": "Witch Hat",
-      "model": "Ethereal (1.5%)",
-      "asset": "TON",
-      "symbol": "Human Scull (2.4%)",
-      "backdrop": "Cyberpunk (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-12T14:15:35.000Z",
       "premarketData": {}
     },
     {
