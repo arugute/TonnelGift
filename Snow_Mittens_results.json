@@ -6303,7 +6303,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 6.17,
+      "price": 5.86,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -11943,7 +11943,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3,
+      "price": 2.3,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -12170,26 +12170,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-11T20:57:41.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11364,
-      "customEmojiId": "5229029675363228085",
-      "gift_id": 7150499,
-      "name": "Snow Mittens",
-      "model": "Gold Thread (1.3%)",
-      "asset": "TON",
-      "symbol": "Tooth (0.2%)",
-      "backdrop": "Neon Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T08:28:48.000Z",
       "premarketData": {}
     },
     {
@@ -14648,6 +14628,67 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-29T06:59:34.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 24291,
+      "customEmojiId": "5229107757868674170",
+      "gift_id": 7671559,
+      "name": "Snow Mittens",
+      "model": "Brown Suede (1.3%)",
+      "asset": "TON",
+      "symbol": "Winter House (2%)",
+      "backdrop": "Coral Red (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2.32,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "1LN6I9E2",
+      "auction": {
+        "_id": "688edef4eb94b7cc33558bd6",
+        "gift_id": 7671559,
+        "seller": 0,
+        "auction_id": "1LN6I9E2",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688ee5dceb94b7cc3357a2e6",
+            "timestamp": "2025-08-03T04:30:20.244Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "688eed4eeb94b7cc335f756c",
+            "timestamp": "2025-08-03T05:02:06.202Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "688eee8deb94b7cc33620ea8",
+            "timestamp": "2025-08-03T05:07:25.326Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-03T05:18:49.358Z",
+        "status": "finished",
+        "gift_name": "Snow Mittens",
+        "gift_num": 24291,
+        "model": "Brown Suede (1.3%)",
+        "backdrop": "Coral Red (2%)",
+        "symbol": "Winter House (2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-03T04:18:50.464Z",
+        "__v": 0,
+        "winningBid": 2.32,
+        "winningBidder": 1140836286
+      },
+      "export_at": "2025-08-17T04:00:22.000Z",
       "premarketData": {}
     }
   ],
