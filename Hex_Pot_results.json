@@ -725,6 +725,26 @@
   ],
   "Hypnosis": [
     {
+      "gift_num": 28766,
+      "customEmojiId": "5431712021034852692",
+      "gift_id": 7357613,
+      "name": "Hex Pot",
+      "model": "Hypnosis (0.8%)",
+      "asset": "TON",
+      "symbol": "Magic Wand (2%)",
+      "backdrop": "French Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.55,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-06T19:57:49.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 35156,
       "customEmojiId": "5431712021034852692",
       "gift_id": 7670177,
@@ -802,26 +822,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-08T16:20:09.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 28766,
-      "customEmojiId": "5431712021034852692",
-      "gift_id": 7357613,
-      "name": "Hex Pot",
-      "model": "Hypnosis (0.8%)",
-      "asset": "TON",
-      "symbol": "Magic Wand (2%)",
-      "backdrop": "French Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T19:57:49.000Z",
       "premarketData": {}
     },
     {
@@ -2311,26 +2311,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 2815,
-      "customEmojiId": "5431710092594538624",
-      "gift_id": 7120349,
-      "name": "Hex Pot",
-      "model": "Fine Wine (0.8%)",
-      "asset": "TON",
-      "symbol": "Strawberry (0.2%)",
-      "backdrop": "Chocolate (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T05:48:12.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 26334,
       "customEmojiId": "5431710092594538624",
       "gift_id": 5611088,
@@ -2990,6 +2970,123 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-02T21:09:51.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 24702,
+      "customEmojiId": "5431368200312871962",
+      "gift_id": 7668481,
+      "name": "Hex Pot",
+      "model": "Digital Sap (0.8%)",
+      "asset": "TON",
+      "symbol": "Treats (2.4%)",
+      "backdrop": "Aquamarine (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 3.53,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "PAVMFJ4U",
+      "auction": {
+        "_id": "688e8f61eb94b7cc331f6a6a",
+        "gift_id": 7668481,
+        "seller": 0,
+        "auction_id": "PAVMFJ4U",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688ea310eb94b7cc333472c7",
+            "timestamp": "2025-08-02T23:45:20.761Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688eae17eb94b7cc3342776d",
+            "timestamp": "2025-08-03T00:32:23.352Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "688eaf35eb94b7cc334326d3",
+            "timestamp": "2025-08-03T00:37:09.072Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.5,
+            "asset": "TON",
+            "_id": "688eaf64eb94b7cc33435fc1",
+            "timestamp": "2025-08-03T00:37:56.565Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.63,
+            "asset": "TON",
+            "_id": "688eaf72eb94b7cc33436012",
+            "timestamp": "2025-08-03T00:38:10.543Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.76,
+            "asset": "TON",
+            "_id": "688eb349eb94b7cc334432cd",
+            "timestamp": "2025-08-03T00:54:33.673Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.9,
+            "asset": "TON",
+            "_id": "688eb3bfeb94b7cc334448c0",
+            "timestamp": "2025-08-03T00:56:31.108Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.05,
+            "asset": "TON",
+            "_id": "688eb524eb94b7cc3344747d",
+            "timestamp": "2025-08-03T01:02:28.837Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.2,
+            "asset": "TON",
+            "_id": "688eb53aeb94b7cc3344750b",
+            "timestamp": "2025-08-03T01:02:50.306Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.36,
+            "asset": "TON",
+            "_id": "688eb5b5eb94b7cc3344a506",
+            "timestamp": "2025-08-03T01:04:53.230Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.53,
+            "asset": "TON",
+            "_id": "688eb5cfeb94b7cc3344af4e",
+            "timestamp": "2025-08-03T01:05:19.853Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-03T01:23:24.907Z",
+        "status": "finished",
+        "gift_name": "Hex Pot",
+        "gift_num": 24702,
+        "model": "Digital Sap (0.8%)",
+        "backdrop": "Aquamarine (2%)",
+        "symbol": "Treats (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T23:23:26.253Z",
+        "__v": 0,
+        "winningBid": 3.53,
+        "winningBidder": 6864890970
+      },
+      "export_at": "2025-08-16T22:20:19.000Z",
       "premarketData": {}
     }
   ],
@@ -20018,26 +20115,6 @@
   ],
   "Melon Brew": [
     {
-      "gift_num": 45828,
-      "customEmojiId": "5431717746226258626",
-      "gift_id": 7644953,
-      "name": "Hex Pot",
-      "model": "Melon Brew (0.8%)",
-      "asset": "TON",
-      "symbol": "Book (0.2%)",
-      "backdrop": "Electric Purple (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.61,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-16T06:05:51.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 33010,
       "customEmojiId": "5431717746226258626",
       "gift_id": 7465667,
@@ -25076,7 +25153,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2.6,
+      "price": 2.4,
       "status": "forsale",
       "limited": false,
       "auction": null,
