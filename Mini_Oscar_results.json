@@ -420,8 +420,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 937699,
-      "price": 180,
+      "message_in_channel": 0,
+      "price": 105,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3915,6 +3915,26 @@
     }
   ],
   "Sprunki": [
+    {
+      "gift_num": 3152,
+      "customEmojiId": "5233397906211365024",
+      "gift_id": 7672422,
+      "name": "Mini Oscar",
+      "model": "Sprunki (1.5%)",
+      "asset": "TON",
+      "symbol": "Snail (0.4%)",
+      "backdrop": "Malachite (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 69.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-17T05:46:07.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 40,
       "customEmojiId": "5233397906211365024",
