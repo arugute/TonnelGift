@@ -169,29 +169,27 @@
       "premarketData": {}
     }
   ],
-  "Luna": [
+  "Valentine": [
     {
-      "gift_num": 623,
-      "customEmojiId": "5413342682133065188",
-      "gift_id": 7677460,
+      "gift_num": 1355,
+      "customEmojiId": "5228957120480701248",
+      "gift_id": 7436429,
       "name": "Heart Locket",
-      "model": "Luna (2%)",
+      "model": "Valentine (1%)",
       "asset": "TON",
-      "symbol": "Twin Koi (0.4%)",
-      "backdrop": "Pacific Cyan (1.2%)",
+      "symbol": "Bouquet (0.5%)",
+      "backdrop": "Caramel (1%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 939019,
-      "price": 1320,
+      "message_in_channel": 939141,
+      "price": 1500,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-08-17T11:19:05.000Z",
+      "export_at": "2025-08-10T17:42:04.000Z",
       "premarketData": {}
-    }
-  ],
-  "Valentine": [
+    },
     {
       "gift_num": 1238,
       "customEmojiId": "5228957120480701248",
@@ -248,8 +246,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 894892,
-      "price": 2100,
+      "message_in_channel": 939214,
+      "price": 1388,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -450,28 +448,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-07T23:13:50.000Z",
-      "premarketData": {}
-    }
-  ],
-  "Disco": [
-    {
-      "gift_num": 1565,
-      "customEmojiId": "5393419153480641357",
-      "gift_id": 7469867,
-      "name": "Heart Locket",
-      "model": "Disco (2.5%)",
-      "asset": "TON",
-      "symbol": "Bucket Hat (0.2%)",
-      "backdrop": "Black (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 930012,
-      "price": 5500,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-12T22:47:43.000Z",
       "premarketData": {}
     }
   ],
