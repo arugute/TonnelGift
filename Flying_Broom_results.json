@@ -3053,6 +3053,116 @@
       "auction": null,
       "export_at": "2025-04-19T08:22:19.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 18303,
+      "customEmojiId": "5411603027104654699",
+      "gift_id": 7642512,
+      "name": "Flying Broom",
+      "model": "Vineyard (2%)",
+      "asset": "TON",
+      "symbol": "Dragonfly (0.2%)",
+      "backdrop": "Emerald (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 7.41,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "OJIGUQSY",
+      "auction": {
+        "_id": "688d6926eb94b7cc331fd738",
+        "gift_id": 7642512,
+        "seller": 0,
+        "auction_id": "OJIGUQSY",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688d9db6eb94b7cc3343b9c5",
+            "timestamp": "2025-08-02T05:10:14.969Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688d9fe0eb94b7cc33440ca9",
+            "timestamp": "2025-08-02T05:19:28.551Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "688dae88eb94b7cc3357baae",
+            "timestamp": "2025-08-02T06:22:00.041Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "688dee25eb94b7cc3394756a",
+            "timestamp": "2025-08-02T10:53:25.741Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "688dee3feb94b7cc33948904",
+            "timestamp": "2025-08-02T10:53:51.700Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.56,
+            "asset": "TON",
+            "_id": "688e39aeeb94b7cc3370e20f",
+            "timestamp": "2025-08-02T16:15:42.362Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.4,
+            "asset": "TON",
+            "_id": "688e4e6deb94b7cc337ff899",
+            "timestamp": "2025-08-02T17:44:13.091Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.72,
+            "asset": "TON",
+            "_id": "688e8918eb94b7cc3319f40f",
+            "timestamp": "2025-08-02T21:54:32.284Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.06,
+            "asset": "TON",
+            "_id": "688e8f5feb94b7cc331f6835",
+            "timestamp": "2025-08-02T22:21:19.461Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.41,
+            "asset": "TON",
+            "_id": "688eb658eb94b7cc3344d479",
+            "timestamp": "2025-08-03T01:07:36.072Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-03T01:25:57.183Z",
+        "status": "finished",
+        "gift_name": "Flying Broom",
+        "gift_num": 18303,
+        "model": "Vineyard (2%)",
+        "backdrop": "Emerald (2%)",
+        "symbol": "Dragonfly (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T01:25:58.292Z",
+        "__v": 0,
+        "winningBid": 7.41,
+        "winningBidder": 7709130826
+      },
+      "export_at": "2025-08-16T01:23:21.000Z",
+      "premarketData": {}
     }
   ],
   "Butterflight": [
@@ -4118,6 +4228,53 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-02-28T01:10:13.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 14309,
+      "customEmojiId": "5436020251189863148",
+      "gift_id": 7661978,
+      "name": "Flying Broom",
+      "model": "Yellowtail (2.5%)",
+      "asset": "TON",
+      "symbol": "Poison Drop (2.4%)",
+      "backdrop": "Aquamarine (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.7,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "YUYX0NHT",
+      "auction": {
+        "_id": "688e52ffeb94b7cc338d9b00",
+        "gift_id": 7661978,
+        "seller": 0,
+        "auction_id": "YUYX0NHT",
+        "startingBid": 6.7,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 6.7,
+            "asset": "TON",
+            "_id": "688eb175eb94b7cc3343d4c6",
+            "timestamp": "2025-08-03T00:46:45.054Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-03T01:03:25.218Z",
+        "status": "finished",
+        "gift_name": "Flying Broom",
+        "gift_num": 14309,
+        "model": "Yellowtail (2.5%)",
+        "backdrop": "Aquamarine (2%)",
+        "symbol": "Poison Drop (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-03T00:03:27.533Z",
+        "__v": 0,
+        "winningBid": 6.7,
+        "winningBidder": 6293583343
+      },
+      "export_at": "2025-08-16T18:01:09.000Z",
       "premarketData": {}
     }
   ],
