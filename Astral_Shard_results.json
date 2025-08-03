@@ -3568,6 +3568,68 @@
   ],
   "Jurassic": [
     {
+      "gift_num": 470,
+      "customEmojiId": "5229213023222131686",
+      "gift_id": 7649546,
+      "name": "Astral Shard",
+      "model": "Jurassic (2%)",
+      "asset": "TON",
+      "symbol": "Scorpion (0.8%)",
+      "backdrop": "Cyberpunk (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 937792,
+      "price": 71.19,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "8OBM5IDZ",
+      "auction": {
+        "_id": "688dfcd8eb94b7cc33b245c0",
+        "gift_id": 7649546,
+        "seller": 0,
+        "auction_id": "8OBM5IDZ",
+        "startingBid": 55,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 55,
+            "asset": "TON",
+            "_id": "688e8172eb94b7cc331553ad",
+            "timestamp": "2025-08-02T21:21:54.425Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 67.8,
+            "asset": "TON",
+            "_id": "688e9572eb94b7cc3323dc6d",
+            "timestamp": "2025-08-02T22:47:14.150Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 71.19,
+            "asset": "TON",
+            "_id": "688edb2eeb94b7cc3354945e",
+            "timestamp": "2025-08-03T03:44:46.931Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-03T06:06:52.737Z",
+        "status": "finished",
+        "gift_name": "Astral Shard",
+        "gift_num": 470,
+        "model": "Jurassic (2%)",
+        "backdrop": "Cyberpunk (1.5%)",
+        "symbol": "Scorpion (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T18:06:55.570Z",
+        "__v": 0,
+        "winningBid": 71.19,
+        "winningBidder": 7172770086
+      },
+      "export_at": "2025-08-16T10:05:36.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 4875,
       "customEmojiId": "5229213023222131686",
       "gift_id": 577365635770,
@@ -6229,6 +6291,26 @@
   ],
   "Galactite": [
     {
+      "gift_num": 5262,
+      "customEmojiId": "5228909326084630459",
+      "gift_id": 7227546,
+      "name": "Astral Shard",
+      "model": "Galactite (2%)",
+      "asset": "TON",
+      "symbol": "Golden Scarab (0.8%)",
+      "backdrop": "Cappuccino (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 938640,
+      "price": 600,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T09:24:46.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2366,
       "customEmojiId": "5228909326084630459",
       "gift_id": 7627760,
@@ -6306,26 +6388,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-06T15:12:40.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5262,
-      "customEmojiId": "5228909326084630459",
-      "gift_id": 7227546,
-      "name": "Astral Shard",
-      "model": "Galactite (2%)",
-      "asset": "TON",
-      "symbol": "Golden Scarab (0.8%)",
-      "backdrop": "Cappuccino (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 919196,
-      "price": 800,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T09:24:46.000Z",
       "premarketData": {}
     },
     {
