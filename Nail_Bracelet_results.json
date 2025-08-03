@@ -2611,26 +2611,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 1078,
-      "customEmojiId": "5425135880643833920",
-      "gift_id": 6907059,
-      "name": "Nail Bracelet",
-      "model": "Aqua Ring (1.5%)",
-      "asset": "TON",
-      "symbol": "Banner (0.5%)",
-      "backdrop": "Sapphire (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 927531,
-      "price": 240,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-15T14:44:03.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 521,
       "customEmojiId": "5425135880643833920",
       "gift_id": 6339847,
@@ -4374,6 +4354,172 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-22T16:37:28.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 3292,
+      "customEmojiId": "5346155035547952300",
+      "gift_id": 7667760,
+      "name": "Nail Bracelet",
+      "model": "Vague Dream (2.5%)",
+      "asset": "TON",
+      "symbol": "Kudu Totem (0.4%)",
+      "backdrop": "Platinum (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 100,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "NJG6LMQ2",
+      "auction": {
+        "_id": "688e85aaeb94b7cc33173dea",
+        "gift_id": 7667760,
+        "seller": 0,
+        "auction_id": "NJG6LMQ2",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688e85e8eb94b7cc3317659b",
+            "timestamp": "2025-08-02T21:40:56.698Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688e953deb94b7cc3323d592",
+            "timestamp": "2025-08-02T22:46:21.719Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "688e96beeb94b7cc3325e094",
+            "timestamp": "2025-08-02T22:52:46.559Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "688e96dfeb94b7cc3326483d",
+            "timestamp": "2025-08-02T22:53:19.198Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "688e9715eb94b7cc3326cc38",
+            "timestamp": "2025-08-02T22:54:13.032Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.56,
+            "asset": "TON",
+            "_id": "688e9727eb94b7cc3326d680",
+            "timestamp": "2025-08-02T22:54:31.426Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.69,
+            "asset": "TON",
+            "_id": "688e9734eb94b7cc33270408",
+            "timestamp": "2025-08-02T22:54:44.088Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "688e9750eb94b7cc3327129c",
+            "timestamp": "2025-08-02T22:55:12.537Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "688e976ceb94b7cc332729e6",
+            "timestamp": "2025-08-02T22:55:40.003Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.51,
+            "asset": "TON",
+            "_id": "688e9898eb94b7cc332797cc",
+            "timestamp": "2025-08-02T23:00:40.473Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.79,
+            "asset": "TON",
+            "_id": "688e98a8eb94b7cc33279b89",
+            "timestamp": "2025-08-02T23:00:56.279Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.08,
+            "asset": "TON",
+            "_id": "688e9937eb94b7cc33280f31",
+            "timestamp": "2025-08-02T23:03:19.750Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.38,
+            "asset": "TON",
+            "_id": "688e9a30eb94b7cc3328dbe7",
+            "timestamp": "2025-08-02T23:07:28.196Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.5,
+            "asset": "TON",
+            "_id": "688e9ba5eb94b7cc332a7056",
+            "timestamp": "2025-08-02T23:13:41.411Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.88,
+            "asset": "TON",
+            "_id": "688e9c35eb94b7cc332b1927",
+            "timestamp": "2025-08-02T23:16:05.563Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.27,
+            "asset": "TON",
+            "_id": "688e9c7beb94b7cc332ba124",
+            "timestamp": "2025-08-02T23:17:15.324Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 90,
+            "asset": "TON",
+            "_id": "688eab2feb94b7cc333f79e7",
+            "timestamp": "2025-08-03T00:19:59.075Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 100,
+            "asset": "TON",
+            "_id": "688eae22eb94b7cc33427a76",
+            "timestamp": "2025-08-03T00:32:34.369Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-03T09:39:52.872Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 3292,
+        "model": "Vague Dream (2.5%)",
+        "backdrop": "Platinum (1.2%)",
+        "symbol": "Kudu Totem (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-02T21:39:54.439Z",
+        "__v": 0,
+        "winningBid": 100,
+        "winningBidder": 357572710
+      },
+      "export_at": "2025-08-16T21:39:25.000Z",
       "premarketData": {}
     }
   ],
