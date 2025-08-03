@@ -815,26 +815,6 @@
   ],
   "Undead": [
     {
-      "gift_num": 1801,
-      "customEmojiId": "5233427270902770694",
-      "gift_id": 7635579,
-      "name": "Mini Oscar",
-      "model": "Undead (1.5%)",
-      "asset": "TON",
-      "symbol": "Moon Face (0.5%)",
-      "backdrop": "Cyberpunk (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 69,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T20:00:35.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2786,
       "customEmojiId": "5233427270902770694",
       "gift_id": 7485553,
@@ -1604,6 +1584,24 @@
     }
   ],
   "Caveman": [
+    {
+      "gift_num": 569,
+      "customEmojiId": "5233283093145607038",
+      "gift_id": 583924078318,
+      "name": "Mini Oscar",
+      "model": "Caveman (1.5%)",
+      "asset": "TON",
+      "symbol": "Bull of Heaven (0.4%)",
+      "backdrop": "Coral Red (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 275.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 4186,
       "customEmojiId": "5233283093145607038",
@@ -3434,26 +3432,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-15T20:59:48.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3921,
-      "customEmojiId": "5233308300308670230",
-      "gift_id": 7299830,
-      "name": "Mini Oscar",
-      "model": "Welder (1.5%)",
-      "asset": "TON",
-      "symbol": "Police Badge (0.5%)",
-      "backdrop": "English Violet (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 74,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T16:40:39.000Z",
       "premarketData": {}
     }
   ],
