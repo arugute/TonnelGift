@@ -7263,6 +7263,95 @@
       "auction": null,
       "export_at": "2025-04-14T06:18:14.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 25811,
+      "customEmojiId": "5235978593145746862",
+      "gift_id": 7669987,
+      "name": "Cookie Heart",
+      "model": "Nyam Cat (1%)",
+      "asset": "TON",
+      "symbol": "Jingle Bell (1%)",
+      "backdrop": "Midnight Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 2.69,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "GSYDCWHF",
+      "auction": {
+        "_id": "688eac47eb94b7cc33405ecb",
+        "gift_id": 7669987,
+        "seller": 0,
+        "auction_id": "GSYDCWHF",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688efd91eb94b7cc336cc93a",
+            "timestamp": "2025-08-03T06:11:29.713Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688efe0feb94b7cc336cd96e",
+            "timestamp": "2025-08-03T06:13:35.015Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "688efe70eb94b7cc336d0ff6",
+            "timestamp": "2025-08-03T06:15:12.424Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "688efe8beb94b7cc336d1534",
+            "timestamp": "2025-08-03T06:15:39.185Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "688efefaeb94b7cc336d3ff2",
+            "timestamp": "2025-08-03T06:17:30.524Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.56,
+            "asset": "TON",
+            "_id": "688eff1beb94b7cc336d51c0",
+            "timestamp": "2025-08-03T06:18:03.542Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.69,
+            "asset": "TON",
+            "_id": "688f0202eb94b7cc336e5e5f",
+            "timestamp": "2025-08-03T06:30:26.469Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-03T06:44:34.368Z",
+        "status": "finished",
+        "gift_name": "Cookie Heart",
+        "gift_num": 25811,
+        "model": "Nyam Cat (1%)",
+        "backdrop": "Midnight Blue (2%)",
+        "symbol": "Jingle Bell (1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-03T00:24:39.732Z",
+        "__v": 0,
+        "winningBid": 2.69,
+        "winningBidder": 799262400
+      },
+      "export_at": "2025-08-17T00:19:25.000Z",
+      "premarketData": {}
     }
   ],
   "Medovik": [
@@ -10651,7 +10740,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2,
+      "price": 10,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -18905,6 +18994,26 @@
   ],
   "Bloodlust": [
     {
+      "gift_num": 131441,
+      "customEmojiId": "5228829637261422288",
+      "gift_id": 7622842,
+      "name": "Cookie Heart",
+      "model": "Bloodlust (0.2%)",
+      "asset": "TON",
+      "symbol": "Nordic Wolf (0.8%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T14:12:06.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 32203,
       "customEmojiId": "5228829637261422288",
       "gift_id": 7641414,
@@ -18982,26 +19091,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-28T11:59:57.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 131441,
-      "customEmojiId": "5228829637261422288",
-      "gift_id": 7622842,
-      "name": "Cookie Heart",
-      "model": "Bloodlust (0.2%)",
-      "asset": "TON",
-      "symbol": "Nordic Wolf (0.8%)",
-      "backdrop": "Rosewood (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T14:12:06.000Z",
       "premarketData": {}
     },
     {
@@ -20121,7 +20210,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 4,
+      "price": 3.3,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -20670,6 +20759,26 @@
   ],
   "Yamete Kudasai": [
     {
+      "gift_num": 42174,
+      "customEmojiId": "5235670287508335894",
+      "gift_id": 7627515,
+      "name": "Cookie Heart",
+      "model": "Yamete Kudasai (0.1%)",
+      "asset": "TON",
+      "symbol": "Heart Shades (0.4%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 11.25,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T16:16:12.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 50020,
       "customEmojiId": "5235670287508335894",
       "gift_id": 7498794,
@@ -20707,26 +20816,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-14T10:14:55.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 42174,
-      "customEmojiId": "5235670287508335894",
-      "gift_id": 7627515,
-      "name": "Cookie Heart",
-      "model": "Yamete Kudasai (0.1%)",
-      "asset": "TON",
-      "symbol": "Heart Shades (0.4%)",
-      "backdrop": "Persimmon (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 11.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T16:16:12.000Z",
       "premarketData": {}
     },
     {
@@ -21012,6 +21101,26 @@
   ],
   "Neon Candy": [
     {
+      "gift_num": 128720,
+      "customEmojiId": "5221929823840002869",
+      "gift_id": 7306438,
+      "name": "Cookie Heart",
+      "model": "Neon Candy (1.5%)",
+      "asset": "TON",
+      "symbol": "Shooting Star (1.2%)",
+      "backdrop": "Black (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 18,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-03T03:30:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 133601,
       "customEmojiId": "5221929823840002869",
       "gift_id": 7612686,
@@ -21169,26 +21278,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-11T13:50:17.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 128720,
-      "customEmojiId": "5221929823840002869",
-      "gift_id": 7306438,
-      "name": "Cookie Heart",
-      "model": "Neon Candy (1.5%)",
-      "asset": "TON",
-      "symbol": "Shooting Star (1.2%)",
-      "backdrop": "Black (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 25,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-03T03:30:16.000Z",
       "premarketData": {}
     },
     {
@@ -22215,6 +22304,26 @@
     }
   ],
   "Soap Opera": [
+    {
+      "gift_num": 133592,
+      "customEmojiId": "5228812650665765276",
+      "gift_id": 7672723,
+      "name": "Cookie Heart",
+      "model": "Soap Opera (1%)",
+      "asset": "TON",
+      "symbol": "Handset (0.6%)",
+      "backdrop": "Satin Gold (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-17T06:21:12.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 60412,
       "customEmojiId": "5228812650665765276",
@@ -25488,6 +25597,26 @@
   ],
   "Angry Ghost": [
     {
+      "gift_num": 125182,
+      "customEmojiId": "5233588985011400437",
+      "gift_id": 7661973,
+      "name": "Cookie Heart",
+      "model": "Angry Ghost (0.2%)",
+      "asset": "TON",
+      "symbol": "Chocolate (0.4%)",
+      "backdrop": "Hunter Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-16T18:00:53.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 89424,
       "customEmojiId": "5233588985011400437",
       "gift_id": 7469537,
@@ -25525,26 +25654,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-16T15:17:51.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 125182,
-      "customEmojiId": "5233588985011400437",
-      "gift_id": 7661973,
-      "name": "Cookie Heart",
-      "model": "Angry Ghost (0.2%)",
-      "asset": "TON",
-      "symbol": "Chocolate (0.4%)",
-      "backdrop": "Hunter Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-16T18:00:53.000Z",
       "premarketData": {}
     },
     {
@@ -26732,26 +26841,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 67467,
-      "customEmojiId": "5222265681692613407",
-      "gift_id": 7623033,
-      "name": "Cookie Heart",
-      "model": "Sprinkles (1%)",
-      "asset": "TON",
-      "symbol": "Mannaz Rune (0.2%)",
-      "backdrop": "Strawberry (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T14:17:07.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 54991,
       "customEmojiId": "5222265681692613407",
       "gift_id": 6234064,
@@ -27659,6 +27748,26 @@
   ],
   "Toffee": [
     {
+      "gift_num": 10878,
+      "customEmojiId": "5224633913774728270",
+      "gift_id": -327619625,
+      "name": "Cookie Heart",
+      "model": "Toffee (1.5%)",
+      "asset": "TON",
+      "symbol": "Sakura (0.4%)",
+      "backdrop": "Amber (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 55,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-04T13:20:16.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 68933,
       "customEmojiId": "5224633913774728270",
       "gift_id": 3122114,
@@ -28237,26 +28346,6 @@
       "auction": null,
       "export_at": "2025-04-05T12:41:03.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 9597,
-      "customEmojiId": "5224633913774728270",
-      "gift_id": 511094,
-      "name": "Cookie Heart",
-      "model": "Toffee (1.5%)",
-      "asset": "TON",
-      "symbol": "Spades (0.2%)",
-      "backdrop": "Midnight Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 358969,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-02-20T17:54:47.000Z",
-      "premarketData": {}
     }
   ],
   "Toasted": [
@@ -28618,26 +28707,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-25T02:33:10.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 47363,
-      "customEmojiId": "5222357838805883984",
-      "gift_id": 5407731,
-      "name": "Cookie Heart",
-      "model": "Toasted (1%)",
-      "asset": "TON",
-      "symbol": "Jingle Bell (1%)",
-      "backdrop": "Satin Gold (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-11T15:06:36.000Z",
       "premarketData": {}
     },
     {
@@ -29706,26 +29775,6 @@
     }
   ],
   "Kawaii Frog": [
-    {
-      "gift_num": 19108,
-      "customEmojiId": "5235478607412882069",
-      "gift_id": 7661684,
-      "name": "Cookie Heart",
-      "model": "Kawaii Frog (1%)",
-      "asset": "TON",
-      "symbol": "Mittens (1.2%)",
-      "backdrop": "Pure Gold (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.02,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-16T17:47:18.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 19139,
       "customEmojiId": "5235478607412882069",
@@ -33576,7 +33625,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 5.6,
+      "price": 5,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -52017,6 +52066,26 @@
     }
   ],
   "Kawaii Bunny": [
+    {
+      "gift_num": 25392,
+      "customEmojiId": "5235662505027592597",
+      "gift_id": 7171295,
+      "name": "Cookie Heart",
+      "model": "Kawaii Bunny (1%)",
+      "asset": "TON",
+      "symbol": "Skull (0.2%)",
+      "backdrop": "Rosewood (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-26T08:22:57.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 64138,
       "customEmojiId": "5235662505027592597",
