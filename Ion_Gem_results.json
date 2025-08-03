@@ -4424,7 +4424,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 65,
+      "price": 64,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -6092,6 +6092,96 @@
   ],
   "Pink Sapphire": [
     {
+      "gift_num": 3454,
+      "customEmojiId": "5409268733854114222",
+      "gift_id": 7629549,
+      "name": "Ion Gem",
+      "model": "Pink Sapphire (2%)",
+      "asset": "TON",
+      "symbol": "Ancient Urn (0.4%)",
+      "backdrop": "Azure Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 63.53,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "O8C0G9Q9",
+      "auction": {
+        "_id": "688e51f1eb94b7cc338c2c0a",
+        "gift_id": 7629549,
+        "seller": 0,
+        "auction_id": "O8C0G9Q9",
+        "startingBid": 5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "688f116beb94b7cc337fc03d",
+            "timestamp": "2025-08-03T07:36:11.391Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "688f1e0beb94b7cc338342d4",
+            "timestamp": "2025-08-03T08:30:03.994Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.51,
+            "asset": "TON",
+            "_id": "688f2194eb94b7cc3387f022",
+            "timestamp": "2025-08-03T08:45:08.673Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.79,
+            "asset": "TON",
+            "_id": "688f21c5eb94b7cc33888822",
+            "timestamp": "2025-08-03T08:45:57.428Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 50,
+            "asset": "TON",
+            "_id": "688f23cceb94b7cc338ed74d",
+            "timestamp": "2025-08-03T08:54:36.294Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 60.5,
+            "asset": "TON",
+            "_id": "688f2ce4eb94b7cc33b34260",
+            "timestamp": "2025-08-03T09:33:24.106Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 63.53,
+            "asset": "TON",
+            "_id": "688f4edaeb94b7cc333652fb",
+            "timestamp": "2025-08-03T11:58:18.820Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-03T12:54:49.616Z",
+        "status": "finished",
+        "gift_name": "Ion Gem",
+        "gift_num": 3454,
+        "model": "Pink Sapphire (2%)",
+        "backdrop": "Azure Blue (2%)",
+        "symbol": "Ancient Urn (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-03T06:54:50.681Z",
+        "__v": 0,
+        "winningBid": 63.53,
+        "winningBidder": 7973410569
+      },
+      "export_at": "2025-08-15T17:08:58.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3690,
       "customEmojiId": "5409268733854114222",
       "gift_id": 585729716070,
@@ -6750,6 +6840,26 @@
   ],
   "Love Stones": [
     {
+      "gift_num": 3708,
+      "customEmojiId": "5422431232363354607",
+      "gift_id": 7535377,
+      "name": "Ion Gem",
+      "model": "Love Stones (2%)",
+      "asset": "TON",
+      "symbol": "Gem (0.4%)",
+      "backdrop": "Raspberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 939136,
+      "price": 150,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T14:45:17.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3213,
       "customEmojiId": "5422431232363354607",
       "gift_id": 584391329529,
@@ -6765,26 +6875,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3708,
-      "customEmojiId": "5422431232363354607",
-      "gift_id": 7535377,
-      "name": "Ion Gem",
-      "model": "Love Stones (2%)",
-      "asset": "TON",
-      "symbol": "Gem (0.4%)",
-      "backdrop": "Raspberry (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 936423,
-      "price": 170,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-14T14:45:17.000Z",
       "premarketData": {}
     },
     {
