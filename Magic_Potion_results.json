@@ -305,6 +305,68 @@
       "premarketData": {}
     },
     {
+      "gift_num": 3522,
+      "customEmojiId": "5431819902023391834",
+      "gift_id": 7433686,
+      "name": "Magic Potion",
+      "model": "Mummify (2%)",
+      "asset": "TON",
+      "symbol": "Ghost (1.6%)",
+      "backdrop": "Mint Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 45.2,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "SEM1MUJ3",
+      "auction": {
+        "_id": "688e6821eb94b7cc33b8db59",
+        "gift_id": 7433686,
+        "seller": 0,
+        "auction_id": "SEM1MUJ3",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 41,
+            "asset": "TON",
+            "_id": "68905be2da18eeaa3fc77782",
+            "timestamp": "2025-08-04T07:06:10.667Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 43.05,
+            "asset": "TON",
+            "_id": "68905c05da18eeaa3fc7797f",
+            "timestamp": "2025-08-04T07:06:45.525Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 45.2,
+            "asset": "TON",
+            "_id": "68905e99da18eeaa3fc7e17f",
+            "timestamp": "2025-08-04T07:17:45.323Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-04T08:05:10.905Z",
+        "status": "finished",
+        "gift_name": "Magic Potion",
+        "gift_num": 3522,
+        "model": "Mummify (2%)",
+        "backdrop": "Mint Green (1.5%)",
+        "symbol": "Ghost (1.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T07:05:13.111Z",
+        "__v": 0,
+        "winningBid": 45.2,
+        "winningBidder": 7855800492
+      },
+      "export_at": "2025-08-10T15:31:46.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1546,
       "customEmojiId": "5431819902023391834",
       "gift_id": 7272199,
