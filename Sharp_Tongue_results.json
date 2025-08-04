@@ -21,26 +21,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 306,
-      "customEmojiId": "5409310064324405428",
-      "gift_id": 7460614,
-      "name": "Sharp Tongue",
-      "model": "Sour Bite (2.5%)",
-      "asset": "TON",
-      "symbol": "Pawn (0.2%)",
-      "backdrop": "Pacific Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 34.99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-12T09:49:49.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 3990,
       "customEmojiId": "5409310064324405428",
       "gift_id": 6767604,
@@ -200,26 +180,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-08T18:56:02.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6177,
-      "customEmojiId": "5411204857866512398",
-      "gift_id": 7152811,
-      "name": "Sharp Tongue",
-      "model": "Spicy Mint (2.5%)",
-      "asset": "TON",
-      "symbol": "Melon (0.4%)",
-      "backdrop": "English Violet (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 85,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-25T10:26:08.000Z",
       "premarketData": {}
     },
     {
@@ -894,6 +854,26 @@
     }
   ],
   "Padme": [
+    {
+      "gift_num": 7234,
+      "customEmojiId": "5413748612377108986",
+      "gift_id": 7538718,
+      "name": "Sharp Tongue",
+      "model": "Padme (2%)",
+      "asset": "TON",
+      "symbol": "Sunflower (0.6%)",
+      "backdrop": "Carrot Juice (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 35.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T15:19:41.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2792,
       "customEmojiId": "5413748612377108986",
@@ -3921,6 +3901,26 @@
   ],
   "Leopard": [
     {
+      "gift_num": 5803,
+      "customEmojiId": "5429583671466158981",
+      "gift_id": 7707723,
+      "name": "Sharp Tongue",
+      "model": "Leopard (2%)",
+      "asset": "TON",
+      "symbol": "Ladybug (0.4%)",
+      "backdrop": "Pine Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 40,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T15:33:20.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5700,
       "customEmojiId": "5429583671466158981",
       "gift_id": 7454419,
@@ -5850,6 +5850,61 @@
     }
   ],
   "Queen": [
+    {
+      "gift_num": 5871,
+      "customEmojiId": "5413645301233771348",
+      "gift_id": 7704239,
+      "name": "Sharp Tongue",
+      "model": "Queen (2.5%)",
+      "asset": "TON",
+      "symbol": "Voodoo Doll (1%)",
+      "backdrop": "Pine Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 31.55,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "8QHYI1N9",
+      "auction": {
+        "_id": "6890b7a3da18eeaa3f2ccf20",
+        "gift_id": 7704239,
+        "seller": 0,
+        "auction_id": "8QHYI1N9",
+        "startingBid": 20,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 30.05,
+            "asset": "TON",
+            "_id": "6890b7dada18eeaa3f2d1296",
+            "timestamp": "2025-08-04T13:38:34.952Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 31.55,
+            "asset": "TON",
+            "_id": "6890cc94da18eeaa3f4b4927",
+            "timestamp": "2025-08-04T15:07:00.689Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-04T15:37:36.857Z",
+        "status": "finished",
+        "gift_name": "Sharp Tongue",
+        "gift_num": 5871,
+        "model": "Queen (2.5%)",
+        "backdrop": "Pine Green (2%)",
+        "symbol": "Voodoo Doll (1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T13:37:39.878Z",
+        "__v": 0,
+        "winningBid": 31.55,
+        "winningBidder": 1429752975
+      },
+      "export_at": "2025-08-18T12:31:47.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 7454,
       "customEmojiId": "5413645301233771348",
