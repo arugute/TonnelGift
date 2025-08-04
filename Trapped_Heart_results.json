@@ -1,6 +1,26 @@
 {
   "Silver": [
     {
+      "gift_num": 11748,
+      "customEmojiId": "5399853946497952040",
+      "gift_id": 7674459,
+      "name": "Trapped Heart",
+      "model": "Silver (2%)",
+      "asset": "TON",
+      "symbol": "Narcissus (0.4%)",
+      "backdrop": "Steel Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 21.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-17T08:45:48.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 15433,
       "customEmojiId": "5399853946497952040",
       "gift_id": 7682310,
@@ -18,26 +38,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-17T14:38:26.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11748,
-      "customEmojiId": "5399853946497952040",
-      "gift_id": 7674459,
-      "name": "Trapped Heart",
-      "model": "Silver (2%)",
-      "asset": "TON",
-      "symbol": "Narcissus (0.4%)",
-      "backdrop": "Steel Grey (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 28,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-17T08:45:48.000Z",
       "premarketData": {}
     },
     {
@@ -5191,6 +5191,26 @@
   ],
   "Orange Blaze": [
     {
+      "gift_num": 16615,
+      "customEmojiId": "5395603492243007577",
+      "gift_id": 7128012,
+      "name": "Trapped Heart",
+      "model": "Orange Blaze (2.6%)",
+      "asset": "TON",
+      "symbol": "Spooky Cat (1.2%)",
+      "backdrop": "Midnight Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 9.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-24T11:49:53.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 7016,
       "customEmojiId": "5395603492243007577",
       "gift_id": 7431773,
@@ -5368,26 +5388,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-04T08:47:44.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 16615,
-      "customEmojiId": "5395603492243007577",
-      "gift_id": 7128012,
-      "name": "Trapped Heart",
-      "model": "Orange Blaze (2.6%)",
-      "asset": "TON",
-      "symbol": "Spooky Cat (1.2%)",
-      "backdrop": "Midnight Blue (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 13,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T11:49:53.000Z",
       "premarketData": {}
     },
     {
@@ -10272,6 +10272,172 @@
       "auction": null,
       "export_at": "2025-04-25T06:15:40.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 7200,
+      "customEmojiId": "5402510413835302585",
+      "gift_id": 7687091,
+      "name": "Trapped Heart",
+      "model": "Silver Luxe (2%)",
+      "asset": "TON",
+      "symbol": "Apple (0.6%)",
+      "backdrop": "Cobalt Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 11.48,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "G9F22EUJ",
+      "auction": {
+        "_id": "68905114da18eeaa3f69eed9",
+        "gift_id": 7687091,
+        "seller": 0,
+        "auction_id": "G9F22EUJ",
+        "startingBid": 4,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "68905f9bda18eeaa3fc818ab",
+            "timestamp": "2025-08-04T07:22:03.726Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "68906203da18eeaa3fc87cb8",
+            "timestamp": "2025-08-04T07:32:19.769Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.51,
+            "asset": "TON",
+            "_id": "68906a62da18eeaa3fca30e5",
+            "timestamp": "2025-08-04T08:08:02.720Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.79,
+            "asset": "TON",
+            "_id": "68906d21da18eeaa3fcab227",
+            "timestamp": "2025-08-04T08:19:45.654Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.08,
+            "asset": "TON",
+            "_id": "68906ed7da18eeaa3fcb032f",
+            "timestamp": "2025-08-04T08:27:03.350Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.38,
+            "asset": "TON",
+            "_id": "68907115da18eeaa3fcb6fc4",
+            "timestamp": "2025-08-04T08:36:37.637Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.7,
+            "asset": "TON",
+            "_id": "6890751bda18eeaa3fcc33fb",
+            "timestamp": "2025-08-04T08:53:47.119Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.04,
+            "asset": "TON",
+            "_id": "689077c1da18eeaa3fcce027",
+            "timestamp": "2025-08-04T09:05:05.107Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.39,
+            "asset": "TON",
+            "_id": "68907881da18eeaa3fcd0bf6",
+            "timestamp": "2025-08-04T09:08:17.249Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.76,
+            "asset": "TON",
+            "_id": "689078b3da18eeaa3fcd2438",
+            "timestamp": "2025-08-04T09:09:07.125Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.15,
+            "asset": "TON",
+            "_id": "689079dfda18eeaa3fcd6fec",
+            "timestamp": "2025-08-04T09:14:07.542Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.56,
+            "asset": "TON",
+            "_id": "68907d78da18eeaa3fd059ce",
+            "timestamp": "2025-08-04T09:29:28.565Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.99,
+            "asset": "TON",
+            "_id": "68907dc5da18eeaa3fd1143d",
+            "timestamp": "2025-08-04T09:30:45.603Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.44,
+            "asset": "TON",
+            "_id": "68908135da18eeaa3fd6e2ec",
+            "timestamp": "2025-08-04T09:45:25.687Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.91,
+            "asset": "TON",
+            "_id": "68908146da18eeaa3fd6e89b",
+            "timestamp": "2025-08-04T09:45:42.324Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.41,
+            "asset": "TON",
+            "_id": "68908175da18eeaa3fd75cf1",
+            "timestamp": "2025-08-04T09:46:29.993Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.93,
+            "asset": "TON",
+            "_id": "689081dfda18eeaa3fd809b3",
+            "timestamp": "2025-08-04T09:48:15.723Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.48,
+            "asset": "TON",
+            "_id": "6890824dda18eeaa3fd961d9",
+            "timestamp": "2025-08-04T09:50:05.971Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-04T10:10:00.807Z",
+        "status": "finished",
+        "gift_name": "Trapped Heart",
+        "gift_num": 7200,
+        "model": "Silver Luxe (2%)",
+        "backdrop": "Cobalt Blue (2%)",
+        "symbol": "Apple (0.6%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T06:20:04.044Z",
+        "__v": 0,
+        "winningBid": 11.48,
+        "winningBidder": 7000101902
+      },
+      "export_at": "2025-08-17T17:48:33.000Z",
+      "premarketData": {}
     }
   ],
   "Love Bomb": [
@@ -12267,7 +12433,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 5.5,
+      "price": 5.49,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -17992,6 +18158,26 @@
     }
   ],
   "Mended Love": [
+    {
+      "gift_num": 7979,
+      "customEmojiId": "5404839110743447604",
+      "gift_id": 7453877,
+      "name": "Trapped Heart",
+      "model": "Mended Love (2.6%)",
+      "asset": "TON",
+      "symbol": "Chocolate (0.6%)",
+      "backdrop": "Shamrock Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T18:56:44.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 20185,
       "customEmojiId": "5404839110743447604",
