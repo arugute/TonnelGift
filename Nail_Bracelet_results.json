@@ -572,26 +572,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 2919,
-      "customEmojiId": "5303263696833767812",
-      "gift_id": 7563629,
-      "name": "Nail Bracelet",
-      "model": "Rose Thorn (3.5%)",
-      "asset": "TON",
-      "symbol": "Polar Bear (0.5%)",
-      "backdrop": "Jade Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 115,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-14T17:59:32.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2460,
       "customEmojiId": "5303263696833767812",
       "gift_id": 7381615,
@@ -2970,6 +2950,60 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-27T12:09:33.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 193,
+      "customEmojiId": "5357446977015539232",
+      "gift_id": 7708033,
+      "name": "Nail Bracelet",
+      "model": "Nuclear Silo (2%)",
+      "asset": "TON",
+      "symbol": "Wizard Hat (0.2%)",
+      "backdrop": "Emerald (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 95.03,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "053QPH0M",
+      "auction": {
+        "_id": "6890d7175a8240d87b728233",
+        "gift_id": 7708033,
+        "seller": 0,
+        "auction_id": "053QPH0M",
+        "startingBid": 90,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 90.5,
+            "asset": "TON",
+            "_id": "6890d7775a8240d87b738dc1",
+            "timestamp": "2025-08-04T15:53:27.033Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 95.03,
+            "asset": "TON",
+            "_id": "6890e35c5a8240d87b87f861",
+            "timestamp": "2025-08-04T16:44:12.255Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-04T17:01:49.885Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 193,
+        "model": "Nuclear Silo (2%)",
+        "backdrop": "Emerald (1.5%)",
+        "symbol": "Wizard Hat (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T15:51:51.664Z",
+        "__v": 0,
+        "winningBid": 95.03,
+        "winningBidder": 6290092141
+      },
+      "export_at": "2025-08-18T15:51:04.000Z",
       "premarketData": {}
     }
   ],
@@ -6629,26 +6663,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-16T12:12:32.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4122,
-      "customEmojiId": "5420355882691095132",
-      "gift_id": 7695776,
-      "name": "Nail Bracelet",
-      "model": "Explosive (2.5%)",
-      "asset": "TON",
-      "symbol": "Piggy Bank (0.5%)",
-      "backdrop": "Mystic Pearl (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 96,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-18T01:12:14.000Z",
       "premarketData": {}
     },
     {
