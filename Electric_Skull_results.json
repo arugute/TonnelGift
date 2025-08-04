@@ -4872,6 +4872,60 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
+    },
+    {
+      "gift_num": 1614,
+      "customEmojiId": "5226757899656653098",
+      "gift_id": 7714533,
+      "name": "Electric Skull",
+      "model": "Metal Shade (4%)",
+      "asset": "TON",
+      "symbol": "Old Scull (0.8%)",
+      "backdrop": "Seal Brown (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 21,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "UAJZCT8V",
+      "auction": {
+        "_id": "689125af5a8240d87bf88a46",
+        "gift_id": 7714533,
+        "seller": 0,
+        "auction_id": "UAJZCT8V",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 20,
+            "asset": "TON",
+            "_id": "689125cd5a8240d87bf97e44",
+            "timestamp": "2025-08-04T21:27:41.317Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 21,
+            "asset": "TON",
+            "_id": "6891261d5a8240d87bfc0f08",
+            "timestamp": "2025-08-04T21:29:01.954Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-04T22:27:11.475Z",
+        "status": "finished",
+        "gift_name": "Electric Skull",
+        "gift_num": 1614,
+        "model": "Metal Shade (4%)",
+        "backdrop": "Seal Brown (1%)",
+        "symbol": "Old Scull (0.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T21:27:11.389Z",
+        "__v": 0,
+        "winningBid": 21,
+        "winningBidder": 1429752975
+      },
+      "export_at": "2025-08-18T21:22:59.000Z",
+      "premarketData": {}
     }
   ],
   "Chromatic": [
@@ -9493,6 +9547,24 @@
   ],
   "Twisted Heart": [
     {
+      "gift_num": 5412,
+      "customEmojiId": "5251472417083124709",
+      "gift_id": 593385713460,
+      "name": "Electric Skull",
+      "model": "Twisted Heart (1%)",
+      "asset": "TON",
+      "symbol": "Illuminati (0.8%)",
+      "backdrop": "Moonstone (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 220.32,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 7120,
       "customEmojiId": "5251472417083124709",
       "gift_id": 7710111,
@@ -9588,26 +9660,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-01T10:18:15.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5412,
-      "customEmojiId": "5251472417083124709",
-      "gift_id": 7267367,
-      "name": "Electric Skull",
-      "model": "Twisted Heart (1%)",
-      "asset": "TON",
-      "symbol": "Illuminati (0.8%)",
-      "backdrop": "Moonstone (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 60,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-31T13:39:47.000Z",
       "premarketData": {}
     },
     {
@@ -13112,6 +13164,26 @@
     }
   ],
   "Deadman": [
+    {
+      "gift_num": 3460,
+      "customEmojiId": "5235583627953203318",
+      "gift_id": -795272276,
+      "name": "Electric Skull",
+      "model": "Deadman (4%)",
+      "asset": "TON",
+      "symbol": "Potion (1%)",
+      "backdrop": "Onyx Black (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 941477,
+      "price": 350,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T21:08:10.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 6819,
       "customEmojiId": "5235583627953203318",
