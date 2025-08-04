@@ -392,6 +392,24 @@
   ],
   "Rose Gold": [
     {
+      "gift_num": 4736,
+      "customEmojiId": "5431748463832359906",
+      "gift_id": 603277605111,
+      "name": "Signet Ring",
+      "model": "Rose Gold (4%)",
+      "asset": "TON",
+      "symbol": "Coin (0.5%)",
+      "backdrop": "Midnight Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 275.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 8970,
       "customEmojiId": "5431748463832359906",
       "gift_id": 7365471,
@@ -945,60 +963,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T09:57:56.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 10804,
-      "customEmojiId": "5431748463832359906",
-      "gift_id": 7673158,
-      "name": "Signet Ring",
-      "model": "Rose Gold (4%)",
-      "asset": "TON",
-      "symbol": "Feather (0.2%)",
-      "backdrop": "Shamrock Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 21,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "JN1C8OMC",
-      "auction": {
-        "_id": "688f0d26eb94b7cc337e2b1c",
-        "gift_id": 7673158,
-        "seller": 0,
-        "auction_id": "JN1C8OMC",
-        "startingBid": 20,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 20,
-            "asset": "TON",
-            "_id": "688f0d99eb94b7cc337e5ac9",
-            "timestamp": "2025-08-03T07:19:53.621Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 21,
-            "asset": "TON",
-            "_id": "688f1025eb94b7cc337f4ba3",
-            "timestamp": "2025-08-03T07:30:45.190Z"
-          }
-        ],
-        "auctionEndTime": "2025-08-03T08:17:56.676Z",
-        "status": "finished",
-        "gift_name": "Signet Ring",
-        "gift_num": 10804,
-        "model": "Rose Gold (4%)",
-        "backdrop": "Shamrock Green (2%)",
-        "symbol": "Feather (0.2%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-08-03T07:17:58.834Z",
-        "__v": 0,
-        "winningBid": 21,
-        "winningBidder": 1429752975
-      },
-      "export_at": "2025-08-17T07:15:59.000Z",
       "premarketData": {}
     }
   ],
@@ -8020,7 +7984,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 130,
+      "price": 140,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -8841,6 +8805,24 @@
     }
   ],
   "Mood Ring": [
+    {
+      "gift_num": 10723,
+      "customEmojiId": "5431680629118888148",
+      "gift_id": 579875528329,
+      "name": "Signet Ring",
+      "model": "Mood Ring (1%)",
+      "asset": "TON",
+      "symbol": "Calm Wolf (1%)",
+      "backdrop": "Sapphire (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 172.472,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 3080,
       "customEmojiId": "5431680629118888148",
