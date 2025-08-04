@@ -3337,6 +3337,46 @@
   ],
   "Polar Bear": [
     {
+      "gift_num": 54070,
+      "customEmojiId": "5289849083744252350",
+      "gift_id": 7707953,
+      "name": "Toy Bear",
+      "model": "Polar Bear (2%)",
+      "asset": "TON",
+      "symbol": "Dessert (0.5%)",
+      "backdrop": "Sky Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 27,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T15:46:48.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 8639,
+      "customEmojiId": "5289849083744252350",
+      "gift_id": 7706182,
+      "name": "Toy Bear",
+      "model": "Polar Bear (2%)",
+      "asset": "TON",
+      "symbol": "Egg (0.5%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 35,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T14:05:44.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 43233,
       "customEmojiId": "5289849083744252350",
       "gift_id": 7425675,
@@ -3635,6 +3675,285 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-03T19:58:41.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 54070,
+      "customEmojiId": "5289849083744252350",
+      "gift_id": 7446630,
+      "name": "Toy Bear",
+      "model": "Polar Bear (2%)",
+      "asset": "TON",
+      "symbol": "Dessert (0.5%)",
+      "backdrop": "Sky Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16.46,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "F9TJIPXX",
+      "auction": {
+        "_id": "68875485450b5b469c11fca7",
+        "gift_id": 7446630,
+        "seller": 0,
+        "auction_id": "F9TJIPXX",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "688f89391f9009cb1a50ce03",
+            "timestamp": "2025-08-03T16:07:21.501Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688f8aab1f9009cb1a5135dd",
+            "timestamp": "2025-08-03T16:13:31.978Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "688f8acc1f9009cb1a5137b7",
+            "timestamp": "2025-08-03T16:14:04.626Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "688fba0dda18eeaa3f95439e",
+            "timestamp": "2025-08-03T19:35:41.548Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "688fba7ada18eeaa3f95cafd",
+            "timestamp": "2025-08-03T19:37:30.636Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4,
+            "asset": "TON",
+            "_id": "688fdc78da18eeaa3fd4a428",
+            "timestamp": "2025-08-03T22:02:32.002Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.2,
+            "asset": "TON",
+            "_id": "688fec88da18eeaa3fe8acd4",
+            "timestamp": "2025-08-03T23:11:04.030Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.41,
+            "asset": "TON",
+            "_id": "688feca1da18eeaa3fe8f80e",
+            "timestamp": "2025-08-03T23:11:29.240Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.63,
+            "asset": "TON",
+            "_id": "688fed25da18eeaa3fe98f0f",
+            "timestamp": "2025-08-03T23:13:41.471Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.86,
+            "asset": "TON",
+            "_id": "68900569da18eeaa3ffaf1d7",
+            "timestamp": "2025-08-04T00:57:13.119Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.1,
+            "asset": "TON",
+            "_id": "6890475bda18eeaa3f67d867",
+            "timestamp": "2025-08-04T05:38:35.411Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.36,
+            "asset": "TON",
+            "_id": "68904bceda18eeaa3f686282",
+            "timestamp": "2025-08-04T05:57:34.947Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.63,
+            "asset": "TON",
+            "_id": "68907991da18eeaa3fcd56d7",
+            "timestamp": "2025-08-04T09:12:49.658Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.91,
+            "asset": "TON",
+            "_id": "68907caeda18eeaa3fce1549",
+            "timestamp": "2025-08-04T09:26:06.446Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.21,
+            "asset": "TON",
+            "_id": "68907cbcda18eeaa3fce2e05",
+            "timestamp": "2025-08-04T09:26:20.539Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.52,
+            "asset": "TON",
+            "_id": "68907d03da18eeaa3fcef565",
+            "timestamp": "2025-08-04T09:27:31.164Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.85,
+            "asset": "TON",
+            "_id": "68907d1cda18eeaa3fcf3e36",
+            "timestamp": "2025-08-04T09:27:56.852Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.19,
+            "asset": "TON",
+            "_id": "68908219da18eeaa3fd8c37a",
+            "timestamp": "2025-08-04T09:49:13.090Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.55,
+            "asset": "TON",
+            "_id": "68908230da18eeaa3fd90b2b",
+            "timestamp": "2025-08-04T09:49:36.524Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.93,
+            "asset": "TON",
+            "_id": "689082beda18eeaa3fdaab62",
+            "timestamp": "2025-08-04T09:51:58.074Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.33,
+            "asset": "TON",
+            "_id": "689082d7da18eeaa3fdae877",
+            "timestamp": "2025-08-04T09:52:23.045Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.75,
+            "asset": "TON",
+            "_id": "689082e7da18eeaa3fdb1692",
+            "timestamp": "2025-08-04T09:52:39.457Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.19,
+            "asset": "TON",
+            "_id": "6890830ada18eeaa3fdb6c7c",
+            "timestamp": "2025-08-04T09:53:14.025Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.65,
+            "asset": "TON",
+            "_id": "68908339da18eeaa3fdbe228",
+            "timestamp": "2025-08-04T09:54:01.445Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.13,
+            "asset": "TON",
+            "_id": "68908353da18eeaa3fdc1e14",
+            "timestamp": "2025-08-04T09:54:27.916Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.64,
+            "asset": "TON",
+            "_id": "68909237da18eeaa3feb14ad",
+            "timestamp": "2025-08-04T10:57:59.786Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.17,
+            "asset": "TON",
+            "_id": "6890b0efda18eeaa3f2667e0",
+            "timestamp": "2025-08-04T13:09:03.310Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.73,
+            "asset": "TON",
+            "_id": "6890b219da18eeaa3f27cee4",
+            "timestamp": "2025-08-04T13:14:01.455Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.32,
+            "asset": "TON",
+            "_id": "6890b264da18eeaa3f2824d9",
+            "timestamp": "2025-08-04T13:15:16.390Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.25,
+            "asset": "TON",
+            "_id": "6890ca46da18eeaa3f483775",
+            "timestamp": "2025-08-04T14:57:10.608Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.91,
+            "asset": "TON",
+            "_id": "6890cc53da18eeaa3f4ab381",
+            "timestamp": "2025-08-04T15:05:55.842Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.61,
+            "asset": "TON",
+            "_id": "6890ccf7da18eeaa3f4c4faf",
+            "timestamp": "2025-08-04T15:08:39.483Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15.34,
+            "asset": "TON",
+            "_id": "6890cd18da18eeaa3f4c9d08",
+            "timestamp": "2025-08-04T15:09:12.324Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 16.46,
+            "asset": "TON",
+            "_id": "6890cd46da18eeaa3f4cfc4e",
+            "timestamp": "2025-08-04T15:09:58.984Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-04T15:39:10.087Z",
+        "status": "finished",
+        "gift_name": "Toy Bear",
+        "gift_num": 54070,
+        "model": "Polar Bear (2%)",
+        "backdrop": "Sky Blue (1.5%)",
+        "symbol": "Dessert (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-03T15:39:10.140Z",
+        "__v": 0,
+        "winningBid": 16.46,
+        "winningBidder": 5690902358
+      },
+      "export_at": "2025-08-11T09:56:11.000Z",
       "premarketData": {}
     },
     {
@@ -4045,64 +4364,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-15T17:07:57.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 46684,
-      "customEmojiId": "5289849083744252350",
-      "gift_id": 6900835,
-      "name": "Toy Bear",
-      "model": "Polar Bear (2%)",
-      "asset": "TON",
-      "symbol": "Gift Box (0.2%)",
-      "backdrop": "Coral Red (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 35,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-15T11:09:44.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 15444,
-      "customEmojiId": "5289849083744252350",
-      "gift_id": 587056649653,
-      "name": "Toy Bear",
-      "model": "Polar Bear (2%)",
-      "asset": "TON",
-      "symbol": "Origami (0.5%)",
-      "backdrop": "Light Olive (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 49.572,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 267,
-      "customEmojiId": "5289849083744252350",
-      "gift_id": 6142054,
-      "name": "Toy Bear",
-      "model": "Polar Bear (2%)",
-      "asset": "TON",
-      "symbol": "Tongue (0.5%)",
-      "backdrop": "Lavender (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 120,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T14:34:37.000Z",
       "premarketData": {}
     }
   ],
@@ -7186,6 +7447,26 @@
   ],
   "Panda": [
     {
+      "gift_num": 35091,
+      "customEmojiId": "5289617194164970152",
+      "gift_id": 7107315,
+      "name": "Toy Bear",
+      "model": "Panda (1.5%)",
+      "asset": "TON",
+      "symbol": "Eggplant (0.2%)",
+      "backdrop": "Battleship Grey (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 30,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-23T16:04:22.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 20060,
       "customEmojiId": "5289617194164970152",
       "gift_id": 7660672,
@@ -7203,26 +7484,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-16T17:09:30.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 35091,
-      "customEmojiId": "5289617194164970152",
-      "gift_id": 7107315,
-      "name": "Toy Bear",
-      "model": "Panda (1.5%)",
-      "asset": "TON",
-      "symbol": "Eggplant (0.2%)",
-      "backdrop": "Battleship Grey (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 34.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-23T16:04:22.000Z",
       "premarketData": {}
     },
     {
@@ -14723,26 +14984,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 10126,
-      "customEmojiId": "5289689641673321924",
-      "gift_id": 7320628,
-      "name": "Toy Bear",
-      "model": "Dark Knight (0.5%)",
-      "asset": "TON",
-      "symbol": "Rose (0.4%)",
-      "backdrop": "Turquoise (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 80,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-04T04:28:37.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 27274,
       "customEmojiId": "5289689641673321924",
       "gift_id": 587306938442,
@@ -15677,26 +15918,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 48207,
-      "customEmojiId": "5289938560797928786",
-      "gift_id": 5653769,
-      "name": "Toy Bear",
-      "model": "Pineapple (2.2%)",
-      "asset": "TON",
-      "symbol": "Mars & Venus (0.5%)",
-      "backdrop": "Dark Lilac (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 29,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-18T09:40:59.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 18298,
       "customEmojiId": "5289938560797928786",
       "gift_id": 6796627,
@@ -15792,6 +16013,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T08:29:40.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 46814,
+      "customEmojiId": "5289938560797928786",
+      "gift_id": 4776928,
+      "name": "Toy Bear",
+      "model": "Pineapple (2.2%)",
+      "asset": "TON",
+      "symbol": "Black Cat (0.2%)",
+      "backdrop": "Midnight Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 60,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-05-27T13:29:48.000Z",
       "premarketData": {}
     }
   ],
@@ -16371,26 +16612,6 @@
   ],
   "Viola Pansy": [
     {
-      "gift_num": 50941,
-      "customEmojiId": "5289642603191497153",
-      "gift_id": 7703778,
-      "name": "Toy Bear",
-      "model": "Viola Pansy (2%)",
-      "asset": "TON",
-      "symbol": "Lovely Rain (0.5%)",
-      "backdrop": "Khaki Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 19,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-18T12:12:35.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 36698,
       "customEmojiId": "5289642603191497153",
       "gift_id": 7689832,
@@ -16948,6 +17169,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-24T15:24:11.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 45720,
+      "customEmojiId": "5289642603191497153",
+      "gift_id": 6024553,
+      "name": "Toy Bear",
+      "model": "Viola Pansy (2%)",
+      "asset": "TON",
+      "symbol": "Moon (0.4%)",
+      "backdrop": "Dark Lilac (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 44,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-23T18:06:42.000Z",
       "premarketData": {}
     }
   ],
@@ -18657,6 +18898,26 @@
     }
   ],
   "Kumamon": [
+    {
+      "gift_num": 1431,
+      "customEmojiId": "5289514583101304075",
+      "gift_id": 7684539,
+      "name": "Toy Bear",
+      "model": "Kumamon (1%)",
+      "asset": "TON",
+      "symbol": "Trickster Fox (0.5%)",
+      "backdrop": "Pure Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-17T16:11:06.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 21375,
       "customEmojiId": "5289514583101304075",
@@ -20646,6 +20907,26 @@
   ],
   "The Devil": [
     {
+      "gift_num": 51218,
+      "customEmojiId": "5289501668134645372",
+      "gift_id": 7232698,
+      "name": "Toy Bear",
+      "model": "The Devil (1%)",
+      "asset": "TON",
+      "symbol": "All-Seeing Eye (0.4%)",
+      "backdrop": "Sapphire (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 35,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-29T14:37:29.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 36080,
       "customEmojiId": "5289501668134645372",
       "gift_id": 587535657047,
@@ -20661,26 +20942,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 51218,
-      "customEmojiId": "5289501668134645372",
-      "gift_id": 7232698,
-      "name": "Toy Bear",
-      "model": "The Devil (1%)",
-      "asset": "TON",
-      "symbol": "All-Seeing Eye (0.4%)",
-      "backdrop": "Sapphire (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 38,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-29T14:37:29.000Z",
       "premarketData": {}
     },
     {
@@ -24646,26 +24907,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 41163,
-      "customEmojiId": "5289944814270308338",
-      "gift_id": 5970337,
-      "name": "Toy Bear",
-      "model": "Blueberry (2%)",
-      "asset": "TON",
-      "symbol": "Heart Glasses (0.5%)",
-      "backdrop": "Purple (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 27,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T13:27:36.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 52797,
       "customEmojiId": "5289944814270308338",
       "gift_id": 7066173,
@@ -24759,6 +25000,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-22T13:05:10.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 20547,
+      "customEmojiId": "5289944814270308338",
+      "gift_id": 4661066,
+      "name": "Toy Bear",
+      "model": "Blueberry (2%)",
+      "asset": "TON",
+      "symbol": "Bow Tie (0.2%)",
+      "backdrop": "Steel Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 55,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-05-25T07:44:54.000Z",
       "premarketData": {}
     }
   ],
@@ -30868,6 +31129,26 @@
   ],
   "Tiger": [
     {
+      "gift_num": 36146,
+      "customEmojiId": "5289586644062594847",
+      "gift_id": 4780189,
+      "name": "Toy Bear",
+      "model": "Tiger (1%)",
+      "asset": "TON",
+      "symbol": "White Deer (0.4%)",
+      "backdrop": "Purple (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 29,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-05-27T13:43:08.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 20732,
       "customEmojiId": "5289586644062594847",
       "gift_id": 7479100,
@@ -31827,23 +32108,23 @@
   ],
   "Little Pepe": [
     {
-      "gift_num": 8066,
+      "gift_num": 54197,
       "customEmojiId": "5292015198960377484",
-      "gift_id": 7706188,
+      "gift_id": 7707561,
       "name": "Toy Bear",
       "model": "Little Pepe (1.3%)",
       "asset": "TON",
-      "symbol": "Moon Eagle (0.5%)",
-      "backdrop": "Coral Red (2%)",
+      "symbol": "Love Bulb (0.5%)",
+      "backdrop": "Battleship Grey (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 45,
+      "price": 99.9,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-08-18T14:05:52.000Z",
+      "export_at": "2025-08-18T15:25:49.000Z",
       "premarketData": {}
     },
     {
@@ -33271,6 +33552,26 @@
   ],
   "Zebra": [
     {
+      "gift_num": 20633,
+      "customEmojiId": "5289634279544876303",
+      "gift_id": 7344051,
+      "name": "Toy Bear",
+      "model": "Zebra (1.5%)",
+      "asset": "TON",
+      "symbol": "Angelic Heart (0.5%)",
+      "backdrop": "Desert Sand (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 17,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-05T20:51:42.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 631,
       "customEmojiId": "5289634279544876303",
       "gift_id": 587298965694,
@@ -33820,26 +34121,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-30T18:29:04.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 26447,
-      "customEmojiId": "5289634279544876303",
-      "gift_id": 704277,
-      "name": "Toy Bear",
-      "model": "Zebra (1.5%)",
-      "asset": "TON",
-      "symbol": "Venetian Mask (0.2%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 375119,
-      "price": 333,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-03-07T21:26:34.000Z",
       "premarketData": {}
     }
   ],
@@ -35511,6 +35792,26 @@
   ],
   "Peanut": [
     {
+      "gift_num": 19586,
+      "customEmojiId": "5292173971016409163",
+      "gift_id": 7693468,
+      "name": "Toy Bear",
+      "model": "Peanut (2.2%)",
+      "asset": "TON",
+      "symbol": "Valkyrie (0.2%)",
+      "backdrop": "Grape (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 13.95,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-17T22:33:45.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 40776,
       "customEmojiId": "5292173971016409163",
       "gift_id": 6932285,
@@ -36054,26 +36355,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-27T12:59:45.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 18293,
-      "customEmojiId": "5292173971016409163",
-      "gift_id": 2128031,
-      "name": "Toy Bear",
-      "model": "Peanut (2.2%)",
-      "asset": "TON",
-      "symbol": "Lovely Key (0.5%)",
-      "backdrop": "Caramel (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 766023,
-      "price": 1000,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-04-05T06:53:38.000Z",
       "premarketData": {}
     }
   ],
@@ -36639,6 +36920,26 @@
   ],
   "Polygon": [
     {
+      "gift_num": 45560,
+      "customEmojiId": "5289903814512500267",
+      "gift_id": 7645749,
+      "name": "Toy Bear",
+      "model": "Polygon (1.5%)",
+      "asset": "TON",
+      "symbol": "Cupcake (0.4%)",
+      "backdrop": "Orange (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 16,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-16T07:10:43.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 28674,
       "customEmojiId": "5289903814512500267",
       "gift_id": 587274058320,
@@ -37185,29 +37486,29 @@
       "limited": false,
       "auction": null,
       "premarketData": {}
-    },
+    }
+  ],
+  "Circus Bear": [
     {
-      "gift_num": 38604,
-      "customEmojiId": "5289903814512500267",
-      "gift_id": 6321517,
+      "gift_num": 23844,
+      "customEmojiId": "5289938290214990367",
+      "gift_id": 7373448,
       "name": "Toy Bear",
-      "model": "Polygon (1.5%)",
+      "model": "Circus Bear (2%)",
       "asset": "TON",
-      "symbol": "Lovely Key (0.5%)",
-      "backdrop": "Malachite (2%)",
+      "symbol": "Tulip (0.5%)",
+      "backdrop": "Copper (1.5%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 33,
+      "price": 15.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-06-27T00:17:55.000Z",
+      "export_at": "2025-08-07T20:17:10.000Z",
       "premarketData": {}
-    }
-  ],
-  "Circus Bear": [
+    },
     {
       "gift_num": 15445,
       "customEmojiId": "5289938290214990367",
@@ -37360,26 +37661,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 23844,
-      "customEmojiId": "5289938290214990367",
-      "gift_id": 7373448,
-      "name": "Toy Bear",
-      "model": "Circus Bear (2%)",
-      "asset": "TON",
-      "symbol": "Tulip (0.5%)",
-      "backdrop": "Copper (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 19,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-07T20:17:10.000Z",
       "premarketData": {}
     },
     {
