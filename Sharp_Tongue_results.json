@@ -134,8 +134,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 940204,
-      "price": 175,
+      "message_in_channel": 940743,
+      "price": 250,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -824,8 +824,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 940245,
-      "price": 160,
+      "message_in_channel": 0,
+      "price": 70,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -894,26 +894,6 @@
     }
   ],
   "Padme": [
-    {
-      "gift_num": 7234,
-      "customEmojiId": "5413748612377108986",
-      "gift_id": 7538718,
-      "name": "Sharp Tongue",
-      "model": "Padme (2%)",
-      "asset": "TON",
-      "symbol": "Sunflower (0.6%)",
-      "backdrop": "Carrot Juice (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 35.4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-14T15:19:41.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 2792,
       "customEmojiId": "5413748612377108986",
@@ -2288,6 +2268,26 @@
     }
   ],
   "Cold Bite": [
+    {
+      "gift_num": 4406,
+      "customEmojiId": "5409276589349298494",
+      "gift_id": 7695513,
+      "name": "Sharp Tongue",
+      "model": "Cold Bite (2.5%)",
+      "asset": "TON",
+      "symbol": "Sweets Box (0.6%)",
+      "backdrop": "Battleship Grey (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 60,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T00:40:47.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2216,
       "customEmojiId": "5409276589349298494",
@@ -4201,6 +4201,53 @@
       "auction": null,
       "export_at": "2025-06-22T13:27:15.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 5246,
+      "customEmojiId": "5409055514497671414",
+      "gift_id": 7704742,
+      "name": "Sharp Tongue",
+      "model": "Morticia (2.5%)",
+      "asset": "TON",
+      "symbol": "Spooky Cat (1.2%)",
+      "backdrop": "Chocolate (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 30.9,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "7QJMNYOG",
+      "auction": {
+        "_id": "6890ad51da18eeaa3f220bc4",
+        "gift_id": 7704742,
+        "seller": 0,
+        "auction_id": "7QJMNYOG",
+        "startingBid": 20,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 30.9,
+            "asset": "TON",
+            "_id": "6890adb6da18eeaa3f22ab11",
+            "timestamp": "2025-08-04T12:55:18.516Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-04T14:54:42.090Z",
+        "status": "finished",
+        "gift_name": "Sharp Tongue",
+        "gift_num": 5246,
+        "model": "Morticia (2.5%)",
+        "backdrop": "Chocolate (1.5%)",
+        "symbol": "Spooky Cat (1.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T12:54:43.023Z",
+        "__v": 0,
+        "winningBid": 30.9,
+        "winningBidder": 7855800492
+      },
+      "export_at": "2025-08-18T12:52:36.000Z",
+      "premarketData": {}
     }
   ],
   "Velvety": [
@@ -4448,26 +4495,6 @@
     }
   ],
   "Vegan Snake": [
-    {
-      "gift_num": 565,
-      "customEmojiId": "5411390434813438229",
-      "gift_id": 7700558,
-      "name": "Sharp Tongue",
-      "model": "Vegan Snake (2.5%)",
-      "asset": "TON",
-      "symbol": "Illuminati (0.8%)",
-      "backdrop": "Steel Grey (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 44,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-18T10:10:14.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 3793,
       "customEmojiId": "5411390434813438229",
@@ -5116,6 +5143,26 @@
     }
   ],
   "Vampire": [
+    {
+      "gift_num": 2936,
+      "customEmojiId": "5431446506156613308",
+      "gift_id": 7696098,
+      "name": "Sharp Tongue",
+      "model": "Vampire (2%)",
+      "asset": "TON",
+      "symbol": "Loveberry (0.4%)",
+      "backdrop": "Pacific Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 39,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T02:31:31.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 6154,
       "customEmojiId": "5431446506156613308",
@@ -5803,26 +5850,6 @@
     }
   ],
   "Queen": [
-    {
-      "gift_num": 5871,
-      "customEmojiId": "5413645301233771348",
-      "gift_id": 7704239,
-      "name": "Sharp Tongue",
-      "model": "Queen (2.5%)",
-      "asset": "TON",
-      "symbol": "Voodoo Doll (1%)",
-      "backdrop": "Pine Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-18T12:31:47.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 7454,
       "customEmojiId": "5413645301233771348",
@@ -6793,26 +6820,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-12T14:36:48.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 645,
-      "customEmojiId": "5431849283894665586",
-      "gift_id": 6400751,
-      "name": "Sharp Tongue",
-      "model": "Succubus (2%)",
-      "asset": "TON",
-      "symbol": "Crystal Ball (1.2%)",
-      "backdrop": "Satin Gold (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 58.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-28T15:07:00.000Z",
       "premarketData": {}
     },
     {
