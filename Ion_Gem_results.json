@@ -4490,6 +4490,61 @@
   ],
   "Pink Sapphire": [
     {
+      "gift_num": 3725,
+      "customEmojiId": "5409268733854114222",
+      "gift_id": 7690335,
+      "name": "Ion Gem",
+      "model": "Pink Sapphire (2%)",
+      "asset": "TON",
+      "symbol": "Scissors (0.5%)",
+      "backdrop": "Raspberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 57.75,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "D17LSO0U",
+      "auction": {
+        "_id": "688fc769da18eeaa3fabc819",
+        "gift_id": 7690335,
+        "seller": 0,
+        "auction_id": "D17LSO0U",
+        "startingBid": 55,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 55,
+            "asset": "TON",
+            "_id": "688fcc36da18eeaa3fbe3030",
+            "timestamp": "2025-08-03T20:53:10.966Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 57.75,
+            "asset": "TON",
+            "_id": "688fe728da18eeaa3fe4fb9e",
+            "timestamp": "2025-08-03T22:48:08.051Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-03T23:51:30.924Z",
+        "status": "finished",
+        "gift_name": "Ion Gem",
+        "gift_num": 3725,
+        "model": "Pink Sapphire (2%)",
+        "backdrop": "Raspberry (1.5%)",
+        "symbol": "Scissors (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-03T20:51:32.061Z",
+        "__v": 0,
+        "winningBid": 57.75,
+        "winningBidder": 7352255987
+      },
+      "export_at": "2025-08-17T20:24:13.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3454,
       "customEmojiId": "5409268733854114222",
       "gift_id": 7629549,
@@ -5189,26 +5244,6 @@
     }
   ],
   "Garnet": [
-    {
-      "gift_num": 126,
-      "customEmojiId": "5397857993591117394",
-      "gift_id": 7620314,
-      "name": "Ion Gem",
-      "model": "Garnet (2%)",
-      "asset": "TON",
-      "symbol": "Like (0.4%)",
-      "backdrop": "Sapphire (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 68.96,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T13:16:21.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 1301,
       "customEmojiId": "5397857993591117394",
