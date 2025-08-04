@@ -8154,26 +8154,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 16205,
-      "customEmojiId": "5264837062523118211",
-      "gift_id": 7479256,
-      "name": "Sleigh Bell",
-      "model": "Disco Blast (0.5%)",
-      "asset": "TON",
-      "symbol": "Evil Dragon (0.3%)",
-      "backdrop": "Light Olive (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15.99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-13T18:34:21.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 3833,
       "customEmojiId": "5264837062523118211",
       "gift_id": 6435184,
@@ -10795,8 +10775,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 940799,
-      "price": 250,
+      "message_in_channel": 941021,
+      "price": 838,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -13937,6 +13917,26 @@
   ],
   "Joker": [
     {
+      "gift_num": 4566,
+      "customEmojiId": "5224607658639649548",
+      "gift_id": 7710019,
+      "name": "Sleigh Bell",
+      "model": "Joker (2.5%)",
+      "asset": "TON",
+      "symbol": "Turban (0.4%)",
+      "backdrop": "Cyberpunk (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T17:48:50.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6024,
       "customEmojiId": "5224607658639649548",
       "gift_id": 7439657,
@@ -15029,6 +15029,123 @@
       "auction": null,
       "export_at": "2025-06-08T13:51:20.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 15463,
+      "customEmojiId": "5271519159757335148",
+      "gift_id": 7708191,
+      "name": "Sleigh Bell",
+      "model": "Beehive (1%)",
+      "asset": "TON",
+      "symbol": "War Tiger (0.5%)",
+      "backdrop": "Carmine (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 12.6,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "MWA2VPIX",
+      "auction": {
+        "_id": "6890d94b5a8240d87b774d17",
+        "gift_id": 7708191,
+        "seller": 0,
+        "auction_id": "MWA2VPIX",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6890de8a5a8240d87b7f63f8",
+            "timestamp": "2025-08-04T16:23:38.368Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6890e04c5a8240d87b8213c8",
+            "timestamp": "2025-08-04T16:31:08.363Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "6890e0b75a8240d87b82f397",
+            "timestamp": "2025-08-04T16:32:55.490Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "6890e0d85a8240d87b83271c",
+            "timestamp": "2025-08-04T16:33:28.297Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "6890e0e95a8240d87b8344f6",
+            "timestamp": "2025-08-04T16:33:45.669Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8,
+            "asset": "TON",
+            "_id": "6890e35f5a8240d87b87fca3",
+            "timestamp": "2025-08-04T16:44:15.162Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.4,
+            "asset": "TON",
+            "_id": "6890e4115a8240d87b89326c",
+            "timestamp": "2025-08-04T16:47:13.129Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "6890e4435a8240d87b8990dd",
+            "timestamp": "2025-08-04T16:48:03.722Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.5,
+            "asset": "TON",
+            "_id": "6890e5b85a8240d87b8fe189",
+            "timestamp": "2025-08-04T16:54:16.721Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12,
+            "asset": "TON",
+            "_id": "6890e5f95a8240d87b90f6ad",
+            "timestamp": "2025-08-04T16:55:21.564Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.6,
+            "asset": "TON",
+            "_id": "6890e7fc5a8240d87b9882f2",
+            "timestamp": "2025-08-04T17:03:56.576Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-04T17:21:13.284Z",
+        "status": "finished",
+        "gift_name": "Sleigh Bell",
+        "gift_num": 15463,
+        "model": "Beehive (1%)",
+        "backdrop": "Carmine (1.2%)",
+        "symbol": "War Tiger (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T16:01:15.754Z",
+        "__v": 0,
+        "winningBid": 12.6,
+        "winningBidder": 6290092141
+      },
+      "export_at": "2025-08-18T16:00:36.000Z",
+      "premarketData": {}
     }
   ],
   "Deep Echo": [
@@ -15050,6 +15167,61 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-18T14:17:30.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 17594,
+      "customEmojiId": "5276335402939083472",
+      "gift_id": 7707869,
+      "name": "Sleigh Bell",
+      "model": "Deep Echo (3%)",
+      "asset": "TON",
+      "symbol": "Flipper (0.3%)",
+      "backdrop": "Rosewood (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5.25,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "G3PXV10D",
+      "auction": {
+        "_id": "6890d8a95a8240d87b760e6a",
+        "gift_id": 7707869,
+        "seller": 0,
+        "auction_id": "G3PXV10D",
+        "startingBid": 5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "6890e26a5a8240d87b8645ac",
+            "timestamp": "2025-08-04T16:40:10.999Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "6890e3ac5a8240d87b888b91",
+            "timestamp": "2025-08-04T16:45:32.021Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-04T16:58:32.612Z",
+        "status": "finished",
+        "gift_name": "Sleigh Bell",
+        "gift_num": 17594,
+        "model": "Deep Echo (3%)",
+        "backdrop": "Rosewood (1.2%)",
+        "symbol": "Flipper (0.3%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T15:58:33.526Z",
+        "__v": 0,
+        "winningBid": 5.25,
+        "winningBidder": 6012642748
+      },
+      "export_at": "2025-08-18T15:42:44.000Z",
       "premarketData": {}
     },
     {
