@@ -3623,26 +3623,6 @@
   ],
   "Cat Spirit": [
     {
-      "gift_num": 4318,
-      "customEmojiId": "5229207903621114648",
-      "gift_id": 6917291,
-      "name": "Genie Lamp",
-      "model": "Cat Spirit (0.5%)",
-      "asset": "TON",
-      "symbol": "Yogi Shaman (0.8%)",
-      "backdrop": "Orange (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 940013,
-      "price": 250,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-15T20:07:43.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 4647,
       "customEmojiId": "5229207903621114648",
       "gift_id": 7442557,
@@ -4538,6 +4518,26 @@
   ],
   "Enigma": [
     {
+      "gift_num": 30,
+      "customEmojiId": "5217506943827994087",
+      "gift_id": 7711684,
+      "name": "Genie Lamp",
+      "model": "Enigma (3%)",
+      "asset": "TON",
+      "symbol": "Hammerhead (0.2%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 120,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T19:09:52.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2990,
       "customEmojiId": "5217506943827994087",
       "gift_id": 7628339,
@@ -5407,6 +5407,340 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-16T13:48:07.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 2814,
+      "customEmojiId": "5237824969521523226",
+      "gift_id": 7697014,
+      "name": "Genie Lamp",
+      "model": "Piggy Bank (1.5%)",
+      "asset": "TON",
+      "symbol": "Owl (1%)",
+      "backdrop": "Onyx Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 145.87,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "YQ5NZOWP",
+      "auction": {
+        "_id": "689049b7da18eeaa3f683287",
+        "gift_id": 7697014,
+        "seller": 0,
+        "auction_id": "YQ5NZOWP",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6890594dda18eeaa3fc6e2c0",
+            "timestamp": "2025-08-04T06:55:09.092Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "68905b56da18eeaa3fc76cf0",
+            "timestamp": "2025-08-04T07:03:50.937Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "68905bf5da18eeaa3fc7792b",
+            "timestamp": "2025-08-04T07:06:29.821Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "68905cf6da18eeaa3fc79bd3",
+            "timestamp": "2025-08-04T07:10:46.626Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.51,
+            "asset": "TON",
+            "_id": "689061c1da18eeaa3fc86c26",
+            "timestamp": "2025-08-04T07:31:13.352Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.79,
+            "asset": "TON",
+            "_id": "689071c3da18eeaa3fcb9509",
+            "timestamp": "2025-08-04T08:39:31.190Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.08,
+            "asset": "TON",
+            "_id": "68908086da18eeaa3fd5e3fa",
+            "timestamp": "2025-08-04T09:42:30.678Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.38,
+            "asset": "TON",
+            "_id": "68908640da18eeaa3fe2800c",
+            "timestamp": "2025-08-04T10:06:56.120Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.7,
+            "asset": "TON",
+            "_id": "689088d0da18eeaa3fe65d4d",
+            "timestamp": "2025-08-04T10:17:52.608Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.04,
+            "asset": "TON",
+            "_id": "68908a5cda18eeaa3fe7b1bd",
+            "timestamp": "2025-08-04T10:24:28.512Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.39,
+            "asset": "TON",
+            "_id": "68908a6cda18eeaa3fe7b968",
+            "timestamp": "2025-08-04T10:24:44.170Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.76,
+            "asset": "TON",
+            "_id": "68908c47da18eeaa3fe95955",
+            "timestamp": "2025-08-04T10:32:39.593Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.15,
+            "asset": "TON",
+            "_id": "68908c52da18eeaa3fe95c7d",
+            "timestamp": "2025-08-04T10:32:50.634Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.56,
+            "asset": "TON",
+            "_id": "68908d4fda18eeaa3fea0240",
+            "timestamp": "2025-08-04T10:37:03.990Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.99,
+            "asset": "TON",
+            "_id": "68908d5bda18eeaa3fea042b",
+            "timestamp": "2025-08-04T10:37:15.233Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.44,
+            "asset": "TON",
+            "_id": "68909f97da18eeaa3f047442",
+            "timestamp": "2025-08-04T11:55:03.113Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15,
+            "asset": "TON",
+            "_id": "6890a0d3da18eeaa3f06b273",
+            "timestamp": "2025-08-04T12:00:19.707Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15.75,
+            "asset": "TON",
+            "_id": "6890a0e8da18eeaa3f06d25a",
+            "timestamp": "2025-08-04T12:00:40.828Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 16.54,
+            "asset": "TON",
+            "_id": "6890a142da18eeaa3f077eea",
+            "timestamp": "2025-08-04T12:02:10.134Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 17.37,
+            "asset": "TON",
+            "_id": "6890a34eda18eeaa3f0ab295",
+            "timestamp": "2025-08-04T12:10:54.637Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 18.24,
+            "asset": "TON",
+            "_id": "6890a379da18eeaa3f0b3bd2",
+            "timestamp": "2025-08-04T12:11:37.304Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 19.15,
+            "asset": "TON",
+            "_id": "6890a478da18eeaa3f0e97be",
+            "timestamp": "2025-08-04T12:15:52.378Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 20.11,
+            "asset": "TON",
+            "_id": "6890a4a0da18eeaa3f0f35a7",
+            "timestamp": "2025-08-04T12:16:32.655Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 21.12,
+            "asset": "TON",
+            "_id": "6890a878da18eeaa3f1a7445",
+            "timestamp": "2025-08-04T12:32:56.240Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 35,
+            "asset": "TON",
+            "_id": "6890ae69da18eeaa3f23ecc3",
+            "timestamp": "2025-08-04T12:58:17.488Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 50,
+            "asset": "TON",
+            "_id": "6890b748da18eeaa3f2c53f1",
+            "timestamp": "2025-08-04T13:36:08.560Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 60,
+            "asset": "TON",
+            "_id": "6890b7fcda18eeaa3f2d2d07",
+            "timestamp": "2025-08-04T13:39:08.885Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 63,
+            "asset": "TON",
+            "_id": "6890c525da18eeaa3f422c2b",
+            "timestamp": "2025-08-04T14:35:17.132Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 66.15,
+            "asset": "TON",
+            "_id": "6890c54eda18eeaa3f425604",
+            "timestamp": "2025-08-04T14:35:58.311Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 69.69,
+            "asset": "TON",
+            "_id": "6890d2755a8240d87b64175f",
+            "timestamp": "2025-08-04T15:32:05.612Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 75,
+            "asset": "TON",
+            "_id": "6890d2d65a8240d87b6535da",
+            "timestamp": "2025-08-04T15:33:42.968Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 78.75,
+            "asset": "TON",
+            "_id": "6890d6d95a8240d87b7206bf",
+            "timestamp": "2025-08-04T15:50:49.007Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 85,
+            "asset": "TON",
+            "_id": "6890e16c5a8240d87b845e02",
+            "timestamp": "2025-08-04T16:35:56.808Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 89.25,
+            "asset": "TON",
+            "_id": "6890e5345a8240d87b8d9c72",
+            "timestamp": "2025-08-04T16:52:04.413Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 93.71,
+            "asset": "TON",
+            "_id": "6890ed065a8240d87ba363ae",
+            "timestamp": "2025-08-04T17:25:26.784Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 98.4,
+            "asset": "TON",
+            "_id": "6890f0055a8240d87baac081",
+            "timestamp": "2025-08-04T17:38:13.821Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 103.32,
+            "asset": "TON",
+            "_id": "6890f7535a8240d87bafa312",
+            "timestamp": "2025-08-04T18:09:23.615Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 120,
+            "asset": "TON",
+            "_id": "6890f7875a8240d87bafa7a2",
+            "timestamp": "2025-08-04T18:10:15.141Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 126,
+            "asset": "TON",
+            "_id": "6890f7915a8240d87bafa866",
+            "timestamp": "2025-08-04T18:10:25.743Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 132.3,
+            "asset": "TON",
+            "_id": "6890f7a25a8240d87bafaed7",
+            "timestamp": "2025-08-04T18:10:42.188Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 138.92,
+            "asset": "TON",
+            "_id": "6890f8035a8240d87bafcff5",
+            "timestamp": "2025-08-04T18:12:19.171Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 145.87,
+            "asset": "TON",
+            "_id": "6891013c5a8240d87bb3ced9",
+            "timestamp": "2025-08-04T18:51:40.201Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-04T19:04:21.857Z",
+        "status": "finished",
+        "gift_name": "Genie Lamp",
+        "gift_num": 2814,
+        "model": "Piggy Bank (1.5%)",
+        "backdrop": "Onyx Black (1.5%)",
+        "symbol": "Owl (1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T06:54:22.914Z",
+        "__v": 0,
+        "winningBid": 145.87,
+        "winningBidder": 6220077209
+      },
+      "export_at": "2025-08-18T05:47:41.000Z",
       "premarketData": {}
     }
   ],
