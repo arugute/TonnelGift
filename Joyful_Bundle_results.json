@@ -788,6 +788,26 @@
   ],
   "Gem Stash": [
     {
+      "gift_num": 19711,
+      "customEmojiId": "5408964091823810435",
+      "gift_id": 7707319,
+      "name": "Joyful Bundle",
+      "model": "Gem Stash (1%)",
+      "asset": "TON",
+      "symbol": "Koala (0.7%)",
+      "backdrop": "Battleship Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 90,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T15:13:03.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 18076,
       "customEmojiId": "5408964091823810435",
       "gift_id": 7464073,
@@ -2296,26 +2316,6 @@
   ],
   "Pepe Bag": [
     {
-      "gift_num": 3480,
-      "customEmojiId": "5400329197514156563",
-      "gift_id": 7397723,
-      "name": "Joyful Bundle",
-      "model": "Pepe Bag (0.5%)",
-      "asset": "TON",
-      "symbol": "Easter Egg (0.7%)",
-      "backdrop": "Mustard (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 16,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T11:02:34.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 9505,
       "customEmojiId": "5400329197514156563",
       "gift_id": 7402734,
@@ -3587,26 +3587,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 29232,
-      "customEmojiId": "5206440672827045148",
-      "gift_id": 7692812,
-      "name": "Joyful Bundle",
-      "model": "Honey Bear (3%)",
-      "asset": "TON",
-      "symbol": "Cricket Helmet (0.7%)",
-      "backdrop": "Steel Grey (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-17T22:01:13.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 5078,
       "customEmojiId": "5206440672827045148",
       "gift_id": 7401145,
@@ -4550,6 +4530,26 @@
     }
   ],
   "Ollie Squirrel": [
+    {
+      "gift_num": 13170,
+      "customEmojiId": "5310186080308332539",
+      "gift_id": 7413117,
+      "name": "Joyful Bundle",
+      "model": "Ollie Squirrel (1.5%)",
+      "asset": "TON",
+      "symbol": "Bottlenose (0.7%)",
+      "backdrop": "Dark Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.7,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T16:59:16.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 2890,
       "customEmojiId": "5310186080308332539",
@@ -7784,6 +7784,54 @@
       "premarketData": {}
     },
     {
+      "gift_num": 666,
+      "customEmojiId": "5327861919430769357",
+      "gift_id": 7680827,
+      "name": "Joyful Bundle",
+      "model": "Quack Pack (2.5%)",
+      "asset": "TON",
+      "symbol": "Ladybug (0.7%)",
+      "backdrop": "Old Gold (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 50,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "X6OLVP88",
+      "auction": {
+        "_id": "68902737da18eeaa3f64f611",
+        "gift_id": 7680827,
+        "seller": 0,
+        "auction_id": "X6OLVP88",
+        "startingBid": 50,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 50,
+            "asset": "TON",
+            "_id": "6890c489da18eeaa3f4126b1",
+            "timestamp": "2025-08-04T14:32:41.833Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-04T15:21:26.151Z",
+        "status": "finished",
+        "gift_name": "Joyful Bundle",
+        "gift_num": 666,
+        "model": "Quack Pack (2.5%)",
+        "backdrop": "Old Gold (1.5%)",
+        "symbol": "Ladybug (0.7%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T03:21:27.045Z",
+        "__v": 0,
+        "winningBid": 50,
+        "winningBidder": 483786189
+      },
+      "export_at": "2025-08-17T13:42:39.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 19653,
       "customEmojiId": "5327861919430769357",
       "gift_id": 7657271,
@@ -8165,26 +8213,6 @@
     }
   ],
   "Spider-Dog": [
-    {
-      "gift_num": 474,
-      "customEmojiId": "5343777019530343495",
-      "gift_id": 7700672,
-      "name": "Joyful Bundle",
-      "model": "Spider-Dog (0.5%)",
-      "asset": "TON",
-      "symbol": "Octopus (0.4%)",
-      "backdrop": "Fire Engine (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-18T10:14:42.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 32616,
       "customEmojiId": "5343777019530343495",
@@ -8887,26 +8915,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-15T16:37:16.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 17086,
-      "customEmojiId": "5334997230203989162",
-      "gift_id": 7453580,
-      "name": "Joyful Bundle",
-      "model": "Antarctica (2%)",
-      "asset": "TON",
-      "symbol": "Fez (0.7%)",
-      "backdrop": "Mexican Pink (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-11T18:34:46.000Z",
       "premarketData": {}
     },
     {
@@ -12589,26 +12597,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 31938,
-      "customEmojiId": "5312464242631276315",
-      "gift_id": 7642612,
-      "name": "Joyful Bundle",
-      "model": "Patchwork (3%)",
-      "asset": "TON",
-      "symbol": "Oxen of Fire (0.5%)",
-      "backdrop": "Turquoise (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-16T01:38:13.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 10771,
       "customEmojiId": "5312464242631276315",
       "gift_id": 7403772,
@@ -15168,6 +15156,26 @@
   ],
   "Ladypug": [
     {
+      "gift_num": 2898,
+      "customEmojiId": "5343828391634173121",
+      "gift_id": 7395440,
+      "name": "Joyful Bundle",
+      "model": "Ladypug (3%)",
+      "asset": "TON",
+      "symbol": "Hibiscus (0.2%)",
+      "backdrop": "Rosewood (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T09:55:51.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6202,
       "customEmojiId": "5343828391634173121",
       "gift_id": 7659395,
@@ -16825,6 +16833,26 @@
   ],
   "Teddy Bears": [
     {
+      "gift_num": 20739,
+      "customEmojiId": "5447232216071431993",
+      "gift_id": 7691801,
+      "name": "Joyful Bundle",
+      "model": "Teddy Bears (2.5%)",
+      "asset": "TON",
+      "symbol": "Carrot (0.7%)",
+      "backdrop": "Tomato (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6.25,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-17T21:19:59.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12382,
       "customEmojiId": "5447232216071431993",
       "gift_id": 7694089,
@@ -16862,26 +16890,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-09T21:50:24.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 20739,
-      "customEmojiId": "5447232216071431993",
-      "gift_id": 7691801,
-      "name": "Joyful Bundle",
-      "model": "Teddy Bears (2.5%)",
-      "asset": "TON",
-      "symbol": "Carrot (0.7%)",
-      "backdrop": "Tomato (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7.25,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-17T21:19:59.000Z",
       "premarketData": {}
     },
     {
@@ -17142,6 +17150,116 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-09T11:46:10.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 9888,
+      "customEmojiId": "5447232216071431993",
+      "gift_id": 7705461,
+      "name": "Joyful Bundle",
+      "model": "Teddy Bears (2.5%)",
+      "asset": "TON",
+      "symbol": "Shuriken (0.2%)",
+      "backdrop": "Black (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 11.82,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "TH3EQN7H",
+      "auction": {
+        "_id": "6890b432da18eeaa3f29ae42",
+        "gift_id": 7705461,
+        "seller": 0,
+        "auction_id": "TH3EQN7H",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 4.7,
+            "asset": "TON",
+            "_id": "6890b46ada18eeaa3f29d164",
+            "timestamp": "2025-08-04T13:23:54.232Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8,
+            "asset": "TON",
+            "_id": "6890b490da18eeaa3f29f1d3",
+            "timestamp": "2025-08-04T13:24:32.208Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.4,
+            "asset": "TON",
+            "_id": "6890b95bda18eeaa3f2e58f4",
+            "timestamp": "2025-08-04T13:44:59.254Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.82,
+            "asset": "TON",
+            "_id": "6890b9a0da18eeaa3f2e923e",
+            "timestamp": "2025-08-04T13:46:08.060Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.26,
+            "asset": "TON",
+            "_id": "6890bc68da18eeaa3f30e927",
+            "timestamp": "2025-08-04T13:58:00.051Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.72,
+            "asset": "TON",
+            "_id": "6890c14cda18eeaa3f3b55f9",
+            "timestamp": "2025-08-04T14:18:52.720Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.21,
+            "asset": "TON",
+            "_id": "6890c35cda18eeaa3f3f474c",
+            "timestamp": "2025-08-04T14:27:40.912Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.72,
+            "asset": "TON",
+            "_id": "6890c367da18eeaa3f3f4a65",
+            "timestamp": "2025-08-04T14:27:51.941Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.26,
+            "asset": "TON",
+            "_id": "6890c372da18eeaa3f3f57a7",
+            "timestamp": "2025-08-04T14:28:02.510Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.82,
+            "asset": "TON",
+            "_id": "6890c410da18eeaa3f4035d2",
+            "timestamp": "2025-08-04T14:30:40.675Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-04T14:42:56.817Z",
+        "status": "finished",
+        "gift_name": "Joyful Bundle",
+        "gift_num": 9888,
+        "model": "Teddy Bears (2.5%)",
+        "backdrop": "Black (1.2%)",
+        "symbol": "Shuriken (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T13:22:58.083Z",
+        "__v": 0,
+        "winningBid": 11.82,
+        "winningBidder": 1987657141
+      },
+      "export_at": "2025-08-18T13:22:40.000Z",
       "premarketData": {}
     }
   ],
@@ -17509,6 +17627,46 @@
   ],
   "Shepherd Dog": [
     {
+      "gift_num": 6772,
+      "customEmojiId": "5258089119145294722",
+      "gift_id": 7706440,
+      "name": "Joyful Bundle",
+      "model": "Shepherd Dog (2.5%)",
+      "asset": "TON",
+      "symbol": "Little Cupid (0.4%)",
+      "backdrop": "Black (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 12,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T14:21:08.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 18692,
+      "customEmojiId": "5258089119145294722",
+      "gift_id": 7420408,
+      "name": "Joyful Bundle",
+      "model": "Shepherd Dog (2.5%)",
+      "asset": "TON",
+      "symbol": "Sailor Hat (0.7%)",
+      "backdrop": "English Violet (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T22:48:07.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1662,
       "customEmojiId": "5258089119145294722",
       "gift_id": 7452478,
@@ -17837,6 +17995,26 @@
     }
   ],
   "Rose Pink": [
+    {
+      "gift_num": 2721,
+      "customEmojiId": "5343998008482622106",
+      "gift_id": 7394921,
+      "name": "Joyful Bundle",
+      "model": "Rose Pink (3%)",
+      "asset": "TON",
+      "symbol": "High Hat (0.7%)",
+      "backdrop": "Mustard (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T09:39:03.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 23529,
       "customEmojiId": "5343998008482622106",
