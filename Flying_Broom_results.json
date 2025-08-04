@@ -2373,26 +2373,6 @@
   ],
   "Chroma": [
     {
-      "gift_num": 23279,
-      "customEmojiId": "5429261106537324864",
-      "gift_id": 7294638,
-      "name": "Flying Broom",
-      "model": "Chroma (2%)",
-      "asset": "TON",
-      "symbol": "Okami Wolf (0.2%)",
-      "backdrop": "Electric Indigo (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T10:33:52.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2611,
       "customEmojiId": "5429261106537324864",
       "gift_id": 7617173,
@@ -12587,6 +12567,60 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-03T15:55:33.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 16815,
+      "customEmojiId": "5433757482029703546",
+      "gift_id": 7715085,
+      "name": "Flying Broom",
+      "model": "Slime Time (2%)",
+      "asset": "TON",
+      "symbol": "Candle (2%)",
+      "backdrop": "Carrot Juice (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6.3,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "8JGIOP1C",
+      "auction": {
+        "_id": "689129b85a8240d87b131512",
+        "gift_id": 7715085,
+        "seller": 0,
+        "auction_id": "8JGIOP1C",
+        "startingBid": 6,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 6,
+            "asset": "TON",
+            "_id": "6891374e5a8240d87b625ad6",
+            "timestamp": "2025-08-04T22:42:22.849Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.3,
+            "asset": "TON",
+            "_id": "68913a005a8240d87b660ee7",
+            "timestamp": "2025-08-04T22:53:52.725Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-04T23:04:23.670Z",
+        "status": "finished",
+        "gift_name": "Flying Broom",
+        "gift_num": 16815,
+        "model": "Slime Time (2%)",
+        "backdrop": "Carrot Juice (1.5%)",
+        "symbol": "Candle (2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T21:44:24.495Z",
+        "__v": 0,
+        "winningBid": 6.3,
+        "winningBidder": 5203537078
+      },
+      "export_at": "2025-08-18T21:43:58.000Z",
       "premarketData": {}
     }
   ],
