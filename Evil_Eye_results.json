@@ -3935,6 +3935,26 @@
   ],
   "Starlight": [
     {
+      "gift_num": 24173,
+      "customEmojiId": "5429497892379323810",
+      "gift_id": 7485825,
+      "name": "Evil Eye",
+      "model": "Starlight (1.5%)",
+      "asset": "TON",
+      "symbol": "Crystal Ball (2.4%)",
+      "backdrop": "Raspberry (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T06:02:14.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 55034,
       "customEmojiId": "5429497892379323810",
       "gift_id": 7495851,
@@ -3992,26 +4012,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-01T13:55:11.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 24173,
-      "customEmojiId": "5429497892379323810",
-      "gift_id": 7485825,
-      "name": "Evil Eye",
-      "model": "Starlight (1.5%)",
-      "asset": "TON",
-      "symbol": "Crystal Ball (2.4%)",
-      "backdrop": "Raspberry (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-14T06:02:14.000Z",
       "premarketData": {}
     },
     {
@@ -15258,26 +15258,6 @@
   ],
   "Canceled": [
     {
-      "gift_num": 15777,
-      "customEmojiId": "5429279991508529139",
-      "gift_id": 7679832,
-      "name": "Evil Eye",
-      "model": "Canceled (1.5%)",
-      "asset": "TON",
-      "symbol": "Poison Drop (2.4%)",
-      "backdrop": "Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 28,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-17T13:00:23.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 43016,
       "customEmojiId": "5429279991508529139",
       "gift_id": 6285736,
@@ -15855,6 +15835,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-10T14:17:55.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 24639,
+      "customEmojiId": "5429279991508529139",
+      "gift_id": 4856387,
+      "name": "Evil Eye",
+      "model": "Canceled (1.5%)",
+      "asset": "TON",
+      "symbol": "Ghost (1.6%)",
+      "backdrop": "English Violet (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 7.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-05-28T18:47:53.000Z",
       "premarketData": {}
     }
   ],
@@ -27038,6 +27038,82 @@
       "premarketData": {}
     },
     {
+      "gift_num": 54762,
+      "customEmojiId": "5429325410787680030",
+      "gift_id": 7483347,
+      "name": "Evil Eye",
+      "model": "Baltic Amber (3%)",
+      "asset": "TON",
+      "symbol": "Magic Wand (2.4%)",
+      "backdrop": "Chocolate (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.832,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "M92Q0953",
+      "auction": {
+        "_id": "688ab06954445e0f682ba82b",
+        "gift_id": 7483347,
+        "seller": 0,
+        "auction_id": "M92Q0953",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.25,
+            "asset": "TON",
+            "_id": "688ff8c1da18eeaa3ff43aaf",
+            "timestamp": "2025-08-04T00:03:13.167Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.37,
+            "asset": "TON",
+            "_id": "688fff48da18eeaa3ff846d3",
+            "timestamp": "2025-08-04T00:31:04.905Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.49,
+            "asset": "TON",
+            "_id": "68900707da18eeaa3ffb3856",
+            "timestamp": "2025-08-04T01:04:07.764Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.63,
+            "asset": "TON",
+            "_id": "68900ba5da18eeaa3ffcf9fd",
+            "timestamp": "2025-08-04T01:23:49.143Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.832,
+            "asset": "TON",
+            "_id": "68900c1eda18eeaa3ffd1179",
+            "timestamp": "2025-08-04T01:25:50.643Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-04T01:53:14.600Z",
+        "status": "finished",
+        "gift_name": "Evil Eye",
+        "gift_num": 54762,
+        "model": "Baltic Amber (3%)",
+        "backdrop": "Chocolate (1.5%)",
+        "symbol": "Magic Wand (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-03T23:53:15.793Z",
+        "__v": 0,
+        "winningBid": 2.832,
+        "winningBidder": 1142495034
+      },
+      "export_at": "2025-08-13T23:52:54.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 58097,
       "customEmojiId": "5429325410787680030",
       "gift_id": 6385567,
@@ -27455,26 +27531,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T14:42:15.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 50815,
-      "customEmojiId": "5429325410787680030",
-      "gift_id": 5971129,
-      "name": "Evil Eye",
-      "model": "Baltic Amber (3%)",
-      "asset": "TON",
-      "symbol": "White Deer (0.2%)",
-      "backdrop": "Copper (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-23T13:31:35.000Z",
       "premarketData": {}
     }
   ],
