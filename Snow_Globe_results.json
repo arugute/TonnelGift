@@ -1,26 +1,6 @@
 {
   "Baobab": [
     {
-      "gift_num": 25754,
-      "customEmojiId": "5336908567960118287",
-      "gift_id": 7501108,
-      "name": "Snow Globe",
-      "model": "Baobab (1.5%)",
-      "asset": "TON",
-      "symbol": "Snowflake (1.2%)",
-      "backdrop": "Seal Brown (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-14T10:39:49.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 34374,
       "customEmojiId": "5336908567960118287",
       "gift_id": 7683514,
@@ -1470,6 +1450,193 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-30T16:51:53.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 36825,
+      "customEmojiId": "5334770705038861198",
+      "gift_id": 7724184,
+      "name": "Snow Globe",
+      "model": "Bag End (1%)",
+      "asset": "TON",
+      "symbol": "Shooting Star (1.8%)",
+      "backdrop": "Mustard (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 11.52,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "15QSTEFQ",
+      "auction": {
+        "_id": "6891db1f5a8240d87bbfd43b",
+        "gift_id": 7724184,
+        "seller": 0,
+        "auction_id": "15QSTEFQ",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6891e1525a8240d87bc8e2c9",
+            "timestamp": "2025-08-05T10:47:46.795Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6891e5f95a8240d87bde94da",
+            "timestamp": "2025-08-05T11:07:37.710Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "6891e62f5a8240d87bdfb0a5",
+            "timestamp": "2025-08-05T11:08:31.229Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4,
+            "asset": "TON",
+            "_id": "6891e6705a8240d87be0c8d3",
+            "timestamp": "2025-08-05T11:09:36.507Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.2,
+            "asset": "TON",
+            "_id": "6891e7265a8240d87be2cf10",
+            "timestamp": "2025-08-05T11:12:38.579Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "6891e7735a8240d87be2e56e",
+            "timestamp": "2025-08-05T11:13:55.598Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "6891e79e5a8240d87be312ed",
+            "timestamp": "2025-08-05T11:14:38.027Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.51,
+            "asset": "TON",
+            "_id": "6891e8035a8240d87be3354e",
+            "timestamp": "2025-08-05T11:16:19.614Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.79,
+            "asset": "TON",
+            "_id": "6891e8115a8240d87be346f5",
+            "timestamp": "2025-08-05T11:16:33.400Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.08,
+            "asset": "TON",
+            "_id": "6891e8205a8240d87be34ab1",
+            "timestamp": "2025-08-05T11:16:48.159Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.38,
+            "asset": "TON",
+            "_id": "6891e82c5a8240d87be359ec",
+            "timestamp": "2025-08-05T11:17:00.772Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.425,
+            "asset": "TON",
+            "_id": "6891e85b5a8240d87be3e767",
+            "timestamp": "2025-08-05T11:17:47.254Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 7.8,
+            "asset": "TON",
+            "_id": "6891e9cf5a8240d87be5db9b",
+            "timestamp": "2025-08-05T11:23:59.268Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.19,
+            "asset": "TON",
+            "_id": "6891ea245a8240d87be647dd",
+            "timestamp": "2025-08-05T11:25:24.227Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.6,
+            "asset": "TON",
+            "_id": "6891ea625a8240d87be6cdc2",
+            "timestamp": "2025-08-05T11:26:26.774Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.03,
+            "asset": "TON",
+            "_id": "6891ea885a8240d87be7564a",
+            "timestamp": "2025-08-05T11:27:04.199Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.48,
+            "asset": "TON",
+            "_id": "6891eaac5a8240d87be7d275",
+            "timestamp": "2025-08-05T11:27:40.800Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.95,
+            "asset": "TON",
+            "_id": "6891eac85a8240d87be82d1a",
+            "timestamp": "2025-08-05T11:28:08.451Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.45,
+            "asset": "TON",
+            "_id": "6891eada5a8240d87be8763b",
+            "timestamp": "2025-08-05T11:28:26.296Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.97,
+            "asset": "TON",
+            "_id": "6891eb255a8240d87be96bc3",
+            "timestamp": "2025-08-05T11:29:41.556Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.52,
+            "asset": "TON",
+            "_id": "6891eb8a5a8240d87beaa7ff",
+            "timestamp": "2025-08-05T11:31:22.433Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T11:51:13.811Z",
+        "status": "finished",
+        "gift_name": "Snow Globe",
+        "gift_num": 36825,
+        "model": "Bag End (1%)",
+        "backdrop": "Mustard (1.2%)",
+        "symbol": "Shooting Star (1.8%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-05T10:21:19.760Z",
+        "__v": 0,
+        "winningBid": 11.52,
+        "winningBidder": 6697990933
+      },
+      "export_at": "2025-08-19T10:17:36.000Z",
       "premarketData": {}
     }
   ],
@@ -7984,6 +8151,26 @@
   ],
   "Mango Lodge": [
     {
+      "gift_num": 3953,
+      "customEmojiId": "5334914685227526166",
+      "gift_id": 4772856,
+      "name": "Snow Globe",
+      "model": "Mango Lodge (3%)",
+      "asset": "TON",
+      "symbol": "Toilet (0.4%)",
+      "backdrop": "Jade Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-05-27T13:11:38.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3365,
       "customEmojiId": "5334914685227526166",
       "gift_id": 7639795,
@@ -8561,26 +8748,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-25T16:55:24.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5794,
-      "customEmojiId": "5334914685227526166",
-      "gift_id": 6099419,
-      "name": "Snow Globe",
-      "model": "Mango Lodge (3%)",
-      "asset": "TON",
-      "symbol": "Flashlight (0.4%)",
-      "backdrop": "Lavender (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 38,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T08:49:25.000Z",
       "premarketData": {}
     }
   ],
@@ -17299,26 +17466,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 7133,
-      "customEmojiId": "5337017217747805348",
-      "gift_id": 7664629,
-      "name": "Snow Globe",
-      "model": "Silver Frost (1.5%)",
-      "asset": "TON",
-      "symbol": "Cupcake (1.8%)",
-      "backdrop": "French Violet (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-16T19:29:43.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 34185,
       "customEmojiId": "5337017217747805348",
       "gift_id": 7297798,
@@ -17892,9 +18039,49 @@
       "auction": null,
       "export_at": "2025-06-27T14:26:20.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 28125,
+      "customEmojiId": "5337017217747805348",
+      "gift_id": 6322358,
+      "name": "Snow Globe",
+      "model": "Silver Frost (1.5%)",
+      "asset": "TON",
+      "symbol": "Paper Crane (0.5%)",
+      "backdrop": "Orange (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 22,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-27T01:09:41.000Z",
+      "premarketData": {}
     }
   ],
   "Night Snow": [
+    {
+      "gift_num": 928,
+      "customEmojiId": "5337057122288951420",
+      "gift_id": 7466596,
+      "name": "Snow Globe",
+      "model": "Night Snow (3%)",
+      "asset": "TON",
+      "symbol": "Mittens (1.8%)",
+      "backdrop": "Black (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 942119,
+      "price": 200,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T18:01:05.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 9068,
       "customEmojiId": "5337057122288951420",
@@ -18473,26 +18660,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-27T06:16:43.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5005,
-      "customEmojiId": "5337057122288951420",
-      "gift_id": 6382671,
-      "name": "Snow Globe",
-      "model": "Night Snow (3%)",
-      "asset": "TON",
-      "symbol": "Ice Skates (1.8%)",
-      "backdrop": "Cyberpunk (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-28T08:30:21.000Z",
       "premarketData": {}
     }
   ],
@@ -21468,6 +21635,26 @@
   ],
   "Fish Tank": [
     {
+      "gift_num": 11904,
+      "customEmojiId": "5337282702561272491",
+      "gift_id": 7301787,
+      "name": "Snow Globe",
+      "model": "Fish Tank (1%)",
+      "asset": "TON",
+      "symbol": "White Deer (1.8%)",
+      "backdrop": "Dark Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.79,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T19:12:08.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 13634,
       "customEmojiId": "5337282702561272491",
       "gift_id": 7702560,
@@ -21585,26 +21772,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-11T10:37:31.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11904,
-      "customEmojiId": "5337282702561272491",
-      "gift_id": 7301787,
-      "name": "Snow Globe",
-      "model": "Fish Tank (1%)",
-      "asset": "TON",
-      "symbol": "White Deer (1.8%)",
-      "backdrop": "Dark Green (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T19:12:08.000Z",
       "premarketData": {}
     },
     {
@@ -23270,26 +23437,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 22723,
-      "customEmojiId": "5334835039353986984",
-      "gift_id": 7660477,
-      "name": "Snow Globe",
-      "model": "Midas Manor (3%)",
-      "asset": "TON",
-      "symbol": "Celtic Wolf (0.5%)",
-      "backdrop": "Platinum (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-16T17:00:21.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 22448,
       "customEmojiId": "5334835039353986984",
       "gift_id": 7654607,
@@ -23327,26 +23474,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-18T15:51:15.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 38638,
-      "customEmojiId": "5334835039353986984",
-      "gift_id": 7671884,
-      "name": "Snow Globe",
-      "model": "Midas Manor (3%)",
-      "asset": "TON",
-      "symbol": "Cocktail (1.5%)",
-      "backdrop": "Azure Blue (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5.3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-17T04:54:32.000Z",
       "premarketData": {}
     },
     {
@@ -23787,6 +23914,46 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-05T12:29:26.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 33554,
+      "customEmojiId": "5334835039353986984",
+      "gift_id": 6975428,
+      "name": "Snow Globe",
+      "model": "Midas Manor (3%)",
+      "asset": "TON",
+      "symbol": "Breeze (0.4%)",
+      "backdrop": "Ivory White (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 21,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-18T00:37:57.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 23064,
+      "customEmojiId": "5334835039353986984",
+      "gift_id": 6856274,
+      "name": "Snow Globe",
+      "model": "Midas Manor (3%)",
+      "asset": "TON",
+      "symbol": "Breeze (0.4%)",
+      "backdrop": "Ranger Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 77,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-13T23:17:35.000Z",
       "premarketData": {}
     }
   ],
@@ -24984,26 +25151,6 @@
   ],
   "Piggy Bank": [
     {
-      "gift_num": 33896,
-      "customEmojiId": "5337060055751616891",
-      "gift_id": 7429277,
-      "name": "Snow Globe",
-      "model": "Piggy Bank (1%)",
-      "asset": "TON",
-      "symbol": "Bowler Hat (0.4%)",
-      "backdrop": "Mystic Pearl (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-10T11:57:35.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 19592,
       "customEmojiId": "5337060055751616891",
       "gift_id": 7709007,
@@ -25021,6 +25168,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-18T16:52:27.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 33896,
+      "customEmojiId": "5337060055751616891",
+      "gift_id": 7429277,
+      "name": "Snow Globe",
+      "model": "Piggy Bank (1%)",
+      "asset": "TON",
+      "symbol": "Bowler Hat (0.4%)",
+      "backdrop": "Mystic Pearl (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T11:57:35.000Z",
       "premarketData": {}
     },
     {
@@ -26425,6 +26592,26 @@
     }
   ],
   "Secret Gift": [
+    {
+      "gift_num": 38794,
+      "customEmojiId": "5336873898984106585",
+      "gift_id": 7720894,
+      "name": "Snow Globe",
+      "model": "Secret Gift (1%)",
+      "asset": "TON",
+      "symbol": "Takoyaki (0.5%)",
+      "backdrop": "Tomato (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T06:31:07.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 22125,
       "customEmojiId": "5336873898984106585",
