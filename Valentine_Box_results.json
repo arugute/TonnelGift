@@ -1798,6 +1798,26 @@
   ],
   "Nikola Tesla": [
     {
+      "gift_num": 5021,
+      "customEmojiId": "5427376736880849896",
+      "gift_id": 7720185,
+      "name": "Valentine Box",
+      "model": "Nikola Tesla (1.5%)",
+      "asset": "TON",
+      "symbol": "Wagasa (0.5%)",
+      "backdrop": "Steel Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 11.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T04:35:30.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 12182,
       "customEmojiId": "5427376736880849896",
       "gift_id": 7456588,
@@ -2398,6 +2418,53 @@
       "premarket": true,
       "premarketStage": 2,
       "premarketData": {}
+    },
+    {
+      "gift_num": 5021,
+      "customEmojiId": "5427376736880849896",
+      "gift_id": 7719462,
+      "name": "Valentine Box",
+      "model": "Nikola Tesla (1.5%)",
+      "asset": "TON",
+      "symbol": "Wagasa (0.5%)",
+      "backdrop": "Steel Grey (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 9,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "8FUBPFQ2",
+      "auction": {
+        "_id": "68917bc85a8240d87b770816",
+        "gift_id": 7719462,
+        "seller": 0,
+        "auction_id": "8FUBPFQ2",
+        "startingBid": 9,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 9,
+            "asset": "TON",
+            "_id": "6891843d5a8240d87b779e88",
+            "timestamp": "2025-08-05T04:10:37.139Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T04:34:31.390Z",
+        "status": "finished",
+        "gift_name": "Valentine Box",
+        "gift_num": 5021,
+        "model": "Nikola Tesla (1.5%)",
+        "backdrop": "Steel Grey (1.5%)",
+        "symbol": "Wagasa (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-05T03:34:32.478Z",
+        "__v": 0,
+        "winningBid": 9,
+        "winningBidder": 857596681
+      },
+      "export_at": "2025-08-19T03:33:41.000Z",
+      "premarketData": {}
     }
   ],
   "Toncoin": [
@@ -2828,6 +2895,26 @@
     }
   ],
   "Blue Suede": [
+    {
+      "gift_num": 17388,
+      "customEmojiId": "5319257648237927651",
+      "gift_id": 7640876,
+      "name": "Valentine Box",
+      "model": "Blue Suede (3%)",
+      "asset": "TON",
+      "symbol": "All-Seeing Eye (0.4%)",
+      "backdrop": "Marine Blue (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T23:27:59.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 17940,
       "customEmojiId": "5319257648237927651",
@@ -3448,26 +3535,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-09T08:57:44.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 545,
-      "customEmojiId": "5319257648237927651",
-      "gift_id": 7391731,
-      "name": "Valentine Box",
-      "model": "Blue Suede (3%)",
-      "asset": "TON",
-      "symbol": "Bellflower (0.7%)",
-      "backdrop": "Chestnut (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 15,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T06:24:57.000Z",
       "premarketData": {}
     }
   ],
@@ -4652,6 +4719,26 @@
   ],
   "Molten Core": [
     {
+      "gift_num": 6818,
+      "customEmojiId": "5429373802184208757",
+      "gift_id": 7685308,
+      "name": "Valentine Box",
+      "model": "Molten Core (1%)",
+      "asset": "TON",
+      "symbol": "Fishing Hook (0.7%)",
+      "backdrop": "Feldgrau (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.8,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-17T16:48:06.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 24468,
       "customEmojiId": "5429373802184208757",
       "gift_id": 7702608,
@@ -4709,26 +4796,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-18T17:41:24.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 6818,
-      "customEmojiId": "5429373802184208757",
-      "gift_id": 7685308,
-      "name": "Valentine Box",
-      "model": "Molten Core (1%)",
-      "asset": "TON",
-      "symbol": "Fishing Hook (0.7%)",
-      "backdrop": "Feldgrau (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-17T16:48:06.000Z",
       "premarketData": {}
     },
     {
@@ -6721,6 +6788,26 @@
   ],
   "Froggie": [
     {
+      "gift_num": 3662,
+      "customEmojiId": "5429135873880911129",
+      "gift_id": 7395467,
+      "name": "Valentine Box",
+      "model": "Froggie (1%)",
+      "asset": "TON",
+      "symbol": "Lovely Kiss (0.7%)",
+      "backdrop": "Ranger Green (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 19,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T09:56:30.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 24316,
       "customEmojiId": "5429135873880911129",
       "gift_id": 7716135,
@@ -7246,26 +7333,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-11T22:41:10.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 3662,
-      "customEmojiId": "5429135873880911129",
-      "gift_id": 7395467,
-      "name": "Valentine Box",
-      "model": "Froggie (1%)",
-      "asset": "TON",
-      "symbol": "Lovely Kiss (0.7%)",
-      "backdrop": "Ranger Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 30,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T09:56:30.000Z",
       "premarketData": {}
     },
     {
@@ -10063,23 +10130,23 @@
   ],
   "Pop Art": [
     {
-      "gift_num": 14965,
+      "gift_num": 19777,
       "customEmojiId": "5316652883716888689",
-      "gift_id": 7712052,
+      "gift_id": 7609342,
       "name": "Valentine Box",
       "model": "Pop Art (3%)",
       "asset": "TON",
-      "symbol": "Doghouse (0.5%)",
-      "backdrop": "Feldgrau (1.5%)",
+      "symbol": "Heraldic Lily (0.7%)",
+      "backdrop": "Carmine (1%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3,
+      "price": 9,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-08-18T19:26:58.000Z",
+      "export_at": "2025-08-15T08:34:07.000Z",
       "premarketData": {}
     },
     {
@@ -10100,26 +10167,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-16T19:04:57.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 19777,
-      "customEmojiId": "5316652883716888689",
-      "gift_id": 7609342,
-      "name": "Valentine Box",
-      "model": "Pop Art (3%)",
-      "asset": "TON",
-      "symbol": "Heraldic Lily (0.7%)",
-      "backdrop": "Carmine (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T08:34:07.000Z",
       "premarketData": {}
     },
     {
@@ -10687,6 +10734,95 @@
         "winningBidder": 5639908664
       },
       "export_at": "2025-08-18T11:25:13.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 11650,
+      "customEmojiId": "5316652883716888689",
+      "gift_id": 7675679,
+      "name": "Valentine Box",
+      "model": "Pop Art (3%)",
+      "asset": "TON",
+      "symbol": "French Fries (0.7%)",
+      "backdrop": "Sapphire (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 3.05,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ETL3WU7G",
+      "auction": {
+        "_id": "688f3276eb94b7cc33ba6c65",
+        "gift_id": 7675679,
+        "seller": 0,
+        "auction_id": "ETL3WU7G",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "688f5004eb94b7cc333c2661",
+            "timestamp": "2025-08-03T12:03:16.525Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "688f5906eb94b7cc33ae7061",
+            "timestamp": "2025-08-03T12:41:42.930Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "688f597feb94b7cc33ae97b4",
+            "timestamp": "2025-08-03T12:43:43.391Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.6,
+            "asset": "TON",
+            "_id": "688f5b1deb94b7cc33af0950",
+            "timestamp": "2025-08-03T12:50:37.263Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.73,
+            "asset": "TON",
+            "_id": "688f5b39eb94b7cc33af0c98",
+            "timestamp": "2025-08-03T12:51:05.628Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.87,
+            "asset": "TON",
+            "_id": "688f5cdaeb94b7cc33af831d",
+            "timestamp": "2025-08-03T12:58:02.815Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.05,
+            "asset": "TON",
+            "_id": "688f5d0aeb94b7cc33af8984",
+            "timestamp": "2025-08-03T12:58:50.595Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-03T13:12:36.238Z",
+        "status": "finished",
+        "gift_name": "Valentine Box",
+        "gift_num": 11650,
+        "model": "Pop Art (3%)",
+        "backdrop": "Sapphire (1.2%)",
+        "symbol": "French Fries (0.7%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-03T11:52:37.164Z",
+        "__v": 0,
+        "winningBid": 3.05,
+        "winningBidder": 1070966019
+      },
+      "export_at": "2025-08-17T09:56:16.000Z",
       "premarketData": {}
     }
   ],
@@ -17358,26 +17494,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-16T10:22:43.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 21336,
-      "customEmojiId": "5429495856564828709",
-      "gift_id": 7488650,
-      "name": "Valentine Box",
-      "model": "Hitman (0.5%)",
-      "asset": "TON",
-      "symbol": "Polar Bear (0.7%)",
-      "backdrop": "Gunmetal (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 39.99,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-14T08:02:22.000Z",
       "premarketData": {}
     },
     {
