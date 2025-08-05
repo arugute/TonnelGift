@@ -1345,6 +1345,60 @@
       "auction": null,
       "export_at": "2025-05-07T08:54:53.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 285,
+      "customEmojiId": "5395410966038994672",
+      "gift_id": 7730785,
+      "name": "Ion Gem",
+      "model": "Color Drain (3%)",
+      "asset": "TON",
+      "symbol": "Flamingo (0.4%)",
+      "backdrop": "Raspberry (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 62.16,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "GG0WUKON",
+      "auction": {
+        "_id": "689233965a8240d87b831206",
+        "gift_id": 7730785,
+        "seller": 0,
+        "auction_id": "GG0WUKON",
+        "startingBid": 10,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 59.2,
+            "asset": "TON",
+            "_id": "689233c65a8240d87b834286",
+            "timestamp": "2025-08-05T16:39:34.178Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 62.16,
+            "asset": "TON",
+            "_id": "689240a95a8240d87b9579ba",
+            "timestamp": "2025-08-05T17:34:33.886Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T17:48:42.470Z",
+        "status": "finished",
+        "gift_name": "Ion Gem",
+        "gift_num": 285,
+        "model": "Color Drain (3%)",
+        "backdrop": "Raspberry (1.5%)",
+        "symbol": "Flamingo (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-05T16:38:46.204Z",
+        "__v": 0,
+        "winningBid": 62.16,
+        "winningBidder": 1710999376
+      },
+      "export_at": "2025-08-19T16:38:16.000Z",
+      "premarketData": {}
     }
   ],
   "Tiberium": [
