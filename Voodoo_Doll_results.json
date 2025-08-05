@@ -13,7 +13,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 13.4,
+      "price": 13.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -6027,7 +6027,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 18,
+      "price": 11,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -13383,26 +13383,6 @@
     {
       "gift_num": 25783,
       "customEmojiId": "5231163960576731232",
-      "gift_id": 7658439,
-      "name": "Voodoo Doll",
-      "model": "Medium Rare (1%)",
-      "asset": "TON",
-      "symbol": "Crystal Ball (2%)",
-      "backdrop": "Dark Lilac (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 17,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-16T15:40:14.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 25783,
-      "customEmojiId": "5231163960576731232",
       "gift_id": 7368886,
       "name": "Voodoo Doll",
       "model": "Medium Rare (1%)",
@@ -15196,6 +15176,26 @@
   ],
   "En Passant": [
     {
+      "gift_num": 724,
+      "customEmojiId": "5231071992442019668",
+      "gift_id": 7723093,
+      "name": "Voodoo Doll",
+      "model": "En Passant (2%)",
+      "asset": "TON",
+      "symbol": "Gravestone (1.6%)",
+      "backdrop": "Pistachio (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 14.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T09:16:07.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 7137,
       "customEmojiId": "5231071992442019668",
       "gift_id": 7705149,
@@ -15808,26 +15808,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-30T16:23:50.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2993,
-      "customEmojiId": "5231071992442019668",
-      "gift_id": 4935999,
-      "name": "Voodoo Doll",
-      "model": "En Passant (2%)",
-      "asset": "TON",
-      "symbol": "Bloody Axe (2.4%)",
-      "backdrop": "Orange (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 34,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-05-30T16:23:39.000Z",
       "premarketData": {}
     }
   ],
@@ -16637,6 +16617,26 @@
   ],
   "Aqua Gem": [
     {
+      "gift_num": 13953,
+      "customEmojiId": "5228712002402152360",
+      "gift_id": 7715076,
+      "name": "Voodoo Doll",
+      "model": "Aqua Gem (3.5%)",
+      "asset": "TON",
+      "symbol": "Treats (1.6%)",
+      "backdrop": "Mint Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 11.75,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T21:43:39.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 20331,
       "customEmojiId": "5228712002402152360",
       "gift_id": 7568074,
@@ -16674,26 +16674,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-05T07:31:09.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 13953,
-      "customEmojiId": "5228712002402152360",
-      "gift_id": 7715076,
-      "name": "Voodoo Doll",
-      "model": "Aqua Gem (3.5%)",
-      "asset": "TON",
-      "symbol": "Treats (1.6%)",
-      "backdrop": "Mint Green (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 11.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-18T21:43:39.000Z",
       "premarketData": {}
     },
     {
@@ -17676,6 +17656,284 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-05-02T10:19:46.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 9930,
+      "customEmojiId": "5231395171551174465",
+      "gift_id": 7714669,
+      "name": "Voodoo Doll",
+      "model": "Horror Movie (3.5%)",
+      "asset": "TON",
+      "symbol": "Black Widow (2.4%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 46.5,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "HHUO7N1C",
+      "auction": {
+        "_id": "689126755a8240d87bff31b8",
+        "gift_id": 7714669,
+        "seller": 0,
+        "auction_id": "HHUO7N1C",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "689126a85a8240d87b0101ad",
+            "timestamp": "2025-08-04T21:31:20.275Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "689127165a8240d87b04f5da",
+            "timestamp": "2025-08-04T21:33:10.244Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "689130bf5a8240d87b4f10db",
+            "timestamp": "2025-08-04T22:14:23.543Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "689132b05a8240d87b56b89c",
+            "timestamp": "2025-08-04T22:22:40.750Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "689133845a8240d87b59d3c5",
+            "timestamp": "2025-08-04T22:26:12.184Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6,
+            "asset": "TON",
+            "_id": "689135ec5a8240d87b5fbc08",
+            "timestamp": "2025-08-04T22:36:28.306Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.3,
+            "asset": "TON",
+            "_id": "689136575a8240d87b6089ef",
+            "timestamp": "2025-08-04T22:38:15.200Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.9,
+            "asset": "TON",
+            "_id": "689151b25a8240d87b724faa",
+            "timestamp": "2025-08-05T00:34:58.827Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.35,
+            "asset": "TON",
+            "_id": "689159ab5a8240d87b72fb9f",
+            "timestamp": "2025-08-05T01:08:59.425Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.82,
+            "asset": "TON",
+            "_id": "6891685c5a8240d87b74733f",
+            "timestamp": "2025-08-05T02:11:40.458Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.31,
+            "asset": "TON",
+            "_id": "689169485a8240d87b7477d9",
+            "timestamp": "2025-08-05T02:15:36.839Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.83,
+            "asset": "TON",
+            "_id": "68916d595a8240d87b75254d",
+            "timestamp": "2025-08-05T02:32:57.278Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.37,
+            "asset": "TON",
+            "_id": "68916d9f5a8240d87b752c86",
+            "timestamp": "2025-08-05T02:34:07.483Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15,
+            "asset": "TON",
+            "_id": "68916dc15a8240d87b752d89",
+            "timestamp": "2025-08-05T02:34:41.122Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 15.75,
+            "asset": "TON",
+            "_id": "689194ac5a8240d87b80af74",
+            "timestamp": "2025-08-05T05:20:44.358Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 16.54,
+            "asset": "TON",
+            "_id": "689195225a8240d87b81ce23",
+            "timestamp": "2025-08-05T05:22:42.713Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 17.37,
+            "asset": "TON",
+            "_id": "689195325a8240d87b81df49",
+            "timestamp": "2025-08-05T05:22:58.541Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 18.24,
+            "asset": "TON",
+            "_id": "6891954a5a8240d87b821f17",
+            "timestamp": "2025-08-05T05:23:22.895Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 20,
+            "asset": "TON",
+            "_id": "6891ad4b5a8240d87ba844a3",
+            "timestamp": "2025-08-05T07:05:47.841Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 21,
+            "asset": "TON",
+            "_id": "6891ad705a8240d87ba84bf5",
+            "timestamp": "2025-08-05T07:06:24.163Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 22.05,
+            "asset": "TON",
+            "_id": "6891c4df5a8240d87bb0ae1e",
+            "timestamp": "2025-08-05T08:46:23.544Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 23.15,
+            "asset": "TON",
+            "_id": "6891c56b5a8240d87bb0fa7c",
+            "timestamp": "2025-08-05T08:48:43.104Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 27,
+            "asset": "TON",
+            "_id": "6891c8175a8240d87bb59c0a",
+            "timestamp": "2025-08-05T09:00:07.382Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 28.35,
+            "asset": "TON",
+            "_id": "6891c8265a8240d87bb5b667",
+            "timestamp": "2025-08-05T09:00:22.936Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 29.77,
+            "asset": "TON",
+            "_id": "6891c8345a8240d87bb5da02",
+            "timestamp": "2025-08-05T09:00:36.791Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 31.26,
+            "asset": "TON",
+            "_id": "6891c8435a8240d87bb5efcd",
+            "timestamp": "2025-08-05T09:00:51.074Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 32.82,
+            "asset": "TON",
+            "_id": "6891c84d5a8240d87bb5f9b9",
+            "timestamp": "2025-08-05T09:01:01.721Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 34.46,
+            "asset": "TON",
+            "_id": "6891c8605a8240d87bb60c0d",
+            "timestamp": "2025-08-05T09:01:20.120Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 36.18,
+            "asset": "TON",
+            "_id": "6891c97b5a8240d87bb7bd23",
+            "timestamp": "2025-08-05T09:06:03.010Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 37.99,
+            "asset": "TON",
+            "_id": "6891cbf15a8240d87bba6daf",
+            "timestamp": "2025-08-05T09:16:33.757Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 40,
+            "asset": "TON",
+            "_id": "6891cc325a8240d87bba7ada",
+            "timestamp": "2025-08-05T09:17:38.181Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 42,
+            "asset": "TON",
+            "_id": "6891ce245a8240d87bbb5cbf",
+            "timestamp": "2025-08-05T09:25:56.211Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 44.1,
+            "asset": "TON",
+            "_id": "6891cfed5a8240d87bbcc0ad",
+            "timestamp": "2025-08-05T09:33:33.170Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 46.5,
+            "asset": "TON",
+            "_id": "6891d0605a8240d87bbcc674",
+            "timestamp": "2025-08-05T09:35:28.078Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T09:50:29.510Z",
+        "status": "finished",
+        "gift_name": "Voodoo Doll",
+        "gift_num": 9930,
+        "model": "Horror Movie (3.5%)",
+        "backdrop": "Black (2%)",
+        "symbol": "Black Widow (2.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T21:30:29.800Z",
+        "__v": 0,
+        "winningBid": 46.5,
+        "winningBidder": 2063641579
+      },
+      "export_at": "2025-08-18T21:28:55.000Z",
       "premarketData": {}
     }
   ],
@@ -23942,7 +24200,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 13,
+      "price": 12.8,
       "status": "forsale",
       "limited": false,
       "auction": null,
