@@ -2409,6 +2409,26 @@
   ],
   "Glowstick": [
     {
+      "gift_num": 317020,
+      "customEmojiId": "5220035141967046212",
+      "gift_id": 7695994,
+      "name": "Lol Pop",
+      "model": "Glowstick (0.5%)",
+      "asset": "TON",
+      "symbol": "Hedgehog (0.3%)",
+      "backdrop": "Navy Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T02:03:36.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 392809,
       "customEmojiId": "5220035141967046212",
       "gift_id": 7660160,
@@ -2546,26 +2566,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-15T13:05:11.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 317020,
-      "customEmojiId": "5220035141967046212",
-      "gift_id": 7695994,
-      "name": "Lol Pop",
-      "model": "Glowstick (0.5%)",
-      "asset": "TON",
-      "symbol": "Hedgehog (0.3%)",
-      "backdrop": "Navy Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-18T02:03:36.000Z",
       "premarketData": {}
     },
     {
@@ -11527,26 +11527,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 24141,
-      "customEmojiId": "5208479510982321993",
-      "gift_id": 7694868,
-      "name": "Lol Pop",
-      "model": "Magic Wand (1%)",
-      "asset": "TON",
-      "symbol": "Sea Dragon (0.4%)",
-      "backdrop": "Amber (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-18T00:09:55.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 354166,
       "customEmojiId": "5208479510982321993",
       "gift_id": 7696654,
@@ -12064,6 +12044,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-10T19:49:39.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 266094,
+      "customEmojiId": "5208479510982321993",
+      "gift_id": 7438689,
+      "name": "Lol Pop",
+      "model": "Magic Wand (1%)",
+      "asset": "TON",
+      "symbol": "Pizza Slice (0.4%)",
+      "backdrop": "Moonstone (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-10T19:46:18.000Z",
       "premarketData": {}
     }
   ],
@@ -17116,6 +17116,145 @@
       "premarketData": {}
     },
     {
+      "gift_num": 11400,
+      "customEmojiId": "5226504410686845283",
+      "gift_id": 7644896,
+      "name": "Lol Pop",
+      "model": "Heart Pop (1%)",
+      "asset": "TON",
+      "symbol": "Kudu Totem (0.4%)",
+      "backdrop": "Black (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 14.08,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "TIW9UOP2",
+      "auction": {
+        "_id": "688e1488eb94b7cc33e1d9ce",
+        "gift_id": 7644896,
+        "seller": 0,
+        "auction_id": "TIW9UOP2",
+        "startingBid": 6,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 6,
+            "asset": "TON",
+            "_id": "6890bea4da18eeaa3f34eb0f",
+            "timestamp": "2025-08-04T14:07:32.539Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.3,
+            "asset": "TON",
+            "_id": "6890f8415a8240d87bafe27c",
+            "timestamp": "2025-08-04T18:13:21.029Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.01,
+            "asset": "TON",
+            "_id": "689123295a8240d87bec0586",
+            "timestamp": "2025-08-04T21:16:25.442Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.41,
+            "asset": "TON",
+            "_id": "689125565a8240d87bf619b7",
+            "timestamp": "2025-08-04T21:25:42.846Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 8.9,
+            "asset": "TON",
+            "_id": "689138af5a8240d87b6448c9",
+            "timestamp": "2025-08-04T22:48:15.627Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 9.35,
+            "asset": "TON",
+            "_id": "68915d0c5a8240d87b734ef2",
+            "timestamp": "2025-08-05T01:23:24.184Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10,
+            "asset": "TON",
+            "_id": "68915d835a8240d87b7351b8",
+            "timestamp": "2025-08-05T01:25:23.015Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 10.5,
+            "asset": "TON",
+            "_id": "6891623e5a8240d87b7388c2",
+            "timestamp": "2025-08-05T01:45:34.979Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.03,
+            "asset": "TON",
+            "_id": "689163a45a8240d87b73a5ce",
+            "timestamp": "2025-08-05T01:51:32.607Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 11.58,
+            "asset": "TON",
+            "_id": "689165155a8240d87b73bf0e",
+            "timestamp": "2025-08-05T01:57:41.287Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.16,
+            "asset": "TON",
+            "_id": "689165e35a8240d87b73c2b7",
+            "timestamp": "2025-08-05T02:01:07.716Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 12.77,
+            "asset": "TON",
+            "_id": "689165f15a8240d87b73c307",
+            "timestamp": "2025-08-05T02:01:21.085Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 13.41,
+            "asset": "TON",
+            "_id": "689165ff5a8240d87b73c38c",
+            "timestamp": "2025-08-05T02:01:35.918Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 14.08,
+            "asset": "TON",
+            "_id": "689166545a8240d87b73d335",
+            "timestamp": "2025-08-05T02:03:00.506Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T02:21:48.733Z",
+        "status": "finished",
+        "gift_name": "Lol Pop",
+        "gift_num": 11400,
+        "model": "Heart Pop (1%)",
+        "backdrop": "Black (1.5%)",
+        "symbol": "Kudu Totem (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T14:01:50.056Z",
+        "__v": 0,
+        "winningBid": 14.08,
+        "winningBidder": 6835472188
+      },
+      "export_at": "2025-08-16T06:02:23.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 267280,
       "customEmojiId": "5226504410686845283",
       "gift_id": 7622753,
@@ -17553,26 +17692,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-25T18:52:14.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 59299,
-      "customEmojiId": "5226504410686845283",
-      "gift_id": 5511564,
-      "name": "Lol Pop",
-      "model": "Heart Pop (1%)",
-      "asset": "TON",
-      "symbol": "Bunny (0.4%)",
-      "backdrop": "Onyx Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 7,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-15T00:46:39.000Z",
       "premarketData": {}
     }
   ],
@@ -20588,6 +20707,26 @@
   ],
   "Cotton Candy": [
     {
+      "gift_num": 224411,
+      "customEmojiId": "5386843094693995053",
+      "gift_id": 7718707,
+      "name": "Lol Pop",
+      "model": "Cotton Candy (1.2%)",
+      "asset": "TON",
+      "symbol": "Flag (0.4%)",
+      "backdrop": "Mystic Pearl (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T02:22:32.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 328649,
       "customEmojiId": "5386843094693995053",
       "gift_id": 7477019,
@@ -21165,26 +21304,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-17T18:29:03.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 902,
-      "customEmojiId": "5386843094693995053",
-      "gift_id": 6835401,
-      "name": "Lol Pop",
-      "model": "Cotton Candy (1.2%)",
-      "asset": "TON",
-      "symbol": "Evil Dragon (0.4%)",
-      "backdrop": "Moonstone (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-13T06:50:30.000Z",
       "premarketData": {}
     }
   ],
@@ -28414,6 +28533,26 @@
   ],
   "Cosmic Green": [
     {
+      "gift_num": 6376,
+      "customEmojiId": "5228714622332203932",
+      "gift_id": 4430217,
+      "name": "Lol Pop",
+      "model": "Cosmic Green (1%)",
+      "asset": "TON",
+      "symbol": "Acorn (0.4%)",
+      "backdrop": "Pacific Cyan (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 20,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-05-19T18:47:50.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 13406,
       "customEmojiId": "5228714622332203932",
       "gift_id": 7714350,
@@ -28991,26 +29130,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-04T11:06:43.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 306831,
-      "customEmojiId": "5228714622332203932",
-      "gift_id": 6487205,
-      "name": "Lol Pop",
-      "model": "Cosmic Green (1%)",
-      "asset": "TON",
-      "symbol": "Moon Eagle (0.4%)",
-      "backdrop": "English Violet (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-30T12:31:19.000Z",
       "premarketData": {}
     }
   ],
@@ -52523,6 +52642,26 @@
   ],
   "Cherry Cola": [
     {
+      "gift_num": 119060,
+      "customEmojiId": "5386734333237162176",
+      "gift_id": 6183344,
+      "name": "Lol Pop",
+      "model": "Cherry Cola (1.2%)",
+      "asset": "TON",
+      "symbol": "Boat (0.4%)",
+      "backdrop": "Strawberry (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-24T21:14:15.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 350866,
       "customEmojiId": "5386734333237162176",
       "gift_id": 7124170,
@@ -53100,26 +53239,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-08T14:44:17.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 42631,
-      "customEmojiId": "5386734333237162176",
-      "gift_id": 7351924,
-      "name": "Lol Pop",
-      "model": "Cherry Cola (1.2%)",
-      "asset": "TON",
-      "symbol": "Watching Sun (0.4%)",
-      "backdrop": "Rosewood (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-06T13:03:41.000Z",
       "premarketData": {}
     }
   ],
