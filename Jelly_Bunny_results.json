@@ -1,6 +1,159 @@
 {
   "Sticky Red": [
     {
+      "gift_num": 984,
+      "customEmojiId": "5397781710676975041",
+      "gift_id": 7697771,
+      "name": "Jelly Bunny",
+      "model": "Sticky Red (0.5%)",
+      "asset": "TON",
+      "symbol": "Coat of Arms (0.5%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6.71,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "L5KWHYEY",
+      "auction": {
+        "_id": "6891d6665a8240d87bbe149d",
+        "gift_id": 7697771,
+        "seller": 0,
+        "auction_id": "L5KWHYEY",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6891d7285a8240d87bbe419d",
+            "timestamp": "2025-08-05T10:04:24.387Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.1,
+            "asset": "TON",
+            "_id": "6891d7775a8240d87bbe6bae",
+            "timestamp": "2025-08-05T10:05:43.752Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.21,
+            "asset": "TON",
+            "_id": "6891d8525a8240d87bbecb2e",
+            "timestamp": "2025-08-05T10:09:22.007Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.32,
+            "asset": "TON",
+            "_id": "6891d9195a8240d87bbef429",
+            "timestamp": "2025-08-05T10:12:41.665Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.44,
+            "asset": "TON",
+            "_id": "6891d9665a8240d87bbefd7e",
+            "timestamp": "2025-08-05T10:13:58.283Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.56,
+            "asset": "TON",
+            "_id": "6891dc8e5a8240d87bc0a5d7",
+            "timestamp": "2025-08-05T10:27:26.530Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.69,
+            "asset": "TON",
+            "_id": "6891dce45a8240d87bc0c3d7",
+            "timestamp": "2025-08-05T10:28:52.236Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.83,
+            "asset": "TON",
+            "_id": "6891dd1a5a8240d87bc12c9b",
+            "timestamp": "2025-08-05T10:29:46.841Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 2.97,
+            "asset": "TON",
+            "_id": "6891dd295a8240d87bc14678",
+            "timestamp": "2025-08-05T10:30:01.306Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.12,
+            "asset": "TON",
+            "_id": "6891dd715a8240d87bc1ce0a",
+            "timestamp": "2025-08-05T10:31:13.606Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "6891dd7f5a8240d87bc1f03c",
+            "timestamp": "2025-08-05T10:31:27.591Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "6891e35b5a8240d87bd00a24",
+            "timestamp": "2025-08-05T10:56:27.327Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.8,
+            "asset": "TON",
+            "_id": "6891e3725a8240d87bd0a340",
+            "timestamp": "2025-08-05T10:56:50.962Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.09,
+            "asset": "TON",
+            "_id": "6891e3a85a8240d87bd1e951",
+            "timestamp": "2025-08-05T10:57:44.412Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.39,
+            "asset": "TON",
+            "_id": "6891e3ce5a8240d87bd2df3c",
+            "timestamp": "2025-08-05T10:58:22.589Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 6.71,
+            "asset": "TON",
+            "_id": "6891e4095a8240d87bd4229b",
+            "timestamp": "2025-08-05T10:59:21.716Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T11:11:09.548Z",
+        "status": "finished",
+        "gift_name": "Jelly Bunny",
+        "gift_num": 984,
+        "model": "Sticky Red (0.5%)",
+        "backdrop": "Onyx Black (2%)",
+        "symbol": "Coat of Arms (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-05T10:01:10.265Z",
+        "__v": 0,
+        "winningBid": 6.71,
+        "winningBidder": 6122252823
+      },
+      "export_at": "2025-08-18T07:11:02.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 80560,
       "customEmojiId": "5397781710676975041",
       "gift_id": 7655241,
@@ -8538,6 +8691,26 @@
   ],
   "Tender Pink": [
     {
+      "gift_num": 30609,
+      "customEmojiId": "5397724789475400162",
+      "gift_id": 7722182,
+      "name": "Jelly Bunny",
+      "model": "Tender Pink (0.5%)",
+      "asset": "TON",
+      "symbol": "Ball (0.5%)",
+      "backdrop": "Midnight Blue (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T08:13:56.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 14847,
       "customEmojiId": "5397724789475400162",
       "gift_id": 7470847,
@@ -10014,6 +10187,26 @@
   ],
   "Melted Ice": [
     {
+      "gift_num": 59961,
+      "customEmojiId": "5398095041426120690",
+      "gift_id": 7467099,
+      "name": "Jelly Bunny",
+      "model": "Melted Ice (0.5%)",
+      "asset": "TON",
+      "symbol": "Red Deer (0.3%)",
+      "backdrop": "Turquoise (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-12T18:42:26.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 81000,
       "customEmojiId": "5398095041426120690",
       "gift_id": 7712122,
@@ -10071,26 +10264,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-15T13:40:55.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 59961,
-      "customEmojiId": "5398095041426120690",
-      "gift_id": 7467099,
-      "name": "Jelly Bunny",
-      "model": "Melted Ice (0.5%)",
-      "asset": "TON",
-      "symbol": "Red Deer (0.3%)",
-      "backdrop": "Turquoise (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 4,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-12T18:42:26.000Z",
       "premarketData": {}
     },
     {
@@ -10900,6 +11073,26 @@
   ],
   "Grass Gel": [
     {
+      "gift_num": 17248,
+      "customEmojiId": "5399888430790367487",
+      "gift_id": 4680997,
+      "name": "Jelly Bunny",
+      "model": "Grass Gel (0.5%)",
+      "asset": "TON",
+      "symbol": "Toilet Paper (0.4%)",
+      "backdrop": "Carrot Juice (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-05-25T15:32:29.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 56264,
       "customEmojiId": "5399888430790367487",
       "gift_id": 7654278,
@@ -11114,7 +11307,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 2.42,
+      "price": 2.3,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -11938,6 +12131,26 @@
   ],
   "Dr. Jelly": [
     {
+      "gift_num": 44465,
+      "customEmojiId": "5429098559205041830",
+      "gift_id": 6767747,
+      "name": "Jelly Bunny",
+      "model": "Dr. Jelly (1.5%)",
+      "asset": "TON",
+      "symbol": "Inca Sun (0.4%)",
+      "backdrop": "Satin Gold (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5.5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-10T03:27:11.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 52563,
       "customEmojiId": "5429098559205041830",
       "gift_id": 6792375,
@@ -12095,26 +12308,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-25T03:34:18.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 44465,
-      "customEmojiId": "5429098559205041830",
-      "gift_id": 6767747,
-      "name": "Jelly Bunny",
-      "model": "Dr. Jelly (1.5%)",
-      "asset": "TON",
-      "symbol": "Inca Sun (0.4%)",
-      "backdrop": "Satin Gold (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 10.86,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-10T03:27:11.000Z",
       "premarketData": {}
     },
     {
@@ -12539,6 +12732,26 @@
     }
   ],
   "Blue Glaze": [
+    {
+      "gift_num": 80973,
+      "customEmojiId": "5397672433824065046",
+      "gift_id": 7725006,
+      "name": "Jelly Bunny",
+      "model": "Blue Glaze (0.5%)",
+      "asset": "TON",
+      "symbol": "Plum (0.4%)",
+      "backdrop": "Grape (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T10:54:37.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 77883,
       "customEmojiId": "5397672433824065046",
@@ -14482,6 +14695,26 @@
   ],
   "Violetta": [
     {
+      "gift_num": 68460,
+      "customEmojiId": "5397726687850944310",
+      "gift_id": 7725344,
+      "name": "Jelly Bunny",
+      "model": "Violetta (0.5%)",
+      "asset": "TON",
+      "symbol": "Totem Bear (0.5%)",
+      "backdrop": "Pine Green (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T11:10:43.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 79820,
       "customEmojiId": "5397726687850944310",
       "gift_id": 7710200,
@@ -14951,29 +15184,29 @@
       "auction": null,
       "export_at": "2025-05-27T23:50:15.000Z",
       "premarketData": {}
-    },
+    }
+  ],
+  "Jellyfish": [
     {
-      "gift_num": 24006,
-      "customEmojiId": "5397733065877381224",
-      "gift_id": 6447386,
+      "gift_num": 28034,
+      "customEmojiId": "5427145074934834751",
+      "gift_id": 7142555,
       "name": "Jelly Bunny",
-      "model": "Mint Fudge (0.5%)",
+      "model": "Jellyfish (1.5%)",
       "asset": "TON",
-      "symbol": "Hedgehog (0.4%)",
-      "backdrop": "Cyberpunk (1.5%)",
+      "symbol": "Bee (0.4%)",
+      "backdrop": "Onyx Black (2%)",
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 10.1,
+      "price": 10,
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "export_at": "2025-06-29T15:39:05.000Z",
+      "export_at": "2025-07-24T20:48:23.000Z",
       "premarketData": {}
-    }
-  ],
-  "Jellyfish": [
+    },
     {
       "gift_num": 12298,
       "customEmojiId": "5427145074934834751",
@@ -15432,26 +15665,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-02T00:29:56.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 28034,
-      "customEmojiId": "5427145074934834751",
-      "gift_id": 7142555,
-      "name": "Jelly Bunny",
-      "model": "Jellyfish (1.5%)",
-      "asset": "TON",
-      "symbol": "Bee (0.4%)",
-      "backdrop": "Onyx Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 17,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-24T20:48:23.000Z",
       "premarketData": {}
     },
     {
@@ -20195,6 +20408,26 @@
   ],
   "Diver": [
     {
+      "gift_num": 4345,
+      "customEmojiId": "5429137617637633038",
+      "gift_id": 7699260,
+      "name": "Jelly Bunny",
+      "model": "Diver (1.5%)",
+      "asset": "TON",
+      "symbol": "Eikthyrnir (0.5%)",
+      "backdrop": "Lavender (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.95,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T09:05:13.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 39902,
       "customEmojiId": "5429137617637633038",
       "gift_id": 7680111,
@@ -20212,26 +20445,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-17T13:14:59.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4345,
-      "customEmojiId": "5429137617637633038",
-      "gift_id": 7699260,
-      "name": "Jelly Bunny",
-      "model": "Diver (1.5%)",
-      "asset": "TON",
-      "symbol": "Eikthyrnir (0.5%)",
-      "backdrop": "Lavender (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.3,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-18T09:05:13.000Z",
       "premarketData": {}
     },
     {
@@ -21696,6 +21909,26 @@
   ],
   "Majestic": [
     {
+      "gift_num": 77983,
+      "customEmojiId": "5426970871061309365",
+      "gift_id": 7702683,
+      "name": "Jelly Bunny",
+      "model": "Majestic (1.5%)",
+      "asset": "TON",
+      "symbol": "Rhino Warrior (0.2%)",
+      "backdrop": "Grape (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4.4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T11:30:14.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 53442,
       "customEmojiId": "5426970871061309365",
       "gift_id": 7706191,
@@ -21713,26 +21946,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-18T14:05:56.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 77983,
-      "customEmojiId": "5426970871061309365",
-      "gift_id": 7702683,
-      "name": "Jelly Bunny",
-      "model": "Majestic (1.5%)",
-      "asset": "TON",
-      "symbol": "Rhino Warrior (0.2%)",
-      "backdrop": "Grape (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-18T11:30:14.000Z",
       "premarketData": {}
     },
     {
@@ -26972,26 +27185,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 80595,
-      "customEmojiId": "5399926329581790028",
-      "gift_id": 7656124,
-      "name": "Jelly Bunny",
-      "model": "Deep Dive (0.5%)",
-      "asset": "TON",
-      "symbol": "Sunflower (0.5%)",
-      "backdrop": "English Violet (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 2.8,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-16T14:18:50.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 13360,
       "customEmojiId": "5399926329581790028",
       "gift_id": 5054222,
@@ -27724,6 +27917,46 @@
   ],
   "Corporate": [
     {
+      "gift_num": 81064,
+      "customEmojiId": "5427100682152860879",
+      "gift_id": 7723320,
+      "name": "Jelly Bunny",
+      "model": "Corporate (1.5%)",
+      "asset": "TON",
+      "symbol": "Cobra (0.4%)",
+      "backdrop": "Cobalt Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 3.1,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T09:31:18.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 20607,
+      "customEmojiId": "5427100682152860879",
+      "gift_id": 6934491,
+      "name": "Jelly Bunny",
+      "model": "Corporate (1.5%)",
+      "asset": "TON",
+      "symbol": "Burger (0.5%)",
+      "backdrop": "Amber (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 2.41,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-16T13:00:20.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 14266,
       "customEmojiId": "5427100682152860879",
       "gift_id": 7306535,
@@ -27901,26 +28134,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-16T21:29:39.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 20607,
-      "customEmojiId": "5427100682152860879",
-      "gift_id": 6934491,
-      "name": "Jelly Bunny",
-      "model": "Corporate (1.5%)",
-      "asset": "TON",
-      "symbol": "Burger (0.5%)",
-      "backdrop": "Amber (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 3.49,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-16T13:00:20.000Z",
       "premarketData": {}
     },
     {
@@ -28301,26 +28514,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T22:06:00.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7140,
-      "customEmojiId": "5427100682152860879",
-      "gift_id": 6080050,
-      "name": "Jelly Bunny",
-      "model": "Corporate (1.5%)",
-      "asset": "TON",
-      "symbol": "UFO (0.5%)",
-      "backdrop": "Hunter Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 25,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-24T03:44:21.000Z",
       "premarketData": {}
     }
   ],
@@ -31860,6 +32053,26 @@
   ],
   "Smelly": [
     {
+      "gift_num": 30482,
+      "customEmojiId": "5425120882618031408",
+      "gift_id": 7724712,
+      "name": "Jelly Bunny",
+      "model": "Smelly (2%)",
+      "asset": "TON",
+      "symbol": "Hand of God (0.2%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 15.49,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T10:45:24.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 31021,
       "customEmojiId": "5425120882618031408",
       "gift_id": 5989145,
@@ -32438,26 +32651,6 @@
       "auction": null,
       "export_at": "2025-06-24T19:48:11.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 53145,
-      "customEmojiId": "5425120882618031408",
-      "gift_id": 6197738,
-      "name": "Jelly Bunny",
-      "model": "Smelly (2%)",
-      "asset": "TON",
-      "symbol": "Plum (0.4%)",
-      "backdrop": "Chestnut (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6.9,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-25T01:55:02.000Z",
-      "premarketData": {}
     }
   ],
   "Artificial": [
@@ -32773,7 +32966,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.21,
+      "price": 4.48,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -32793,7 +32986,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.23,
+      "price": 3.05,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -32962,6 +33155,26 @@
     }
   ],
   "Cycloppy": [
+    {
+      "gift_num": 36959,
+      "customEmojiId": "5429215502574575538",
+      "gift_id": 3435724,
+      "name": "Jelly Bunny",
+      "model": "Cycloppy (1%)",
+      "asset": "TON",
+      "symbol": "Toilet (0.5%)",
+      "backdrop": "Amber (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-05-05T06:08:00.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 80541,
       "customEmojiId": "5429215502574575538",
@@ -33541,26 +33754,6 @@
       "auction": null,
       "export_at": "2025-03-16T14:34:05.000Z",
       "premarketData": {}
-    },
-    {
-      "gift_num": 31576,
-      "customEmojiId": "5429215502574575538",
-      "gift_id": 1203897,
-      "name": "Jelly Bunny",
-      "model": "Cycloppy (1%)",
-      "asset": "TON",
-      "symbol": "Moon Eagle (0.3%)",
-      "backdrop": "English Violet (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 346400,
-      "price": 110,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-03-16T14:33:17.000Z",
-      "premarketData": {}
     }
   ],
   "Vanilla": [
@@ -33854,6 +34047,26 @@
     }
   ],
   "Jevil": [
+    {
+      "gift_num": 11233,
+      "customEmojiId": "5429127172277167531",
+      "gift_id": 7446009,
+      "name": "Jelly Bunny",
+      "model": "Jevil (1.5%)",
+      "asset": "TON",
+      "symbol": "Chest (0.3%)",
+      "backdrop": "Persimmon (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 11,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-11T09:02:24.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 75370,
       "customEmojiId": "5429127172277167531",
@@ -35756,7 +35969,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 4.32,
+      "price": 3.6,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -36687,6 +36900,26 @@
     }
   ],
   "Commando": [
+    {
+      "gift_num": 36189,
+      "customEmojiId": "5418306693664629158",
+      "gift_id": 7726262,
+      "name": "Jelly Bunny",
+      "model": "Commando (1.5%)",
+      "asset": "TON",
+      "symbol": "Gem (0.3%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 61,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T12:04:37.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 78845,
       "customEmojiId": "5418306693664629158",
@@ -38686,6 +38919,26 @@
   ],
   "Matcha Magic": [
     {
+      "gift_num": 78521,
+      "customEmojiId": "5397815666688415850",
+      "gift_id": 7377193,
+      "name": "Jelly Bunny",
+      "model": "Matcha Magic (0.5%)",
+      "asset": "TON",
+      "symbol": "Conch (0.4%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 18,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-08T06:14:55.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 17616,
       "customEmojiId": "5397815666688415850",
       "gift_id": 7676551,
@@ -38703,26 +38956,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-17T10:38:17.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 78521,
-      "customEmojiId": "5397815666688415850",
-      "gift_id": 7377193,
-      "name": "Jelly Bunny",
-      "model": "Matcha Magic (0.5%)",
-      "asset": "TON",
-      "symbol": "Conch (0.4%)",
-      "backdrop": "Black (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T06:14:55.000Z",
       "premarketData": {}
     },
     {
