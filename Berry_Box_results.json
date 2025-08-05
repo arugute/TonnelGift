@@ -877,7 +877,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 3.4,
+      "price": 3.1,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -6843,6 +6843,96 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-14T20:05:41.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 7020,
+      "customEmojiId": "5418002957872424774",
+      "gift_id": 7701403,
+      "name": "Berry Box",
+      "model": "Canis Major (1%)",
+      "asset": "TON",
+      "symbol": "Lips (1.1%)",
+      "backdrop": "Emerald (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5.68,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "UU93EL67",
+      "auction": {
+        "_id": "68908ecdda18eeaa3fea3628",
+        "gift_id": 7701403,
+        "seller": 0,
+        "auction_id": "UU93EL67",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 3,
+            "asset": "TON",
+            "_id": "689148665a8240d87b6d9480",
+            "timestamp": "2025-08-04T23:55:18.664Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 3.15,
+            "asset": "TON",
+            "_id": "689149705a8240d87b6e3396",
+            "timestamp": "2025-08-04T23:59:44.869Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4,
+            "asset": "TON",
+            "_id": "68915c1b5a8240d87b7344f9",
+            "timestamp": "2025-08-05T01:19:23.003Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 4.9,
+            "asset": "TON",
+            "_id": "689173db5a8240d87b76719b",
+            "timestamp": "2025-08-05T03:00:43.416Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.15,
+            "asset": "TON",
+            "_id": "689176665a8240d87b76b3f7",
+            "timestamp": "2025-08-05T03:11:34.631Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.41,
+            "asset": "TON",
+            "_id": "689189ac5a8240d87b783748",
+            "timestamp": "2025-08-05T04:33:48.899Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.68,
+            "asset": "TON",
+            "_id": "689189d05a8240d87b78387a",
+            "timestamp": "2025-08-05T04:34:24.211Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T05:34:56.993Z",
+        "status": "finished",
+        "gift_name": "Berry Box",
+        "gift_num": 7020,
+        "model": "Canis Major (1%)",
+        "backdrop": "Emerald (2%)",
+        "symbol": "Lips (1.1%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T23:34:58.765Z",
+        "__v": 0,
+        "winningBid": 5.68,
+        "winningBidder": 7275817637
+      },
+      "export_at": "2025-08-18T10:41:19.000Z",
       "premarketData": {}
     },
     {
