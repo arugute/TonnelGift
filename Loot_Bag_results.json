@@ -1,6 +1,54 @@
 {
   "Orange Croc": [
     {
+      "gift_num": 11731,
+      "customEmojiId": "5287763086848058642",
+      "gift_id": 7726278,
+      "name": "Loot Bag",
+      "model": "Orange Croc (1.5%)",
+      "asset": "TON",
+      "symbol": "Trickster Fox (0.2%)",
+      "backdrop": "Pacific Cyan (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 86.05,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "G7YZ2L42",
+      "auction": {
+        "_id": "6891f3985a8240d87b087b07",
+        "gift_id": 7726278,
+        "seller": 0,
+        "auction_id": "G7YZ2L42",
+        "startingBid": 80,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 86.05,
+            "asset": "TON",
+            "_id": "689222d85a8240d87b572d22",
+            "timestamp": "2025-08-05T15:27:20.552Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T17:26:08.607Z",
+        "status": "finished",
+        "gift_name": "Loot Bag",
+        "gift_num": 11731,
+        "model": "Orange Croc (1.5%)",
+        "backdrop": "Pacific Cyan (2%)",
+        "symbol": "Trickster Fox (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-05T15:26:09.978Z",
+        "__v": 0,
+        "winningBid": 86.05,
+        "winningBidder": 7172770086
+      },
+      "export_at": "2025-08-19T12:05:21.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 428,
       "customEmojiId": "5287763086848058642",
       "gift_id": 7681033,
@@ -2496,6 +2544,24 @@
     }
   ],
   "Argylle": [
+    {
+      "gift_num": 2150,
+      "customEmojiId": "5287394174927138220",
+      "gift_id": 587307980831,
+      "name": "Loot Bag",
+      "model": "Argylle (2%)",
+      "asset": "TON",
+      "symbol": "Spider Web (0.5%)",
+      "backdrop": "Electric Indigo (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 242.352,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
     {
       "gift_num": 11650,
       "customEmojiId": "5287394174927138220",
@@ -6311,6 +6377,26 @@
   ],
   "Soft Suede": [
     {
+      "gift_num": 13596,
+      "customEmojiId": "5287727571763486677",
+      "gift_id": 2831118,
+      "name": "Loot Bag",
+      "model": "Soft Suede (1.5%)",
+      "asset": "TON",
+      "symbol": "Flower Sun (0.5%)",
+      "backdrop": "Orange (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 92,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-04-22T07:32:59.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 5221,
       "customEmojiId": "5287727571763486677",
       "gift_id": 7711749,
@@ -6348,26 +6434,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-19T08:24:05.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 13596,
-      "customEmojiId": "5287727571763486677",
-      "gift_id": 2831118,
-      "name": "Loot Bag",
-      "model": "Soft Suede (1.5%)",
-      "asset": "TON",
-      "symbol": "Flower Sun (0.5%)",
-      "backdrop": "Orange (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 106,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-04-22T07:32:59.000Z",
       "premarketData": {}
     },
     {
@@ -7502,7 +7568,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 119,
+      "price": 110,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -8500,6 +8566,26 @@
     }
   ],
   "Sakura": [
+    {
+      "gift_num": 4267,
+      "customEmojiId": "5287403254488001826",
+      "gift_id": -863355236,
+      "name": "Loot Bag",
+      "model": "Sakura (2%)",
+      "asset": "TON",
+      "symbol": "Yin-Yang (0.5%)",
+      "backdrop": "Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 942701,
+      "price": 6000,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T18:25:36.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 13270,
       "customEmojiId": "5287403254488001826",
@@ -11930,7 +12016,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 90,
+      "price": 89,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -13662,6 +13748,26 @@
   ],
   "Riviera": [
     {
+      "gift_num": 4721,
+      "customEmojiId": "5287422225358549607",
+      "gift_id": 7495726,
+      "name": "Loot Bag",
+      "model": "Riviera (2%)",
+      "asset": "TON",
+      "symbol": "Snail (0.2%)",
+      "backdrop": "Carrot Juice (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 120,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T09:41:09.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 634,
       "customEmojiId": "5287422225358549607",
       "gift_id": 587064210513,
@@ -13733,26 +13839,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 4721,
-      "customEmojiId": "5287422225358549607",
-      "gift_id": 7495726,
-      "name": "Loot Bag",
-      "model": "Riviera (2%)",
-      "asset": "TON",
-      "symbol": "Snail (0.2%)",
-      "backdrop": "Carrot Juice (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 932449,
-      "price": 200,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-14T09:41:09.000Z",
       "premarketData": {}
     },
     {
