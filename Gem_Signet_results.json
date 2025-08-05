@@ -1,6 +1,26 @@
 {
   "Helios": [
     {
+      "gift_num": 339,
+      "customEmojiId": "5375348993410757196",
+      "gift_id": 7726197,
+      "name": "Gem Signet",
+      "model": "Helios (5%)",
+      "asset": "TON",
+      "symbol": "Car (0.4%)",
+      "backdrop": "Jade Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 56,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T12:00:51.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 1432,
       "customEmojiId": "5375348993410757196",
       "gift_id": 7637912,
@@ -178,6 +198,60 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-25T06:55:49.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 2382,
+      "customEmojiId": "5375348993410757196",
+      "gift_id": 7726259,
+      "name": "Gem Signet",
+      "model": "Helios (5%)",
+      "asset": "TON",
+      "symbol": "Hamburger (0.5%)",
+      "backdrop": "Persimmon (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 54,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ZCKGBTC9",
+      "auction": {
+        "_id": "6891f36d5a8240d87b082285",
+        "gift_id": 7726259,
+        "seller": 0,
+        "auction_id": "ZCKGBTC9",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 2,
+            "asset": "TON",
+            "_id": "6891f3835a8240d87b0850ec",
+            "timestamp": "2025-08-05T12:05:23.412Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 54,
+            "asset": "TON",
+            "_id": "6891f3a55a8240d87b089223",
+            "timestamp": "2025-08-05T12:05:57.042Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T13:05:00.165Z",
+        "status": "finished",
+        "gift_name": "Gem Signet",
+        "gift_num": 2382,
+        "model": "Helios (5%)",
+        "backdrop": "Persimmon (1.5%)",
+        "symbol": "Hamburger (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-05T12:05:01.439Z",
+        "__v": 0,
+        "winningBid": 54,
+        "winningBidder": 7631154640
+      },
+      "export_at": "2025-08-19T12:04:30.000Z",
       "premarketData": {}
     }
   ],
@@ -2400,7 +2474,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 60,
+      "price": 58,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -3422,26 +3496,6 @@
       "premarketData": {}
     },
     {
-      "gift_num": 1257,
-      "customEmojiId": "5377488883556574134",
-      "gift_id": 6849052,
-      "name": "Gem Signet",
-      "model": "Fleur de Mer (4.2%)",
-      "asset": "TON",
-      "symbol": "Bishop (0.5%)",
-      "backdrop": "Onyx Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 140,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-13T18:25:20.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 2710,
       "customEmojiId": "5377488883556574134",
       "gift_id": 7422603,
@@ -4204,6 +4258,26 @@
   ],
   "Elven Shade": [
     {
+      "gift_num": 5053,
+      "customEmojiId": "5375392187896854684",
+      "gift_id": 7399351,
+      "name": "Gem Signet",
+      "model": "Elven Shade (4%)",
+      "asset": "TON",
+      "symbol": "Shinto Shrine (0.5%)",
+      "backdrop": "Feldgrau (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 70,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-09T11:45:23.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 2899,
       "customEmojiId": "5375392187896854684",
       "gift_id": 6233313,
@@ -4261,26 +4335,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-17T18:47:24.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 5053,
-      "customEmojiId": "5375392187896854684",
-      "gift_id": 7399351,
-      "name": "Gem Signet",
-      "model": "Elven Shade (4%)",
-      "asset": "TON",
-      "symbol": "Shinto Shrine (0.5%)",
-      "backdrop": "Feldgrau (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 75,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-09T11:45:23.000Z",
       "premarketData": {}
     },
     {
@@ -4645,6 +4699,54 @@
     }
   ],
   "Malachite": [
+    {
+      "gift_num": 906,
+      "customEmojiId": "5375473959779201867",
+      "gift_id": 7671951,
+      "name": "Gem Signet",
+      "model": "Malachite (4%)",
+      "asset": "TON",
+      "symbol": "Kitsune (0.4%)",
+      "backdrop": "Rifle Green (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 54,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "HEYRSZ3C",
+      "auction": {
+        "_id": "6891a78e5a8240d87ba40f28",
+        "gift_id": 7671951,
+        "seller": 0,
+        "auction_id": "HEYRSZ3C",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 54,
+            "asset": "TON",
+            "_id": "6891fb225a8240d87b152e79",
+            "timestamp": "2025-08-05T12:37:54.384Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T13:36:41.819Z",
+        "status": "finished",
+        "gift_name": "Gem Signet",
+        "gift_num": 906,
+        "model": "Malachite (4%)",
+        "backdrop": "Rifle Green (1.2%)",
+        "symbol": "Kitsune (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-05T12:36:43.234Z",
+        "__v": 0,
+        "winningBid": 54,
+        "winningBidder": 7631154640
+      },
+      "export_at": "2025-08-17T05:03:47.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3612,
       "customEmojiId": "5375473959779201867",
