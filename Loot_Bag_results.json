@@ -1011,26 +1011,6 @@
   ],
   "Jade Serpent": [
     {
-      "gift_num": 729,
-      "customEmojiId": "5287420881033784452",
-      "gift_id": 7382661,
-      "name": "Loot Bag",
-      "model": "Jade Serpent (1.5%)",
-      "asset": "TON",
-      "symbol": "Flamingo (0.5%)",
-      "backdrop": "Indigo Dye (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 95,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-08T13:50:15.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 8979,
       "customEmojiId": "5287420881033784452",
       "gift_id": 587494873326,
@@ -2529,7 +2509,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 90,
+      "price": 87,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -4908,6 +4888,26 @@
     }
   ],
   "Night City": [
+    {
+      "gift_num": 11027,
+      "customEmojiId": "5291752501580688380",
+      "gift_id": 7731350,
+      "name": "Loot Bag",
+      "model": "Night City (1%)",
+      "asset": "TON",
+      "symbol": "Viking (0.5%)",
+      "backdrop": "Roman Silver (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 130,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T17:03:56.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 11027,
       "customEmojiId": "5291752501580688380",
@@ -9185,6 +9185,24 @@
   ],
   "Verso Blue": [
     {
+      "gift_num": 5183,
+      "customEmojiId": "5289646172309319160",
+      "gift_id": 587273970703,
+      "name": "Loot Bag",
+      "model": "Verso Blue (1.5%)",
+      "asset": "TON",
+      "symbol": "Pyramid (0.5%)",
+      "backdrop": "Cappuccino (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 305.997,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "premarketData": {}
+    },
+    {
       "gift_num": 12039,
       "customEmojiId": "5289646172309319160",
       "gift_id": 7693612,
@@ -10374,6 +10392,60 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-23T19:29:21.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 13539,
+      "customEmojiId": "5285023125346479495",
+      "gift_id": 7729131,
+      "name": "Loot Bag",
+      "model": "Aqua Atoll (1.5%)",
+      "asset": "TON",
+      "symbol": "Firebird (0.5%)",
+      "backdrop": "Raspberry (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 88.2,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "KYU6EZ26",
+      "auction": {
+        "_id": "68921ad15a8240d87b4c7067",
+        "gift_id": 7729131,
+        "seller": 0,
+        "auction_id": "KYU6EZ26",
+        "startingBid": 10,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 84,
+            "asset": "TON",
+            "_id": "68921dcf5a8240d87b4e573f",
+            "timestamp": "2025-08-05T15:05:51.800Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 88.2,
+            "asset": "TON",
+            "_id": "689220535a8240d87b510ee0",
+            "timestamp": "2025-08-05T15:16:35.615Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T15:53:00.633Z",
+        "status": "finished",
+        "gift_name": "Loot Bag",
+        "gift_num": 13539,
+        "model": "Aqua Atoll (1.5%)",
+        "backdrop": "Raspberry (1%)",
+        "symbol": "Firebird (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-05T14:53:05.050Z",
+        "__v": 0,
+        "winningBid": 88.2,
+        "winningBidder": 6916986054
+      },
+      "export_at": "2025-08-19T14:51:54.000Z",
       "premarketData": {}
     }
   ],
@@ -11846,6 +11918,26 @@
   ],
   "Potamus": [
     {
+      "gift_num": 14037,
+      "customEmojiId": "5285325559763595796",
+      "gift_id": 7629032,
+      "name": "Loot Bag",
+      "model": "Potamus (2%)",
+      "asset": "TON",
+      "symbol": "Kitsune Mask (0.2%)",
+      "backdrop": "Chocolate (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 90,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-15T16:56:22.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 9841,
       "customEmojiId": "5285325559763595796",
       "gift_id": 587285479497,
@@ -11861,26 +11953,6 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
-      "premarketData": {}
-    },
-    {
-      "gift_num": 14037,
-      "customEmojiId": "5285325559763595796",
-      "gift_id": 7629032,
-      "name": "Loot Bag",
-      "model": "Potamus (2%)",
-      "asset": "TON",
-      "symbol": "Kitsune Mask (0.2%)",
-      "backdrop": "Chocolate (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-15T16:56:22.000Z",
       "premarketData": {}
     },
     {
