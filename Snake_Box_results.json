@@ -35037,6 +35037,26 @@
   ],
   "Neon Fang": [
     {
+      "gift_num": 6415,
+      "customEmojiId": "5366444658622752650",
+      "gift_id": 7705422,
+      "name": "Snake Box",
+      "model": "Neon Fang (0.8%)",
+      "asset": "TON",
+      "symbol": "Flashlight (0.8%)",
+      "backdrop": "French Violet (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 6.35,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T13:20:03.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 27312,
       "customEmojiId": "5366444658622752650",
       "gift_id": 7671175,
@@ -35614,88 +35634,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-18T14:11:35.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 27466,
-      "customEmojiId": "5366444658622752650",
-      "gift_id": 7708686,
-      "name": "Snake Box",
-      "model": "Neon Fang (0.8%)",
-      "asset": "TON",
-      "symbol": "Winter Hat (0.8%)",
-      "backdrop": "Onyx Black (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "price": 3.2,
-      "status": "auction",
-      "limited": false,
-      "auction_id": "7VVGN5XH",
-      "auction": {
-        "_id": "6890dfd65a8240d87b8171ec",
-        "gift_id": 7708686,
-        "seller": 0,
-        "auction_id": "7VVGN5XH",
-        "startingBid": 2.5,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 2.5,
-            "asset": "TON",
-            "_id": "6890eada5a8240d87b9e136e",
-            "timestamp": "2025-08-04T17:16:10.105Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.63,
-            "asset": "TON",
-            "_id": "6890ec225a8240d87b9fece8",
-            "timestamp": "2025-08-04T17:21:38.423Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.76,
-            "asset": "TON",
-            "_id": "6890eee55a8240d87ba889fd",
-            "timestamp": "2025-08-04T17:33:25.457Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 2.9,
-            "asset": "TON",
-            "_id": "6890ef095a8240d87ba8b3e3",
-            "timestamp": "2025-08-04T17:34:01.176Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.05,
-            "asset": "TON",
-            "_id": "6890ef535a8240d87ba96298",
-            "timestamp": "2025-08-04T17:35:15.960Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 3.2,
-            "asset": "TON",
-            "_id": "6890ef8e5a8240d87baa05ec",
-            "timestamp": "2025-08-04T17:36:14.348Z"
-          }
-        ],
-        "auctionEndTime": "2025-08-04T17:56:07.196Z",
-        "status": "finished",
-        "gift_name": "Snake Box",
-        "gift_num": 27466,
-        "model": "Neon Fang (0.8%)",
-        "backdrop": "Onyx Black (1.5%)",
-        "symbol": "Winter Hat (0.8%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-08-04T16:36:08.561Z",
-        "__v": 0,
-        "winningBid": 3.2,
-        "winningBidder": 5042686330
-      },
-      "export_at": "2025-08-18T16:28:01.000Z",
       "premarketData": {}
     }
   ],
