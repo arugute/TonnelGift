@@ -2294,6 +2294,53 @@
       "auction": null,
       "export_at": "2025-03-16T16:09:42.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 2748,
+      "customEmojiId": "5411565416076041775",
+      "gift_id": 7731509,
+      "name": "Skull Flower",
+      "model": "Peony (3%)",
+      "asset": "TON",
+      "symbol": "Ouroboros (0.2%)",
+      "backdrop": "Dark Lilac (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 6,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "K0WKWSO2",
+      "auction": {
+        "_id": "68923bee5a8240d87b8be6f9",
+        "gift_id": 7731509,
+        "seller": 0,
+        "auction_id": "K0WKWSO2",
+        "startingBid": 6,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 6,
+            "asset": "TON",
+            "_id": "6892444e5a8240d87b9cbb11",
+            "timestamp": "2025-08-05T17:50:06.800Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T18:14:21.646Z",
+        "status": "finished",
+        "gift_name": "Skull Flower",
+        "gift_num": 2748,
+        "model": "Peony (3%)",
+        "backdrop": "Dark Lilac (1%)",
+        "symbol": "Ouroboros (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-05T17:14:22.694Z",
+        "__v": 0,
+        "winningBid": 6,
+        "winningBidder": 676262224
+      },
+      "export_at": "2025-08-19T17:13:56.000Z",
+      "premarketData": {}
     }
   ],
   "Technicolor": [
@@ -4368,6 +4415,26 @@
   ],
   "Blue Iris": [
     {
+      "gift_num": 13524,
+      "customEmojiId": "5409179085001745433",
+      "gift_id": 7732357,
+      "name": "Skull Flower",
+      "model": "Blue Iris (3%)",
+      "asset": "TON",
+      "symbol": "Crown (0.2%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 30,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T17:57:55.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 10434,
       "customEmojiId": "5409179085001745433",
       "gift_id": 7466979,
@@ -4945,26 +5012,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-04-07T11:21:22.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11,
-      "customEmojiId": "5409179085001745433",
-      "gift_id": 5649508,
-      "name": "Skull Flower",
-      "model": "Blue Iris (3%)",
-      "asset": "TON",
-      "symbol": "Sweets Box (0.6%)",
-      "backdrop": "Pistachio (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 724048,
-      "price": 150,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-18T08:05:43.000Z",
       "premarketData": {}
     }
   ],
@@ -6667,6 +6714,26 @@
   ],
   "Hypercolor": [
     {
+      "gift_num": 12336,
+      "customEmojiId": "5440876922898769174",
+      "gift_id": 7372174,
+      "name": "Skull Flower",
+      "model": "Hypercolor (2%)",
+      "asset": "TON",
+      "symbol": "Broken Heart (0.4%)",
+      "backdrop": "Midnight Blue (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 10,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-07T18:55:38.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6741,
       "customEmojiId": "5440876922898769174",
       "gift_id": 6834832,
@@ -6684,26 +6751,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-13T05:39:23.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 12336,
-      "customEmojiId": "5440876922898769174",
-      "gift_id": 7372174,
-      "name": "Skull Flower",
-      "model": "Hypercolor (2%)",
-      "asset": "TON",
-      "symbol": "Broken Heart (0.4%)",
-      "backdrop": "Midnight Blue (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 11,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-07T18:55:38.000Z",
       "premarketData": {}
     },
     {
@@ -7490,26 +7537,6 @@
     }
   ],
   "Dewdrop": [
-    {
-      "gift_num": 16236,
-      "customEmojiId": "5408924187282660100",
-      "gift_id": 7726041,
-      "name": "Skull Flower",
-      "model": "Dewdrop (3%)",
-      "asset": "TON",
-      "symbol": "Lemon (0.2%)",
-      "backdrop": "Silver Blue (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 6.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-19T11:51:09.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 16461,
       "customEmojiId": "5408924187282660100",
@@ -10185,7 +10212,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 8,
+      "price": 10,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -12185,6 +12212,26 @@
   ],
   "Mystic": [
     {
+      "gift_num": 13139,
+      "customEmojiId": "5411464905251383286",
+      "gift_id": 7728879,
+      "name": "Skull Flower",
+      "model": "Mystic (3%)",
+      "asset": "TON",
+      "symbol": "Jaws (0.8%)",
+      "backdrop": "Grape (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 14.2,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T14:37:55.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 7307,
       "customEmojiId": "5411464905251383286",
       "gift_id": 7435893,
@@ -13712,6 +13759,26 @@
     }
   ],
   "Dark Carnival": [
+    {
+      "gift_num": 15700,
+      "customEmojiId": "5431565579829928199",
+      "gift_id": 7700519,
+      "name": "Skull Flower",
+      "model": "Dark Carnival (1.5%)",
+      "asset": "TON",
+      "symbol": "Lovebirds (0.6%)",
+      "backdrop": "Onyx Black (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 49.9,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-18T10:08:38.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 9449,
       "customEmojiId": "5431565579829928199",
