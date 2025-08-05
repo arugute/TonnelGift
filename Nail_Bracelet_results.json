@@ -564,7 +564,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 115,
+      "price": 137,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -2302,6 +2302,26 @@
     }
   ],
   "Pug Royale": [
+    {
+      "gift_num": 3921,
+      "customEmojiId": "5420609380250840022",
+      "gift_id": 7722111,
+      "name": "Nail Bracelet",
+      "model": "Pug Royale (2%)",
+      "asset": "TON",
+      "symbol": "Royal Turban (0.4%)",
+      "backdrop": "Lemongrass (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 118,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T08:09:25.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 3359,
       "customEmojiId": "5420609380250840022",
@@ -5709,6 +5729,60 @@
       "auction": null,
       "export_at": "2025-06-27T21:21:11.000Z",
       "premarketData": {}
+    },
+    {
+      "gift_num": 2911,
+      "customEmojiId": "5305528153916073606",
+      "gift_id": 7463059,
+      "name": "Nail Bracelet",
+      "model": "Shadow (3.5%)",
+      "asset": "TON",
+      "symbol": "Carambola (0.5%)",
+      "backdrop": "Pacific Cyan (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 96.6,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "ABKBCZ4I",
+      "auction": {
+        "_id": "6891a27d5a8240d87b9ac9d6",
+        "gift_id": 7463059,
+        "seller": 0,
+        "auction_id": "ABKBCZ4I",
+        "startingBid": 90,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 92,
+            "asset": "TON",
+            "_id": "6891a3955a8240d87b9cca78",
+            "timestamp": "2025-08-05T06:24:21.730Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 96.6,
+            "asset": "TON",
+            "_id": "6891c4475a8240d87bb08c5b",
+            "timestamp": "2025-08-05T08:43:51.562Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T09:19:24.743Z",
+        "status": "finished",
+        "gift_name": "Nail Bracelet",
+        "gift_num": 2911,
+        "model": "Shadow (3.5%)",
+        "backdrop": "Pacific Cyan (1%)",
+        "symbol": "Carambola (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-05T06:19:41.593Z",
+        "__v": 0,
+        "winningBid": 96.6,
+        "winningBidder": 1008207772
+      },
+      "export_at": "2025-08-12T13:10:04.000Z",
+      "premarketData": {}
     }
   ],
   "Pure Amber": [
@@ -6250,8 +6324,8 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 940735,
-      "price": 350,
+      "message_in_channel": 941897,
+      "price": 325,
       "status": "forsale",
       "limited": false,
       "auction": null,
