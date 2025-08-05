@@ -835,6 +835,82 @@
   ],
   "Space Inside": [
     {
+      "gift_num": 2146,
+      "customEmojiId": "5413538305008495517",
+      "gift_id": 7728306,
+      "name": "Bonded Ring",
+      "model": "Space Inside (1.8%)",
+      "asset": "TON",
+      "symbol": "Greek Helmet (0.5%)",
+      "backdrop": "Cobalt Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 46.31,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "5SVBQYAF",
+      "auction": {
+        "_id": "689211535a8240d87b464ed4",
+        "gift_id": 7728306,
+        "seller": 0,
+        "auction_id": "5SVBQYAF",
+        "startingBid": 2,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 20,
+            "asset": "TON",
+            "_id": "689212985a8240d87b475507",
+            "timestamp": "2025-08-05T14:18:00.566Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 40,
+            "asset": "TON",
+            "_id": "689216065a8240d87b48f087",
+            "timestamp": "2025-08-05T14:32:38.067Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 42,
+            "asset": "TON",
+            "_id": "68921d3f5a8240d87b4e08e8",
+            "timestamp": "2025-08-05T15:03:27.571Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 44.1,
+            "asset": "TON",
+            "_id": "6892219b5a8240d87b54150f",
+            "timestamp": "2025-08-05T15:22:03.991Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 46.31,
+            "asset": "TON",
+            "_id": "6892240c5a8240d87b5a2974",
+            "timestamp": "2025-08-05T15:32:28.499Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T15:42:34.373Z",
+        "status": "finished",
+        "gift_name": "Bonded Ring",
+        "gift_num": 2146,
+        "model": "Space Inside (1.8%)",
+        "backdrop": "Cobalt Blue (1.5%)",
+        "symbol": "Greek Helmet (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-05T14:12:35.285Z",
+        "__v": 0,
+        "winningBid": 46.31,
+        "winningBidder": 1173407764
+      },
+      "export_at": "2025-08-19T13:55:45.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 7319,
       "customEmojiId": "5413538305008495517",
       "gift_id": 7309207,
@@ -1903,26 +1979,6 @@
     }
   ],
   "Atomic Core": [
-    {
-      "gift_num": 7645,
-      "customEmojiId": "5422599187059470713",
-      "gift_id": 7704888,
-      "name": "Bonded Ring",
-      "model": "Atomic Core (2.1%)",
-      "asset": "TON",
-      "symbol": "Lily (0.5%)",
-      "backdrop": "Mint Green (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 70,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-18T12:57:47.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 7160,
       "customEmojiId": "5422599187059470713",
@@ -3305,7 +3361,7 @@
       "availabilityIssued": 0,
       "availabilityTotal": 0,
       "backdropData": {},
-      "message_in_channel": 942120,
+      "message_in_channel": 942495,
       "price": 150,
       "status": "forsale",
       "limited": false,
@@ -6139,26 +6195,6 @@
   ],
   "Froge Ring": [
     {
-      "gift_num": 5597,
-      "customEmojiId": "5407128306837384646",
-      "gift_id": 6772726,
-      "name": "Bonded Ring",
-      "model": "Froge Ring (1.8%)",
-      "asset": "TON",
-      "symbol": "Mask (0.5%)",
-      "backdrop": "Mystic Pearl (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 940925,
-      "price": 220,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-10T10:32:41.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 7247,
       "customEmojiId": "5407128306837384646",
       "gift_id": 7012639,
@@ -6918,7 +6954,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 60,
+      "price": 55,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -7489,6 +7525,26 @@
     }
   ],
   "Frostband": [
+    {
+      "gift_num": 2638,
+      "customEmojiId": "5231207301091716271",
+      "gift_id": 7729525,
+      "name": "Bonded Ring",
+      "model": "Frostband (3.5%)",
+      "asset": "TON",
+      "symbol": "Aztec Totem (0.4%)",
+      "backdrop": "Turquoise (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 59,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T15:19:45.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 6897,
       "customEmojiId": "5231207301091716271",
@@ -9943,6 +9999,26 @@
   ],
   "Thunder Bolt": [
     {
+      "gift_num": 7176,
+      "customEmojiId": "5346018051861012950",
+      "gift_id": 7651768,
+      "name": "Bonded Ring",
+      "model": "Thunder Bolt (1.2%)",
+      "asset": "TON",
+      "symbol": "Jörmungandr (0.5%)",
+      "backdrop": "Lavender (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 130,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-16T11:31:57.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 6376,
       "customEmojiId": "5346018051861012950",
       "gift_id": 6259932,
@@ -10001,26 +10077,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-30T07:47:48.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7176,
-      "customEmojiId": "5346018051861012950",
-      "gift_id": 7651768,
-      "name": "Bonded Ring",
-      "model": "Thunder Bolt (1.2%)",
-      "asset": "TON",
-      "symbol": "Jörmungandr (0.5%)",
-      "backdrop": "Lavender (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 147,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-16T11:31:57.000Z",
       "premarketData": {}
     },
     {
@@ -12284,6 +12340,26 @@
   ],
   "Mouse Wheel": [
     {
+      "gift_num": 2673,
+      "customEmojiId": "5415634532516784905",
+      "gift_id": 7642748,
+      "name": "Bonded Ring",
+      "model": "Mouse Wheel (1.8%)",
+      "asset": "TON",
+      "symbol": "Morgenstern (0.5%)",
+      "backdrop": "Mustard (1.2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 59,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-16T01:46:43.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 915,
       "customEmojiId": "5415634532516784905",
       "gift_id": 5647173,
@@ -12446,26 +12522,6 @@
   ],
   "Spatial Grid": [
     {
-      "gift_num": 260,
-      "customEmojiId": "5382358156699528294",
-      "gift_id": 7563845,
-      "name": "Bonded Ring",
-      "model": "Spatial Grid (0.8%)",
-      "asset": "TON",
-      "symbol": "Rhino Warrior (0.4%)",
-      "backdrop": "Battleship Grey (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 80,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-14T18:00:49.000Z",
-      "premarketData": {}
-    },
-    {
       "gift_num": 7175,
       "customEmojiId": "5382358156699528294",
       "gift_id": 7478182,
@@ -12483,6 +12539,26 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-13T17:03:39.000Z",
+      "premarketData": {}
+    },
+    {
+      "gift_num": 260,
+      "customEmojiId": "5382358156699528294",
+      "gift_id": 7563845,
+      "name": "Bonded Ring",
+      "model": "Spatial Grid (0.8%)",
+      "asset": "TON",
+      "symbol": "Rhino Warrior (0.4%)",
+      "backdrop": "Battleship Grey (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 80,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-14T18:00:49.000Z",
       "premarketData": {}
     },
     {
@@ -12665,26 +12741,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-08T06:03:55.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 7370,
-      "customEmojiId": "5228925286183107846",
-      "gift_id": 7695990,
-      "name": "Bonded Ring",
-      "model": "Line Art (3.5%)",
-      "asset": "TON",
-      "symbol": "Snail (0.5%)",
-      "backdrop": "English Violet (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 54,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-18T02:03:20.000Z",
       "premarketData": {}
     },
     {
