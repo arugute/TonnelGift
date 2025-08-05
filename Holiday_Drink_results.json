@@ -1587,6 +1587,61 @@
   ],
   "Cyber Mix": [
     {
+      "gift_num": 39879,
+      "customEmojiId": "5420325431372967572",
+      "gift_id": 7653568,
+      "name": "Holiday Drink",
+      "model": "Cyber Mix (0.2%)",
+      "asset": "TON",
+      "symbol": "Maple (0.5%)",
+      "backdrop": "Amber (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5.25,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "C3QQEQ1T",
+      "auction": {
+        "_id": "6890a760da18eeaa3f181009",
+        "gift_id": 7653568,
+        "seller": 0,
+        "auction_id": "C3QQEQ1T",
+        "startingBid": 5,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5,
+            "asset": "TON",
+            "_id": "68914f185a8240d87b710eeb",
+            "timestamp": "2025-08-05T00:23:52.590Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.25,
+            "asset": "TON",
+            "_id": "689154975a8240d87b72e1e8",
+            "timestamp": "2025-08-05T00:47:19.972Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T01:00:25.043Z",
+        "status": "finished",
+        "gift_name": "Holiday Drink",
+        "gift_num": 39879,
+        "model": "Cyber Mix (0.2%)",
+        "backdrop": "Amber (1.5%)",
+        "symbol": "Maple (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-05T00:00:25.960Z",
+        "__v": 0,
+        "winningBid": 5.25,
+        "winningBidder": 571301992
+      },
+      "export_at": "2025-08-16T12:40:20.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 37259,
       "customEmojiId": "5420325431372967572",
       "gift_id": 7129188,
@@ -4328,6 +4383,26 @@
   ],
   "Moonberry": [
     {
+      "gift_num": 19283,
+      "customEmojiId": "5359297433610249260",
+      "gift_id": 7717426,
+      "name": "Holiday Drink",
+      "model": "Moonberry (3.5%)",
+      "asset": "TON",
+      "symbol": "Manta Ray (0.5%)",
+      "backdrop": "Marine Blue (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 4,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-19T01:06:45.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 11484,
       "customEmojiId": "5359297433610249260",
       "gift_id": 7388091,
@@ -4905,26 +4980,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-07-24T17:33:35.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 43043,
-      "customEmojiId": "5359297433610249260",
-      "gift_id": 7084617,
-      "name": "Holiday Drink",
-      "model": "Moonberry (3.5%)",
-      "asset": "TON",
-      "symbol": "Ornament (1.2%)",
-      "backdrop": "Ranger Green (1.5%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 20,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-22T15:44:59.000Z",
       "premarketData": {}
     }
   ],
