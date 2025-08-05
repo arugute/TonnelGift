@@ -13828,7 +13828,7 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 0,
-      "price": 9,
+      "price": 8.5,
       "status": "forsale",
       "limited": false,
       "auction": null,
@@ -28749,6 +28749,26 @@
   ],
   "Spotty Leo": [
     {
+      "gift_num": 78192,
+      "customEmojiId": "5260312997376584836",
+      "gift_id": 7058831,
+      "name": "Sakura Flower",
+      "model": "Spotty Leo (0.7%)",
+      "asset": "TON",
+      "symbol": "Axe (0.4%)",
+      "backdrop": "Platinum (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-07-21T16:21:25.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 76250,
       "customEmojiId": "5260312997376584836",
       "gift_id": 6430742,
@@ -28806,26 +28826,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-06-28T00:02:48.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 78192,
-      "customEmojiId": "5260312997376584836",
-      "gift_id": 7058831,
-      "name": "Sakura Flower",
-      "model": "Spotty Leo (0.7%)",
-      "asset": "TON",
-      "symbol": "Axe (0.4%)",
-      "backdrop": "Platinum (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 5.5,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-21T16:21:25.000Z",
       "premarketData": {}
     },
     {
@@ -48481,6 +48481,68 @@
     }
   ],
   "Luminosia": [
+    {
+      "gift_num": 80505,
+      "customEmojiId": "5310096345556608825",
+      "gift_id": 7714265,
+      "name": "Sakura Flower",
+      "model": "Luminosia (0.7%)",
+      "asset": "TON",
+      "symbol": "Firebird (0.4%)",
+      "backdrop": "Moonstone (1.5%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 5.63,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "AOIWVTTH",
+      "auction": {
+        "_id": "689139865a8240d87b65b9b0",
+        "gift_id": 7714265,
+        "seller": 0,
+        "auction_id": "AOIWVTTH",
+        "startingBid": 5.1,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 5.1,
+            "asset": "TON",
+            "_id": "68913d255a8240d87b699a7a",
+            "timestamp": "2025-08-04T23:07:17.960Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.36,
+            "asset": "TON",
+            "_id": "68913f055a8240d87b6a7c37",
+            "timestamp": "2025-08-04T23:15:17.418Z"
+          },
+          {
+            "bidder": 0,
+            "amount": 5.63,
+            "asset": "TON",
+            "_id": "689140ad5a8240d87b6acedd",
+            "timestamp": "2025-08-04T23:22:21.621Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-04T23:51:49.490Z",
+        "status": "finished",
+        "gift_name": "Sakura Flower",
+        "gift_num": 80505,
+        "model": "Luminosia (0.7%)",
+        "backdrop": "Moonstone (1.5%)",
+        "symbol": "Firebird (0.4%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T22:51:50.821Z",
+        "__v": 0,
+        "winningBid": 5.63,
+        "winningBidder": 805298547
+      },
+      "export_at": "2025-08-18T21:10:34.000Z",
+      "premarketData": {}
+    },
     {
       "gift_num": 80961,
       "customEmojiId": "5310096345556608825",
