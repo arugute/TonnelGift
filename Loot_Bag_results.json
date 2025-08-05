@@ -379,6 +379,26 @@
   ],
   "Tressage": [
     {
+      "gift_num": 11033,
+      "customEmojiId": "5289957158006319202",
+      "gift_id": 7296609,
+      "name": "Loot Bag",
+      "model": "Tressage (2%)",
+      "asset": "TON",
+      "symbol": "Spanner (0.4%)",
+      "backdrop": "Fandango (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 0,
+      "price": 90,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-08-02T12:55:33.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 7930,
       "customEmojiId": "5289957158006319202",
       "gift_id": 587273961683,
@@ -414,26 +434,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-02T14:41:22.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 11033,
-      "customEmojiId": "5289957158006319202",
-      "gift_id": 7296609,
-      "name": "Loot Bag",
-      "model": "Tressage (2%)",
-      "asset": "TON",
-      "symbol": "Spanner (0.4%)",
-      "backdrop": "Fandango (2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 0,
-      "price": 100,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-02T12:55:33.000Z",
       "premarketData": {}
     },
     {
@@ -7066,6 +7066,53 @@
       "status": "forsale",
       "limited": false,
       "auction": null,
+      "premarketData": {}
+    },
+    {
+      "gift_num": 10880,
+      "customEmojiId": "5291983871468922057",
+      "gift_id": 7715320,
+      "name": "Loot Bag",
+      "model": "Steel Agate (1.5%)",
+      "asset": "TON",
+      "symbol": "Star (0.5%)",
+      "backdrop": "Moonstone (2%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "price": 85,
+      "status": "auction",
+      "limited": false,
+      "auction_id": "IGPFLD54",
+      "auction": {
+        "_id": "68912bfa5a8240d87b224660",
+        "gift_id": 7715320,
+        "seller": 0,
+        "auction_id": "IGPFLD54",
+        "startingBid": 70,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 85,
+            "asset": "TON",
+            "_id": "68912c4a5a8240d87b25ed1f",
+            "timestamp": "2025-08-04T21:55:22.617Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-05T00:53:58.456Z",
+        "status": "finished",
+        "gift_name": "Loot Bag",
+        "gift_num": 10880,
+        "model": "Steel Agate (1.5%)",
+        "backdrop": "Moonstone (2%)",
+        "symbol": "Star (0.5%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-04T21:54:02.354Z",
+        "__v": 0,
+        "winningBid": 85,
+        "winningBidder": 5339041731
+      },
+      "export_at": "2025-08-18T21:53:18.000Z",
       "premarketData": {}
     }
   ],
