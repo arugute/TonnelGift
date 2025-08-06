@@ -219,10 +219,38 @@
       "availabilityTotal": 0,
       "backdropData": {},
       "message_in_channel": 942422,
-      "price": 230,
-      "status": "forsale",
+      "price": 200,
+      "status": "auction",
       "limited": false,
-      "auction": null,
+      "auction_id": "2S7JYHM1",
+      "auction": {
+        "_id": "6891215b5a8240d87be84803",
+        "gift_id": 7692298,
+        "seller": 0,
+        "auction_id": "2S7JYHM1",
+        "startingBid": 200,
+        "bidHistory": [
+          {
+            "bidder": 0,
+            "amount": 200,
+            "asset": "TON",
+            "_id": "68928aa15a8240d87b421f2a",
+            "timestamp": "2025-08-05T22:50:09.789Z"
+          }
+        ],
+        "auctionEndTime": "2025-08-06T00:21:11.190Z",
+        "status": "finished",
+        "gift_name": "Heroic Helmet",
+        "gift_num": 736,
+        "model": "King Leonidas (1.5%)",
+        "backdrop": "Celtic Blue (1%)",
+        "symbol": "Oak Leaf (0.2%)",
+        "asset": "TON",
+        "auctionStartTime": "2025-08-05T18:21:12.845Z",
+        "__v": 0,
+        "winningBid": 200,
+        "winningBidder": 6833020026
+      },
       "export_at": "2025-08-17T21:47:07.000Z",
       "premarketData": {}
     },
@@ -244,26 +272,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-15T02:04:45.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2840,
-      "customEmojiId": "5386497779323398447",
-      "gift_id": 7421313,
-      "name": "Heroic Helmet",
-      "model": "King Leonidas (1.5%)",
-      "asset": "TON",
-      "symbol": "Moon Eagle (0.5%)",
-      "backdrop": "Purple (1.2%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 927229,
-      "price": 425,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-10T00:05:14.000Z",
       "premarketData": {}
     },
     {
@@ -926,26 +934,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-17T12:51:15.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2779,
-      "customEmojiId": "5391017124300877229",
-      "gift_id": 7167787,
-      "name": "Heroic Helmet",
-      "model": "Ancient Gold (3%)",
-      "asset": "TON",
-      "symbol": "Tetsubin (0.4%)",
-      "backdrop": "Orange (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 930104,
-      "price": 1001,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-07-26T00:03:50.000Z",
       "premarketData": {}
     },
     {
@@ -1730,6 +1718,26 @@
   ],
   "Quackus": [
     {
+      "gift_num": 2100,
+      "customEmojiId": "5409300714180604197",
+      "gift_id": 6501751,
+      "name": "Heroic Helmet",
+      "model": "Quackus (2%)",
+      "asset": "TON",
+      "symbol": "Wagasa (0.5%)",
+      "backdrop": "Khaki Green (1%)",
+      "availabilityIssued": 0,
+      "availabilityTotal": 0,
+      "backdropData": {},
+      "message_in_channel": 943181,
+      "price": 500,
+      "status": "forsale",
+      "limited": false,
+      "auction": null,
+      "export_at": "2025-06-30T17:40:00.000Z",
+      "premarketData": {}
+    },
+    {
       "gift_num": 3155,
       "customEmojiId": "5409300714180604197",
       "gift_id": 7360582,
@@ -1767,26 +1775,6 @@
       "limited": false,
       "auction": null,
       "export_at": "2025-08-05T17:05:02.000Z",
-      "premarketData": {}
-    },
-    {
-      "gift_num": 2100,
-      "customEmojiId": "5409300714180604197",
-      "gift_id": 6501751,
-      "name": "Heroic Helmet",
-      "model": "Quackus (2%)",
-      "asset": "TON",
-      "symbol": "Wagasa (0.5%)",
-      "backdrop": "Khaki Green (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 874970,
-      "price": 650,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-06-30T17:40:00.000Z",
       "premarketData": {}
     },
     {
@@ -2095,26 +2083,6 @@
     }
   ],
   "Blue Parrot": [
-    {
-      "gift_num": 426,
-      "customEmojiId": "5379767827563570942",
-      "gift_id": 7689517,
-      "name": "Heroic Helmet",
-      "model": "Blue Parrot (2%)",
-      "asset": "TON",
-      "symbol": "Paper Lantern (0.5%)",
-      "backdrop": "Amber (1%)",
-      "availabilityIssued": 0,
-      "availabilityTotal": 0,
-      "backdropData": {},
-      "message_in_channel": 939724,
-      "price": 900,
-      "status": "forsale",
-      "limited": false,
-      "auction": null,
-      "export_at": "2025-08-17T19:51:19.000Z",
-      "premarketData": {}
-    },
     {
       "gift_num": 805,
       "customEmojiId": "5379767827563570942",
@@ -3539,146 +3507,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "OYH3ZYP6",
-      "auction": {
-        "_id": "688e6218eb94b7cc33ab5216",
-        "gift_id": 7664030,
-        "seller": 0,
-        "auction_id": "OYH3ZYP6",
-        "startingBid": 10,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 10,
-            "asset": "TON",
-            "_id": "688e6307eb94b7cc33ad2179",
-            "timestamp": "2025-08-02T19:12:07.714Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 10.5,
-            "asset": "TON",
-            "_id": "688e647aeb94b7cc33b02f98",
-            "timestamp": "2025-08-02T19:18:18.883Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 11.031221,
-            "asset": "TON",
-            "_id": "688e64feeb94b7cc33b10f85",
-            "timestamp": "2025-08-02T19:20:30.745Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 99.93,
-            "asset": "TON",
-            "_id": "688e6850eb94b7cc33b99569",
-            "timestamp": "2025-08-02T19:34:40.509Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 190,
-            "asset": "TON",
-            "_id": "688e6ac4eb94b7cc33c6d16b",
-            "timestamp": "2025-08-02T19:45:08.781Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 200,
-            "asset": "TON",
-            "_id": "688e8164eb94b7cc33153efb",
-            "timestamp": "2025-08-02T21:21:40.079Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 210,
-            "asset": "TON",
-            "_id": "688e8920eb94b7cc331a22ca",
-            "timestamp": "2025-08-02T21:54:40.075Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 220.5,
-            "asset": "TON",
-            "_id": "688e8b07eb94b7cc331cb68d",
-            "timestamp": "2025-08-02T22:02:47.628Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 231.53,
-            "asset": "TON",
-            "_id": "688e8b12eb94b7cc331cbdc9",
-            "timestamp": "2025-08-02T22:02:58.122Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 243.11,
-            "asset": "TON",
-            "_id": "688e8b47eb94b7cc331cf97f",
-            "timestamp": "2025-08-02T22:03:51.486Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 255.27,
-            "asset": "TON",
-            "_id": "688e8b8eeb94b7cc331d39dd",
-            "timestamp": "2025-08-02T22:05:02.470Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 275,
-            "asset": "TON",
-            "_id": "688e8bb5eb94b7cc331d713e",
-            "timestamp": "2025-08-02T22:05:41.611Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 288.75,
-            "asset": "TON",
-            "_id": "688e8c42eb94b7cc331dd433",
-            "timestamp": "2025-08-02T22:08:02.017Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 330,
-            "asset": "TON",
-            "_id": "688e8c5beb94b7cc331de6cb",
-            "timestamp": "2025-08-02T22:08:27.383Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 346.5,
-            "asset": "TON",
-            "_id": "688e8cedeb94b7cc331e31d2",
-            "timestamp": "2025-08-02T22:10:53.044Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 363.83,
-            "asset": "TON",
-            "_id": "688e9067eb94b7cc33205c48",
-            "timestamp": "2025-08-02T22:25:43.554Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 382.02,
-            "asset": "TON",
-            "_id": "688e9080eb94b7cc3320804d",
-            "timestamp": "2025-08-02T22:26:08.787Z"
-          }
-        ],
-        "auctionEndTime": "2025-08-02T22:38:06.379Z",
-        "status": "finished",
-        "gift_name": "Heroic Helmet",
-        "gift_num": 8,
-        "model": "Happy Frog (2%)",
-        "backdrop": "Sapphire (1.5%)",
-        "symbol": "Wreath (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-08-02T19:08:08.000Z",
-        "__v": 0,
-        "winningBid": 382.02,
-        "winningBidder": 237414111
-      },
+      "auction": null,
       "export_at": "2025-08-16T19:07:25.000Z",
       "premarketData": {}
     }
@@ -4272,76 +4101,7 @@
       "status": "auction",
       "limited": false,
       "auction_id": "OC0Q6YI0",
-      "auction": {
-        "_id": "688e06d9eb94b7cc33ceac35",
-        "gift_id": 7653513,
-        "seller": 0,
-        "auction_id": "OC0Q6YI0",
-        "startingBid": 2,
-        "bidHistory": [
-          {
-            "bidder": 0,
-            "amount": 191.561,
-            "asset": "TON",
-            "_id": "688e0861eb94b7cc33d22b29",
-            "timestamp": "2025-08-02T12:45:21.569Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 201.14,
-            "asset": "TON",
-            "_id": "688f2178eb94b7cc338785eb",
-            "timestamp": "2025-08-03T08:44:40.132Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 500,
-            "asset": "TON",
-            "_id": "688f341feb94b7cc33bb0188",
-            "timestamp": "2025-08-03T10:04:15.832Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 525,
-            "asset": "TON",
-            "_id": "688f5537eb94b7cc33a7bb5f",
-            "timestamp": "2025-08-03T12:25:27.044Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 551.25,
-            "asset": "TON",
-            "_id": "688f55a7eb94b7cc33a91aa8",
-            "timestamp": "2025-08-03T12:27:19.823Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 580,
-            "asset": "TON",
-            "_id": "688f55eaeb94b7cc33a9dcdc",
-            "timestamp": "2025-08-03T12:28:26.740Z"
-          },
-          {
-            "bidder": 0,
-            "amount": 609,
-            "asset": "TON",
-            "_id": "688f5606eb94b7cc33aa230d",
-            "timestamp": "2025-08-03T12:28:54.199Z"
-          }
-        ],
-        "auctionEndTime": "2025-08-03T12:48:41.822Z",
-        "status": "finished",
-        "gift_name": "Heroic Helmet",
-        "gift_num": 1118,
-        "model": "Phoenix (2.5%)",
-        "backdrop": "Black (1.5%)",
-        "symbol": "Sailor Hat (0.4%)",
-        "asset": "TON",
-        "auctionStartTime": "2025-08-02T12:38:49.795Z",
-        "__v": 0,
-        "winningBid": 609,
-        "winningBidder": 1400178975
-      },
+      "auction": null,
       "export_at": "2025-08-16T12:38:00.000Z",
       "premarketData": {}
     }
